@@ -121,9 +121,9 @@
     {
         "appName": "iMe | Premium+\n| #Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/94/3b/96943b19-f417-a302-4c91-9c60e6b3258c/BlueIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "11.6 | 131.7 MB |",
+        "appVersion": "11.6.1 | 136.3 MB |",
         "appDescription": "Альтернативный клиент Telegram с дополнительным функционалом.\n\n▎Активирована подписка iMe Premium(НЕ TELEGRAM!)\nОт iApps:\n▎Скриншоты исчезающих фото(Без уведомлений).\n▎Скриншоты секретных чатов(Без уведомлений).\n▎Скриншоты закрытых каналов.",
-        "appUpdateTime": "2025-01-18T17:15:29+00:00"
+        "appUpdateTime": "2025-02-08T10:23:12+00:00"
     },
     {
         "appName": "Nicegram | Premium\n| #Social",
@@ -2109,9 +2109,9 @@
     {
         "appName": "Stellarium | Plus\n| #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/77/6e/f8776e04-0060-0f64-e610-ae0987cf1a10/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "1.12.9 | 316.7 MB |",
+        "appVersion": "1.13.1 | 318.1 MB |",
         "appDescription": "Stellarium Mobile - это приложение для планетария, которое показывает именно то, что вы видите, когда смотрите на звезды.\n\n▎Проводится тестирование взлома!",
-        "appUpdateTime": "2024-12-10T19:05:53+00:00"
+        "appUpdateTime": "2025-02-08T10:25:14+00:00"
     },
     {
         "appName": "Remote ATV | Premium\n| #Other",
@@ -2123,9 +2123,9 @@
     {
         "appName": "Opener\n| #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/c2/da/f3c2da75-65eb-12d1-e6f2-987773833673/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.12.5 | 1.9 MB |",
+        "appVersion": "1.13.10 | 2.7 MB |",
         "appDescription": "С Opener вы сможете открывать ссылки в приложениях вместо браузера.\n\n❗️Для автоматического открытия ссылок установите команду «Open with Opener»\n▎Opener > Настройки > Shortcuts\n\nОткрывать ссылки нужно через меню:\nПоделиться > Open with Opener",
-        "appUpdateTime": "2024-02-13T12:55:21+00:00"
+        "appUpdateTime": "2025-02-08T10:24:45+00:00"
     },
     {
         "appName": "ILovePDF | Premium\n| #Office",
@@ -2294,6 +2294,13 @@
         "appVersion": "8.2 | 251.1 MB |",
         "appDescription": "Всегда находите бесплатные точки доступа Wi-Fi поблизости.\n\n▎Войдите в аккаунт для активации подписки",
         "appUpdateTime": "2024-10-21T13:17:47+00:00"
+    },
+    {
+        "appName": "Flash Score | Plus\n| #Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/10/bb/0e10bb83-b72d-c3e3-0222-ca8ff6651e01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/246x0w.png",
+        "appVersion": "25.1.0 | 52.8 MB |",
+        "appDescription": "Самые свежие результаты, статистика и другая информация из 30+ видов спорта и 6000+ турниров со всего мира.",
+        "appUpdateTime": "2025-02-08T11:11:49+00:00"
     },
     {
         "appName": "Parallax | Pro\n| #Design",
@@ -2732,9 +2739,9 @@
     {
         "appName": "Money Flow | Premium\n| #Money",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/39/bc/b139bc8d-acea-ed2b-1371-9d4b32ccf88c/AppIcon-5-10-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.35.13 | 27.4 MB |",
+        "appVersion": "1.36.1 | 28.4 MB |",
         "appDescription": "Приложение для быстрого планирования, учёта и контроля расходов и доходов.",
-        "appUpdateTime": "2025-01-18T16:39:16+00:00"
+        "appUpdateTime": "2025-02-08T10:24:00+00:00"
     },
     {
         "appName": "Pythonista 3\n| #Other",
@@ -3257,9 +3264,9 @@
     {
         "appName": "Wallcraft | Pro\n| #Other",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/12/5e/9c/125e9c7e-0a00-a8ed-8e7a-3f98b7ac6f3a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/246x0w.png",
-        "appVersion": "3.22 | 95.8 MB |",
+        "appVersion": "3.24 | 95.7 MB |",
         "appDescription": "Совершенно новый уровень подхода к обоям. ",
-        "appUpdateTime": "2024-12-03T21:37:45+00:00"
+        "appUpdateTime": "2025-02-08T10:25:54+00:00"
     },
     {
         "appName": "Wallpapers Central | Pro\n| #Other",
@@ -3785,6 +3792,13 @@
         "appVersion": "3.2 | 18.4 MB |",
         "appDescription": "Приложение РЖД Машинистам",
         "appUpdateTime": "2024-07-26T15:55:56+00:00"
+    },
+    {
+        "appName": "Mirage AI | Pro\n| #Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/c7/26/a6c726bf-1199-7ed2-7171-144bc4177b33/AppIcon-0-0-1x_U007epad-0-85-220.png/246x0w.png",
+        "appVersion": "1.0.11 | 62.5 MB |",
+        "appDescription": "MirageAI позволяет любому человеку создавать прекрасные произведения искусства искусственного интеллекта, написав всего несколько простых слов. С огромным количеством шаблонов на выбор Mirage использует высокотехнологичные модели искусственного интеллекта для создания экстравагантных детальных произведений искусства с вашим встроенным шаблоном. ",
+        "appUpdateTime": "2025-02-08T11:09:53+00:00"
     },
     {
         "appName": "Night Sky | Premium\n| #Other",
@@ -5308,9 +5322,9 @@
     {
         "appName": "Tappsk | Premium\n| #Office",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/54/56/aa545630-c68f-9496-626c-a0fd5ff51d4f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "2.5.464 | 35 MB |",
+        "appVersion": "2.5.481 | 71.8 MB |",
         "appDescription": "Миссия Tappsk – заменить to-do планировщик, трекер привычек, напоминалку и календарь, чтобы вы фокусировались на своих делах, а не переключении между приложениями.\n\n▎Для активации подписки в приложении нажмите 'Восстановить покупки'",
-        "appUpdateTime": "2024-09-27T13:41:00+00:00"
+        "appUpdateTime": "2025-02-08T10:26:56+00:00"
     },
     {
         "appName": "Кубик Рубика | Premium\n| #Study",
@@ -6267,9 +6281,9 @@
     {
         "appName": "Minecraft\n| #Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/77/ed/d277ed41-16e4-ba0b-5ad6-2a06261647d3/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.21.13 | 858.9 MB |",
+        "appVersion": "1.21.51 | 534.5 MB |",
         "appDescription": "Симулятор №1 в AppStore. ",
-        "appUpdateTime": "2024-07-07T22:22:00+00:00"
+        "appUpdateTime": "2025-02-08T10:22:38+00:00"
     },
     {
         "appName": "Dead Cells+ | Arcade\n| #Games",
