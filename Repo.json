@@ -72,16 +72,16 @@
     {
         "appName": "WhatsApp | Watusi\n| #Social",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/00/9e/2a/009e2ab6-54fa-b317-447d-1b61e0c07cbc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "25.6.2 | 121 MB |",
+        "appVersion": "25.8.74 | 122.7 MB |",
         "appDescription": "Стандартный клиент для общения, дополненный огромным количеством возможностей.\n\n▎Взлом активируется автоматически\n▎Если все функции мода недоступны, выйдите из аккаунта Watusi и перезапустите приложение несколько раз",
-        "appUpdateTime": "2025-03-11T05:55:35+00:00"
+        "appUpdateTime": "2025-03-28T11:07:06+00:00"
     },
     {
         "appName": "WhatsApp 2 | Duplicate\n| #Social",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/00/9e/2a/009e2ab6-54fa-b317-447d-1b61e0c07cbc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "25.6.2 | 121 MB |",
+        "appVersion": "25.8.74 | 122.7 MB |",
         "appDescription": "Дубликат приложения WhatsApp Watusi.\n\n▎Взлом активируется автоматически\n▎Если все функции мода недоступны, выйдите из аккаунта Watusi и перезапустите приложение несколько раз\n",
-        "appUpdateTime": "2025-03-11T05:55:29+00:00"
+        "appUpdateTime": "2025-03-28T11:06:43+00:00"
     },
     {
         "appName": "WhatsApp iPad\n| #Social",
@@ -191,9 +191,9 @@
     {
         "appName": "Яндекс Музыка | Lossless\n| #Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/84/d5/4b84d552-ef14-0e01-4b5e-91bed1a98e63/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/217x0w.png",
-        "appVersion": "7.11 | 70.2 MB |",
+        "appVersion": "7.16 | 76 MB |",
         "appDescription": "Яндекс Музыка с активированной подпиской. \n\n▎Входите в аккаунт с VPN РФ, если вы находитесь не в России.",
-        "appUpdateTime": "2025-02-27T10:21:04+00:00"
+        "appUpdateTime": "2025-03-28T11:13:53+00:00"
     },
     {
         "appName": "Spotify | Eevee\n| #Music",
@@ -240,9 +240,9 @@
     {
         "appName": "Mimo | Max\n| #Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/85/a6/b185a66e-7688-a7bc-0ef9-129ee213787c/AppIcon-0-1x_U007epad-0-85-220.png/246x0w.png",
-        "appVersion": "9.0 | 67 MB |",
+        "appVersion": "9.5.0 | 46.3 MB |",
         "appDescription": "Эксклюзив iApps Store!\nУчиться программированию теперь легко и просто! Освой HTML, CSS, JavaScript, SQL, Python и другие языки программирования с нуля!\n\n▎Активирована Max-подписка!\n▎Разблокированы безлим жизни\n▎Доступны все платные уроки\n▎Недоступен русский язык для обучения",
-        "appUpdateTime": "2025-02-11T13:27:50+00:00"
+        "appUpdateTime": "2025-03-28T11:08:11+00:00"
     },
     {
         "appName": "KinoHome\n| #Video",
@@ -632,9 +632,9 @@
     {
         "appName": "Pacer | Premium\n| #Life",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/ea/76/7b/ea767b5f-a6c5-23df-0022-fc2046b111ed/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "9.9.2 | 132.3 MB |",
+        "appVersion": "10.3.1 | 140.5 MB |",
         "appDescription": "Все в одном приложении - Шагомер, фитнес тренер, планые питания.\n",
-        "appUpdateTime": "2024-10-21T12:38:07+00:00"
+        "appUpdateTime": "2025-03-28T11:07:36+00:00"
     },
     {
         "appName": "Bikemap | Premium\n| #Life",
@@ -880,6 +880,13 @@
         "appVersion": "7.01 | 182.6 MB |",
         "appDescription": "Банковское приложение ТБанк (Тинькофф)\n\n▎Версия за январь 2025 года",
         "appUpdateTime": "2025-02-19T14:12:16+00:00"
+    },
+    {
+        "appName": "VPN Optimal | Pro\n| #Network",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/ea/7b/a1ea7b7e-0dbe-014b-caf5-3efc99cf31ad/AppIcon-0-0-1x_U007epad-0-0-85-220.png/246x0w.png",
+        "appVersion": "3.6.8 | 45.2 MB |",
+        "appDescription": "VPN с активированной подпиской и большим выбором серверов.\n\n▎Для полноценной работы может требоваться сертификат iApps с поддержкой плагинов от 07.12.24!\n▎Для входа в аккаунт в РФ может потребоваться единоразово активный другой VPN(так как приложение недоступно в РФ)",
+        "appUpdateTime": "2025-03-28T11:27:09+00:00"
     },
     {
         "appName": "Ink | Premium\n| #Design",
@@ -1401,10 +1408,10 @@
     },
     {
         "appName": "Musixmatch | Preimum\n| #Music",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2c/b9/e5/2cb9e5ca-9dcf-b06b-0714-08299e1e5e0a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "7.10.7 | 69.4 MB |",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/44/5e/e3445e74-1f6c-3664-e1ca-fd24212a5659/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        "appVersion": "7.12 | 73.8 MB |",
         "appDescription": "Крупнейшая в мире библиотека текстов песен, с помощью которой Вы можете получить синхронизированные тексты песен с многоязычными переводами для всей Вашей музыки.",
-        "appUpdateTime": "2024-03-29T11:47:43+00:00"
+        "appUpdateTime": "2025-03-28T11:05:21+00:00"
     },
     {
         "appName": "iScreen | Premium\n| #Themes",
@@ -1542,9 +1549,9 @@
     {
         "appName": "Fortnite | 120 FPS\n| #Games",
         "appImage": "https://repo.semyonsemenov.ru/s/w66A3LBtyEGi4zr/preview",
-        "appVersion": "34.10.1 | 236.5 MB |",
+        "appVersion": "34.20 | 240.1 MB |",
         "appDescription": "Главная «Королевская битва» в мире пришла на мобильные устройства! Создайте отряд и станьте последним выжившим в битве 100 игроков. Стройте укрытия. Уничтожайте врагов. Переживите всех остальных. Заслужите победу.\n\n▎Работает с сертификатами iApps от 18.08.24 или TrollStore!",
-        "appUpdateTime": "2025-03-20T10:05:19+00:00"
+        "appUpdateTime": "2025-03-25T17:11:01+00:00"
     },
     {
         "appName": "Endel | Pro\n| #Music #Other",
@@ -1640,9 +1647,9 @@
     {
         "appName": "Auxy Studio | Pro\n| #Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/d5/ec/67d5ec54-795b-8a4b-c9e8-da8fb68af9d7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "6.9.3 | 18.7 MB |",
+        "appVersion": "7.0 | 18.8 MB |",
         "appDescription": "Студия у вас в кармане! Всё, что нужно для создания современных битов и электронной музыки. Самый простой способ начать по-настоящему делать свою музыку.",
-        "appUpdateTime": "2023-10-02T11:32:20+00:00"
+        "appUpdateTime": "2025-03-28T11:06:10+00:00"
     },
     {
         "appName": "KyBook 2 | Pro\n| #Other",
@@ -2996,6 +3003,13 @@
         "appUpdateTime": "2024-08-03T13:44:10+00:00"
     },
     {
+        "appName": "SODA | Vip\n| #Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/be/eb/3fbeeb5a-538c-3626-70ae-d8c7ffad5d47/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/246x0w.png",
+        "appVersion": "9.0 | 133.4 MB |",
+        "appDescription": "Камера для селфи, которую все так долго ждали.\nКрасивые фильтры и эффекты в реальном времени.",
+        "appUpdateTime": "2025-03-28T11:22:04+00:00"
+    },
+    {
         "appName": "Calculator+ | VIP\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/c8/80/d2c8801d-48bc-d45a-9077-1b669e7adc11/AppIcon-1x_U007ephone-0-8-0-sRGB-85-220.png/246x0w.png",
         "appVersion": "6.9.1 | 7.3 MB |",
@@ -3488,9 +3502,9 @@
     {
         "appName": "ContraCam | Premium\n| #Travel",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/da/b0/da/dab0daa6-ea85-0aff-5694-dec183996d4e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "3.9.997 | 12.9 MB |",
+        "appVersion": "3.9.997 | 13 MB |",
         "appDescription": "Приложение Антирадар.",
-        "appUpdateTime": "2025-03-23T15:44:57+00:00"
+        "appUpdateTime": "2025-03-27T15:23:03+00:00"
     },
     {
         "appName": "RadarBot | Premium\n| #Travel",
@@ -3845,9 +3859,16 @@
     {
         "appName": "Fall Guys | iOS 17.6+\n| #Games",
         "appImage": "https://img.tapimg.net/market/images/53c3863944525e1e3aaea230f63a5169.png",
-        "appVersion": "11.6.0 | 2 GB |",
+        "appVersion": "11.6.1 | 2 GB |",
         "appDescription": "Fall Guys - это бесплатная кроссплатформенная многопользовательская игра в жанре party royale. ",
-        "appUpdateTime": "2025-02-07T13:10:43+00:00"
+        "appUpdateTime": "2025-03-27T13:43:42+00:00"
+    },
+    {
+        "appName": "Cellular Finder | Premium\n| #Network",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/9a/c9/749ac95f-e770-0a59-f546-1c13084b01c9/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/246x0w.png",
+        "appVersion": "1.5.6 | 47.5 MB |",
+        "appDescription": "Локатор сотовых вышек и станций на карте.",
+        "appUpdateTime": "2025-03-28T11:18:53+00:00"
     },
     {
         "appName": "Planner 5D | Premium\n| #Other",
@@ -6305,6 +6326,13 @@
         "appVersion": "1.2 | 1.8 GB |",
         "appDescription": "Самая популярная игра серии Heroes® теперь в HD-качестве!. Только для iPad.",
         "appUpdateTime": "2022-02-09T08:31:00+00:00"
+    },
+    {
+        "appName": "Pyto | Hack\n| #Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/fb/18/35fb18d1-6367-1c1c-2b2f-4f5eb068a5e5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/246x0w.png",
+        "appVersion": "19.0.1 | 308.9 MB |",
+        "appDescription": "Pyto - это IDE для iPhone и iPad с интерпретатором Python 3.10, всеми стандартными библиотеками и более чем 100 сторонними пакетами, а также компилятором C и C++ и интерпретатором биткода.",
+        "appUpdateTime": "2025-03-28T11:11:10+00:00"
     },
     {
         "appName": "Plants vs Zombies 2 | Hack\n| #Games",
