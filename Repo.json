@@ -44,9 +44,9 @@
     {
         "appName": "TikTok | DL | Hack\n| #Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/83/f9/ed83f971-1141-1e7e-787a-c54ae179c385/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "38.7.0 | 2.0.9 | 380.7 MB |",
+        "appVersion": "39.7.0 | 2.1.0 | 293.2 MB |",
         "appDescription": "Модификация TikTok с огромным количеством функций и возможностей.\n\n▎Загрузка видео\n▎Изменение региона\n▎Автопрокрутка видео\n▎Другие возможности",
-        "appUpdateTime": "2025-02-19T14:21:55+00:00"
+        "appUpdateTime": "2025-04-25T20:41:59+00:00"
     },
     {
         "appName": "Swiftgram | TGExtra\n| #Social",
@@ -58,9 +58,9 @@
     {
         "appName": "TikTok | BH++\n| #Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/83/f9/ed83f971-1141-1e7e-787a-c54ae179c385/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "39.6.0 | 317.6 MB |",
+        "appVersion": "39.7.0 | 292.6 MB |",
         "appDescription": "Модификация TikTok без рекламы и другими улучшениями с обходом региона.\n\n▎Для просмотра новых видео: Настройки TikTok -> BHTikTok++ -> Активируйте \"Enable Region Changing\" и измените ниже регион. Перезапустите приложение, чтобы применить настройки.",
-        "appUpdateTime": "2025-04-20T10:38:28+00:00"
+        "appUpdateTime": "2025-04-24T16:05:51+00:00"
     },
     {
         "appName": "TikTok | BH Plus \n| #Video",
@@ -198,9 +198,9 @@
     {
         "appName": "Яндекс Музыка | Lossless\n| #Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/84/d5/4b84d552-ef14-0e01-4b5e-91bed1a98e63/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/217x0w.png",
-        "appVersion": "7.16 | 76 MB |",
+        "appVersion": "7.20 | 86.2 MB |",
         "appDescription": "Яндекс Музыка с активированной подпиской. \n\n▎Входите в аккаунт с VPN РФ, если вы находитесь не в России.",
-        "appUpdateTime": "2025-03-28T11:13:53+00:00"
+        "appUpdateTime": "2025-04-25T20:39:18+00:00"
     },
     {
         "appName": "Spotify | Eevee\n| #Music",
@@ -558,6 +558,13 @@
         "appVersion": "2.1.1 | 127.2 MB |",
         "appDescription": "Приложение VPN.",
         "appUpdateTime": "2024-01-25T11:16:48+00:00"
+    },
+    {
+        "appName": "Vanish VPN | V2Ray\n| #Network",
+        "appImage": "https://github.com/IAppsRepo/IAppsRepo.github.io/releases/download/fsas/vanish.jpg",
+        "appVersion": "1.1.5 | 53.3 MB |",
+        "appDescription": "V2Ray VPN без ограничений\n\n▎Для работы VPN может требоваться сертификат с поддержкой плагинов(iApps от 07.12.24)",
+        "appUpdateTime": "2025-04-25T21:17:23+00:00"
     },
     {
         "appName": "Aloha Browser | VPN | Hack\n| #Network",
@@ -1080,9 +1087,9 @@
     {
         "appName": "Большое ТВ | Hack\n| #Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/75/d2/c675d2ac-931a-0c5e-b037-2e3dfb474ea6/AppIcon-0-0-1x_U007emarketing-0-9-0-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "4.91 | 48 MB |",
+        "appVersion": "4.93 | 70.3 MB |",
         "appDescription": "Большое ТВ — персональный каталог фильмов, сериалов и телеканалов.\n\n▎Разблокирован просмотр фильмов и сериалов.\n▎Загрузка в кэш недоступна.\n▎Большинство ТВ каналов недоступно.",
-        "appUpdateTime": "2025-02-07T13:03:51+00:00"
+        "appUpdateTime": "2025-04-25T20:39:59+00:00"
     },
     {
         "appName": "EWA | Hack\n| #Study",
@@ -2879,16 +2886,16 @@
     {
         "appName": "Procreate Dreams | iPad\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b4/41/70/b44170a1-5393-3cb3-50dd-f4a6c79b7ec6/AppIcon-0-0-1x_U007emarketing-0-5-0-P3-85-220.png/246x0w.png",
-        "appVersion": "1.0.5 | 793.3 MB |",
+        "appVersion": "1.0.15 | 805.2 MB |",
         "appDescription": "В Procreate Dreams от ведущих разработчиков для iPad есть все необходимое для создания насыщенной 2D-анимации, выразительных видеороликов и захватывающих дух историй.",
-        "appUpdateTime": "2023-12-04T16:42:09+00:00"
+        "appUpdateTime": "2025-04-25T20:34:49+00:00"
     },
     {
         "appName": "Procreate Pocket\n| #Design",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f9/a4/c2/f9a4c260-c73a-42a9-f1d1-cc08eca3f74e/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/246x0w.png",
-        "appVersion": "4.0.9 | 299 MB |",
+        "appVersion": "4.0.14 | 300.5 MB |",
         "appDescription": "Популярное графическое приложение для iPhone, которое одинаково знают и любят как профессионалы, так и начинающие художники.",
-        "appUpdateTime": "2023-11-07T19:14:47+00:00"
+        "appUpdateTime": "2025-04-25T20:35:50+00:00"
     },
     {
         "appName": "Calzy\n| #Office",
@@ -2921,9 +2928,9 @@
     {
         "appName": "Procreate | iPad\n| #Design",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/19/06/97/190697da-f77d-8a2f-9b3b-dfd92ebe874d/AppIcon-1x_U007emarketing-4-0-85-220.png/246x0w.png",
-        "appVersion": "5.3.7 | 376.4 MB |",
+        "appVersion": "5.3.15 | 376.7 MB |",
         "appDescription": "Cтудия художника, которая всегда с вами.",
-        "appUpdateTime": "2024-02-22T12:47:29+00:00"
+        "appUpdateTime": "2025-04-25T20:35:22+00:00"
     },
     {
         "appName": "Momento | Premium\n| #Design",
@@ -4006,9 +4013,9 @@
     {
         "appName": "Quit Smoking | Бросить Курить\n| #Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/dc/1b/95dc1bea-77ef-558d-9c76-9ec504a7c2ee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "5.3 | 33.1 MB |",
+        "appVersion": "6.2 | 53.9 MB |",
         "appDescription": "Это приложение уже помогло более чем миллиону пользователей бросить курить, попробуйте и вы.\n\n▎Активирована подписка",
-        "appUpdateTime": "2024-09-16T07:05:20+00:00"
+        "appUpdateTime": "2025-04-25T20:11:52+00:00"
     },
     {
         "appName": "WPS Office | VIP\n| #Office",
@@ -4251,9 +4258,9 @@
     {
         "appName": "Toca World | Hack\n| #Kids",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/51/29/a4/5129a4dc-0982-442f-b609-bcea67738430/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.74 | 475.3 MB |",
+        "appVersion": "1.106 | 633.2 MB |",
         "appDescription": "Создавай миры и разыгрывай любые сюжеты в Toca Life World! В этой игровой вселенной объединены все приложения Toca Life.\n\n▎Разблокированы все покупки.",
-        "appUpdateTime": "2023-10-20T17:24:13+00:00"
+        "appUpdateTime": "2025-04-25T20:02:37+00:00"
     },
     {
         "appName": "Bimi Boo: Раскраски | Hack\n| #Kids",
@@ -5119,9 +5126,9 @@
     {
         "appName": "AI Voicer | Ultra\n| #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/9b/df/5c9bdf64-d548-5266-4dbe-926559697c93/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/246x0w.png",
-        "appVersion": "0.8.5 | 170.8 MB |",
+        "appVersion": "0.8.6 | 179.3 MB |",
         "appDescription": "Приложением для преобразования текста в речь, которое изменит ваш стиль общения.",
-        "appUpdateTime": "2025-03-20T09:52:47+00:00"
+        "appUpdateTime": "2025-04-25T20:37:20+00:00"
     },
     {
         "appName": "VideoGPT | Ultra\n| #Design",
@@ -5224,9 +5231,9 @@
     {
         "appName": "West | Pro\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/32/49/31/3249319c-cf5f-fcae-98b8-921d59057597/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/246x0w.png",
-        "appVersion": "2.100 | 107.2 MB |",
+        "appVersion": "4.0 | 109 MB |",
         "appDescription": "Снимайте и редактируйте фотографии с помощью эффектов и пленочных пресетов, созданных вручную. Цветные фотографии с эффектами West 1000, 2000, 3000 и черно-белые. Зерно и текстура применяются для имитации настоящей пленки.",
-        "appUpdateTime": "2024-08-25T11:38:18+00:00"
+        "appUpdateTime": "2025-04-25T20:12:33+00:00"
     },
     {
         "appName": "Ace Attorney 4\n| #Games",
@@ -5252,9 +5259,9 @@
     {
         "appName": "Car Scanner | Pro\n| #Travel",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/38/b5/ba/38b5bab7-bdf9-0bae-aebd-7b39e07e9e22/AppIcon-1-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.115 | 67.2 MB |",
+        "appVersion": "1.117 | 67.6 MB |",
         "appDescription": "Лучшее приложение для диагностики и контроля автомобилей.\n\n▎Пройдите первоначальную настройку и переоткройте приложение. Pro-версия активируется автоматически при втором открытии приложения.",
-        "appUpdateTime": "2025-02-07T12:57:36+00:00"
+        "appUpdateTime": "2025-04-25T20:11:00+00:00"
     },
     {
         "appName": "ЕГЭ Русский язык | Pro\n| #Study",
@@ -5735,9 +5742,9 @@
     {
         "appName": "Тинькофф Инвестиции\n| #Money",
         "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/tinkinvest.png",
-        "appVersion": "1.2 | 135.1 MB |",
-        "appDescription": "Приложение банка Тинькофф Инвестиции (TeaTime)",
-        "appUpdateTime": "2024-12-16T17:45:47+00:00"
+        "appVersion": "1.2 | 114.6 MB |",
+        "appDescription": "Приложение банка Тинькофф Инвестиции (Шах и мат)",
+        "appUpdateTime": "2025-04-25T20:36:38+00:00"
     },
     {
         "appName": "T-Профит | Т-Банк Инвестиции\n| #Money",
@@ -7560,6 +7567,13 @@
         "appUpdateTime": "2022-11-20T16:00:00+00:00"
     },
     {
+        "appName": "Real Racing 3 | Hack\n| #Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/8c/e7/6b8ce79e-aa7e-08d3-31b7-021fb38a7711/MobileAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
+        "appVersion": "13.3.2 | 1.4 GB |",
+        "appDescription": "Гоночный симулятор\n\n▎Активирован iOSGods VIP\n▎Доступны все функции взлома",
+        "appUpdateTime": "2025-04-25T20:05:37+00:00"
+    },
+    {
         "appName": "Simple Rockets 2 | Hack\n| #Games",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/11/02/8b/11028bd2-cca8-36a7-0a85-d78c7b185a4f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
         "appVersion": "0.9.918 | 392.4 MB |",
@@ -8498,6 +8512,13 @@
         "appUpdateTime": "2025-02-09T11:40:39+00:00"
     },
     {
+        "appName": "Royal Kingdom | Hack\n| #Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/1d/df/f11ddfc4-9ea6-48ca-c8b9-eb3da1cb9897/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
+        "appVersion": "17794 | 204.3 MB |",
+        "appDescription": "Красочная игра три в ряд\n\n▎Заморозка валюты\n▎Заморозка бустеров\n▎Безлимитные жизни",
+        "appUpdateTime": "2025-04-25T20:09:45+00:00"
+    },
+    {
         "appName": "DERE Vengeance | Hack\n| #Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/e2/53/81e2537c-0281-2708-1898-003560db5ad4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "2.1 | 93.8 MB |",
@@ -8508,8 +8529,8 @@
         "appName": "Plants vs. Zombies | VIP Hack\n| #Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/93/8c/73938c7a-68e3-f9b5-deec-81cd51479411/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/246x0w.png",
         "appVersion": "3.8.1 | 113.9 MB |",
-        "appDescription": "Приготовьтесь к уничтожению растений, ведь толпа веселых зомби вот-вот вторгнется в ваш дом.\n\n▎Создайте\\Войдите в аккаунт iOSGods для активации VIP",
-        "appUpdateTime": "2025-02-04T20:37:19+00:00"
+        "appDescription": "Приготовьтесь к уничтожению растений, ведь толпа веселых зомби вот-вот вторгнется в ваш дом.\n\n▎Активирован iOSGods VIP\n▎Доступны все функции взлома\n",
+        "appUpdateTime": "2025-04-25T19:42:16+00:00"
     },
     {
         "appName": "Unloop | Hack\n| #Games",
@@ -8720,5 +8741,19 @@
         "appVersion": "5.0 | 112.5 MB |",
         "appDescription": "Отправляйтесь в чарующее царство Gears Forever, изысканного 3D-платформера с шариками, наполненного фантастическими задачами.\n\n▎Разблокированы все локации\n▎Разблокированы все мячи",
         "appUpdateTime": "2024-01-23T21:50:27+00:00"
+    },
+    {
+        "appName": "Клуб Романтики | Mod\n| #Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/f8/9a/dcf89ac2-e19d-a376-17a8-3aed3e37e2b2/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/246x0w.png",
+        "appVersion": "1.0.392 | 76.2 MB |",
+        "appDescription": "Клуб Романтики - это коллекция романтических историй, в которых вы можете делать выборы, тем самым влияя на сюжет.\n\n▎Бесплатные премиум-варианты",
+        "appUpdateTime": "2025-04-25T20:01:49+00:00"
+    },
+    {
+        "appName": "Episode | Mod\n| #Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/98/fd/d898fdab-a049-00cf-9ad4-f4be740e5907/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
+        "appVersion": "26.02 | 190.7 MB |",
+        "appDescription": "Episode — это настоящие истории о любви, романтике, приключениях и трагедиях. Разве не интересно побыть персонажем собственного романа? В Episode вас ждут более 150 тысяч захватывающих интерактивных историй, где именно вы решаете, куда дальше повернет сюжет.\n\n▎Бесплатные премиум-варианты\n▎Заморозка пропусков",
+        "appUpdateTime": "2025-04-25T19:45:13+00:00"
     }
 ]
