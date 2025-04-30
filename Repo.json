@@ -58,9 +58,9 @@
     {
         "appName": "TikTok | BH++\n| #Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/83/f9/ed83f971-1141-1e7e-787a-c54ae179c385/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "39.7.0 | 292.6 MB |",
+        "appVersion": "39.8.0 | 307.1 MB |",
         "appDescription": "Модификация TikTok без рекламы и другими улучшениями с обходом региона.\n\n▎Для просмотра новых видео: Настройки TikTok -> BHTikTok++ -> Активируйте \"Enable Region Changing\" и измените ниже регион. Перезапустите приложение, чтобы применить настройки.",
-        "appUpdateTime": "2025-04-24T16:05:51+00:00"
+        "appUpdateTime": "2025-04-30T15:40:26+00:00"
     },
     {
         "appName": "TikTok | BH Plus \n| #Video",
@@ -709,9 +709,9 @@
     {
         "appName": "Remini | ULTRA\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/fa/a5/2dfaa50e-c839-5aba-7715-f960f0b855ab/AppIcon-0-0-1x_U007epad-0-85-220.png/246x0w.png",
-        "appVersion": "2.10.119 | 152.3 MB |",
+        "appVersion": "2.10.123 | 153.1 MB |",
         "appDescription": "Превратите свои старые размытые фотографии в великолепное, чёткое изображение в формате HD всего одним касанием.\n\n▎Активирована подписка\n▎Безлимитное сохранение улучшенных фото \n▎Удалены Watermark'и в категории \"AI-Фото\"\n▎Уменьшена Watermark'a в категории \"AI-Фильтры\"\n▎Качество улучшений фото 100% вместо стандартных 80%",
-        "appUpdateTime": "2025-04-08T06:32:14+00:00"
+        "appUpdateTime": "2025-04-30T15:47:25+00:00"
     },
     {
         "appName": "VSCO | Pro\n| #Design",
@@ -1815,9 +1815,9 @@
     {
         "appName": "HDRezka\n| #Video",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/bbic/hdrezka.png",
-        "appVersion": "1.5.3 | 4.6 MB |",
-        "appDescription": "Приложение для просмотра фильмов и сериалов. Требуется iOS 16 и выше.",
-        "appUpdateTime": "2025-04-08T06:32:41+00:00"
+        "appVersion": "1.5.3 | 5.2 MB |",
+        "appDescription": "Приложение для просмотра фильмов и сериалов. Требуется iOS 16 и выше.\n\n▎Доступно скачивание фильмов\\сериалов\n▎Скачивание в фоне недоступно ",
+        "appUpdateTime": "2025-04-30T15:38:07+00:00"
     },
     {
         "appName": "Coach Guitar | Гитара с нуля\n| #Study",
@@ -1899,9 +1899,9 @@
     {
         "appName": "Concepts | Pro\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/6f/c7/b06fc709-2952-c545-4cfc-874cf706d38b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
-        "appVersion": "6.21.1 | 66.6 MB |",
-        "appDescription": "Думайте, планируйте и создавайте - Concepts - это гибкий векторный скетчбук, в котором вы можете воплотить свои идеи от концепции до реальности.",
-        "appUpdateTime": "2025-02-19T14:07:59+00:00"
+        "appVersion": "6.23.1 | 108.7 MB |",
+        "appDescription": "Думайте, планируйте и создавайте - Concepts - это гибкий векторный скетчбук, в котором вы можете воплотить свои идеи от концепции до реальности.\n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2025-04-30T15:35:25+00:00"
     },
     {
         "appName": "SwiftScan | VIP\n| #Office",
@@ -2676,9 +2676,9 @@
     {
         "appName": "Simpler | Premium\n| #Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/e2/c1/6ce2c10e-0076-269b-b943-5fb84d04b15a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.png",
-        "appVersion": "6.2.16 | 76.7 MB |",
+        "appVersion": "6.3.1 | 83.3 MB |",
         "appDescription": "Приложение для изучения английского языка.\n\nАктивация подписки:\n▎Запустите приложение и войдите в аккаунт\n▎Перезапустите приложение когда после входа увидите кнопку \"Повторить\" ",
-        "appUpdateTime": "2025-03-21T13:32:28+00:00"
+        "appUpdateTime": "2025-04-30T15:36:17+00:00"
     },
     {
         "appName": "Тести ПДР | Premium\n| #Study",
@@ -4207,6 +4207,13 @@
         "appUpdateTime": "2023-09-18T16:10:24+00:00"
     },
     {
+        "appName": "Google Earth\n| #Travel",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/c9/56/93c95653-8c5e-61a9-acfd-1cd0b7db7967/logo_earth_color-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/246x0w.png",
+        "appVersion": "10.78 | 89.5 MB |",
+        "appDescription": "Взгляните на мир с высоты благодаря спутниковым снимкам высокого разрешения, посмотрите на 3D-рельеф и здания в сотнях городов и совершите путешествие по улицам и районам, используя возможности кругового обзора в Просмотре улиц.\n\n▎Не имеет модификаций\n▎Недоступно в AppStore РФ",
+        "appUpdateTime": "2025-04-30T15:43:18+00:00"
+    },
+    {
         "appName": "Три кота: Игры для детей | Hack\n| #Kids",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/38/0a/5c/380a5c4c-c20d-5f6e-adfb-81485869aa20/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         "appVersion": "1.0.9 | 171.1 MB |",
@@ -5455,9 +5462,9 @@
     {
         "appName": "Tappsk | Premium\n| #Office",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/54/56/aa545630-c68f-9496-626c-a0fd5ff51d4f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "2.5.481 | 71.8 MB |",
+        "appVersion": "2.5.491 | 70.4 MB |",
         "appDescription": "Миссия Tappsk – заменить to-do планировщик, трекер привычек, напоминалку и календарь, чтобы вы фокусировались на своих делах, а не переключении между приложениями.\n\n▎Для активации подписки в приложении нажмите 'Восстановить покупки'",
-        "appUpdateTime": "2025-02-08T10:26:56+00:00"
+        "appUpdateTime": "2025-04-30T15:32:59+00:00"
     },
     {
         "appName": "Кубик Рубика | Premium\n| #Study",
@@ -5565,11 +5572,11 @@
         "appUpdateTime": "2022-10-13T08:31:00+00:00"
     },
     {
-        "appName": "Textastic\n| #Other",
+        "appName": "Textastic | Pro\n| #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2c/f1/9c/2cf19c8f-37b6-f3d6-82bd-8f8057aeec52/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/246x0w.png",
-        "appVersion": "9.9.2 | 11.1 MB |",
+        "appVersion": "10.6.2 | 11.4 MB |",
         "appDescription": "Textastic - это самый полный и универсальный редактор текста и кода для iPad и iPhone.",
-        "appUpdateTime": "2023-04-09T08:31:00+00:00"
+        "appUpdateTime": "2025-04-30T15:48:22+00:00"
     },
     {
         "appName": "Canary Mail | Pro\n| #Office",
@@ -6109,6 +6116,13 @@
         "appVersion": "4.6.10 | 38.2 MB |",
         "appDescription": "Приложение банка Левобережный",
         "appUpdateTime": "2023-03-02T08:31:00+00:00"
+    },
+    {
+        "appName": "Injustice 2 | Hack\n| #Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/9e/e6/4a9ee6d3-1591-3247-36e6-a5660744468b/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/246x0w.png",
+        "appVersion": "6.4.1 | 1.6 GB |",
+        "appDescription": "Присоединяйтесь к своим любимым супергероям и злодеям вселенной DC в лучшем файтинге для мобильных устройств.\n\n▎Активирована подписка iOSGods VIP",
+        "appUpdateTime": "2025-04-30T15:45:42+00:00"
     },
     {
         "appName": "BL Бизнес(Банк Левобережный)\n| #Money",
@@ -8360,9 +8374,9 @@
     {
         "appName": "Homescapes | Mod\n| #Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c9/d1/f3/c9d1f33d-564a-854f-0ae5-e2c9666b5229/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "7.9.3 | 196.7 MB |",
+        "appVersion": "7.9.5 | 196.7 MB |",
         "appDescription": "Мод версия Homescapes от iOSGods. \nДля использования взлома нажмите на лицо человечка и активируйте нужные опции взлома.\n\n▎Безлимитные жизни\n▎Безлимитные хода\n▎Безлимитные бустеры\n▎Создайте\\Войдите в аккаунт iOSGods для активации VIP",
-        "appUpdateTime": "2025-04-22T10:16:37+00:00"
+        "appUpdateTime": "2025-04-30T15:31:51+00:00"
     },
     {
         "appName": "Red Ball 6 | Hack\n| #Games",
