@@ -51,9 +51,9 @@
     {
         "appName": "Swiftgram | TGExtra\n| #Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/3f/8f/c13f8f03-5761-cd9c-cd4d-c11390460ad4/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/246x0w.png",
-        "appVersion": "11.9.0 | 1.2.0 | 74.2 MB |",
+        "appVersion": "11.10.0 | 1.2.0 | 93.8 MB |",
         "appDescription": "Модификация телеграм клиент Swiftgram\n\nВозможности: Оффлайн, нечиталка, подмена локации, нет рекламы, скрины в секретных чатах\\каналах, работает отправка файлов.\n\n▎Чтобы перейти в настройки TGExtra нажмите 5 раз на кнопку \"Чаты\"",
-        "appUpdateTime": "2025-04-20T11:02:32+00:00"
+        "appUpdateTime": "2025-05-03T17:34:16+00:00"
     },
     {
         "appName": "TikTok | BH++\n| #Video",
@@ -107,9 +107,9 @@
     {
         "appName": "Nicegram | Premium\n| #Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/4f/e8/b44fe8b7-408c-4d9f-2f1e-5a8d864ee53c/AppIconLLC-0-0-1x_U007epad-0-0-85-220.png/246x0w.png",
-        "appVersion": "2.0.4 | 117.4 MB |",
+        "appVersion": "2.0.6 | 119.2 MB |",
         "appDescription": "Альтернативный клиент Телеграмм c дополнительными функциями.\n\n▎Запись Telegram-звонков\n▎Удобный и быстрый перевод постов/сообщений;\n▎Скриншоты в секретных чатах без уведомления(от iApps)",
-        "appUpdateTime": "2025-04-20T10:36:32+00:00"
+        "appUpdateTime": "2025-05-03T17:32:20+00:00"
     },
     {
         "appName": "iMe | Premium+\n| #Social",
@@ -1260,6 +1260,13 @@
         "appUpdateTime": "2024-05-05T13:48:44+00:00"
     },
     {
+        "appName": "SoundCloud | Pro\n| #Music",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/e0/13/b9e01392-f0ad-63d5-0af8-86f751d84a37/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/246x0w.png",
+        "appVersion": "8.11.3 | 99.1 MB |",
+        "appDescription": "Первыми открывайте, воспроизводите и делитесь любимыми треками начинающих исполнителей.\n\n▎Активирована подписка",
+        "appUpdateTime": "2025-05-03T17:37:50+00:00"
+    },
+    {
         "appName": "Reface | Pro\n| #Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/89/f9/93/89f99309-439c-ba84-7546-78ef3d1fb7ca/AppIcon-1x_U007emarketing-0-5-0-85-220.png/246x0w.png",
         "appVersion": "5.6.0 | 114.3 MB |",
@@ -1458,9 +1465,9 @@
     {
         "appName": "CloneAI | Pro\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/21/19/9e21199c-d67c-c12c-0aa4-814d2630c577/AppIcon-1x_U007epad-0-85-220.png/246x0w.png",
-        "appVersion": "6.12 | 103.1 MB |",
-        "appDescription": "CloneAI - приложение, использующее искусственный интеллект для превращения ваших видео и фотографий в потрясающие шедевры.",
-        "appUpdateTime": "2025-03-20T09:47:34+00:00"
+        "appVersion": "6.14.7 | 128.5 MB |",
+        "appDescription": "CloneAI - приложение, использующее искусственный интеллект для превращения ваших видео и фотографий в потрясающие шедевры.\n\n▎Активирована подписка \n▎Безлимитные кредиты ",
+        "appUpdateTime": "2025-05-03T17:33:39+00:00"
     },
     {
         "appName": "Widgy | Hack\n| #Themes",
@@ -1801,9 +1808,9 @@
     {
         "appName": "FlipaClip | Plus\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/71/c3/4471c392-527c-e173-5066-df41b670cb42/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "4.0.1 | 65 MB |",
+        "appVersion": "4.2.9 | 76.9 MB |",
         "appDescription": "Создавайте потрясающие анимации с помощью обновленного FlipaClip!",
-        "appUpdateTime": "2024-09-16T06:57:20+00:00"
+        "appUpdateTime": "2025-05-03T17:31:01+00:00"
     },
     {
         "appName": "Medisafe | Premium\n| #Life",
@@ -4825,9 +4832,9 @@
     {
         "appName": "Weather | Super\n| #Travel",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/7e/3e/bd7e3e10-0941-2c89-dd95-3a2651e45311/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "3.8 | 102.3 MB |",
+        "appVersion": "3.38 | 160.6 MB |",
         "appDescription": "ПОГОДА, КАКОЙ ВЫ ЕЕ НИКОГДА НЕ ВИДЕЛИ\nЧто, если бы вы могли воспроизводить погоду, как песню? Прокрутите день и прочувствуйте изменения погоды в течение суток, как при съемке таймлапса.",
-        "appUpdateTime": "2023-10-10T16:37:40+00:00"
+        "appUpdateTime": "2025-05-03T17:31:45+00:00"
     },
     {
         "appName": "Flightradar24 | Gold\n| #Other",
@@ -6631,9 +6638,9 @@
     {
         "appName": "The Sims FreePlay | Mode\n| #Games",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/98/07/80/980780d9-4837-75aa-e58d-5d03873e15b2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "5.73.1 | 1.3 GB |",
+        "appVersion": "5.92 | 1.7 GB |",
         "appDescription": "Создайте свою историю и проложите свой путь. Постройте свой виртуальный город, семью и жизнь!\n\n• Неограниченная валюта;\n• VIP уровень;",
-        "appUpdateTime": "2023-01-13T08:31:00+00:00"
+        "appUpdateTime": "2025-05-03T17:26:47+00:00"
     },
     {
         "appName": "while True: learn()\n| #Games",
@@ -6652,9 +6659,9 @@
     {
         "appName": "Royal Match | VIP Hack\n| #Games",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/90/9f/cd/909fcda6-c8fa-c957-8567-a2343c678eb4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "28375 | 165.5 MB |",
+        "appVersion": "28718 | 165.1 MB |",
         "appDescription": "Помогите королю Роберту восстановить былую славу замка! Разбивайте препятствия и используйте мощные усилители, чтобы проходить увлекательные напряжённые уровни!\n\n▎Заморозка монет, ходов, бустеров\n▎Создайте\\Войдите в аккаунт iOSGods для активации VIP",
-        "appUpdateTime": "2025-04-22T10:17:43+00:00"
+        "appUpdateTime": "2025-05-03T17:24:08+00:00"
     },
     {
         "appName": "Earn to Die 2 | Hack\n| #Games",
@@ -6715,9 +6722,9 @@
     {
         "appName": "Hungry Shark | Mode\n| #Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/62/42/5c/62425c3d-bff3-f8cf-215c-444ad17ae4a6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "4.7.0 | 133.3 MB |",
-        "appDescription": "Вы — акула, так устройте неистовое всепожирающее безумие! Покоряйте океаны и пожирайте все на своем пути, от мелкой рыбы и птиц до жирных китов и зазевавшихся людишек!\n\n▎Открыты все акулы",
-        "appUpdateTime": "2022-06-09T08:31:00+00:00"
+        "appVersion": "6.7.7 | 172 MB |",
+        "appDescription": "Вы — акула, так устройте неистовое всепожирающее безумие! Покоряйте океаны и пожирайте все на своем пути, от мелкой рыбы и птиц до жирных китов и зазевавшихся людишек!\n\n▎Активирована подписка iOSGods VIP",
+        "appUpdateTime": "2025-05-03T17:26:01+00:00"
     },
     {
         "appName": "Эльдорадо\n| #Other",
@@ -6806,9 +6813,9 @@
     {
         "appName": "Outlanders | Arcade\n| #Games",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/49/31/da/4931da19-100a-8c71-f6dd-d29b612befbf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "11 | 254.3 MB |",
+        "appVersion": "46 | 600 MB |",
         "appDescription": "Outlanders — симулятор градостроительства, где вы берете на себя роль предводителя группы обычных людей и вместе с ними обустраиваетесь на новом месте.",
-        "appUpdateTime": "2022-09-20T08:31:00+00:00"
+        "appUpdateTime": "2025-05-03T17:27:43+00:00"
     },
     {
         "appName": "Xeno Command | Hack\n| #Games",
@@ -7226,9 +7233,9 @@
     {
         "appName": "Fishing Clash | Mode\n| #Games",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/2e/05/8c/2e058c25-3acd-c1b8-a0c0-e97e64f63f21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.0.216 | 160.8 MB |",
+        "appVersion": "1.0.363 | 156.7 MB |",
         "appDescription": "Fishing Clash вобрала в себя лучшие особенности игр про рыбалку: реализм симуляторов, соревновательный дух спортивных игр и социальный аспект приложений для рыбаков и охотников. \n\n• Линия не прерывается + Комбо;",
-        "appUpdateTime": "2023-04-22T08:31:00+00:00"
+        "appUpdateTime": "2025-05-03T17:25:15+00:00"
     },
     {
         "appName": "Mini Metro\n| #Games",
@@ -8038,9 +8045,9 @@
     {
         "appName": "Earn to Die Rogue | VIP Hack\n| #Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/c3/9d/efc39dd4-774c-9f63-95b6-64448beb7e04/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "1.8.148 | 181.3 MB |",
+        "appVersion": "1.11.162 | 204.8 MB |",
         "appDescription": "Гони машину сквозь зомби-апокалипсис и зачищай здания, заполненные зомби, в этом динамичном спин-офф к легендарной серии Earn to Die!\n\n▎Неограниченный кэш\n▎Неограниченное золото\n▎Создайте\\Войдите в аккаунт iOSGods для активации VIP",
-        "appUpdateTime": "2025-02-04T20:26:40+00:00"
+        "appUpdateTime": "2025-05-03T17:27:18+00:00"
     },
     {
         "appName": "Haak |\n| #Games",
@@ -8540,6 +8547,13 @@
         "appUpdateTime": "2025-04-28T12:54:56+00:00"
     },
     {
+        "appName": "Spaceland | Full \n| #Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/26/c9/e926c9a2-4d14-c560-0887-9a43db695a49/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
+        "appVersion": "1.7.3 | 307.3 MB |",
+        "appDescription": "Пожалуй, самая динамичная пошаговая стратегия в духе старой школы. Меньше укрытий, больше дела. Высадитесь на затерянную планету и задайте жару мутантам. \n\n▎Разблокирована полная игра",
+        "appUpdateTime": "2025-05-03T17:30:19+00:00"
+    },
+    {
         "appName": "DERE Vengeance | Hack\n| #Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/e2/53/81e2537c-0281-2708-1898-003560db5ad4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "2.1 | 93.8 MB |",
@@ -8724,9 +8738,9 @@
     {
         "appName": "Fishdom | Mod\n| #Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5b/92/ad/5b92adcd-abc2-0250-0ab4-c2581ca1e378/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "7.9.3 | 154.8 MB |",
+        "appVersion": "8.8.2 | 191.7 MB |",
         "appDescription": "Погрузитесь в океан захватывающих уровней и встречайте десятки невероятных питомцев! Открывайте аквариумы один за другим, исследуя разные эпохи и миры.\n\n▎Бесконечные жизни\n▎Бесконечные бустеры",
-        "appUpdateTime": "2024-04-04T17:32:59+00:00"
+        "appUpdateTime": "2025-05-03T17:24:39+00:00"
     },
     {
         "appName": "Return to Monkey Island\n| #Games",
