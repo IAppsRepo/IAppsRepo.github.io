@@ -51,9 +51,9 @@
     {
         "appName": "Swiftgram | TGExtra\n| #Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/3f/8f/c13f8f03-5761-cd9c-cd4d-c11390460ad4/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/246x0w.png",
-        "appVersion": "11.10.0 | 1.2.0 | 93.8 MB |",
+        "appVersion": "11.9.0 | 1.2.0 | 74.2 MB |",
         "appDescription": "Модификация телеграм клиент Swiftgram\n\nВозможности: Оффлайн, нечиталка, подмена локации, нет рекламы, скрины в секретных чатах\\каналах, работает отправка файлов.\n\n▎Чтобы перейти в настройки TGExtra нажмите 5 раз на кнопку \"Чаты\"",
-        "appUpdateTime": "2025-05-03T17:34:16+00:00"
+        "appUpdateTime": "2025-05-04T08:22:21+00:00"
     },
     {
         "appName": "TikTok | BH++\n| #Video",
@@ -259,11 +259,11 @@
         "appUpdateTime": "2024-02-13T13:37:33+00:00"
     },
     {
-        "appName": "Twitch | NoAds\n| #Video",
+        "appName": "Twitch | Ad Block\n| #Video",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/c9/56/1cc9566d-a177-28b5-cc77-5438a797334e/TwitchAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "15.2.1 | 74.5 MB |",
-        "appDescription": "Платформа для стриминга. \n▎Удалена реклама",
-        "appUpdateTime": "2023-05-31T08:31:00+00:00"
+        "appVersion": "24.2.2 | 127.3 MB |",
+        "appDescription": "Платформа для стриминга. \n\n▎Удалена реклама",
+        "appUpdateTime": "2025-05-06T13:50:47+00:00"
     },
     {
         "appName": "ChatX | Pro\n| #Other",
@@ -345,9 +345,9 @@
     {
         "appName": "ES File Explorer | Premium\n| #Other #Office",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a3/1c/a1/a31ca1a0-618d-d195-320f-4f0d7c49b07c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "2.8.3 | 130.5 MB |",
+        "appVersion": "2.8.4 | 130.9 MB |",
         "appDescription": "Файловый менеджер с поддержкой большинства различных форматов, своим браузером и большинством других функций и возможностей.",
-        "appUpdateTime": "2025-03-05T18:08:32+00:00"
+        "appUpdateTime": "2025-05-06T13:46:55+00:00"
     },
     {
         "appName": "Вкармане ТВ Pro\n| #Video",
@@ -644,11 +644,25 @@
         "appUpdateTime": "2023-12-14T17:54:31+00:00"
     },
     {
+        "appName": "Дед VPN | Unlimited [Test]\n| #Network",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/cb/c5/9acbc549-38c7-c154-c71a-26cce2837b6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
+        "appVersion": "1.4 | 9.8 MB |",
+        "appDescription": "Приложение добавлено в целях публичного тестирования взлома.\n\n",
+        "appUpdateTime": "2025-05-06T14:06:36+00:00"
+    },
+    {
         "appName": "Pacer | Premium\n| #Life",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/ea/76/7b/ea767b5f-a6c5-23df-0022-fc2046b111ed/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "10.3.1 | 140.5 MB |",
         "appDescription": "Все в одном приложении - Шагомер, фитнес тренер, планые питания.\n",
         "appUpdateTime": "2025-03-28T11:07:36+00:00"
+    },
+    {
+        "appName": "Matresha VPN | Premium\n| #Network",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/fa/20/2dfa2083-b8a0-3909-c509-bfe8d7186e7e/AppIcon-1x_U007ephone-0-1-0-sRGB-85-220-0.png/246x0w.png",
+        "appVersion": "1.4.0 | 17.6 MB |",
+        "appDescription": "VPN с активированной подпиской.\n\n▎При первом запуске откажитесь от предложения купить подписку(нажать крестик)",
+        "appUpdateTime": "2025-05-06T13:56:45+00:00"
     },
     {
         "appName": "Bikemap | Premium\n| #Life",
@@ -803,6 +817,13 @@
         "appVersion": "1.11.9 | 1.6 MB |",
         "appDescription": "Многофункциональная видеокамера.",
         "appUpdateTime": "2025-04-20T10:32:46+00:00"
+    },
+    {
+        "appName": "Wizard AI | Pro\n| #Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/9c/71/d09c71bb-d23c-0a5b-d0f2-589ab718a3d0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/246x0w.jpg",
+        "appVersion": "9.4.4 | 110.1 MB |",
+        "appDescription": "Просто введите запрос, выберите предпочтительный художественный стиль и наблюдайте, как Wizard AI воплощает ваши мечты в жизнь, используя силу Midjourney, DALL-E 3 и Stable Diffusion.\n\n▎Если при генерации требует покупку - перезапустите приложение.\n▎Иногда возможны вылеты - не баг, а фича =)",
+        "appUpdateTime": "2025-05-04T08:27:56+00:00"
     },
     {
         "appName": "InShot Pro\n| #Design",
@@ -1010,9 +1031,9 @@
     {
         "appName": "TrueCaller | Premium\n| #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/72/1b/ba721bf1-38e3-1ae9-81b6-c3018d7cec54/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x0w.png",
-        "appVersion": "14.8.7 | 105.7 MB |",
+        "appVersion": "14.15.5 | 104.4 MB |",
         "appDescription": "Truecaller — это единственное приложение для идентификации вызывающего абонента и блокировки спама, которое вам когда-либо понадобится, благодаря списку спама от сообщества, созданному более чем 400 миллионами пользователей.\n\n▎Функция \"Автоблокировка спама\" недоступна\n▎Для работы требуется сертификат iApps от 07.12.24",
-        "appUpdateTime": "2025-03-20T09:53:28+00:00"
+        "appUpdateTime": "2025-05-06T13:49:18+00:00"
     },
     {
         "appName": "Notability | Plus\n| #Office",
@@ -1577,9 +1598,9 @@
     {
         "appName": "Fortnite | 120 FPS\n| #Games",
         "appImage": "https://repo.semyonsemenov.ru/s/w66A3LBtyEGi4zr/preview",
-        "appVersion": "34.40 | 239.8 MB |",
+        "appVersion": "35.00 | 245.6 MB |",
         "appDescription": "Главная «Королевская битва» в мире пришла на мобильные устройства! Создайте отряд и станьте последним выжившим в битве 100 игроков. Стройте укрытия. Уничтожайте врагов. Переживите всех остальных. Заслужите победу.\n\n▎Работает с сертификатами iApps от 18.08.24 или TrollStore!",
-        "appUpdateTime": "2025-04-22T10:18:09+00:00"
+        "appUpdateTime": "2025-05-03T20:26:54+00:00"
     },
     {
         "appName": "Endel | Pro\n| #Music #Other",
@@ -2072,6 +2093,13 @@
         "appUpdateTime": "2024-09-16T07:16:38+00:00"
     },
     {
+        "appName": "DarknessBot | Premium\n| #Travel",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/fa/25/8ffa257a-721f-cdc9-a0de-999cdf2284ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
+        "appVersion": "10.3 | 50.7 MB |",
+        "appDescription": "Приложение с огромными возможностями для владельцев электротранспорта!",
+        "appUpdateTime": "2025-05-06T14:02:43+00:00"
+    },
+    {
         "appName": "Supershift | Pro\n| #Office",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/5e/1e/c05e1e99-ba35-c37f-d874-25d35fb02b00/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "2024.25 | 29.8 MB |",
@@ -2144,9 +2172,9 @@
     {
         "appName": "ILovePDF | Premium\n| #Office",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/17/55/f6175557-962f-8d3a-db58-2e08074733c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/246x0w.png",
-        "appVersion": "3.10 | 151.7 MB |",
-        "appDescription": "iLovePDF объединяет все инструменты для управления документами в одном месте, поэтому вы можете выполнять работу без бумажных документов со своего iPhone и iPad.\n\n▎Войдите в аккаунт для активации подписки.",
-        "appUpdateTime": "2025-02-10T11:54:37+00:00"
+        "appVersion": "3.12 | 159.7 MB |",
+        "appDescription": "iLovePDF объединяет все инструменты для управления документами в одном месте, поэтому вы можете выполнять работу без бумажных документов со своего iPhone и iPad.\n\n▎Войдите в аккаунт и перезапустите приложение для активации подписки.",
+        "appUpdateTime": "2025-05-06T13:46:27+00:00"
     },
     {
         "appName": "ГДЗ | Premium\n| #Study",
@@ -3628,9 +3656,9 @@
     {
         "appName": "Carista | Hack\n| #Travel",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/59/5e/2e/595e2e3d-0627-5c4b-2299-f6552bb8d24b/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/246x0w.png",
-        "appVersion": "8.1.0 | 39.2 MB |",
+        "appVersion": "9.1.0 | 47.7 MB |",
         "appDescription": "Диагностируйте, настраивайте и обслуживайте свой автомобиль.",
-        "appUpdateTime": "2023-11-28T21:10:37+00:00"
+        "appUpdateTime": "2025-05-04T09:45:15+00:00"
     },
     {
         "appName": "Carly | Full\n| #Travel",
@@ -5315,9 +5343,9 @@
     {
         "appName": "Guru Maps | Pro\n| #Travel",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/95/e4/31/95e431e0-fc97-2281-c597-25e740062ba2/AppIconPro-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "5.6.7 | 58.8 MB |",
+        "appVersion": "5.7.7 | 61.4 MB |",
         "appDescription": "Удобные и быстрые оффлайн карты.",
-        "appUpdateTime": "2024-11-10T15:28:48+00:00"
+        "appUpdateTime": "2025-05-06T13:44:35+00:00"
     },
     {
         "appName": "Car Finder\n| #Travel",
