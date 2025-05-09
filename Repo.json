@@ -205,9 +205,9 @@
     {
         "appName": "Spotify | Eevee\n| #Music",
         "appImage": "https://www.freeiconspng.com/uploads/spotify-icon-2.png",
-        "appVersion": "9.0.36 | 5.9.5 | 84.2 MB |",
+        "appVersion": "9.0.40 | 5.9.6 | 88.5 MB |",
         "appDescription": "Стриминговый сервис лицензионной музыки в высоком качестве с частично взломанной премиум подпиской.\n\n▎Чтобы активировать взлом войдите в аккаунт и переоткройте приложение 2-3 раза.",
-        "appUpdateTime": "2025-04-28T12:59:37+00:00"
+        "appUpdateTime": "2025-05-08T16:56:32+00:00"
     },
     {
         "appName": "Spotify | Stable\n| #Music",
@@ -644,11 +644,11 @@
         "appUpdateTime": "2023-12-14T17:54:31+00:00"
     },
     {
-        "appName": "Дед VPN | Unlimited [Test]\n| #Network",
+        "appName": "Дед VPN | Unlimited\n| #Network",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/cb/c5/9acbc549-38c7-c154-c71a-26cce2837b6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
         "appVersion": "1.4 | 9.8 MB |",
-        "appDescription": "Приложение добавлено в целях публичного тестирования взлома.\n\n",
-        "appUpdateTime": "2025-05-06T14:06:36+00:00"
+        "appDescription": "Быстрый VPN без лимитов и ограничений.\n\n▎Доступ продлевается автоматически\n▎По тестам из всех приложений лучше всего работает в РФ\n▎Можно настроить команду для автоматизации ",
+        "appUpdateTime": "2025-05-07T11:05:24+00:00"
     },
     {
         "appName": "Pacer | Premium\n| #Life",
@@ -810,6 +810,13 @@
         "appVersion": "5.11 | 104.3 MB |",
         "appDescription": "Идеальное приложение для профессиональных камер. С более чем 100 функциями и простой в использовании.\n",
         "appUpdateTime": "2024-11-10T15:27:59+00:00"
+    },
+    {
+        "appName": "Rutube | Plus\n| #Video",
+        "appImage": "https://cs3b2e.4pda.ws/25982886.png",
+        "appVersion": "46.6 | 25.3 MB |",
+        "appDescription": "Видеохостинг, который недостоин твоего внимания. Но зачем-то он тебе нужен.\n\n▎Добавлена возможность скачивать видео",
+        "appUpdateTime": "2025-05-09T13:53:39+00:00"
     },
     {
         "appName": "ProMovie+\n| #Design",
@@ -1598,9 +1605,9 @@
     {
         "appName": "Fortnite | 120 FPS\n| #Games",
         "appImage": "https://repo.semyonsemenov.ru/s/w66A3LBtyEGi4zr/preview",
-        "appVersion": "35.00 | 245.6 MB |",
+        "appVersion": "35.02 | 245.8 MB |",
         "appDescription": "Главная «Королевская битва» в мире пришла на мобильные устройства! Создайте отряд и станьте последним выжившим в битве 100 игроков. Стройте укрытия. Уничтожайте врагов. Переживите всех остальных. Заслужите победу.\n\n▎Работает с сертификатами iApps от 18.08.24 или TrollStore!",
-        "appUpdateTime": "2025-05-03T20:26:54+00:00"
+        "appUpdateTime": "2025-05-09T14:15:31+00:00"
     },
     {
         "appName": "Endel | Pro\n| #Music #Other",
@@ -2163,6 +2170,13 @@
         "appUpdateTime": "2024-12-31T06:33:52+00:00"
     },
     {
+        "appName": "ArtWorkout \n| #Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/8e/9c/ef8e9c07-f255-03c4-fb70-810fb77ae29b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/246x0w.png",
+        "appVersion": "1.9.8 | 282.3 MB |",
+        "appDescription": "Art Workout - это ваш личный тренер по рисованию.\nОн учит вас рисовать в игровой форме и оценивает ваш результат.\n\n▎Разблокированы все курсы",
+        "appUpdateTime": "2025-05-08T17:02:19+00:00"
+    },
+    {
         "appName": "Opener\n| #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/c2/da/f3c2da75-65eb-12d1-e6f2-987773833673/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "1.13.10 | 2.7 MB |",
@@ -2189,6 +2203,13 @@
         "appVersion": "22.0.3 | 19.8 MB |",
         "appDescription": "Brite - планировщик все в одном. Это новый взгляд на управление вашими задачами и расписанием.\n\n▎При первом запуске откажитесь от покупки подписки;\n▎Подписка активируется автоматически при втором запуске приложения.",
         "appUpdateTime": "2023-09-06T19:37:40+00:00"
+    },
+    {
+        "appName": "PinSaver | Pinterest Downloader\n| #Other #Video",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/9b/d0/419bd000-d8de-1911-7677-5e976d66e95f/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/246x0w.png",
+        "appVersion": "1.0.7 | 39.8 MB |",
+        "appDescription": "Приложение для скачивания видео из Pinterest\n\n▎Активирована подписка\n▎Без лимитов на загрузку",
+        "appUpdateTime": "2025-05-09T14:15:43+00:00"
     },
     {
         "appName": "App Raven | Premium\n| #Other",
@@ -2553,6 +2574,13 @@
         "appVersion": "24.11 | 24.3 MB |",
         "appDescription": "Anki эта продвинутая программа для изучения методом флэш карт. Она предназначена для серьезных учеников которым необходимо запоминать информацию как можно более эффективно.",
         "appUpdateTime": "2025-03-05T18:03:57+00:00"
+    },
+    {
+        "appName": "AgBr | Premium\n| #Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/3c/8d/b73c8d64-729c-773b-2ea8-6a84a2f21b11/AppIcon-0-0-1x_U007epad-0-1-85-220.png/246x0w.png",
+        "appVersion": "1.1 | 2.3 MB |",
+        "appDescription": "AgBr - эмулятор черно-белой пленки\nМинимальный, плавный интерфейс для обработки ваших фотографий с 11 эмуляциями реальной черно-белой пленки.\n\n▎Активирована подписка\n",
+        "appUpdateTime": "2025-05-09T14:15:52+00:00"
     },
     {
         "appName": "TimeCut | VIP\n| #Design",
@@ -5412,10 +5440,10 @@
     },
     {
         "appName": "ГИМС | Hack\n| #Study",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/dc/fd/37dcfded-f118-d7d4-10c3-2c1ed0c100e0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.1.19 | 46.9 MB |",
-        "appDescription": "Подготовка к экзамену ГИМС.",
-        "appUpdateTime": "2023-10-14T10:00:24+00:00"
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/73/93/4573938d-d980-a843-d4bd-73c5ca675956/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/246x0w.jpg",
+        "appVersion": "1.1.29 | 49.7 MB |",
+        "appDescription": "Подготовка к экзамену ГИМС.\n\n▎Активирована подписка",
+        "appUpdateTime": "2025-05-07T23:25:02+00:00"
     },
     {
         "appName": "ВОХР | Hack\n| #Study",
