@@ -4529,6 +4529,13 @@
         "appUpdateTime": "2025-04-12T13:47:37+00:00"
     },
     {
+        "appName": "LeafSpy Pro\n| #Travel",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/d7/8a/f7d78ab5-503f-e11c-00c6-8d5252abc548/AppIcon-1x_U007emarketing-0-10-85-220.png/246x0w.png",
+        "appVersion": "2.0.0 | 8.9 MB |",
+        "appDescription": "Приложение Leaf Spy Pro позволяет всем, у кого есть электромобиль Nissan Leaf следить за состоянием аккумулятора и другой информацией об автомобиле, которая обычно доступна только дилеру.",
+        "appUpdateTime": "2025-05-31T12:58:51+00:00"
+    },
+    {
         "appName": "Kids Corner - Сказки и игры\n| #Kids",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/fd/74/1f/fd741fc3-933e-11a7-19d8-627ef3a0191f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "5.07 | 31.9 MB |",
@@ -5187,6 +5194,13 @@
         "appUpdateTime": "2025-01-18T17:20:31+00:00"
     },
     {
+        "appName": "Sunlitt | Premium\n| #Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/2d/59/092d596f-54c8-1750-3740-178f75009683/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/246x0w.png",
+        "appVersion": "4.7.18 | 67 MB |",
+        "appDescription": "Ночное небо заслуживает внимания. Лунный спутник Sunlitt уже здесь!\nОтслеживайте время восхода и захода Луны и исследуйте больше в Moonlitt.",
+        "appUpdateTime": "2025-05-31T13:03:03+00:00"
+    },
+    {
         "appName": "AirBrush | Pro\n| #Design",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/43/41/d5/4341d583-3af3-87bc-f628-597f0c9d9f64/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         "appVersion": "7.5.3 | 346.4 MB |",
@@ -5411,11 +5425,11 @@
         "appUpdateTime": "2023-06-14T08:31:00+00:00"
     },
     {
-        "appName": "EnhanceFox | Pro | Extra\n| #Design",
+        "appName": "EnhanceFox | Super\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/97/68/5a/97685a57-3b3a-e976-c625-633b332c7351/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "6.6 | 190.5 MB |",
+        "appVersion": "7.5.1 | 196.1 MB |",
         "appDescription": "Улучшайте ваши фото и видео в несколько кликов.",
-        "appUpdateTime": "2023-06-27T08:31:00+00:00"
+        "appUpdateTime": "2025-05-31T12:55:08+00:00"
     },
     {
         "appName": "OBD Fusion\n| #Travel",
