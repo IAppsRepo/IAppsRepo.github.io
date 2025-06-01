@@ -1367,9 +1367,9 @@
     {
         "appName": "PicsArt | Gold\n| #Design",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/0c/9a/5d0c9af6-579d-8342-0a34-5d95a1ab2d2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "27.1 | 103.1 MB |",
+        "appVersion": "27.5.3 | 108.7 MB |",
         "appDescription": "Фоторедактор со взломом на подписку.",
-        "appUpdateTime": "2025-03-20T09:48:34+00:00"
+        "appUpdateTime": "2025-06-01T13:15:15+00:00"
     },
     {
         "appName": "Videoleap | Premium\n| #Design",
@@ -1857,9 +1857,9 @@
     {
         "appName": "Shapr3D | Pro\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/54/5b/57545bd3-2fbe-3798-bdbb-90e41831be70/AppIcon-0-0-2x_U007euniversal-0-4-0-85-220.png/246x0w.png",
-        "appVersion": "5.590 | 1.2 GB |",
+        "appVersion": "5.870 | 1.3 GB |",
         "appDescription": "Оцените невероятную гибкость проектов в Shapr3D, реалистичные средства просмотра и единый рабочий процесс с момента создания эскизов до получения готовых к производству 3D-моделей.",
-        "appUpdateTime": "2025-02-05T21:11:29+00:00"
+        "appUpdateTime": "2025-06-01T13:15:59+00:00"
     },
     {
         "appName": "FlipaClip | Plus\n| #Design",
@@ -4179,6 +4179,13 @@
         "appUpdateTime": "2024-06-14T11:53:03+00:00"
     },
     {
+        "appName": "Falou | Premium\n| #Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/f0/f5/45f0f567-6926-e9b1-e03d-024b6cc56ba3/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/246x0w.png",
+        "appVersion": "0.0.366 | 74.4 MB |",
+        "appDescription": "Приготовьтесь выучить язык с помощью практических уроков и улучшить свое произношение в рекордно короткие сроки. С Falou вы быстро обретете уверенность в реальном общении на английском, испанском, французском, немецком, корейском, китайском, русском и других языках.",
+        "appUpdateTime": "2025-06-01T13:18:27+00:00"
+    },
+    {
         "appName": "Mondly | Premium\n| #Study",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/ce/49/4ace4933-38f2-f57e-7568-e5739fd9080a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         "appVersion": "10.29.0 | 164.1 MB |",
@@ -5250,6 +5257,13 @@
         "appUpdateTime": "2023-12-02T13:52:23+00:00"
     },
     {
+        "appName": "Spaceflight Simulator | Hack\n| #Games #Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/36/87/78368733-77a4-0073-6223-b09b137b0e8f/PlayerIcon.png/246x0w.png",
+        "appVersion": "1.59.16 | 45 MB |",
+        "appDescription": "Эта игра об исследовании космоса, о том, как построить свою собственную ракету и отправиться исследовать и посмотреть, что там есть, следуя при этом физике реальной жизни.",
+        "appUpdateTime": "2025-06-01T13:24:32+00:00"
+    },
+    {
         "appName": "365Scores | Premium\n| #Life",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/17/20/f7/1720f7f1-55d3-436a-b354-4fb265bfa230/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "5.9.10 | 50.3 MB |",
@@ -5416,6 +5430,13 @@
         "appVersion": "1.0.17 | 22.3 MB |",
         "appDescription": "Приложение с программами и медитациями ведущих экспертов в области саморазвития и здоровья. \n\n▎При первом открытии откажитесь от покупки подписки, она уже активирована.",
         "appUpdateTime": "2023-08-21T17:33:49+00:00"
+    },
+    {
+        "appName": "Incredibox\n| #Games #Music",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/de/30/d9de3056-0602-816b-e10c-888ab567fc85/AppIcon-0-0-1x_U007epad-0-1-85-220.png/246x0w.png",
+        "appVersion": "2.0.1 | 217.9 MB |",
+        "appDescription": "Incredibox позволяет создавать собственную музыку с помощью веселой команды битбоксеров. Выбери свой музыкальный стиль, чтобы начать записывать, микшировать и делиться своей миксой. ",
+        "appUpdateTime": "2025-06-01T13:20:27+00:00"
     },
     {
         "appName": "Story Chic | VIP\n| #Design",
