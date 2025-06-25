@@ -303,9 +303,9 @@
     {
         "appName": "Chat Smith | Pro\n| #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/15/b4/0e/15b40ee5-5ef4-0f3c-244a-a4eb5314ca0d/AppIcon56-1x_U007emarketing-0-7-0-85-220-0.png/246x0w.png",
-        "appVersion": "7.14 | 132.3 MB |",
+        "appVersion": "7.19.2 | 269.4 MB |",
         "appDescription": "Chat Smith на базе API ChatGPT и модели GPT-4 предоставляет расширенные возможности чата с искусственным интеллектом, голосового взаимодействия, написания электронных писем и интеллектуального общения для всех ваших потребностей.\n",
-        "appUpdateTime": "2025-04-12T13:51:42+00:00"
+        "appUpdateTime": "2025-06-25T09:09:00+00:00"
     },
     {
         "appName": "FaceApp | Pro\n| #Design",
@@ -618,9 +618,9 @@
     {
         "appName": "DazzCam | Pro\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/42/34/a54234f4-452c-66c3-0a83-4ffc93d5c87c/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.jpeg/246x0w.jpg",
-        "appVersion": "2.9.6 | 104.5 MB |",
+        "appVersion": "2.9.11 | 107.5 MB |",
         "appDescription": "Создавайте фотографии и видео в плёночном формате",
-        "appUpdateTime": "2025-03-06T00:26:35+00:00"
+        "appUpdateTime": "2025-06-25T09:13:23+00:00"
     },
     {
         "appName": "30 Day Fitness | Premium\n| #Life",
@@ -702,9 +702,9 @@
     {
         "appName": "Fitness Online | Premium\n| #Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/a4/5b/aca45b94-fea8-d312-16f7-f20a3cba55e3/AppIcon-0-0-1x_U007emarketing-0-4-0-0-sRGB-0-85-220.png/246x0w.png",
-        "appVersion": "1.9.5 | 95.9 MB |",
+        "appVersion": "1.9.6 | 95.9 MB |",
         "appDescription": "Fitness Online - спортивное приложение, с помощью которого вы сможете вести личный дневник тренировок, выполнять упражнения и поддерживать правильное питание.",
-        "appUpdateTime": "2025-06-16T14:05:22+00:00"
+        "appUpdateTime": "2025-06-25T09:04:13+00:00"
     },
     {
         "appName": "FatSecret | Premium\n| #Life",
@@ -1211,11 +1211,11 @@
         "appUpdateTime": "2025-04-20T10:56:57+00:00"
     },
     {
-        "appName": "MyTuner Radio Pro\n| #Music",
+        "appName": "MyTuner Radio | Pro\n| #Music",
         "appImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/nfguapdy2buz.png",
-        "appVersion": "9.0 | 55.1 MB |",
-        "appDescription": "Больше 500 радиостанций со всего мира.",
-        "appUpdateTime": "2023-04-07T08:31:00+00:00"
+        "appVersion": "9.6.1 | 84.7 MB |",
+        "appDescription": "Более 500 радиостанций со всего мира.",
+        "appUpdateTime": "2025-06-25T10:18:58+00:00"
     },
     {
         "appName": "Gym Life | Elite\n| #Life",
@@ -2660,6 +2660,13 @@
         "appUpdateTime": "2025-05-30T10:53:51+00:00"
     },
     {
+        "appName": "Carly | Unlock All\n| #Travel",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/46/bd/5846bd69-e02d-d9d1-f3fe-84051d5dbc2c/BMW_Full-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/246x0w.png",
+        "appVersion": "90.0 | 286.5 MB |",
+        "appDescription": "Carly - самое универсальное решение для OBD2, предлагающее диагностику, данные о работе двигателя и руководства по ремонту и обслуживанию автомобиля.\n\n▎Войдите в аккаунт чтобы разблокировать все покупки",
+        "appUpdateTime": "2025-06-25T10:21:35+00:00"
+    },
+    {
         "appName": "TimeCut | VIP\n| #Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/b7/5a/b7/b75ab77a-3de9-bbd7-7afa-fa6c5bf807e6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "2.6.2 | 119.6 MB |",
@@ -2669,9 +2676,9 @@
     {
         "appName": "Strong | Premium\n| #Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b2/72/e4/b272e4fd-c0ed-b5f8-5d13-b9a1a94eee1e/AppIcon_PROD-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/246x0w.png",
-        "appVersion": "6.0 | 78.9 MB |",
+        "appVersion": "6.1.1 | 78.9 MB |",
         "appDescription": "Самый интуитивно понятный планировщик воркаута и упражнений для любой программы фитнеса.",
-        "appUpdateTime": "2025-01-18T17:04:44+00:00"
+        "appUpdateTime": "2025-06-25T09:04:39+00:00"
     },
     {
         "appName": "Leica Lux | Pro\n| #Design",
@@ -2830,9 +2837,9 @@
     {
         "appName": "Liit | Pro\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/34/1d/fe341dbc-6df3-2646-174b-16458c89318c/AppIcon-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "1.4.7 | 40.7 MB |",
+        "appVersion": "1.5.0 | 43.2 MB |",
         "appDescription": "С Liit вы можете создавать модные фото и видео эффекты простым способом.\nНастройте свет и цвет ваших фотографий и видео с помощью таких инструментов, как яркость, контрастность, оттенок, насыщенность и многое другое.",
-        "appUpdateTime": "2025-03-21T13:00:33+00:00"
+        "appUpdateTime": "2025-06-25T09:12:33+00:00"
     },
     {
         "appName": "Reports+ Gold\n| #Social",
@@ -2921,9 +2928,9 @@
     {
         "appName": "xZoom Cam | Hack\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/ae/14/8fae1463-4769-667b-416c-cc19ac58a8c4/AppIcon-Pro-0-0-1x_U007epad-0-0-85-220.png/246x0w.png",
-        "appVersion": "1.1.310 | 20.4 MB |",
+        "appVersion": "1.1.400 | 24.2 MB |",
         "appDescription": "Новый гибридный зум для камеры вашего iPhone\n\n▎Разблокированы платные функции",
-        "appUpdateTime": "2025-01-18T17:02:08+00:00"
+        "appUpdateTime": "2025-06-25T09:14:42+00:00"
     },
     {
         "appName": "Smart IPTV | Pro\n| #Video",
@@ -3395,7 +3402,7 @@
         "appUpdateTime": "2024-10-21T12:31:08+00:00"
     },
     {
-        "appName": "ESign | Ru\n| #Other",
+        "appName": "eSign | ESIGN\n| #Other",
         "appImage": "https://static.appdb.to/images/cydia-1900000897-icon-1651011412.png",
         "appVersion": "5.0.2 | 7.5 MB |",
         "appDescription": "Приложение для подписи и установки .ipa файлов.",
@@ -3703,6 +3710,13 @@
         "appUpdateTime": "2024-12-03T21:44:04+00:00"
     },
     {
+        "appName": "Debit and Credit | Premium\n| #Money",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/9a/21/ae9a217d-fde1-46a8-1e6b-a072f005bfd7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/246x0w.png",
+        "appVersion": "7.4.2 | 11.9 MB |",
+        "appDescription": "Если вы ищете программу для учета личных финансов, которая является максимально удобной, но в тоже время обладает достаточным количеством функций, то Debit & Credit - это лучший выбор для вас.",
+        "appUpdateTime": "2025-06-25T10:28:46+00:00"
+    },
+    {
         "appName": "ContraCam | Premium\n| #Travel",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/da/b0/da/dab0daa6-ea85-0aff-5694-dec183996d4e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "3.9.997 | 13 MB |",
@@ -3756,7 +3770,7 @@
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/0b/00/e9/0b00e93a-355a-e161-c76b-c7bfe86fede1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "4.3 | 70.3 MB |",
         "appDescription": "Настройка и кодирование модулей BMW и Mini.",
-        "appUpdateTime": "2023-11-16T15:02:52+00:00"
+        "appUpdateTime": "2025-06-25T10:17:04+00:00"
     },
     {
         "appName": "BimmerLink\n| #Travel",
@@ -4713,9 +4727,9 @@
     {
         "appName": "PS Deals | Premium\n| #Other",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/25/f6/2a25f6f2-e9b2-9984-6292-f7c947614f30/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/246x0w.png",
-        "appVersion": "2.5.8 | 33.4 MB |",
+        "appVersion": "2.6.2 | 35 MB |",
         "appDescription": "Трекер цен для PlayStation Store.\n\n▎Некоторые функции серверные и взлому не подлежат",
-        "appUpdateTime": "2024-12-31T03:56:19+00:00"
+        "appUpdateTime": "2025-06-25T09:08:16+00:00"
     },
     {
         "appName": "VidLive | Pro\n| #Other",
@@ -4762,9 +4776,9 @@
     {
         "appName": "XB Deals | Premium\n| #Other",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/81/54/3a/81543a6c-1097-e3f6-018c-7302b465491b/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/246x0w.png",
-        "appVersion": "2.5.8 | 32.8 MB |",
+        "appVersion": "2.6.2 | 34.4 MB |",
         "appDescription": "Трекер цен для XBOX Store.\n\n▎Некоторые функции серверные и взлому не подлежат",
-        "appUpdateTime": "2024-12-31T03:55:38+00:00"
+        "appUpdateTime": "2025-06-25T09:07:52+00:00"
     },
     {
         "appName": "Garage Ringtones | Premium\n| #Other #Music",
@@ -4895,9 +4909,9 @@
     {
         "appName": "Keto Diet | Pro\n| #Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/72/cc/a172ccdc-6b62-db2a-ca8c-76143a042167/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "7.2 | 23.8 MB |",
+        "appVersion": "8.1 | 30 MB |",
         "appDescription": "Счетчик углеводов, менеджер диеты, контроль питания и другое.",
-        "appUpdateTime": "2023-11-16T15:14:56+00:00"
+        "appUpdateTime": "2025-06-25T09:05:11+00:00"
     },
     {
         "appName": "CLIME | Premium\n| #Travel",
@@ -5063,9 +5077,9 @@
     {
         "appName": "Flightradar24 | Gold\n| #Other",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/13/74/42/13744260-721a-c279-324e-ea14a59a5ada/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "10.8.0 | 166.1 MB |",
+        "appVersion": "10.12.0 | 184.7 MB |",
         "appDescription": "Следите за самолетами в реальном времени.\n\n▎Для активации подписки войдите в аккаунт через почту\n▎Некоторые функции серверные и доступны не будут!",
-        "appUpdateTime": "2025-03-23T15:45:24+00:00"
+        "appUpdateTime": "2025-06-25T09:06:03+00:00"
     },
     {
         "appName": "AR Drawing | Pro\n| #Design",
@@ -5770,9 +5784,9 @@
     {
         "appName": "Swipewipe | Premium\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/20/6c/bb206c23-f66d-ccad-94f6-0163d51e4c72/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "3.2.8 | 87.6 MB |",
+        "appVersion": "3.2.11 | 87.7 MB |",
         "appDescription": "Swipewipe - это приложение, которое поможет вам навести порядок в папке камер. ",
-        "appUpdateTime": "2025-06-11T15:39:17+00:00"
+        "appUpdateTime": "2025-06-25T09:14:02+00:00"
     },
     {
         "appName": "Lagguy Wallpapers | Pro\n| #Design",
@@ -5964,11 +5978,11 @@
         "appUpdateTime": "2025-01-20T22:10:30+00:00"
     },
     {
-        "appName": "YoMoney(ЮMoney)\n| #Money",
+        "appName": "YoMoney | ЮMoney | ЮМани\n| #Money",
         "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/YoMoney.png",
-        "appVersion": "11.12.0 | 105.6 MB |",
-        "appDescription": "Приложение YoMoney",
-        "appUpdateTime": "2023-03-01T08:31:00+00:00"
+        "appVersion": "1.5.9 | 72 MB |",
+        "appDescription": "Приложение YoMoney - UraniaTime\n\n▎Версия за июнь 2025г.",
+        "appUpdateTime": "2025-06-25T09:31:14+00:00"
     },
     {
         "appName": "Альфа Банк | Вместе\n| #Money",
@@ -6055,11 +6069,11 @@
         "appUpdateTime": "2025-01-19T17:35:44+00:00"
     },
     {
-        "appName": "Тинькофф Инвестиции\n| #Money",
+        "appName": "Т-Банк Инвестиции | Тинькофф\n| #Money",
         "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/tinkinvest.png",
-        "appVersion": "1.2 | 114.6 MB |",
-        "appDescription": "Приложение банка Тинькофф Инвестиции (Шах и мат)",
-        "appUpdateTime": "2025-04-25T20:36:38+00:00"
+        "appVersion": "1.8 | 122.1 MB |",
+        "appDescription": "Приложение банка Тинькофф Инвестиции (OfficeCapital)",
+        "appUpdateTime": "2025-06-25T09:20:32+00:00"
     },
     {
         "appName": "T-Профит | Т-Банк Инвестиции\n| #Money",
@@ -6183,16 +6197,16 @@
     {
         "appName": "СовкомБанк\n| #Money",
         "appImage": "https://cs3b2e.4pda.ws/16195141.png",
-        "appVersion": "1.1.1 | 44.7 MB |",
-        "appDescription": "Приложение банка СовкомБанк(Смарт бюджет)",
-        "appUpdateTime": "2025-04-20T10:41:34+00:00"
+        "appVersion": "1.0 | 41.1 MB |",
+        "appDescription": "Приложение банка СовкомБанк(MoneyTrack)\n\n▎Версия за июнь 2025г.",
+        "appUpdateTime": "2025-06-25T09:28:14+00:00"
     },
     {
         "appName": "Газпром Банк\n| #Money",
         "appImage": "https://cdn6.aptoide.com/imgs/5/a/f/5afdcf861ce84e30096b5fe6d6a19101_icon.png",
-        "appVersion": "5.1.1 | 247.6 MB |",
-        "appDescription": "Приложение банка ГазпромБанк - YourShopper. Удалено из App Store.",
-        "appUpdateTime": "2025-02-19T14:11:29+00:00"
+        "appVersion": "5.6 | 317.2 MB |",
+        "appDescription": "Приложение банка ГазпромБанк - До Вершины. \n\n▎Версия за июнь 2025г.",
+        "appUpdateTime": "2025-06-25T09:29:24+00:00"
     },
     {
         "appName": "ПСБ Банк\n| #Money",
