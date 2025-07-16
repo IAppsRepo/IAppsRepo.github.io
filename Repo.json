@@ -294,6 +294,13 @@
         "appUpdateTime": "2023-12-25T16:35:10+00:00"
     },
     {
+        "appName": "Genie ChatGPT 4o | Pro\n| #Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/ac/5f/61ac5f78-2395-fefa-fc53-117d49416ae6/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/246x0w.jpg",
+        "appVersion": "8.3.0 | 74.3 MB |",
+        "appDescription": "Революционный чат-бот с искусственным интеллектом, работающий на ChatGPT-4o и GPT-4, GPT-3.\n",
+        "appUpdateTime": "2025-07-16T13:15:12+00:00"
+    },
+    {
         "appName": "Chat Smith | Pro\n| #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/15/b4/0e/15b40ee5-5ef4-0f3c-244a-a4eb5314ca0d/AppIcon56-1x_U007emarketing-0-7-0-85-220-0.png/246x0w.png",
         "appVersion": "7.19.2 | 269.4 MB |",
@@ -576,9 +583,9 @@
     {
         "appName": "Aloha Browser | VPN | Hack\n| #Network",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/67/72/5d677246-3500-b071-0e7b-b601d1cbe673/AppIcon-0-1x_U007epad-85-220.png/246x0w.png",
-        "appVersion": "7.3 | 124 MB |",
+        "appVersion": "7.6 | 117.7 MB |",
         "appDescription": "Веб браузер с VPN.\n\n▎Для активации подписки войдите в аккаунт в настройках.",
-        "appUpdateTime": "2025-05-16T15:13:23+00:00"
+        "appUpdateTime": "2025-07-16T13:06:12+00:00"
     },
     {
         "appName": "InstaSize | Premium+ AI Max\n| #Design",
@@ -744,23 +751,23 @@
     {
         "appName": "Adobe Photoshop | Premium\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/d9/69/65d9696a-1ff1-9c41-6f7c-a1a7cb4e3ca2/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.png",
-        "appVersion": "6.1.1 | 280 MB |",
+        "appVersion": "6.3.1 | 340.5 MB |",
         "appDescription": "Полноценный Adobe Photoshop на iPad все основные инструменты адаптированы для Apple Pencil и сенсорного экрана. ",
-        "appUpdateTime": "2025-05-27T17:16:11+00:00"
+        "appUpdateTime": "2025-07-16T12:57:04+00:00"
     },
     {
         "appName": "Lightroom | Premium\n| #Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/59/2b/2d592b9c-d28f-ad47-caf4-b4e55dc762f8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "10.3.1 | 185.5 MB |",
+        "appVersion": "10.4.1 | 182.9 MB |",
         "appDescription": "Профессиональный фоторедактор.\n\n▎Войдите в аккаунт для активации подписки.\n▎Работает выбор файлов.",
-        "appUpdateTime": "2025-05-27T17:15:08+00:00"
+        "appUpdateTime": "2025-07-16T13:00:33+00:00"
     },
     {
         "appName": "Lightroom for iPad | Premium\n| #Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/59/2b/2d592b9c-d28f-ad47-caf4-b4e55dc762f8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "10.3.1 | 185.4 MB |",
+        "appVersion": "10.4.1 | 183.5 MB |",
         "appDescription": "Профессиональный фоторедактор для iPad.\n\n▎Войдите в аккаунт для активации подписки.",
-        "appUpdateTime": "2025-05-27T17:14:28+00:00"
+        "appUpdateTime": "2025-07-16T12:59:47+00:00"
     },
     {
         "appName": "Drops | Premium\n| #Study",
@@ -1164,9 +1171,9 @@
     {
         "appName": "CleanMy®Phone | Premium\n| #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/fb/cc/38fbccd9-1168-2eaf-edf7-da81161d84db/AppIcon-0-0-1x_U007epad-0-0-85-220.png/246x0w.png",
-        "appVersion": "2.5.2 | 61.1 MB |",
+        "appVersion": "2.8.3 | 89.1 MB |",
         "appDescription": "Очистите накопленные годами фото с помощью очистителя iPhone на базе искусственного интеллекта. CleanMy®Phone бережно удаляет хлам и помогает освободить место для новых воспоминаний.",
-        "appUpdateTime": "2025-02-07T13:04:28+00:00"
+        "appUpdateTime": "2025-07-16T13:01:28+00:00"
     },
     {
         "appName": "Phone Cleaner | Pro\n| #Other",
@@ -1654,9 +1661,9 @@
     {
         "appName": "Fortnite | 120 FPS\n| #Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/98/ae/c798aef8-f0e6-faa6-6dca-f350e9988831/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/246x0w.png",
-        "appVersion": "36.10.1 | 525.5 MB |",
+        "appVersion": "36.20 | 275.9 MB |",
         "appDescription": "Главная «Королевская битва» в мире пришла на мобильные устройства! Создайте отряд и станьте последним выжившим в битве 100 игроков. Стройте укрытия. Уничтожайте врагов. Переживите всех остальных. Заслужите победу.\n\n▎Работает с сертификатами iApps от 18.08.24 или TrollStore!",
-        "appUpdateTime": "2025-06-29T11:59:35+00:00"
+        "appUpdateTime": "2025-07-16T13:12:47+00:00"
     },
     {
         "appName": "Endel | Pro\n| #Music #Other",
@@ -1773,9 +1780,9 @@
     {
         "appName": "РЖД Пассажирам\n| #Travel",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/sign/rzd.png",
-        "appVersion": "1.50 | 35.3 MB |",
+        "appVersion": "1.55 | 36.8 MB |",
         "appDescription": "Приложение РЖД Пассажирам\n\n▎Удалено из App Store",
-        "appUpdateTime": "2025-03-31T12:18:55+00:00"
+        "appUpdateTime": "2025-07-16T13:11:17+00:00"
     },
     {
         "appName": "Flowingtext LED | VIP\n| #Other #Design",
@@ -3054,9 +3061,9 @@
     {
         "appName": "Calzy\n| #Office",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ba/8d/dc/ba8ddc83-4d6f-ed90-6479-48461ffb4566/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220-0.png/246x0w.png",
-        "appVersion": "3.8.5 | 17.1 MB |",
+        "appVersion": "3.8.9 | 17.7 MB |",
         "appDescription": "Calzy - идеальное решение для вас. Благодаря своим продвинутым функциям и красивому дизайну, Calzy быстро станет вашим основным калькулятором",
-        "appUpdateTime": "2024-02-22T12:53:23+00:00"
+        "appUpdateTime": "2025-07-16T13:03:04+00:00"
     },
     {
         "appName": "Book Tracker | Premium\n| #Study",
@@ -3558,9 +3565,9 @@
     {
         "appName": "Adobe Fresco | Premium\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/72/42/3a/72423a85-f3ff-e2b4-9104-7d8ca397e00e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "6.0.0 | 647.1 MB |",
+        "appVersion": "6.6.0 | 673.6 MB |",
         "appDescription": "Adobe Fresco — приложение для iPad с Apple Pencil и iPhone для рисования и живописи с широким выбором кистей.\n\n▎Войдите в аккаунт для активации подписки.",
-        "appUpdateTime": "2024-09-17T11:52:33+00:00"
+        "appUpdateTime": "2025-07-16T12:56:38+00:00"
     },
     {
         "appName": "Mindllama | Premium\n| #Life",
@@ -5439,11 +5446,11 @@
         "appUpdateTime": "2024-12-03T21:41:42+00:00"
     },
     {
-        "appName": "Flitru | Premium\n| #Study",
+        "appName": "Filtru | Premium\n| #Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/8d/f9/d88df906-737a-9045-f4e4-3e93862f21e1/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/246x0w.png",
-        "appVersion": "4.2.13 | 80.7 MB |",
+        "appVersion": "4.3.3 | 78.4 MB |",
         "appDescription": "Filtru - это приложение, которое поможет вам узнать и повторить лучший способ приготовления вашего любимого кофе.",
-        "appUpdateTime": "2024-10-02T15:20:26+00:00"
+        "appUpdateTime": "2025-07-16T11:42:00+00:00"
     },
     {
         "appName": "Мороз на связи \n| #Kids",
@@ -5455,9 +5462,9 @@
     {
         "appName": "AI Voicer | Ultra\n| #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/9b/df/5c9bdf64-d548-5266-4dbe-926559697c93/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/246x0w.png",
-        "appVersion": "0.8.8 | 85.5 MB |",
+        "appVersion": "0.8.9 | 122 MB |",
         "appDescription": "Приложением для преобразования текста в речь, которое изменит ваш стиль общения.",
-        "appUpdateTime": "2025-06-16T14:10:28+00:00"
+        "appUpdateTime": "2025-07-16T13:01:05+00:00"
     },
     {
         "appName": "VideoGPT | Ultra\n| #Design",
@@ -5952,9 +5959,9 @@
     {
         "appName": "Picture This | VIP\n| #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8a/50/fe/8a50fe12-3f65-5827-05a4-01a7fa335cd7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "5.3.0 | 69 MB |",
+        "appVersion": "5.21 | 125.8 MB |",
         "appDescription": "PictureThis распознает более 1 000 000 растений ежедневно с точностью 98% — результаты лучше, чем у большинства экспертов.",
-        "appUpdateTime": "2025-02-22T16:55:05+00:00"
+        "appUpdateTime": "2025-07-16T12:53:46+00:00"
     },
     {
         "appName": "Taptic | Pro\n| #Other",
@@ -6197,9 +6204,9 @@
     {
         "appName": "Picture Mushroom | VIP\n| #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/06/e6/04/06e60444-a2b4-974c-adaf-7c0f5874f1ef/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "2.12.0 | 91.1 MB |",
+        "appVersion": "2.12.16 | 112.2 MB |",
         "appDescription": "Распознавайте грибы мгновенно!\nПросто сфотографируйте или загрузите фото гриба, и уже через пару секунд приложение Picture Mushroom подскажет вам, что это за гриб.",
-        "appUpdateTime": "2023-12-14T17:42:22+00:00"
+        "appUpdateTime": "2025-07-16T12:53:08+00:00"
     },
     {
         "appName": "СберИнвестор(Новый Инвестор)\n| #Money",
@@ -6496,6 +6503,13 @@
         "appUpdateTime": "2025-04-30T15:45:42+00:00"
     },
     {
+        "appName": "Rock Identifier | Pro\n| #Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/b9/89/2db989ea-bb59-d99b-f922-55323494614d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
+        "appVersion": "2.13.0 | 123.3 MB |",
+        "appDescription": "Определение горных пород стало проще с приложением Rock Identifier. Просто сделайте фото или загрузите изображение камня, и Rock Identifier распознает его в считанные секунды",
+        "appUpdateTime": "2025-07-16T12:55:54+00:00"
+    },
+    {
         "appName": "BL Бизнес(Банк Левобережный)\n| #Money",
         "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/blbuisness.png",
         "appVersion": "2.18.0 | 13.1 MB |",
@@ -6718,6 +6732,13 @@
         "appVersion": "2.207 | 158.7 MB |",
         "appDescription": "Мод игры Geometry Dash\n\n▎Не требует лицензии. \n▎Для вызова настроек мода свайпните влево от правой части экрана. ",
         "appUpdateTime": "2025-06-29T11:59:07+00:00"
+    },
+    {
+        "appName": "Currenzy \n| #Office",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/c2/9d/10c29daa-b02f-1ab8-8878-5cb26a90a4fc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/246x0w.png",
+        "appVersion": "4.2.12 | 29.3 MB |",
+        "appDescription": "Currenzy - это красивое приложение для ежедневного конвертирования валют.",
+        "appUpdateTime": "2025-07-16T13:05:35+00:00"
     },
     {
         "appName": "Terraria\n| #Games",
