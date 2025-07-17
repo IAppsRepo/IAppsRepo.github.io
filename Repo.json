@@ -938,11 +938,11 @@
         "appUpdateTime": "2024-02-13T13:26:39+00:00"
     },
     {
-        "appName": "ТБанк | Тинькофф | T-Case\n| #Money",
+        "appName": "ТБанк | Тинькофф | Yellow T\n| #Money",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/vka/tbank.png",
-        "appVersion": "7.9.3 | 208.6 MB |",
-        "appDescription": "Банковское приложение ТБанк (Тинькофф)\n\n▎Версия за апрель 2025 года",
-        "appUpdateTime": "2025-04-20T10:44:12+00:00"
+        "appVersion": "7.13.1 | 203.4 MB |",
+        "appDescription": "Банковское приложение ТБанк (Тинькофф)\n\n▎Работают уведомления(на момент добавления)",
+        "appUpdateTime": "2025-07-17T15:37:14+00:00"
     },
     {
         "appName": "VPN Optimal | Pro\n| #Network",
@@ -1241,9 +1241,9 @@
     {
         "appName": "Halide Mark III | Pro\n| #Design",
         "appImage": "https://github.com/polyatar/kikspaq/releases/download/dertzx/Halide3betahack.png",
-        "appVersion": "2.5.0 | 20.1 MB |",
+        "appVersion": "2.5.0 | 203.4 MB |",
         "appDescription": "Halide - это самая мощная камера для iPhone с элегантным и простым дизайном - профессиональная камера для всех.",
-        "appUpdateTime": "2025-07-05T11:35:21+00:00"
+        "appUpdateTime": "2025-07-17T15:39:32+00:00"
     },
     {
         "appName": "Tuner Pro\n| #Music",
@@ -1906,9 +1906,9 @@
     {
         "appName": "Medisafe | Premium\n| #Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cc/9d/d9/cc9dd98c-5438-d95e-7f80-2107df156db9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/246x0w.png",
-        "appVersion": "9.43.2 | 81.3 MB |",
+        "appVersion": "9.48 | 90.3 MB |",
         "appDescription": "Medisafe —  приложение, которое поможет вам всегда вовремя принимать лекарства согласно инструкции или предписанию врача.",
-        "appUpdateTime": "2024-10-21T12:33:30+00:00"
+        "appUpdateTime": "2025-07-17T15:13:18+00:00"
     },
     {
         "appName": "HDRezka\n| #Video",
@@ -2599,9 +2599,9 @@
     {
         "appName": "Flo | Premium\n| #Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/75/0f/3c/750f3c48-6d4c-258d-b901-a91b2e608abd/AppIcon-1x_U007emarketing-0-5-0-85-220.png/246x0w.png",
-        "appVersion": "9.73 | 117.6 MB |",
+        "appVersion": "9.82.2 | 123.5 MB |",
         "appDescription": "Одно из самых популярных приложений для женского здоровья.\n\n▎Войдите в аккаунт для активации подписки",
-        "appUpdateTime": "2025-03-11T05:48:29+00:00"
+        "appUpdateTime": "2025-07-17T15:13:55+00:00"
     },
     {
         "appName": "Thinkrolls: игры для детей\n| #Kids",
@@ -3992,9 +3992,9 @@
     {
         "appName": "AniNet\n| #Video",
         "appImage": "https://nya.gagl.art/images/AninetLogoSmallPng.png",
-        "appVersion": "1.1.4 | 94.1 MB |",
+        "appVersion": "0.2.0 | 30.3 MB |",
         "appDescription": "Приложение для просмотра аниме.",
-        "appUpdateTime": "2022-12-04T08:31:00+00:00"
+        "appUpdateTime": "2025-07-17T15:26:29+00:00"
     },
     {
         "appName": "DayCalc | Pro\n| #Office",
@@ -4020,9 +4020,9 @@
     {
         "appName": "Anilibria\n| #Video",
         "appImage": "https://tvfeed.in/cache/3b/93/3b932c24d1a8b9a72899dc96cfbd3c80.jpg",
-        "appVersion": "1.4.0 | 4.3 MB |",
+        "appVersion": "2.4.1 | 4.3 MB |",
         "appDescription": "Приложение для просмотра аниме от команды Anilibria.",
-        "appUpdateTime": "2024-06-01T13:05:53+00:00"
+        "appUpdateTime": "2025-07-17T15:26:54+00:00"
     },
     {
         "appName": "AR Plan 3D | Pro\n| #Other #Design",
@@ -4762,9 +4762,9 @@
     {
         "appName": "Aidoku\n| #Study",
         "appImage": "https://avatars.githubusercontent.com/u/97767528?v=4",
-        "appVersion": "0.6.10 | 3.6 MB |",
+        "appVersion": "0.7 | 5.5 MB |",
         "appDescription": "Приложение для чтения манги на iPhone и iPad",
-        "appUpdateTime": "2025-01-20T21:56:23+00:00"
+        "appUpdateTime": "2025-07-17T15:18:39+00:00"
     },
     {
         "appName": "PS Deals | Premium\n| #Other",
@@ -6041,11 +6041,11 @@
         "appUpdateTime": "2025-06-25T09:31:14+00:00"
     },
     {
-        "appName": "Альфа Банк | Вместе\n| #Money",
-        "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/myradio/Alfa_Bank.PNG",
-        "appVersion": "1.4.2 | 136.7 MB |",
-        "appDescription": "Приложение Альфа Банк, которое устанавливают сотрудники банка",
-        "appUpdateTime": "2025-02-04T22:14:14+00:00"
+        "appName": "Альфа Банк | Поровну\n| #Money",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/dertzx/porovny.png",
+        "appVersion": "1.5 | 254.2 MB |",
+        "appDescription": "Приложение Альфа Банк",
+        "appUpdateTime": "2025-07-17T15:34:11+00:00"
     },
     {
         "appName": "Альфа Банк(Деньги Пришли)\n| #Money",
@@ -6358,9 +6358,9 @@
     {
         "appName": "МТС Банк\n| #Money",
         "appImage": "https://ipalibrary.ru/public/uploads/20230225/0147426d073c7be53bc15c721005da5c.png",
-        "appVersion": "8.0 | 511.5 MB |",
-        "appDescription": "Приложение банка МТС (Копилка ремонта)\n\n▎Приложение банка станет доступно после второго запуска приложения",
-        "appUpdateTime": "2025-04-20T10:40:49+00:00"
+        "appVersion": "9.0 | 349.9 MB |",
+        "appDescription": "Приложение банка МТС (Кофе в кармане)\n",
+        "appUpdateTime": "2025-07-17T15:21:39+00:00"
     },
     {
         "appName": "МТС Pay\n| #Money",
@@ -6739,6 +6739,13 @@
         "appVersion": "4.2.12 | 29.3 MB |",
         "appDescription": "Currenzy - это красивое приложение для ежедневного конвертирования валют.",
         "appUpdateTime": "2025-07-16T13:05:35+00:00"
+    },
+    {
+        "appName": "Дом.РУ\n| #Other",
+        "appImage": "https://4pda.to/s/HEBh5QDrHE58HS0NXLF1XtBBT2sY2BPhr22.png",
+        "appVersion": "4.28 | 54.9 MB |",
+        "appDescription": "Приложение Дом.Ру",
+        "appUpdateTime": "2025-07-17T15:10:13+00:00"
     },
     {
         "appName": "Terraria\n| #Games",
@@ -7574,6 +7581,13 @@
         "appUpdateTime": "2022-09-15T08:31:00+00:00"
     },
     {
+        "appName": "Банк Дом.РФ\n| #Money",
+        "appImage": "https://4pda.to/s/HEBh5QTLB6hRR7z1qI51RwCXgkyLq5dtW7Vt.png",
+        "appVersion": "1.2.2 | 59.4 MB |",
+        "appDescription": "Приложение банка Дом.РФ(Генератор слов)",
+        "appUpdateTime": "2025-07-17T14:08:04+00:00"
+    },
+    {
         "appName": "Fait\n| #Games",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/43/7b/34/437b349b-6a73-ef84-8c88-b6e56a6b0864/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "1.5 | 103 MB |",
@@ -8223,6 +8237,13 @@
         "appVersion": "1.31.1 | 93 MB |",
         "appDescription": "Хватай свою верную гарпунную пушку и отправляйся ловить зомби!\n\n▎Бесконечные деньги и плутоний.",
         "appUpdateTime": "2023-04-01T08:31:00+00:00"
+    },
+    {
+        "appName": "Банк Хлынов\n| #Money",
+        "appImage": "https://4pda.to/s/HEBh1sHXn7UYJq2oz1EXoSJn2A6yJvXOeJz0Y.jpg",
+        "appVersion": "1.0 | 21.4 MB |",
+        "appDescription": "Приложение банка Хлынов (Вятский вестник)\n\nАктивация банка:\n▎Откройте любую новость\n▎Тапните 5-10 раз в любом пустом месте\n▎Получив уведомление нажмите \"Да\" и перезапустите приложение",
+        "appUpdateTime": "2025-07-17T14:13:01+00:00"
     },
     {
         "appName": "WorldBox | Hack\n| #Games",
