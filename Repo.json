@@ -212,9 +212,9 @@
     {
         "appName": "Яндекс Музыка | Lossless\n| #Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/84/d5/4b84d552-ef14-0e01-4b5e-91bed1a98e63/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/217x0w.png",
-        "appVersion": "7.30 | 89.2 MB |",
+        "appVersion": "7.37 | 90.1 MB |",
         "appDescription": "Яндекс Музыка с активированной подпиской. \n\n▎Входите в аккаунт с VPN РФ, если вы находитесь не в России.",
-        "appUpdateTime": "2025-06-29T11:19:38+00:00"
+        "appUpdateTime": "2025-07-31T15:49:21+00:00"
     },
     {
         "appName": "Spotify | Eevee\n| #Music",
@@ -1444,9 +1444,9 @@
     {
         "appName": "Dogo | Deluxe\n| #Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/ef/73/c0ef7391-348b-55d3-64d0-4bb8ce997553/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/246x0w.png",
-        "appVersion": "10.10.1 | 60.1 MB |",
+        "appVersion": "10.28.1 | 335 MB |",
         "appDescription": "Собака - лучший друг человека. Приложение Дого - это личный дрессировщик вашей собаки в вашем кармане. Получите доступ к 70+ упражнениям от Дого, игр, более длительный программ тренировок.",
-        "appUpdateTime": "2024-09-27T13:37:45+00:00"
+        "appUpdateTime": "2025-07-31T15:53:39+00:00"
     },
     {
         "appName": "Lightleap | Pro\n| #Design",
@@ -1738,9 +1738,9 @@
     {
         "appName": "HUD Speed Pro\n| #Travel",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f3/ae/8e/f3ae8ec3-47a5-f291-f5a6-4da84e16e89b/AppIconPro-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/230x0w.png",
-        "appVersion": "66.0 | 17.4 MB |",
+        "appVersion": "68.0 | 20.9 MB |",
         "appDescription": "Приложение Антирадар.",
-        "appUpdateTime": "2025-02-11T13:29:50+00:00"
+        "appUpdateTime": "2025-07-31T15:50:46+00:00"
     },
     {
         "appName": "True VHS | Hack\n| #Design",
@@ -2760,9 +2760,9 @@
     {
         "appName": "Loóna | Premium\n| #Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/03/6c/16/036c169c-2793-3e82-55db-4da56e8a61b8/AppIcon_Alternative-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "2.40.0 | 134.8 MB |",
+        "appVersion": "2.56.2 | 143.5 MB |",
         "appDescription": "Первое приложение, которое позволяет быстро настроиться на здоровый сон после долгого и напряженного дня.\nLoóna это не список методик для засыпания, а приложение, которое оберегает ваш покой на протяжении всего дня и готовит вас ко сну путем воздействия на эмоциональный фон.\n\n▎Войдите в аккаунт для активации подписки.",
-        "appUpdateTime": "2023-12-25T16:27:56+00:00"
+        "appUpdateTime": "2025-07-31T15:54:55+00:00"
     },
     {
         "appName": "Home Workout | Premium\n| #Life",
@@ -3001,6 +3001,13 @@
         "appVersion": "1.2.4 | 34.7 MB |",
         "appDescription": "VPN с активированной подпиской\n\n▎При первом запуске откажитесь от предложения купить подписку\n▎Для работы приложения может требоваться сертификат с поддержкой плагинов(iApps от 07.12.24)",
         "appUpdateTime": "2025-03-31T12:22:49+00:00"
+    },
+    {
+        "appName": "CapWords AI | Pro\n| #Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/5e/03/155e030b-84e8-72f6-67f3-da550925f292/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/246x0w.png",
+        "appVersion": "1.1.30 | 78.8 MB |",
+        "appDescription": "CapWords делает изучение нового языка таким же естественным, как простое наблюдение за окружающим миром. Сделайте снимок любого объекта — вывески, закуски, игрушки — и мгновенно получите его название и пример предложения на 10 языках.",
+        "appUpdateTime": "2025-07-31T17:20:15+00:00"
     },
     {
         "appName": "PicSee | Pro\n| #Design",
@@ -3507,6 +3514,13 @@
         "appUpdateTime": "2025-02-04T21:35:46+00:00"
     },
     {
+        "appName": "Sleep Tracker | Premium\n| #Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/34/59/b63459a0-cda4-7f72-f6b5-b6b094e97877/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/246x0w.png",
+        "appVersion": "2.16.1 | 296 MB |",
+        "appDescription": "ТРЕКЕР СНА — ваш интеллектуальный помощник для сна, совмещающий персональный регистратор сна, отслеживатель разговоров во сне и расслабляющие звуки, чтобы обеспечить спокойствие и отдых для лучшего сна. С его помощью вы можете отслеживать своё время сна, записывать храп и разговоры во сне, а также наслаждаться белым шумом для малышей, звуками природы, музыкой для сна и историями на ночь.",
+        "appUpdateTime": "2025-07-31T17:22:29+00:00"
+    },
+    {
         "appName": "LittleQ | Hack\n| #Other",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/d6/b2/d3/d6b2d3a1-8e97-3040-b51e-5996d9c421bd/AppIcon-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/246x0w.png",
         "appVersion": "3.3.5 | 8.6 MB |",
@@ -3999,9 +4013,9 @@
     {
         "appName": "Wolfram Alpha | Pro\n| #Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/da/60/1eda60a4-4a92-ea7d-9084-2fd91bf50368/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "2.4.0 | 84.3 MB |",
+        "appVersion": "2.5.5 | 175 MB |",
         "appDescription": "WolframAlpha - идеальный инструмент для выполнения домашних заданий и проведения исследований. Wolfram|Alpha разбирается в химии, биологии, инженерии, экономике, астрономии, статистике и многом другом.\n\n▎Войдите\\Создайте аккаунт для разблокировки Pro функций.",
-        "appUpdateTime": "2024-06-28T19:49:01+00:00"
+        "appUpdateTime": "2025-07-31T15:52:11+00:00"
     },
     {
         "appName": "Muslim Assistant | Pro\n| #Other",
@@ -4041,9 +4055,9 @@
     {
         "appName": "Lampa | Hack\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/0b/e4/8e0be447-0e77-2a21-b0a7-0bc6cde3cda3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x0w.png",
-        "appVersion": "1.5.2 | 62.8 MB |",
+        "appVersion": "1.6.1 | 63.1 MB |",
         "appDescription": "Lampa - это камера для запечатления теплоты моментов, а не резкости пикселей. Мы считаем, что для создания красивых фотографий нужны только объектив и сенсор, а не искусственные алгоритмы.\n\n▎Безлимитные фото",
-        "appUpdateTime": "2025-04-28T13:02:23+00:00"
+        "appUpdateTime": "2025-07-31T15:45:50+00:00"
     },
     {
         "appName": "Anilibria\n| #Video",
@@ -4132,9 +4146,9 @@
     {
         "appName": "LogicLike | Premium\n| #Kids",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/90/5a/88/905a88ae-0909-2df3-3af9-5efd36624a1b/AppIcon-1x_U007emarketing-0-10-0-85-220.png/246x0w.webp",
-        "appVersion": "2.12.1 | 156.1 MB |",
+        "appVersion": "2.81 | 145.6 MB |",
         "appDescription": "Вас ждут 8100+ развивающих логических и математических задач, каверзные вопросы, умные загадки и головоломки с подвохом, арифметика. Интересные, простые и сложные, развивающие, обучающие и познавательные игры для мальчиков и девочек, занятия и задания",
-        "appUpdateTime": "2024-03-14T11:33:19+00:00"
+        "appUpdateTime": "2025-07-31T15:56:54+00:00"
     },
     {
         "appName": "stoic | Premium\n| #Life",
@@ -4174,9 +4188,9 @@
     {
         "appName": "Lingo Kids | Premium\n| #Kids",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/02/9c/89029c40-9873-3221-9da2-83b5435b6855/AppIconElliot-0-0-1x_U007epad-0-0-0-85-220.png/217x0w.png",
-        "appVersion": "8.104 | 101.6 MB |",
+        "appVersion": "8.120 | 101.6 MB |",
         "appDescription": "ПРИЛОЖЕНИЕ №1 ДЛЯ ДЕТЕЙ\nРаскройте потенциал ребенка при помощи более 1 200 веселых интерактивных учебных заданий на английском языке! \n",
-        "appUpdateTime": "2025-03-11T05:52:50+00:00"
+        "appUpdateTime": "2025-07-31T15:57:38+00:00"
     },
     {
         "appName": "Resprite | Premium\n| #Design",
@@ -4998,6 +5012,13 @@
         "appUpdateTime": "2024-11-10T15:46:54+00:00"
     },
     {
+        "appName": "Ninja Fit | Premium\n| #Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/c8/51/6ec851aa-5576-b831-8aae-1ec9f2ee7ec6/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/246x0w.png",
+        "appVersion": "1.30.36 | 47.5 MB |",
+        "appDescription": "Начните свое путешествие к здоровью и фитнесу с Ninja Fit! Независимо от того, стремитесь ли вы похудеть, нарастить мышцы или поддерживать сбалансированный образ жизни, Ninja Fit предоставит персонализированные инструменты, которые помогут вам достичь ваших целей.",
+        "appUpdateTime": "2025-07-31T17:17:52+00:00"
+    },
+    {
         "appName": "Guitar Tabs | Premium\n| #Study",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/12/2f/1c/122f1c13-ce09-67bf-cb24-07dc99674b7c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "5.0 | 89.1 MB |",
@@ -5411,6 +5432,13 @@
         "appUpdateTime": "2025-06-01T13:24:32+00:00"
     },
     {
+        "appName": "Bodly | Premium\n| #Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/54/d1/2f54d164-5d9f-5116-8a90-fe22a6a16bb7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x0w.png",
+        "appVersion": "2.5.0 | 36.8 MB |",
+        "appDescription": "Bodly — это комплексный инструмент для отслеживания состава тела, фитнес-показателей и визуального прогресса с течением времени. Разработанный для людей на любом этапе их оздоровительного пути, Bodly поддерживает последовательный самоконтроль и помогает пользователям принимать обоснованные решения на основе реальных, измеримых изменений.",
+        "appUpdateTime": "2025-07-31T17:11:48+00:00"
+    },
+    {
         "appName": "365Scores | Premium\n| #Life",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/17/20/f7/1720f7f1-55d3-436a-b354-4fb265bfa230/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "5.9.10 | 50.3 MB |",
@@ -5523,6 +5551,13 @@
         "appUpdateTime": "2025-07-26T15:48:39+00:00"
     },
     {
+        "appName": "Детские игры | Premium\n| #Kids",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/f3/94/46f39408-55b3-c49f-6f31-885c2bda16bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
+        "appVersion": "10.09.22 | 681.4 MB |",
+        "appDescription": "500+ игр для 2,3,4-летних детей. Займите своих малышей 500+ различными развивающими детскими играми, которые помогут им учиться и совершенствовать свои навыки, весело проводя время.\n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2025-07-31T16:57:02+00:00"
+    },
+    {
         "appName": "Prequel | Hack\n| #Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/3f/a8/ad3fa823-9a7e-85e4-14a8-c4d08127f024/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/246x0w.png",
         "appVersion": "2.66.0 | 185.4 MB |",
@@ -5535,6 +5570,13 @@
         "appVersion": "1.0.28 | 125.9 MB |",
         "appDescription": "CARRION - это игра в жанре обратного хоррора, в которой вы берете на себя роль аморфного существа неизвестного происхождения. Преследуйте и пожирайте тех, кто заключил вас в тюрьму, чтобы посеять страх и панику во всем учреждении. \n\n▎Разблокирована полная версия",
         "appUpdateTime": "2024-11-01T19:27:12+00:00"
+    },
+    {
+        "appName": "Baby Farm | Premium\n| #Kids",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/62/c8/0762c818-4704-f9ad-9bb7-d1d5de890737/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
+        "appVersion": "1.01.06 | 142.2 MB |",
+        "appDescription": "Помогите вашему малышу открыть для себя радость игр с фермерскими животными с помощью Baby Farm: Kids Animal Games! Это яркое интерактивное приложение предлагает более 20 увлекательных образовательных игр, позволяющих малышам и маленьким детям исследовать красочный мир фермы, полный дружелюбных фермерских животных.\n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2025-07-31T17:03:29+00:00"
     },
     {
         "appName": "1998 Vintage Cam Premium\n| #Design",
@@ -5682,6 +5724,13 @@
         "appVersion": "1.00.01 | 261.8 MB |",
         "appDescription": "Ace Attorney Investigations: Miles Edgeworth переносит серию Ace Attorney из зала суда на место преступления, оставляя позади юридические баталии и перенося действие на различные места преступлений.\n\n▎Разблокированы все эпизоды",
         "appUpdateTime": "2025-01-04T14:07:27+00:00"
+    },
+    {
+        "appName": "Linga | Pro\n| #Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/99/99/e79999f0-1ef2-b3c6-92e0-f9a18628c9f5/AppIcon-prod-0-0-85-220-0-5-0-2x.png/246x0w.png",
+        "appVersion": "3.4.5 | 44 MB |",
+        "appDescription": "Мечтали ли вы когда-нибудь читать свои любимые книги на иностранном языке? Linga - ваш ключ к владению языком! Углубляйтесь в романы, постигайте тонкости и наращивайте словарный запас на каждой странице.",
+        "appUpdateTime": "2025-07-31T16:51:50+00:00"
     },
     {
         "appName": "Clarity Pro\n| #Other",
@@ -5875,9 +5924,9 @@
     {
         "appName": "Swipewipe | Premium\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/20/6c/bb206c23-f66d-ccad-94f6-0163d51e4c72/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "3.2.11 | 87.7 MB |",
+        "appVersion": "3.2.17 | 66.6 MB |",
         "appDescription": "Swipewipe - это приложение, которое поможет вам навести порядок в папке камер. ",
-        "appUpdateTime": "2025-06-25T09:14:02+00:00"
+        "appUpdateTime": "2025-07-31T15:46:16+00:00"
     },
     {
         "appName": "Lagguy Wallpapers | Pro\n| #Design",
@@ -7000,11 +7049,11 @@
         "appUpdateTime": "2023-04-07T08:31:00+00:00"
     },
     {
-        "appName": "Subway Surfers | VIP Hack\n| #Games",
+        "appName": "Subway Surfers | Hack\n| #Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f1/33/8b/f1338b6f-c6d9-9059-75c6-1de700e138f5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "3.41.0 | 149.9 MB |",
-        "appDescription": "Вся игровая валюта взломана на максимум.\n\n▎Создайте\\Войдите в аккаунт iOSGods для активации VIP",
-        "appUpdateTime": "2025-02-04T20:21:46+00:00"
+        "appVersion": "3.49.2 | 149.1 MB |",
+        "appDescription": "Вся игровая валюта взломана на максимум.\n\n▎Накручена валюта",
+        "appUpdateTime": "2025-07-31T15:35:18+00:00"
     },
     {
         "appName": "Blasphemous\n| #Games",
@@ -7023,9 +7072,9 @@
     {
         "appName": "Правда или Действие | Pro\n| #Games",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/81/64/16/8164168c-dec9-141f-bdda-b3282b83cfb8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "11.2.1 | 13.8 MB |",
+        "appVersion": "11.6.4 | 33.9 MB |",
         "appDescription": "Хотите весело провести время, узнать своих друзей получше? Или у вас вечеринка? Тогда эта игра для вас!",
-        "appUpdateTime": "2023-06-03T08:31:00+00:00"
+        "appUpdateTime": "2025-07-31T15:35:46+00:00"
     },
     {
         "appName": "Spy | Шпион\n| #Games",
