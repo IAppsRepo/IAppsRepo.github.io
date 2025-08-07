@@ -72,9 +72,9 @@
     {
         "appName": "TikTok | BH++\n| #Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/83/f9/ed83f971-1141-1e7e-787a-c54ae179c385/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "41.2.0 | 316.3 MB |",
+        "appVersion": "40.7.0 | 326 MB |",
         "appDescription": "Модификация TikTok без рекламы и другими улучшениями с обходом региона.\n\n▎Для просмотра новых видео: Настройки TikTok -> BHTikTok++ -> Активируйте \"Enable Region Changing\" и измените ниже регион. Перезапустите приложение, чтобы применить настройки.",
-        "appUpdateTime": "2025-08-05T17:10:15+00:00"
+        "appUpdateTime": "2025-08-06T14:35:23+00:00"
     },
     {
         "appName": "TikTok | BH Plus \n| #Video",
@@ -737,9 +737,9 @@
     {
         "appName": "Remini | ULTRA\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/fa/a5/2dfaa50e-c839-5aba-7715-f960f0b855ab/AppIcon-0-0-1x_U007epad-0-85-220.png/246x0w.png",
-        "appVersion": "2.10.142 | 69.7 MB |",
+        "appVersion": "2.10.131 | 153.7 MB |",
         "appDescription": "Превратите свои старые размытые фотографии в великолепное, чёткое изображение в формате HD всего одним касанием.\n\n▎Активирована подписка\n▎Безлимитное сохранение улучшенных фото \n▎Удалены Watermark'и в категории \"AI-Фото\"\n▎Уменьшена Watermark'a в категории \"AI-Фильтры\"\n▎Качество улучшений фото 100% вместо стандартных 80%",
-        "appUpdateTime": "2025-08-05T16:27:24+00:00"
+        "appUpdateTime": "2025-08-07T00:09:24+00:00"
     },
     {
         "appName": "VSCO | Pro\n| #Design",
@@ -4620,6 +4620,13 @@
         "appUpdateTime": "2023-04-13T08:31:00+00:00"
     },
     {
+        "appName": "Titan Quest Ultimate Edition\n| #Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/d9/bc/6fd9bc7e-6eef-b8f1-7be4-d2243d9e75b8/AppIcon_Ultimate-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        "appVersion": "3.0.5339 | 2.9 GB |",
+        "appDescription": "Эпическая битва титанов! Самая полная версия.\n\n▎Русская озвучка\n▎Доступны все DLC\n▎Исправлена работа на сертификатах",
+        "appUpdateTime": "2025-08-07T15:35:36+00:00"
+    },
+    {
         "appName": "Шульте! | Hack\n| #Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/60/07/b06007f4-9013-84c7-dc8f-8814cc18b4c5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         "appVersion": "2.1.5 | 6.2 MB |",
@@ -7285,13 +7292,6 @@
         "appVersion": "1.1.10 | 435.3 MB |",
         "appDescription": "Откройте для себя увлекательный мир фермерства с Farming Simulator 20! Собирайте урожай различных культур и заботьтесь о свиньях, коровах и овцах. Теперь вы даже можете завести лошадей и исследовать на них земли вокруг своей фермы.\n▎Для взлома валюты в игре начните покупку контента, во время появления окна нажмите ʼОтменаʼ, покупка будет взломана.",
         "appUpdateTime": "2022-06-16T08:31:00+00:00"
-    },
-    {
-        "appName": "Titan Quest LE | Русская озвучка\n| #Games",
-        "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/53/39/8f533932-5d06-4566-44c6-dd2782861257/AppIcon_FullEdition-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "2.10.4 | 3.6 GB |",
-        "appDescription": "Эпическая битва титанов! Самая полная версия.\nЕсли вы хотите добавить доп. DLC читайте инструкцию на канале.",
-        "appUpdateTime": "2022-06-24T08:31:00+00:00"
     },
     {
         "appName": "Crossy Castle | Arcade\n| #Games",
