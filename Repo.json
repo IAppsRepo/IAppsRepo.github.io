@@ -65,9 +65,16 @@
     {
         "appName": "Swiftgram | TGExtra\n| #Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/3f/8f/c13f8f03-5761-cd9c-cd4d-c11390460ad4/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/246x0w.png",
-        "appVersion": "11.14 | 1.3.1 | 72.2 MB |",
+        "appVersion": "11.14 | 1.4 | 72.8 MB |",
         "appDescription": "Модификация телеграм клиент Swiftgram\n\nВозможности: Оффлайн, нечиталка, подмена локации, нет рекламы, скрины в секретных чатах\\каналах, работает отправка файлов.\n\n▎Чтобы перейти в настройки TGExtra нажмите 5 раз на кнопку \"Чаты\"\n▎Если не прогружаются сообщения - отключите опцию \"Разрешить сохранение защищенного контента\" в настройках TGExtra\n▎Для нормальной работы уведомлений требуется сертификат с поддержкой плагинов (iApps от 7.12.24)",
-        "appUpdateTime": "2025-08-05T17:12:50+00:00"
+        "appUpdateTime": "2025-08-10T13:34:27+00:00"
+    },
+    {
+        "appName": "Swiftgram | Dark | TGExtra\n| #Social",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/dertzx/swiftdark.png",
+        "appVersion": "11.8.1 | 92.3 MB |",
+        "appDescription": "Модифицированный клиент Telegram.\n\n▎Работает функция сохранения защищенного контента в приватных каналах\\чатах\n▎Чтобы перейти в настройки мода: Нажмите 5 раз подряд на кнопку \"Чаты\" в таббаре.",
+        "appUpdateTime": "2025-08-10T13:46:25+00:00"
     },
     {
         "appName": "TikTok | BH++\n| #Video",
@@ -351,10 +358,10 @@
     },
     {
         "appName": "iTorrent\n| #Network",
-        "appImage": "https://ds-blobs-3.cdn.devapps.ru/17036084.png",
-        "appVersion": "1.9 | 18.3 MB |",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/dertzx/itorrent.png",
+        "appVersion": "2.0.14 | 7 MB |",
         "appDescription": "Torrent клиент для iOS.",
-        "appUpdateTime": "2024-01-03T20:44:38+00:00"
+        "appUpdateTime": "2025-08-10T13:29:57+00:00"
     },
     {
         "appName": "ES File Explorer | Premium\n| #Other #Office",
@@ -499,9 +506,9 @@
     {
         "appName": "Vpnify | Premium\n| #Network",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/48/13/b8/4813b82e-901c-b834-73ef-b0c41e85ae27/AppIcon-0-85-220-0-4-2x.png/246x0w.png",
-        "appVersion": "2.3.35 | 31.5 MB |",
+        "appVersion": "2.3.40 | 33.7 MB |",
         "appDescription": "Приложение VPN.",
-        "appUpdateTime": "2025-05-12T15:47:54+00:00"
+        "appUpdateTime": "2025-08-10T13:22:35+00:00"
     },
     {
         "appName": "Remember | Pro\n| #Study",
@@ -978,6 +985,13 @@
         "appVersion": "1.0.2 | 42.7 MB |",
         "appDescription": "Революционный чат-бот с искусственным интеллектом, работающий на ChatGPT.\n\n▎Эксклюзив iApps Store!",
         "appUpdateTime": "2023-07-11T08:31:00+00:00"
+    },
+    {
+        "appName": "LTX Buzz | AI Generator | Premium\n| #Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/b3/6a/6ab36a50-43e7-9bb0-01eb-10896c9c899c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/217x0w.png",
+        "appVersion": "1.6 | 111.8 MB |",
+        "appDescription": "Встречайте LTX Buzz -  на базе искусственного интеллекта LTX AI, который превращает изображения в видео, воплощает идеи в жизнь с помощью преобразования текста в изображение и применяет популярные пресеты AI, которые стимулируют творчество и доставляют удовольствие.",
+        "appUpdateTime": "2025-08-10T14:08:13+00:00"
     },
     {
         "appName": "SongShift | Pro\n| #Music",
@@ -2891,11 +2905,11 @@
         "appUpdateTime": "2024-06-28T20:13:21+00:00"
     },
     {
-        "appName": "Infuse | Pro\n| #Video",
+        "appName": "Infuse | Plus\n| #Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fa/cb/63/facb63d3-8799-940b-d9cc-f9d2c2f6d934/AppIconMac-0-2x_U007euniversal-0-4-0-0-0-85-220-0.png/230x0w.png",
-        "appVersion": "8.1.6 | 68.7 MB |",
+        "appVersion": "8.2 | 68.7 MB |",
         "appDescription": "Самый лучший медиаплеер в App Store.\n\n▎Актвирована подписка\n▎Работает выбор файлов",
-        "appUpdateTime": "2025-05-16T15:10:50+00:00"
+        "appUpdateTime": "2025-08-10T13:32:55+00:00"
     },
     {
         "appName": "Zeta | Premium\n| #Design",
