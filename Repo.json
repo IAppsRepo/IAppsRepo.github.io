@@ -2,9 +2,16 @@
     {
         "appName": "iApps Test\n| #Other",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/sign/iapps_logo.jpeg?raw=true",
-        "appVersion": "1.0 | 2.1 MB |",
+        "appVersion": "1.0 | 2 MB |",
         "appDescription": "Приложение пустышка для прохождения авторизации iApps, если в другом приложении вы испытываете проблемы. После успешного прохождения приложение можно удалить.\n\nAn app to pass iApps authorization if you are having problems in another app. You can uninstall the app after successful authorization.",
         "appUpdateTime": "2025-02-05T21:29:45+00:00"
+    },
+    {
+        "appName": "YouTube | Plus\n| #Video",
+        "appImage": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
+        "appVersion": "20.32.4 | 5.2b3 | 115.5 MB |",
+        "appDescription": "Модификация YouTube \n\n▎Быстрая загрузка медиа(включая 2К\\4К)\n▎Настройки интерфейса, управление жестами\n▎Без рекламы, пропуск рекламы внутри видео\n▎Многое другое...",
+        "appUpdateTime": "2025-08-11T02:14:33+00:00"
     },
     {
         "appName": "Instagram | Regram | Stable\n| #Social",
@@ -33,13 +40,6 @@
         "appVersion": "391 | 2.4.6 | 236.3 MB |",
         "appDescription": "Модифицированный клиент Instagram\nВозможности: анонимный просмотр историй\\директ\\эфиров, загрузка медиа, удалена реклама и другое.\n\n▎Активирована лицензия DL\n▎Зажмите кнопку \"домика\" чтобы перейти в настройки мода.",
         "appUpdateTime": "2025-08-05T17:12:19+00:00"
-    },
-    {
-        "appName": "YouTube | Plus\n| #Video",
-        "appImage": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
-        "appVersion": "20.29.3 | 5.2b2 | 115.4 MB |",
-        "appDescription": "Модификация YouTube \n\n▎Быстрая загрузка медиа(включая 2К\\4К)\n▎Настройки интерфейса, управление жестами\n▎Без рекламы, пропуск рекламы внутри видео\n▎Многое другое...",
-        "appUpdateTime": "2025-07-26T11:25:05+00:00"
     },
     {
         "appName": "YouTube | DL Hack\n| #Video",
@@ -3955,6 +3955,13 @@
         "appUpdateTime": "2025-08-05T17:04:59+00:00"
     },
     {
+        "appName": "Альтушка для скуфа\n| #Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/e5/8c/f7e58c39-9df1-13ce-e375-0c29374b42c5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/246x0w.png",
+        "appVersion": "1.6.2 | 1.4 GB |",
+        "appDescription": "Иммерсивный симулятор скуфа от первого лица в формате визуальной новеллы, собранный на коленке за месяц - лучшее, что можно получить в жанре за эти деньги.",
+        "appUpdateTime": "2025-08-13T13:28:54+00:00"
+    },
+    {
         "appName": "Stop Motion Studio | Premium\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c6/56/b7/c656b782-63a2-d80b-a630-66a11e8c7499/contsched.cepmjhwe.jpeg/246x0w.jpg",
         "appVersion": "24.12.8842 | 143.2 MB |",
@@ -5591,6 +5598,13 @@
         "appVersion": "5.310 | 45.8 MB |",
         "appDescription": "Превратите iPhone в мощный пульт для управления компьютером.",
         "appUpdateTime": "2025-08-05T16:32:23+00:00"
+    },
+    {
+        "appName": "Night Book | Full Game\n| #Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/60/91/5a6091ea-f45b-c21f-9c46-b0c41f38319c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
+        "appVersion": "1.2 | 2 GB |",
+        "appDescription": "Night Book — это интерактивный триллер о переводчице, которую втянули в чтение древней книги, вызывающей демона.\n\n▎Разблокирована полная версия",
+        "appUpdateTime": "2025-08-13T13:31:52+00:00"
     },
     {
         "appName": "Prequel | Hack\n| #Design",
@@ -9058,6 +9072,13 @@
         "appUpdateTime": "2023-08-21T17:10:30+00:00"
     },
     {
+        "appName": "Alto's Odyssey — Remastered\n| #Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/84/b1/fe84b18d-8e8c-0739-0d79-28d87cda059a/PlayerIcon.png/246x0w.png",
+        "appVersion": "1.1.7 | 136.8 MB |",
+        "appDescription": "Присоединяйтесь к Альто и его друзьям в бесконечном сэндбординге, чтобы найти Затерянный город и раскрыть его тайны. Парите над продуваемыми ветрами дюнами, пересекайте захватывающие каньоны, исследуйте древние храмы и погружайтесь в огромные пещеры в этом фантастическом месте столь далёком от дома.",
+        "appUpdateTime": "2025-08-13T13:24:14+00:00"
+    },
+    {
         "appName": "After Inc. | Hack In-App\n| #Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/20/90/21209065-a869-e7de-d050-fb9fad724bea/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         "appVersion": "1.0.8 | 105.8 MB |",
@@ -9238,6 +9259,13 @@
         "appVersion": "1.3.0 | 168.6 MB |",
         "appDescription": "Подборка самых популярных игр в мире.",
         "appUpdateTime": "2024-03-29T11:15:24+00:00"
+    },
+    {
+        "appName": "Alto's Adventure Remastered \n| #Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/91/7b/52/917b52fa-562e-1e1f-3581-312f1269a330/PlayerIcon.png/246x0w.png",
+        "appVersion": "1.0.7 | 89 MB |",
+        "appDescription": "Отправьтесь вместе с Alto и его друзьями в бесконечное путешествие на сноуборде: по прекрасным и диким горам, по сонным деревушкам, древним лесам и давно забытым развалинам. Ведь только так вы сможете найти Духа горы.",
+        "appUpdateTime": "2025-08-13T13:21:56+00:00"
     },
     {
         "appName": "Akinator VIP\n| #Games",
