@@ -128,9 +128,9 @@
     {
         "appName": "Nicegram | Premium\n| #Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/4f/e8/b44fe8b7-408c-4d9f-2f1e-5a8d864ee53c/AppIconLLC-0-0-1x_U007epad-0-0-85-220.png/246x0w.png",
-        "appVersion": "2.0.6 | 119.2 MB |",
-        "appDescription": "Альтернативный клиент Телеграмм c дополнительными функциями.\n\n▎Запись Telegram-звонков\n▎Удобный и быстрый перевод постов/сообщений;\n▎Скриншоты в секретных чатах без уведомления(от iApps)",
-        "appUpdateTime": "2025-05-03T17:32:20+00:00"
+        "appVersion": "2.2.0 | 121.8 MB |",
+        "appDescription": "Альтернативный клиент Телеграмм c дополнительными функциями.\n\n▎Запись Telegram-звонков\n▎Удобный и быстрый перевод постов/сообщений;\n▎Скриншоты в секретных чатах без уведомления(от iApps)\n▎Скриншоты в приватных каналах(от iApps)",
+        "appUpdateTime": "2025-08-16T10:23:04+00:00"
     },
     {
         "appName": "iMe | Premium+\n| #Social",
@@ -247,9 +247,9 @@
     {
         "appName": "FreeYourMusic | Premium\n| #Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/98/43/96984390-bd38-bb25-e46f-cf183469abce/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "9.14.0 | 27.2 MB |",
+        "appVersion": "9.15 | 27.2 MB |",
         "appDescription": "Одно из лучших приложений в мире по переносу песен между музыкальными сервисами. Поддерживаются все популярные сервисы, в том числе российские.\n\n▎Активирована подписка.\n▎Сняты лимиты на перенос музыки.",
-        "appUpdateTime": "2025-05-24T16:25:42+00:00"
+        "appUpdateTime": "2025-08-16T10:05:17+00:00"
     },
     {
         "appName": "Melodius\n| #Music",
@@ -429,9 +429,9 @@
     {
         "appName": "Busuu | Premium\n| #Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/73/c6/4973c6d2-2d6a-1271-17c5-e1c5b5509576/AppIcon-0-1x_U007emarketing-0-7-0-0-0-85-220.png/246x0w.png",
-        "appVersion": "29.5.0 | 175.5 MB |",
+        "appVersion": "29.14.0 | 143.8 MB |",
         "appDescription": "Приложение для узучения различных языков.\n\n▎Авторизация через почту или Facebook.",
-        "appUpdateTime": "2025-06-08T15:50:38+00:00"
+        "appUpdateTime": "2025-08-16T10:29:18+00:00"
     },
     {
         "appName": "Laoshi | Plus\n| #Study",
@@ -471,9 +471,9 @@
     {
         "appName": "Redict | Premium\n| #Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/a6/8b/61a68b25-e028-f9a6-d570-36147d9b2dbe/AppIcon-0-0-2x_U007euniversal-0-4-0-85-220.png/246x0w.png",
-        "appVersion": "13.7.1 | 144.5 MB |",
+        "appVersion": "13.8.7 | 162.3 MB |",
         "appDescription": "Всё, что нужно для качественного перевода и систематического изучения новых слов, - в одном приложении.\nСложно с английским? Проявите инициативу. Подстройте изучение языка под свои интересы.",
-        "appUpdateTime": "2024-01-03T20:52:45+00:00"
+        "appUpdateTime": "2025-08-16T10:28:40+00:00"
     },
     {
         "appName": "Memo | Pro\n| #Study",
@@ -723,16 +723,16 @@
     {
         "appName": "FatSecret | Premium\n| #Life",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/3d/d1/d23dd1a5-dbc6-687b-a145-f423de4ce326/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "9.40 | 48.5 MB |",
+        "appVersion": "9.44.1 | 74.4 MB |",
         "appDescription": "Счетчик Калорий от FatSecret является неотъемлемым приложением, чтобы просто найти информацию о питательной ценности пищевых продуктов, которые Вы едите, а также легко отслеживать ваши блюда, физические упражнения и вес.\n\n▎Недоступно создание планов питания.",
-        "appUpdateTime": "2025-01-18T16:53:31+00:00"
+        "appUpdateTime": "2025-08-16T10:09:12+00:00"
     },
     {
         "appName": "Fasting | Premium\n| #Life",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/9e/d6/31/9ed6319d-2898-66f5-9276-01ff62d326e3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.9.8 | 304.6 MB |",
+        "appVersion": "2.2.0 | 331.6 MB |",
         "appDescription": "Приложение для похудения.",
-        "appUpdateTime": "2025-02-17T08:53:30+00:00"
+        "appUpdateTime": "2025-08-16T10:06:57+00:00"
     },
     {
         "appName": "Daily Yoga | Premium \n| #Life",
@@ -751,9 +751,9 @@
     {
         "appName": "VSCO | Pro\n| #Design",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/a2/c8/8fa2c888-8e1d-3440-82fa-19eacfb3dfac/app-icon-production-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "426 | 216.5 MB |",
+        "appVersion": "434.0.3 | 225.5 MB |",
         "appDescription": "Идеальный инструмент для творческого редактирования фото и видео.\n\n▎Для авторизации используйте Facebook или номер телефона!\n▎Некоторые фильтры могут быть с замками, они так же доступны.",
-        "appUpdateTime": "2025-06-08T15:48:17+00:00"
+        "appUpdateTime": "2025-08-16T10:01:23+00:00"
     },
     {
         "appName": "VPN Snake | Pro\n| #Network",
@@ -884,9 +884,9 @@
     {
         "appName": "RemixLive | Premium\n| #Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f3/16/2f/f3162f1e-2f8c-de20-d31f-eb987b23d877/AppIcon-Remixlive-0-2x-4-0-85-220.png/246x0w.png",
-        "appVersion": "8.3.1 | 43.7 MB |",
+        "appVersion": "8.4.3 | 46.3 MB |",
         "appDescription": "Узнайте, как создавать ритм с помощью наших новых учебников от продюсера Надии Струйвиг. Следуйте её руководству для создания, ремикса и публикации вашей музыки!\nRemixlive — идеальное приложение для создания битов и живых выступлений для продюсеров и ди-джеев.\n",
-        "appUpdateTime": "2025-02-09T12:32:04+00:00"
+        "appUpdateTime": "2025-08-16T10:04:44+00:00"
     },
     {
         "appName": "Glitche | Pro\n| #Design",
@@ -1136,9 +1136,9 @@
     {
         "appName": "Filmora | Premium\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/a4/84/13a484d8-9f75-de65-4e01-f0bca900ca9a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220-0.png/246x0w.png",
-        "appVersion": "14.4.26 | 240.5 MB |",
-        "appDescription": "Filmora AI - это видеоредактор и создатель фильмов на основе искусственного интеллекта, с функциями преобразования текста в видео, текста в речь, речи в текст и т.д.! Лучший выбор для создания видео, роликов, влогов и короткометражек!\n\n▎Войдите в аккаунт для активации подписки\n▎Функция \"текст в видео\" может не работать",
-        "appUpdateTime": "2025-02-17T08:51:49+00:00"
+        "appVersion": "14.9 | 380.2 MB |",
+        "appDescription": "Filmora AI - это видеоредактор и создатель фильмов на основе искусственного интеллекта, с функциями преобразования текста в видео, текста в речь, речи в текст и т.д.! Лучший выбор для создания видео, роликов, влогов и короткометражек!\n\n▎Войдите в аккаунт для активации подписки\n▎Функции AI и  \"текст в видео\" может не работать",
+        "appUpdateTime": "2025-08-16T10:00:51+00:00"
     },
     {
         "appName": "Photo Sherlock | Hack\n| #Other",
@@ -1920,9 +1920,9 @@
     {
         "appName": "Shapr3D | Pro\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/54/5b/57545bd3-2fbe-3798-bdbb-90e41831be70/AppIcon-0-0-2x_U007euniversal-0-4-0-85-220.png/246x0w.png",
-        "appVersion": "5.870 | 1.3 GB |",
+        "appVersion": "5.921 | 1.2 GB |",
         "appDescription": "Оцените невероятную гибкость проектов в Shapr3D, реалистичные средства просмотра и единый рабочий процесс с момента создания эскизов до получения готовых к производству 3D-моделей.",
-        "appUpdateTime": "2025-06-01T13:15:59+00:00"
+        "appUpdateTime": "2025-08-16T10:04:00+00:00"
     },
     {
         "appName": "FlipaClip | Plus\n| #Design",
@@ -2095,9 +2095,9 @@
     {
         "appName": "Рэй Экзамен ПДД | Premium\n| #Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/60/7d/eb607d6a-3597-9411-f356-87aa79003c5b/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "2.137 | 32.5 MB |",
+        "appVersion": "2.139 | 40.1 MB |",
         "appDescription": "Подготовка к экзамену ГИБДД.\n",
-        "appUpdateTime": "2025-02-23T18:37:42+00:00"
+        "appUpdateTime": "2025-08-16T10:28:03+00:00"
     },
     {
         "appName": "ПДР Тести Україна\n| #Study",
@@ -2515,9 +2515,9 @@
     {
         "appName": "Kino - Pro Video Camera\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/5a/c1/2c5ac1e4-e0eb-fa2d-e522-c1e62bb81b95/AppIcon-1x_U007ephone-0-0-0-sRGB-85-220-0.jpeg/246x0w.jpg",
-        "appVersion": "1.2.1 | 35.4 MB |",
+        "appVersion": "1.3 | 35.6 MB |",
         "appDescription": "Делайте отличное видео легко! Kino позволяет просто нажать кнопку записи и создать кинематографическое видео с цветовыми предустановками, созданными экспертами-кинематографистами, без необходимости редактирования. Кроме того, благодаря функции \"Автодвижение\" приложение автоматически создает плавные движения, которые вы видите в кино. Снимайте отличное видео, не имея специального образования.",
-        "appUpdateTime": "2024-12-31T03:45:14+00:00"
+        "appUpdateTime": "2025-08-16T09:59:14+00:00"
     },
     {
         "appName": "Sonic | Premium\n| #Other",
@@ -2585,9 +2585,9 @@
     {
         "appName": "Thenx | Pro\n| #Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/5a/c8/815ac8d1-e1fc-7ed6-fe61-29a9ef9a91ce/AppIcon-0-0-1x_U007epad-0-0-85-220.png/246x0w.png",
-        "appVersion": "5.7.2 | 83.4 MB |",
+        "appVersion": "6.4.1 | 120.7 MB |",
         "appDescription": "Программа Thenx разработана для того, чтобы научить любого человека техникам и знаниям о тренировках. Эти программы были проверены и разработаны в течение многих лет профессиональными инструкторами и спортсменами, чтобы обеспечить наиболее прямой и простой формат для достижения высоких результатов в калистенической физической подготовке и способностях.",
-        "appUpdateTime": "2024-12-31T03:47:22+00:00"
+        "appUpdateTime": "2025-08-16T10:08:29+00:00"
     },
     {
         "appName": "Счетчики ЖКХ | Premium\n| #Other",
@@ -2877,11 +2877,11 @@
         "appUpdateTime": "2025-04-30T15:36:17+00:00"
     },
     {
-        "appName": "Тести ПДР | Premium\n| #Study",
+        "appName": "Vodiy UA | Тести ПДР | Premium\n| #Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/29/b5/2129b523-34d1-46fe-b2d7-1329e321829b/AppIcon-0-0-1x_U007epad-0-0-85-220.png/246x0w.png",
-        "appVersion": "3.2.22 | 186.6 MB |",
+        "appVersion": "3.2.28 | 184.5 MB |",
         "appDescription": "Тести ПДР з поясненнями містять усі офіційні тестові питання, що використовуються у ТСЦ МВС України станом на 2024 рік. База питань постійно оновлюється.\n\n▎Увійдіть в аккаунт та перевідкрийте додаток для активації Premium",
-        "appUpdateTime": "2025-02-22T16:57:07+00:00"
+        "appUpdateTime": "2025-08-16T10:27:34+00:00"
     },
     {
         "appName": "Liit | Pro\n| #Design",
@@ -2907,9 +2907,9 @@
     {
         "appName": "Infuse | Plus\n| #Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fa/cb/63/facb63d3-8799-940b-d9cc-f9d2c2f6d934/AppIconMac-0-2x_U007euniversal-0-4-0-0-0-85-220-0.png/230x0w.png",
-        "appVersion": "8.2 | 68.7 MB |",
+        "appVersion": "8.2.2 | 68.8 MB |",
         "appDescription": "Самый лучший медиаплеер в App Store.\n\n▎Актвирована подписка\n▎Работает выбор файлов",
-        "appUpdateTime": "2025-08-10T13:32:55+00:00"
+        "appUpdateTime": "2025-08-16T10:02:20+00:00"
     },
     {
         "appName": "Zeta | Premium\n| #Design",
@@ -3022,6 +3022,13 @@
         "appVersion": "1.1.30 | 78.8 MB |",
         "appDescription": "CapWords делает изучение нового языка таким же естественным, как простое наблюдение за окружающим миром. Сделайте снимок любого объекта — вывески, закуски, игрушки — и мгновенно получите его название и пример предложения на 10 языках.",
         "appUpdateTime": "2025-07-31T17:20:15+00:00"
+    },
+    {
+        "appName": "Paste | Буфер обмена\n| #Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/ca/9e/0aca9ec2-e302-a56d-5097-7ac788ed2c6d/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/246x0w.png",
+        "appVersion": "5.0.8 | 75.7 MB |",
+        "appDescription": "Paste хранит все, что вы копируете на  iPhone и iPad, — так что это всегда под рукой, когда вам нужно. От текста и ссылок до изображений и прочего. \n\n▎Требуется сертификат с поддержкой плагинов(iApps от 7.12.24)\n▎Активирована подписка",
+        "appUpdateTime": "2025-08-16T10:45:01+00:00"
     },
     {
         "appName": "PicSee | Pro\n| #Design",
@@ -3600,9 +3607,9 @@
     {
         "appName": "Uplens | Pro\n| #Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/42/2c/d7/422cd7c1-8144-a796-8dd6-d9160679fab7/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/246x0w.png",
-        "appVersion": "3.2.9 | 180.4 MB |",
+        "appVersion": "3.2.10 | 177.1 MB |",
         "appDescription": "Uplens — это совершенный мобильный фото и видео редактор, работающий на базе искусственного интеллекта и разработанный, чтобы помочь вам делать идеальные селфи и создавать потрясающие визуальные эффекты всего за несколько нажатий.\n\n▎Откройте и перезапустите приложение для активации подписки",
-        "appUpdateTime": "2025-08-05T16:25:09+00:00"
+        "appUpdateTime": "2025-08-16T09:58:46+00:00"
     },
     {
         "appName": "Live Wallpapers Premium\n| #Other",
@@ -3689,11 +3696,11 @@
         "appUpdateTime": "2023-10-12T13:20:40+00:00"
     },
     {
-        "appName": "Calories AI | Premium\n| #Life",
+        "appName": "Calz AI | Premium\n| #Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/82/fb/d282fbca-78b9-ebe0-6d7f-4bb53f6b5392/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x0w.png",
-        "appVersion": "1.11 | 73.5 MB |",
+        "appVersion": "1.14.7 | 80.2 MB |",
         "appDescription": "Счётчик Калорий ИИ – Ваш умный помощник в питании\n\nГотовы взять под контроль свой рацион без лишних усилий? Представляем Счётчик Калорий ИИ – революционное приложение, использующее передовые технологии искусственного интеллекта, чтобы помочь вам отслеживать потребление калорий за считанные секунды. Просто наведите камеру на блюдо, и приложение сделает всё остальное. Начните свой путь к здоровому питанию уже сегодня!",
-        "appUpdateTime": "2025-06-11T15:47:37+00:00"
+        "appUpdateTime": "2025-08-16T10:09:53+00:00"
     },
     {
         "appName": "Adobe Express | Premium\n| #Design",
@@ -4321,9 +4328,9 @@
     {
         "appName": "WPS Office | VIP\n| #Office",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/2b/3f/3c2b3f8d-9fc7-c3fd-10f0-ed3ad7ca7d8c/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-0-85-220.png/246x0w.png",
-        "appVersion": "11.33.40 | 219.2 MB |",
-        "appDescription": "WPS Office - это все в одном офисном пакете, который поддерживает: Word, Spreadsheet, Powerpoint, PDF, WPS AI, Memo и Docs Scanner в одном приложении, и полностью совместим с форматами Microsoft Word, Excel, PowerPoint, Google Docs и Adobe PDF.",
-        "appUpdateTime": "2023-09-26T14:35:00+00:00"
+        "appVersion": "11.35 | 284.2 MB |",
+        "appDescription": "WPS Office - это все в одном офисном пакете, который поддерживает: Word, Spreadsheet, Powerpoint, PDF, WPS AI, Memo и Docs Scanner в одном приложении, и полностью совместим с форматами Microsoft Word, Excel, PowerPoint, Google Docs и Adobe PDF.\n\n▎Войдите в аккаунт для активации подписки\n▎Функции AI недоступны",
+        "appUpdateTime": "2025-08-16T10:30:22+00:00"
     },
     {
         "appName": "Loopsie AI | Pro*\n| #Design",
@@ -4352,6 +4359,13 @@
         "appVersion": "0.0.366 | 74.4 MB |",
         "appDescription": "Приготовьтесь выучить язык с помощью практических уроков и улучшить свое произношение в рекордно короткие сроки. С Falou вы быстро обретете уверенность в реальном общении на английском, испанском, французском, немецком, корейском, китайском, русском и других языках.",
         "appUpdateTime": "2025-06-01T13:18:27+00:00"
+    },
+    {
+        "appName": "Thera AI | Premium\n| #Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/f0/34/0ff034b8-2c43-3e1c-9e7b-78aff9b849e6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/246x0w.png",
+        "appVersion": "2.109.0 | 30.5 MB |",
+        "appDescription": "Thera - инструмент для письменных практик и самопомощи. Цель дневника - вдохновить на использование потенциала путём осознания мыслей и анализа действий и как результат - стать счастливее.\n\n▎Откажитесь от предложений купить подписку - все уже активировано.",
+        "appUpdateTime": "2025-08-16T10:40:39+00:00"
     },
     {
         "appName": "Mondly | Premium\n| #Study",
@@ -4513,6 +4527,13 @@
         "appVersion": "10.78 | 89.5 MB |",
         "appDescription": "Взгляните на мир с высоты благодаря спутниковым снимкам высокого разрешения, посмотрите на 3D-рельеф и здания в сотнях городов и совершите путешествие по улицам и районам, используя возможности кругового обзора в Просмотре улиц.\n\n▎Не имеет модификаций\n▎Недоступно в AppStore РФ",
         "appUpdateTime": "2025-04-30T15:43:18+00:00"
+    },
+    {
+        "appName": "VESC Tool\n| #Travel",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/9f/b2/a69fb2e0-6ffa-86dd-d158-7ea481008202/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        "appVersion": "6.05.1 | 82.7 MB |",
+        "appDescription": "Это мобильная версия VESC Tool, которую можно использовать для настройки оборудования на базе VESC через BLE. Ее также можно использовать для регистрации данных о поездке, обновления прошивки, переключения профилей поездки, просмотра состояния батареи и редактирования настроек на ходу!",
+        "appUpdateTime": "2025-08-16T10:38:04+00:00"
     },
     {
         "appName": "Три кота: Игры для детей | Hack\n| #Kids",
@@ -5840,9 +5861,9 @@
     {
         "appName": "Windy.app | Pro\n| #Travel",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/20/11/d42011b0-b9be-b5c4-0d52-a700a27000f2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "15.0.0 | 262.4 MB |",
+        "appVersion": "15.2.4 | 247.3 MB |",
         "appDescription": "Точный прогноз погоды для любой точки мира.",
-        "appUpdateTime": "2025-03-06T00:23:37+00:00"
+        "appUpdateTime": "2025-08-16T10:05:58+00:00"
     },
     {
         "appName": "Mercury | Premium\n| #Travel",
@@ -6466,6 +6487,13 @@
         "appVersion": "4.29.0 | 461.8 MB |",
         "appDescription": "Brickit подсказывает, как собрать новые штуки из старых деталей Lego!",
         "appUpdateTime": "2024-11-10T15:49:58+00:00"
+    },
+    {
+        "appName": "Monly | Plus\n| #Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/c8/81/58c8818f-f218-e1a3-15ad-4ff5087b4d51/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/246x0w.png",
+        "appVersion": "2.3.9 | 270.2 MB |",
+        "appDescription": "Обретите гармонию с природой и ритмами Луны вместе с Moonly — вашим личным помощником в мире осознанности, самопознания и древних традиций.\n\n▎Нажмите \"восстановить\" при первоначальной настройке, чтобы активировать подписку",
+        "appUpdateTime": "2025-08-16T10:34:15+00:00"
     },
     {
         "appName": "Россельхозбанк\n| #Money",
