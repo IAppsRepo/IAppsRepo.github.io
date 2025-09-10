@@ -79,9 +79,9 @@
     {
         "appName": "TikTok | BH++\n#Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/83/f9/ed83f971-1141-1e7e-787a-c54ae179c385/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "40.7.0 | 548.8 MB | iOS 12.0 | ",
-        "appDescription": "Модификация TikTok без рекламы и другими улучшениями с обходом региона.\n\n▎Для просмотра новых видео: Настройки TikTok -> BHTikTok++ -> Активируйте \"Enable Region Changing\" и измените ниже регион. Перезапустите приложение, чтобы применить настройки.",
-        "appUpdateTime": "2025-08-06T14:35:23+00:00"
+        "appVersion": "41.6.0 | 548.8 MB | iOS 12.0 | ",
+        "appDescription": "Модификация TikTok без рекламы и другими улучшениями с обходом региона.\n\n▎Для просмотра новых видео: Настройки TikTok -> BHTikTok++ -> Активируйте \"Enable Region Changing\" и измените ниже регион. Перезапустите приложение, чтобы применить настройки.\n▎Поддерживает iOS 26",
+        "appUpdateTime": "2025-09-10T06:55:05+00:00"
     },
     {
         "appName": "TikTok | BH Plus \n#Video",
@@ -238,13 +238,6 @@
         "appUpdateTime": "2023-10-02T11:23:53+00:00"
     },
     {
-        "appName": "Deezer | Premium\n#Music",
-        "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/5a/f9/47/5af947c3-e9b4-5d49-166b-d202cff402de/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/246x0w.png",
-        "appVersion": "8.38.0 | 127.3 MB | iOS 12.0 | ",
-        "appDescription": "Стриминговый сервис лицензионной музыки со взломанной премиум подпиской и возможностью загрузки в кэш.\n\n▎Может не работать вход через Google.\n▎В РФ работает только с VPN с изменением региона через веб-версию.",
-        "appUpdateTime": "2023-11-02T19:29:43+00:00"
-    },
-    {
         "appName": "FreeYourMusic | Premium\n#Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/98/43/96984390-bd38-bb25-e46f-cf183469abce/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "9.15 | 63.4 MB | iOS 15.5 | ",
@@ -315,13 +308,6 @@
         "appUpdateTime": "2025-08-22T14:19:55+00:00"
     },
     {
-        "appName": "FaceApp | Pro\n#Design",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/94/53/479453e7-5a49-94bf-ec30-d61f4f6411db/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/246x0w.png",
-        "appVersion": "12.8.0 | 161.5 MB | iOS 15.0 | ",
-        "appDescription": "Фантастический набор фильтров, фонов, эффектов и других инструментов для удобного фотореалистичного редактирования фото ОДНИМ НАЖАТИЕМ.\n\n▎Взлом нестабильный!!! Периодами у большинства может выдавать ошибку при обработке фото.",
-        "appUpdateTime": "2024-12-03T22:18:37+00:00"
-    },
-    {
         "appName": "Scanner Pro | Plus\n#Office",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/e1/6c/2de16cf9-7515-433f-7d94-91d4bc4dd510/ScannerPro-1x_U007emarketing-0-6-0-0-85-220.png/246x0w.png",
         "appVersion": "8.13.3 | 176.9 MB | iOS 14.0 | ",
@@ -380,7 +366,7 @@
     {
         "appName": "OttPlayer\n#Video",
         "appImage": "https://play-lh.googleusercontent.com/9UNJTkHxxEmgHlbFehlApX0YUXhkqtsNYEIo8XTAbwH_TXwS2Sz-bIeOGOSH084b05I=w480-h960",
-        "appVersion": "8.0.7 | 10.5 MB | ",
+        "appVersion": "8.0.7 | 10.5 MB | iOS 12.0 | ",
         "appDescription": "Универсальный плеер для просмотра OTT телевидения на всех популярных устройствах, поддерживающих IPTV.",
         "appUpdateTime": "2022-08-26T08:31:00+00:00"
     },
@@ -576,7 +562,7 @@
     {
         "appName": "Lifetime Premium VPN\n#Network",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/41/51/64/4151641b-c552-3b9a-8ee7-e1eef8925c59/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png",
-        "appVersion": "1.3 | 14.1 MB | ",
+        "appVersion": "1.3 | 14.1 MB | iOS 12.0 | ",
         "appDescription": "Приложение VPN.",
         "appUpdateTime": "2022-08-20T08:31:00+00:00"
     },
@@ -968,7 +954,7 @@
     {
         "appName": "Ink | Premium\n#Design",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/df/a5/0adfa589-41b0-c5b9-048d-25aee50de20a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "0.13.1 | 18.4 MB | ",
+        "appVersion": "0.13.1 | 18.4 MB | iOS 10.0 | ",
         "appDescription": "Шрифты и стикеры для сторис.",
         "appUpdateTime": "2022-07-21T08:31:00+00:00"
     },
@@ -1213,7 +1199,7 @@
     {
         "appName": "Safety Photo | Pro\n#Other",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/04/53/a6/0453a6b4-6698-b4e8-99e1-76ac6b9551ea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "7.8.0 | 23.4 MB | ",
+        "appVersion": "7.8.0 | 23.4 MB | iOS 12.0 | ",
         "appDescription": "Храните ваши фото под паролем.",
         "appUpdateTime": "2022-08-26T08:31:00+00:00"
     },
@@ -1332,7 +1318,7 @@
     {
         "appName": "Sandbox | Unlimited\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6c/f1/04/6cf10423-d109-37bf-0356-c3be8f2e23de/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "1.8.13 | 4.5 MB | ",
+        "appVersion": "1.8.13 | 4.5 MB | iOS 9.0 | ",
         "appDescription": "Пиксельная раскраска.",
         "appUpdateTime": "2022-08-17T08:31:00+00:00"
     },
@@ -2151,7 +2137,7 @@
     {
         "appName": "FineReader PDF | Pro\n#Office",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/0f/d0/eb/0fd0eb6e-c381-1662-6e26-f02e921a96dd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
-        "appVersion": "15.2.10 | 60.9 MB | ",
+        "appVersion": "15.2.10 | 60.9 MB | iOS 13.0 | ",
         "appDescription": "Ваш умный карманный сканер для документов и книг от ведущего мирового разработчика.",
         "appUpdateTime": "2022-04-30T08:31:00+00:00"
     },
@@ -2431,7 +2417,7 @@
     {
         "appName": "Craft | Premium\n#Office",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/05/82/a6/0582a6fa-d092-1855-14f3-eece45e5a14e/AppIcon-0-2x_U007euniversal-0-0-4-0-0-85-220.png/246x0w.png",
-        "appVersion": "2.3.1 | 52.7 MB | ",
+        "appVersion": "2.3.1 | 52.7 MB | iOS 14.0 | ",
         "appDescription": "Лучшее приложение для создания красивых документов и заметок.",
         "appUpdateTime": "2022-08-26T08:31:00+00:00"
     },
@@ -2445,7 +2431,7 @@
     {
         "appName": "Mubert | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/cb/0b/61cb0b53-011a-a615-442c-c87639181113/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "4.2.1 | 11.1 MB | ",
+        "appVersion": "4.2.1 | 11.1 MB | iOS 11.4 | ",
         "appDescription": "Музыкальное приложение для сна, спорта, фокуса и медитаций.",
         "appUpdateTime": "2022-08-13T08:31:00+00:00"
     },
@@ -2760,7 +2746,7 @@
     {
         "appName": "Annotable | Hack\n#Design",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/f3/7d/4d/f37d4d4a-a1db-f5d7-81da-8e9eaba08bed/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "14.10.4 | 6.2 MB | ",
+        "appVersion": "14.10.4 | 6.2 MB | iOS 12.0 | ",
         "appDescription": "Приложение для аннотации фотографий.",
         "appUpdateTime": "2022-08-17T08:31:00+00:00"
     },
@@ -2774,7 +2760,7 @@
     {
         "appName": "CutStory | Pro\n#Design",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/72/a1/f8/72a1f86a-b565-79c2-da40-9fcce1cf37c5/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "6.6.5 | 86.1 MB | ",
+        "appVersion": "6.6.5 | 86.1 MB | iOS 13.0 | ",
         "appDescription": "Редактор для создания сторис.",
         "appUpdateTime": "2022-06-24T08:31:00+00:00"
     },
@@ -2914,7 +2900,7 @@
     {
         "appName": "Reports+ Gold\n#Social",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/5f/11/6b/5f116b34-d8cf-4a32-ad88-02123c88dd2f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "5.9.0 | 23.4 MB | ",
+        "appVersion": "5.9.0 | 23.4 MB | iOS 11.0 | ",
         "appDescription": "Отслеживайте активность в Instagram.",
         "appUpdateTime": "2022-01-17T08:31:00+00:00"
     },
@@ -3488,7 +3474,7 @@
     {
         "appName": "Giftr | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/fb/a3/f4fba313-03d3-13d4-b3a1-58c5a66dcbdd/AppIcon-0-0-2x_U007euniversal-0-0-0-4-0-0-0-512MB-85-220.png/246x0w.png",
-        "appVersion": "2.0 | 66.3 MB | ",
+        "appVersion": "2.0 | 66.3 MB | iOS 14.0 | ",
         "appDescription": "Самое продвинутое приложение для создания GIF анимаций на iOS.",
         "appUpdateTime": "2022-05-12T08:31:00+00:00"
     },
@@ -3999,7 +3985,7 @@
     {
         "appName": "Домашняя Библиотека Hack\n#Study",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/69/6b/d5/696bd5e1-3213-821b-7f1c-c3c7b02f625b/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "6.2 | 34.1 MB | ",
+        "appVersion": "6.2 | 34.1 MB | iOS 12.0 | ",
         "appDescription": "Книги и аудиокниги. Взломано на подписку.",
         "appUpdateTime": "2022-01-17T08:31:00+00:00"
     },
@@ -4265,7 +4251,7 @@
     {
         "appName": "Filto Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/85/40/6c8540c6-5c7f-2011-ec64-60111dc81e2f/AppIcon-Normal-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "3.9.1 | 136.1 MB | ",
+        "appVersion": "3.9.1 | 136.1 MB | iOS 11.0 | ",
         "appDescription": "Универсальный редактор с различными фильтрами и эффектами.",
         "appUpdateTime": "2022-01-26T08:31:00+00:00"
     },
@@ -5154,7 +5140,7 @@
     {
         "appName": "Source\n#Network",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/5b/78/14/5b78144e-e280-2b0b-6669-d4a293d90fed/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/246x0w.jpg",
-        "appVersion": "3.0 | 384.4 KB | ",
+        "appVersion": "3.0 | 384.4 KB | iOS 15.0 | ",
         "appDescription": "[Расширение Safari] Позволяет просматривать код страницы в Safari.",
         "appUpdateTime": "2022-06-24T08:31:00+00:00"
     },
@@ -5168,7 +5154,7 @@
     {
         "appName": "Auto Clicker | Hack\n#Network",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/36/bd/a236bd44-775b-f4dc-d3a1-66dc7f1f1262/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "1.3 | 7.9 MB | ",
+        "appVersion": "1.3 | 7.9 MB | iOS 13.0 | ",
         "appDescription": "[Расширение Safari] Авто кликер для Safari. ",
         "appUpdateTime": "2022-06-24T08:31:00+00:00"
     },
@@ -5301,7 +5287,7 @@
     {
         "appName": "Photo Lab Pro | DeLuxe\n#Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/52/9c/d4/529cd4a9-2dd8-4e62-69f8-15f04bf825a0/AppIcon-3-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "3.10.93 | 33.2 MB | ",
+        "appVersion": "3.10.93 | 33.2 MB | iOS 10.0 | ",
         "appDescription": "Супер лаборатория фотоэффектов для вашего iPhone.",
         "appUpdateTime": "2022-04-27T08:31:00+00:00"
     },
@@ -5476,7 +5462,7 @@
     {
         "appName": "ProCam 8 | Hack\n#Design",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/bb/7c/45/bb7c4585-ddb7-4f66-fa3e-dd4f7b04d3fd/AppIcon-2-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "13.6.6 | 12.8 MB | ",
+        "appVersion": "13.6.6 | 12.8 MB | iOS 11.3 | ",
         "appDescription": "Камера с отличным набором возможностей.\n▎Для активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
         "appUpdateTime": "2022-06-16T08:31:00+00:00"
     },
@@ -5693,7 +5679,7 @@
     {
         "appName": "Playlisty\n#Music",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/af/ab/ee/afabee9f-f864-c1d2-efa1-533769bcba18/AppIcon-1x_U007emarketing-2-0-85-220.png/230x0w.png",
-        "appVersion": "2.7 | 4.9 MB | ",
+        "appVersion": "2.7 | 4.9 MB | iOS 14.0 | ",
         "appDescription": "Перенос музыки с Spotify и YouTube в Apple Music.\n Для активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
         "appUpdateTime": "2022-04-01T08:31:00+00:00"
     },
@@ -6092,7 +6078,7 @@
     {
         "appName": "LifeViewer | Hack\n#Office",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/2d/c7/e72dc736-ce09-bf69-8fa5-a44e874faa93/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "2.8.9 | 87.6 MB | ",
+        "appVersion": "2.8.9 | 87.6 MB | iOS 14.0 | ",
         "appDescription": "Ежедневник.",
         "appUpdateTime": "2022-08-08T08:31:00+00:00"
     },
@@ -6946,7 +6932,7 @@
     {
         "appName": "GTA 3 | RU\n#Games",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/c3/a1/b8c3a11d-c7cc-d9a6-7120-880c3ad4412f/AppIcon-0-1x_U007emarketing-85-220-4.png/230x0w.png",
-        "appVersion": "1.5 | 535.4 MB | ",
+        "appVersion": "1.5 | 535.4 MB | iOS 8.0 | ",
         "appDescription": "GTA 3 с русской озвучкой, улучшенной графикой и переводом от 1С.",
         "appUpdateTime": "2022-02-09T08:31:00+00:00"
     },
@@ -7079,7 +7065,7 @@
     {
         "appName": "The Room: Old Sines\n#Games",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/79/e5/77/79e5775a-8baa-543b-d2d6-9aeea7a223e5/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/230x0w.png",
-        "appVersion": "1.0.4 | 1.1 GB | ",
+        "appVersion": "1.0.4 | 1.1 GB | iOS 10.0 | ",
         "appDescription": "Одна из самых популярных серий игр головоломок.",
         "appUpdateTime": "2022-04-18T08:31:00+00:00"
     },
@@ -7093,7 +7079,7 @@
     {
         "appName": "Very Little Nightmares\n#Games",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d3/14/27/d31427c5-5fa2-b234-43dc-f47ffc9ada8a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.2.0 | 756.5 MB | ",
+        "appVersion": "1.2.0 | 756.5 MB | iOS 12.0 | ",
         "appDescription": "Откройте для себя мир приключенческой игры с элементами головоломки Very Little Nightmares, одновременно милой и жуткой.\nВ игре не работают сохранения! Держите игру в фоне или залипните на разочек, в противном случае игра начнется сначала.",
         "appUpdateTime": "2022-05-02T08:31:00+00:00"
     },
@@ -7107,7 +7093,7 @@
     {
         "appName": "Hill Climb | Hack\n#Games",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/3b/49/9b3b49d3-fc63-140f-269b-922b8959fea9/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.54.2 | 84.6 MB | ",
+        "appVersion": "1.54.2 | 84.6 MB | iOS 10.0 | ",
         "appDescription": "Пора вспомнить молодость в гонках твоего детства.\n▎Для взлома валюты в игре начните покупку контента, во время появления окна нажмите ʼОтменаʼ, покупка будет взломана.",
         "appUpdateTime": "2022-05-02T08:31:00+00:00"
     },
@@ -7121,28 +7107,28 @@
     {
         "appName": "Monument Valley 2\n#Games",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/de/74/61/de74616a-0288-0d8a-091e-1c6f97b78c55/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "2.0.4 | 253.1 MB | ",
+        "appVersion": "2.0.4 | 253.1 MB | iOS 11.0 | ",
         "appDescription": "Monument Valley 2 — это совершенно новое приключение в прекрасном мире невозможного. Помогите Ро обучить дочку всем тайнам долины, исследуя потрясающие уровни и управляя архитектурными объектами, чтобы провести их к цели.",
         "appUpdateTime": "2022-05-02T08:31:00+00:00"
     },
     {
         "appName": "Limbo\n#Games",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/c8/49/c3/c849c39e-3289-e0e0-8390-fbc786a261fb/AppIcon-1x_U007emarketing-0-9-0-85-220.png/246x0w.png",
-        "appVersion": "1.2.2 | 118.2 MB | ",
+        "appVersion": "1.2.2 | 118.2 MB | iOS 9.0 | ",
         "appDescription": "Безусловно одна из лучших хоррор игр в AppStore",
         "appUpdateTime": "2022-05-02T08:31:00+00:00"
     },
     {
         "appName": "The House of Da Vinci\n#Games",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/3d/b6/af/3db6af2a-297c-0d3f-9542-8a408a79b5a2/AppIcon-0-0-1x_U007emarketing-0-0-0-9-85-220.png/246x0w.png",
-        "appVersion": "1.1.0 | 507.6 MB | ",
+        "appVersion": "1.1.0 | 507.6 MB | iOS 8.2 | ",
         "appDescription": "Откройте двери в The House of Da Vinci, новую 3D-паззл игру. Решайте механические загадки, находите скрытые объекты, сбегайте из комнат и окунитесь в подлинную атмосферу эпохи Возрождения.",
         "appUpdateTime": "2022-05-03T08:31:00+00:00"
     },
     {
         "appName": "The House of Da Vinci 2\n#Games",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/de/43/9e/de439eaa-ff38-fc6d-3892-c084be3093e7/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.0.9 | 1.4 GB | ",
+        "appVersion": "1.0.9 | 1.4 GB | iOS 12.0 | ",
         "appDescription": "Долгожданный сиквел игры The House of Da Vinci наконец-то в продаже! Присоединитесь к более чем 2.000.000 игроков со всего мира и отправьтесь в это новое полностью трехмерное приключение.",
         "appUpdateTime": "2022-05-03T08:31:00+00:00"
     },
@@ -7170,7 +7156,7 @@
     {
         "appName": "Picolo | Hack\n#Games",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/19/07/59/190759c8-3ef0-5c13-4cbb-e5c0876dc50d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "10.23 | 17 MB | ",
+        "appVersion": "10.23 | 17 MB | iOS 10.0 | ",
         "appDescription": "Игра для вечеринки.\n▎Для активации взлома зажмите в любой части экрана двумя пальцами, активируйте тумблер «Revenue Cat» и нажмите Apply!",
         "appUpdateTime": "2022-06-21T08:31:00+00:00"
     },
@@ -7198,7 +7184,7 @@
     {
         "appName": "Party Vibes | Hack\n#Games",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/19/1f/70/191f70de-af01-6fc2-b1f3-1bf9664fb379/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "4.2 | 11.7 MB | ",
+        "appVersion": "4.2 | 11.7 MB | iOS 13.6 | ",
         "appDescription": "Ищете приложение, которое придаст пикантности вашей вечеринке? Тогда Party Vibes - это то, что вы искали! :)\nДля взлома дополнений начните покупку контента, во время появления окна нажмите ʼОтменаʼ, покупка будет взломана.",
         "appUpdateTime": "2022-05-16T08:31:00+00:00"
     },
@@ -7212,7 +7198,7 @@
     {
         "appName": "Dragon Hills 2 | iGameGod\n#Games",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/b6/d9/30/b6d930e2-f9f9-64e6-223d-f439e13e5679/AppIcon-0-1x_U007emarketing-0-85-220-9.png/246x0w.png",
-        "appVersion": "1.1.2 | 107.3 MB | ",
+        "appVersion": "1.1.2 | 107.3 MB | iOS 8.0 | ",
         "appDescription": "Слишком много вопросов… Так, нет времени на вопросы, ребята. Зомби Апокалипсис уже здесь! Торопитесь! Запрыгивайте на ваших механизированных драконов и в бой, чтобы спасти человечество!\n\nДобавлен твик iGameGod для накрутки валюты.\nИнструкцию по использованию читайте в iApps Premium.",
         "appUpdateTime": "2022-05-19T08:31:00+00:00"
     },
@@ -7233,7 +7219,7 @@
     {
         "appName": "while True: learn()\n#Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/78/64/2c/78642c50-250d-9986-55d0-938b99866d79/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.2.91 | 136.8 MB | ",
+        "appVersion": "1.2.91 | 136.8 MB | iOS 11.0 | ",
         "appDescription": "В этой игре вы окажетесь в роли программиста, который неожиданно узнал, что его кот гораздо лучше разбирается в компьютерах, чем он сам (но при этом не очень-то разбирается в человеческом языке). Теперь этот программист (то есть, вы) должен всесторонне освоить машинное обучение, чтобы создать систему-переводчик с кошачьего на человеческий",
         "appUpdateTime": "2022-05-20T08:31:00+00:00"
     },
@@ -7261,7 +7247,7 @@
     {
         "appName": "Earn to Die 3 | Mode\n#Games",
         "appImage": "https://play-lh.googleusercontent.com/C825c6i-iSjoeqZa4-PgjTiUb_MUlVaMhkxMVGeenEgyKv6vmu371DLNUvw2Nvo0zBo=s180",
-        "appVersion": "1.0.5 | 87.2 MB | ",
+        "appVersion": "1.0.5 | 87.2 MB | iOS 8.0 | ",
         "appDescription": "Модернизируйте автомобили и проведите их через орды зомби в самой большой и лучшей игре Earn to Die!\n\n▎Бесконечные деньги",
         "appUpdateTime": "2022-05-21T08:31:00+00:00"
     },
@@ -7317,42 +7303,42 @@
     {
         "appName": "RaymanMini | Arcade\n#Games",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/84/f1/da/84f1da5d-0944-124c-9b8c-f2e4f872b410/AppIcon-1x_U007emarketing-0-5-0-85-220.png/246x0w.png",
-        "appVersion": "1.4.3 | 417.3 MB | ",
+        "appVersion": "1.4.3 | 417.3 MB | iOS 13.0 | ",
         "appDescription": "Рэйман уменьшился до размеров букашки! Чтобы вернуть ему былое величие, вам предстоит отправиться в волшебное приключение. Взгляните на мир под увеличительным стеклом! Заручитесь поддержкой привычных растений, грибов и даже насекомых.",
         "appUpdateTime": "2022-06-09T08:31:00+00:00"
     },
     {
         "appName": "ShadowBlade+ | Arcade\n#Games",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/9f/0a/f2/9f0af24a-9c76-e58a-6a2d-8b5fdce0711f/AppIcon-1x_U007emarketing-0-9-0-85-220.png/246x0w.png",
-        "appVersion": "1.0 | 206.1 MB | ",
+        "appVersion": "1.0 | 206.1 MB | iOS 13.0 | ",
         "appDescription": "Куро - молодой человек, который поставил себе цель: стать Лезвием Тени. Для этого он должен найти учение последнего мастера ниндзя.Вы ведёте Куро через достаточно сложные уровни, мимо бесчисленных ловушек, скрываясь от врагов или переступая через их трупы.",
         "appUpdateTime": "2022-06-09T08:31:00+00:00"
     },
     {
         "appName": "Angry Birds Reloaded | Arcade\n#Games",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/df/8d/3fdf8d32-c747-97cd-908c-cc4a4e149153/PlayerIcon.png/246x0w.png",
-        "appVersion": "1.11.13 | 407.2 MB | ",
+        "appVersion": "1.11.13 | 407.2 MB | iOS 13.0 | ",
         "appDescription": "Самая знаменитая стая в мире вернулась в новой версии нашумевшей мобильной игры. Неважно, взрослый ты или ребенок, — запускать птиц из рогатки любят все, особенно если это Ред, Чак, Бомб и Силвер! В Angry Birds Reloaded тебя ждет знакомый, основанный на физике геймплей оригинальной игры, а также улучшенная графика, новые персонажи и безграничные возможности разрушения!",
         "appUpdateTime": "2022-06-09T08:31:00+00:00"
     },
     {
         "appName": "The Pathless | Arcade\n#Games",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/ca/e7/eccae762-53d0-549a-d975-c99df2336c34/Pathless.png/246x0w.png",
-        "appVersion": "1.0.7 | 1.7 GB | ",
+        "appVersion": "1.0.7 | 1.7 GB | iOS 13.0 | ",
         "appDescription": "The Pathless от создателей игры ABZÛ – это мистическое путешествие лучника и орла в бескрайнем лесу.",
         "appUpdateTime": "2022-06-10T08:31:00+00:00"
     },
     {
         "appName": "Taiko no Tatsujin Pop Tap Beat | Arcade\n#Games",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/14/99/9c/14999cec-ae8b-b33e-6d61-efc04cc77bf0/PlayerIcon.png/246x0w.png",
-        "appVersion": "1.6.0 | 739.6 MB | ",
+        "appVersion": "1.6.0 | 739.6 MB | iOS 13.0 | ",
         "appDescription": "Просто бей по нотам в такт!\nТа самая японская игра c барабанами «Мастер Тайко» (Taiko no Tatsujin) теперь доступна в Apple Arcade.",
         "appUpdateTime": "2022-06-16T08:31:00+00:00"
     },
     {
         "appName": "Farming Simulator 20 | Hack\n#Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/05/a3/4305a340-246d-ddf5-426b-86beffc138b9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.1.10 | 435.3 MB | ",
+        "appVersion": "1.1.10 | 435.3 MB | iOS 11.0 | ",
         "appDescription": "Откройте для себя увлекательный мир фермерства с Farming Simulator 20! Собирайте урожай различных культур и заботьтесь о свиньях, коровах и овцах. Теперь вы даже можете завести лошадей и исследовать на них земли вокруг своей фермы.\n▎Для взлома валюты в игре начните покупку контента, во время появления окна нажмите ʼОтменаʼ, покупка будет взломана.",
         "appUpdateTime": "2022-06-16T08:31:00+00:00"
     },
