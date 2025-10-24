@@ -2508,9 +2508,9 @@
     {
         "appName": "EasyAnatomy | Pro\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/64/2e/60642e95-e7d4-14e5-4c1d-545ca73d0d59/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "5.18 | 743.5 MB | iOS 17.0 | ",
+        "appVersion": "5.24.2 | 1.3 GB | iOS 17.0 | ",
         "appDescription": "С приложением Easy Anatomy вы гарантированно легче и быстрее будете запоминать анатомию, а также сможете создавать свои собственные тесты по любому предмету.\nВ приложении вы найдете анатомический атлас с удобными флэш-картами, видео и конспекты по анатомии, а так же тесты для эффективной самоподготовки.\n",
-        "appUpdateTime": "2025-05-24T16:21:50+00:00"
+        "appUpdateTime": "2025-10-24T15:15:54+00:00"
     },
     {
         "appName": "Double Take Filmic\n#Design",
@@ -3649,9 +3649,9 @@
     {
         "appName": "Uplens | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/42/2c/d7/422cd7c1-8144-a796-8dd6-d9160679fab7/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/246x0w.png",
-        "appVersion": "3.2.10 | 201.1 MB | iOS 15.0 | ",
-        "appDescription": "Uplens — это совершенный мобильный фото и видео редактор, работающий на базе искусственного интеллекта и разработанный, чтобы помочь вам делать идеальные селфи и создавать потрясающие визуальные эффекты всего за несколько нажатий.\n\n▎Откройте и перезапустите приложение для активации подписки",
-        "appUpdateTime": "2025-08-16T09:58:46+00:00"
+        "appVersion": "3.3.5 | 204.7 MB | iOS 15.0 | ",
+        "appDescription": "Uplens — это совершенный мобильный фото и видео редактор, работающий на базе искусственного интеллекта и разработанный, чтобы помочь вам делать идеальные селфи и создавать потрясающие визуальные эффекты всего за несколько нажатий.\n",
+        "appUpdateTime": "2025-10-24T15:15:13+00:00"
     },
     {
         "appName": "Live Wallpapers Premium\n#Other",
@@ -5740,11 +5740,11 @@
         "appUpdateTime": "2024-12-31T06:50:06+00:00"
     },
     {
-        "appName": "AI Voicer | Ultra\n#Other",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/9b/df/5c9bdf64-d548-5266-4dbe-926559697c93/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/246x0w.png",
-        "appVersion": "0.8.9 | 147.9 MB | iOS 16.0 | ",
+        "appName": "Speech Lab (AI Voicer) | Ultra\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/ff/14/d5ff14ff-22f5-c026-9860-e6900eb97f35/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/246x0w.png",
+        "appVersion": "0.9.5 | 149 MB | iOS 16.0 | ",
         "appDescription": "Приложением для преобразования текста в речь, которое изменит ваш стиль общения.",
-        "appUpdateTime": "2025-07-16T13:01:05+00:00"
+        "appUpdateTime": "2025-10-24T15:18:10+00:00"
     },
     {
         "appName": "VideoGPT | Ultra\n#Design",
@@ -6699,6 +6699,13 @@
         "appUpdateTime": "2025-03-20T09:55:50+00:00"
     },
     {
+        "appName": "Life is Strange: Before Storm\n#Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/34/08/7a3408d1-3c99-1e94-b3e8-d626ab419998/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        "appVersion": "1.1.1 | 1.4 GB | iOS 11.0 | ",
+        "appDescription": "Life is Strange: Before the Storm - приключенческая игра-приквел к оригинальной Life is Strange.\n\n▎Добавлена русская локализация\n▎Разблокированы все эпизоды",
+        "appUpdateTime": "2025-10-24T15:24:37+00:00"
+    },
+    {
         "appName": "РОСБАНК Бизнес\n#Money",
         "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/Rosbuisnes.png",
         "appVersion": "1.8 | 165.1 MB | iOS 11.0 | ",
@@ -6788,6 +6795,13 @@
         "appVersion": "1.4.5 | 999.4 MB | iOS 14.0 | ",
         "appDescription": "Отправьтесь в увлекательное котоприключение в Cat Quest III, третьей части знаменитой серии Cat Quest!\nСтаньте отважным мурррским разбойником в 2,5D-ролевой игре с открытым миром, действие которой происходит на фантастическом пиратском архипелаге в Муррибском море.\n\n▎Разблокирована полная версия игры",
         "appUpdateTime": "2025-08-08T16:08:57+00:00"
+    },
+    {
+        "appName": "Foodie | Pro\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/6c/cc/796ccc4b-2b02-d2af-9be1-d95c320c59b5/GlobalAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
+        "appVersion": "7.4.0 | 269 MB | iOS 15.0 | ",
+        "appDescription": "Жизнь должна быть вам по вкусу.\nКамера Foodie — то, что надо общительному гурману в современном мире.\nТеперь легко и просто добавить пикантности прекрасным воспоминаниям о еде.",
+        "appUpdateTime": "2025-10-24T15:20:19+00:00"
     },
     {
         "appName": "БСПБ Банк\n#Money",
@@ -7631,10 +7645,10 @@
     },
     {
         "appName": "Sneaky Sasquatch | Arcade\n#Games",
-        "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/45/81/35/45813596-ca76-92c4-cc22-cb42a737dac5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "2.0.5 | 407.3 MB | iOS 13.0 | ",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/61/d9/0161d982-a75e-ebb9-e557-0edbe1cc8ecd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
+        "appVersion": "2.1 | 437.8 MB | iOS 13.0 | ",
         "appDescription": "Попробуйте себя в роли йети и займитесь привычными для него делами.\n",
-        "appUpdateTime": "2025-01-04T13:59:39+00:00"
+        "appUpdateTime": "2025-10-24T15:13:27+00:00"
     },
     {
         "appName": "My Scanner | Premium\n#Office",
@@ -7645,10 +7659,10 @@
     },
     {
         "appName": "Mini Motorway | Arcade\n#Games",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/02/2e/ba022e7b-5259-8cee-0c87-186f7081dca8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "1.12 | 169 MB | iOS 13.0 | ",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/dc/64/16dc640d-6e63-9703-6be9-2801ce33d0a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
+        "appVersion": "1.17.2 | 182 MB | iOS 13.0 | ",
         "appDescription": "Mini Motorways — это игра от создателей Mini Metro по развитию дорожной сети растущего города. Проводите дороги, одну за другой, чтобы создать настоящий мегаполис.",
-        "appUpdateTime": "2023-12-14T15:47:44+00:00"
+        "appUpdateTime": "2025-10-24T15:11:50+00:00"
     },
     {
         "appName": "Outlanders | Arcade\n#Games",
