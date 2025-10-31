@@ -21,6 +21,13 @@
         "appUpdateTime": "2025-03-11T05:55:43+00:00"
     },
     {
+        "appName": "Instagram | DL | Hack\n#Social",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/57/87/57578709-23d2-5fb2-487b-eff35e3aade4/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/246x0w.png",
+        "appVersion": "403 | 2.4.9 | 485.1 MB | iOS 15.1 | ",
+        "appDescription": "Модифицированный клиент Instagram\nВозможности: анонимный просмотр историй\\директ\\эфиров, загрузка медиа, удалена реклама и другое.\n\n▎Активирована лицензия DL\n▎Зажмите кнопку \"домика\" чтобы перейти в настройки мода.",
+        "appUpdateTime": "2025-10-31T17:36:52+00:00"
+    },
+    {
         "appName": "Instagram | Regram\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/e5/17/97e51755-e71d-b5b1-ed67-0975a7558abc/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         "appVersion": "380 | 1.0-b30 | 435.9 MB | iOS 15.1 | ",
@@ -40,13 +47,6 @@
         "appVersion": "20.37.3 | 2.16.2 | 298.4 MB | iOS 16.0 | ",
         "appDescription": "Модификация YouTube. Основное отличие от других модов наличие скоростной загрузки видео.\nБез рекламы, возможностью скачивать видео с быстрой скоростью и другими функциями.",
         "appUpdateTime": "2025-09-19T16:22:10+00:00"
-    },
-    {
-        "appName": "Instagram | DL | Hack\n#Social",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/57/87/57578709-23d2-5fb2-487b-eff35e3aade4/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "391 | 2.4.6 | 455.1 MB | iOS 15.1 | ",
-        "appDescription": "Модифицированный клиент Instagram\nВозможности: анонимный просмотр историй\\директ\\эфиров, загрузка медиа, удалена реклама и другое.\n\n▎Активирована лицензия DL\n▎Зажмите кнопку \"домика\" чтобы перейти в настройки мода.",
-        "appUpdateTime": "2025-08-05T17:12:19+00:00"
     },
     {
         "appName": "TikTok BH++ | iOS 26\n#Video",
@@ -758,16 +758,16 @@
     {
         "appName": "Adobe Photoshop | Premium\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/d9/69/65d9696a-1ff1-9c41-6f7c-a1a7cb4e3ca2/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.png",
-        "appVersion": "6.6 | 529.7 MB | iOS 17.0 | ",
-        "appDescription": "Полноценный Adobe Photoshop на iPad все основные инструменты адаптированы для Apple Pencil и сенсорного экрана. ",
-        "appUpdateTime": "2025-09-27T15:41:42+00:00"
+        "appVersion": "7.0 | 531.6 MB | iOS 17.0 | ",
+        "appDescription": "Полноценный Adobe Photoshop - все основные инструменты адаптированы для Apple Pencil и сенсорного экрана. ",
+        "appUpdateTime": "2025-10-31T16:49:41+00:00"
     },
     {
         "appName": "Lightroom | Premium\n#Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/59/2b/2d592b9c-d28f-ad47-caf4-b4e55dc762f8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "10.5.2 | 316.7 MB | iOS 17.0 | ",
-        "appDescription": "Профессиональный фоторедактор.\n\n▎Войдите в аккаунт для активации подписки.\n▎В РФ используйте VPN\n▎Взлом может не работать если на аккаунте раньше был триал\\подписка",
-        "appUpdateTime": "2025-09-27T15:44:44+00:00"
+        "appVersion": "11.0 | 325.8 MB | iOS 17.0 | ",
+        "appDescription": "Профессиональный фоторедактор.\n\n▎Войдите в аккаунт для активации подписки.\n▎В РФ используйте VPN",
+        "appUpdateTime": "2025-10-31T16:48:24+00:00"
     },
     {
         "appName": "Lightroom for iPad | Premium\n#Design",
@@ -1192,9 +1192,9 @@
     {
         "appName": "CleanMy®Phone | Premium\n#Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/fb/cc/38fbccd9-1168-2eaf-edf7-da81161d84db/AppIcon-0-0-1x_U007epad-0-0-85-220.png/246x0w.png",
-        "appVersion": "2.8.3 | 135.2 MB | iOS 16.0 | ",
+        "appVersion": "2.9.3 | 150.8 MB | iOS 17.0 | ",
         "appDescription": "Очистите накопленные годами фото с помощью очистителя iPhone на базе искусственного интеллекта. CleanMy®Phone бережно удаляет хлам и помогает освободить место для новых воспоминаний.",
-        "appUpdateTime": "2025-07-16T13:01:28+00:00"
+        "appUpdateTime": "2025-10-31T16:47:39+00:00"
     },
     {
         "appName": "Phone Cleaner | Pro\n#Other",
@@ -1423,9 +1423,9 @@
     {
         "appName": "PicsArt | Gold\n#Design",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/0c/9a/5d0c9af6-579d-8342-0a34-5d95a1ab2d2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "28.5.3 | 244.9 MB | iOS 15.0 | ",
+        "appVersion": "28.6.3 | 245.2 MB | iOS 15.0 | ",
         "appDescription": "Фоторедактор со взломом на подписку.",
-        "appUpdateTime": "2025-10-15T16:24:36+00:00"
+        "appUpdateTime": "2025-10-31T16:43:14+00:00"
     },
     {
         "appName": "Videoleap | Premium\n#Design",
@@ -1633,9 +1633,9 @@
     {
         "appName": "Leto Fonts | Leto Шрифты | Pro\n#Design",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/47/36/d4/4736d439-cef0-2de8-4861-0adb87924ab7/AppIcon-0-1x_U007ephone-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "8.4.2 | 213.4 MB | iOS 15.0 | ",
+        "appVersion": "8.5 | 215.8 MB | iOS 15.0 | ",
         "appDescription": "Красивые и уникальные шрифты для Инстаграм.\n\n▎Активирована подписка Premium Pro+\n▎Активирован доступ к проф. субтитрам \n▎При первом запуске откажитесь от предложений покупки, подписка уже активирована",
-        "appUpdateTime": "2025-10-01T15:48:05+00:00"
+        "appUpdateTime": "2025-10-31T16:46:55+00:00"
     },
     {
         "appName": "Adobe Illustrator | Premium\n#Design",
@@ -3005,9 +3005,9 @@
     {
         "appName": "ArtStudio Pro | Full\n#Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/da/7a/1b/da7a1b6d-8e91-dca4-1c90-e71149e2c0fb/AppIcon-1x_U007emarketing-0-4-0-sRGB-0-0-85-220.png/246x0w.png",
-        "appVersion": "5.2.3 | 398.7 MB | iOS 15.0 | ",
+        "appVersion": "5.2.9 | 399.6 MB | iOS 15.0 | ",
         "appDescription": "Самое мощное приложение для рисования.",
-        "appUpdateTime": "2025-01-18T16:35:01+00:00"
+        "appUpdateTime": "2025-10-31T16:44:49+00:00"
     },
     {
         "appName": "Voice Recorder Pro\n#Other",
@@ -3061,9 +3061,9 @@
     {
         "appName": "Adobe Premiere | Hack\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/78/a2/9a78a2da-bdac-5e04-406a-5a493e419ef7/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "25.3.0 | 124.4 MB | iOS 17.0 | ",
+        "appVersion": "25.5.3 | 126 MB | iOS 17.0 | ",
         "appDescription": "Запечатлейте момент и создавайте тренды с Adobe Premiere.\n\n▎Используйте VPN. Не входите\\Не создавайте аккаунт региона РФ!\n▎При первом запуске вы получите сообщение(руководство) по взлому. Используйте когда будут требоваться кредиты.",
-        "appUpdateTime": "2025-10-01T17:02:57+00:00"
+        "appUpdateTime": "2025-10-31T16:52:53+00:00"
     },
     {
         "appName": "Пикабу\n#Other #Social",
@@ -3397,9 +3397,9 @@
     {
         "appName": "BeautyPlus | Premium\n#Design",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/94/87/5b/94875bae-1314-be7f-8c9e-ca0b30f80531/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "7.8.101 | 465.8 MB | iOS 13.0 | ",
+        "appVersion": "7.21.1 | 562.3 MB | iOS 13.0 | ",
         "appDescription": "BeautyPlus поможет вам делать классные селфи, чтобы динамически фиксировать моменты вашей жизни и делиться ими с использованием сотен фильтров, стикеров, спецэффектов и многого другого!",
-        "appUpdateTime": "2025-01-19T17:23:55+00:00"
+        "appUpdateTime": "2025-10-31T16:44:00+00:00"
     },
     {
         "appName": "Rise | Premium\n#Life",
@@ -3789,9 +3789,9 @@
     {
         "appName": "ibisPaintX | Premium\n#Design",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/d1/61/0e/d1610e64-3177-85b3-c50a-ba8f35fd1782/AppIconX-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "12.0.5 | 92.6 MB | iOS 12.0 | ",
+        "appVersion": "13.1.13 | 105.7 MB | iOS 15.0 | ",
         "appDescription": "Универсальное приложение для рисования.",
-        "appUpdateTime": "2024-04-27T14:08:47+00:00"
+        "appUpdateTime": "2025-10-31T16:46:17+00:00"
     },
     {
         "appName": "Peachy Pro\n#Design",
@@ -5455,9 +5455,9 @@
     {
         "appName": "AutoCAD | Premium\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/f7/f1/44f7f13d-70b9-8248-e096-ec1c2b71b4b1/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "6.18.1 | 515.8 MB | iOS 16.0 | ",
+        "appVersion": "6.20 | 541.5 MB | iOS 16.0 | ",
         "appDescription": "Просмотр, редактирование + измерение чертежей всегда и везде.\nОсновные возможности черчения и проектирования для выполнения типовых задач.\n\n▎Активирована подписка\n▎Работает выбор файлов",
-        "appUpdateTime": "2025-08-17T13:19:04+00:00"
+        "appUpdateTime": "2025-10-31T16:45:39+00:00"
     },
     {
         "appName": "Famey | Pro\n#Design",
@@ -6545,11 +6545,11 @@
         "appUpdateTime": "2023-06-10T08:31:00+00:00"
     },
     {
-        "appName": "СберБанк\n#Money",
-        "appImage": "https://ds-blobs-1.cdn.devapps.ru/9796293.png",
-        "appVersion": "12.5.0 | 185.3 MB | iOS 13.0 | ",
-        "appDescription": "Приложение банка СберБанк.\n\n▎Устанавливайте Сбол для актуальных прошивок.",
-        "appUpdateTime": "2022-04-27T08:31:00+00:00"
+        "appName": "Сбер Kids | СберБанк\n#Money",
+        "appImage": "https://github.com/IAppsRepo/IAppsRepo.github.io/releases/download/fsas/sberkids.png",
+        "appVersion": "5.5.5 | 214 MB | iOS 15.0 | ",
+        "appDescription": "Приложение банка СберБанк - Сбер Kids\n",
+        "appUpdateTime": "2025-10-31T17:34:42+00:00"
     },
     {
         "appName": "СберБанк | Online\n#Money",
