@@ -6622,6 +6622,13 @@
         "appUpdateTime": "2025-07-16T12:53:08+00:00"
     },
     {
+        "appName": "Deep Rock Galactic: Survivor | Deluxe\n#Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/92/cb/7092cb6b-bce4-8056-e0b0-9a1a40f6fbc3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200ia-75.jpg",
+        "appVersion": "1.0.1 | 644.3 MB | iOS 17.0 | ",
+        "appDescription": "DEEP ROCK GALACTIC: SURVIVOR — это одиночный сурвайвор-лайк автошутер. Сражайтесь с полчищами смертоносных инопланетян, добывайте богатства и открывайте мощные улучшения, вооружившись всем арсеналом Deep Rock Galactic. Один дворф против всей планеты Хокссес! ОБРАТНЫЙ ПУЛЕВОЙ АД С ДОБЫЧЕЙ РЕСУРСОВ. Убивайте жуков, улучшайте снаряжение и погружайтесь всё глубже в смертельные пещеры Хокссеса.",
+        "appUpdateTime": "2025-11-12T18:32:56+00:00"
+    },
+    {
         "appName": "Сбер Инвестиции\n#Money",
         "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/NewInvestor.png",
         "appVersion": "3.27.0 | 261.2 MB | iOS 15.0 | ",
@@ -7308,11 +7315,11 @@
         "appUpdateTime": "2025-05-12T15:10:15+00:00"
     },
     {
-        "appName": "Minecraft\n#Games",
+        "appName": "Minecraft | XBOX\n#Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/77/ed/d277ed41-16e4-ba0b-5ad6-2a06261647d3/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.21.94 | 977.1 MB | iOS 13.0 | ",
-        "appDescription": "Симулятор №1 в AppStore. ",
-        "appUpdateTime": "2025-07-20T16:51:28+00:00"
+        "appVersion": "1.21.121 | 1 GB | iOS 13.0 | ",
+        "appDescription": "Симулятор №1 в AppStore. \n\n▎Работает вход в аккаунт XBOX",
+        "appUpdateTime": "2025-11-12T18:35:29+00:00"
     },
     {
         "appName": "Dead Cells+ | Arcade\n#Games",
@@ -7369,6 +7376,13 @@
         "appVersion": "2.0.54 | 607.5 MB | iOS 8.0 | ",
         "appDescription": "Кроссплатформенная компьютерная игра в жанре сайдскроллерного симулятора выживания.\n\n▎Разблокировано дополнение.",
         "appUpdateTime": "2023-06-12T08:31:00+00:00"
+    },
+    {
+        "appName": "Toca Boca Jr Classics | Arcade\n#Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/76/12/8e7612fa-a89d-5b95-90c3-647544cf3042/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200ia-75.jpg",
+        "appVersion": "1.0.106 | 953.3 MB | iOS 13.0 | ",
+        "appDescription": "ДЕВЯТЬ ИЗЛЮБЛЕННЫХ ИГР В ОДНОМ ПРИЛОЖЕНИИ \nГотовься играть по-своему с подборкой любимых игр Toca Boca Jr!",
+        "appUpdateTime": "2025-11-12T18:28:57+00:00"
     },
     {
         "appName": "Very Little Nightmares\n#Games",
