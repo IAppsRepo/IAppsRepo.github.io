@@ -9,9 +9,9 @@
     {
         "appName": "YouTube | Plus\n#Video",
         "appImage": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
-        "appVersion": "20.42.3 | 5.2b4 | 287.6 MB | iOS 16.0 | ",
+        "appVersion": "20.33.2 | 5.2b3 | 298.5 MB | iOS 16.0 | ",
         "appDescription": "Модификация YouTube \n\n▎Быстрая загрузка медиа(включая 2К\\4К)\n▎Настройки интерфейса, управление жестами\n▎Без рекламы, пропуск рекламы внутри видео\n▎Многое другое...",
-        "appUpdateTime": "2025-11-05T13:24:50+00:00"
+        "appUpdateTime": "2025-11-13T11:35:54+00:00"
     },
     {
         "appName": "Instagram | Regram | Stable\n#Social",
@@ -75,13 +75,6 @@
         "appVersion": "12.1.1 | 1.6 | 155.2 MB | iOS 13.0 | ",
         "appDescription": "Модификация телеграм клиента Swiftgram - оффлайн, нечиталка, подмена локации, скрины секретных чатов и каналов.\n\n▎Чтобы перейти в настройки TGExtra: Откройте \"Настройки\" и зажмите кнопку \"Помощь\"\n▎Если не прогружаются сообщения - отключите опцию \"Разрешить сохранение защищенного контента\" в настройках TGExtra.",
         "appUpdateTime": "2025-10-23T10:56:55+00:00"
-    },
-    {
-        "appName": "Swiftgram | Dark | TGExtra\n#Social",
-        "appImage": "https://github.com/polyatar/kikspaq/releases/download/dertzx/swiftdark.png",
-        "appVersion": "11.8.1 | 191.7 MB | iOS 12.0 | ",
-        "appDescription": "Модифицированный клиент Telegram.\n\n▎Работает функция сохранения защищенного контента в приватных каналах\\чатах\n▎Чтобы перейти в настройки мода: Нажмите 5 раз подряд на кнопку \"Чаты\" в таббаре.",
-        "appUpdateTime": "2025-08-10T13:46:25+00:00"
     },
     {
         "appName": "TikTok | BH Plus \n#Video",
@@ -345,9 +338,9 @@
     {
         "appName": "iTorrent\n#Network",
         "appImage": "https://github.com/polyatar/kikspaq/releases/download/dertzx/itorrent.png",
-        "appVersion": "2.0.14 | 19.5 MB | iOS 16.0 | ",
+        "appVersion": "2.1 | 19.4 MB | iOS 16.0 | ",
         "appDescription": "Torrent клиент для iOS.",
-        "appUpdateTime": "2025-08-10T13:29:57+00:00"
+        "appUpdateTime": "2025-11-18T17:41:24+00:00"
     },
     {
         "appName": "ES File Explorer | Premium\n#Other #Office",
@@ -467,13 +460,6 @@
         "appVersion": "3.8.4 | 129.9 MB | iOS 12.0 | ",
         "appDescription": "Учи английский, залипая в TikTok видео и мемы! Изучай актуальные слова и фразы, которые используют носители языка!",
         "appUpdateTime": "2023-07-25T08:31:00+00:00"
-    },
-    {
-        "appName": "Quizlet | Plus\n#Study",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/93/bf/7e/93bf7e65-1114-9c82-10ef-2c67c21714de/AppIcon-production-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "9.35 | 188.1 MB | iOS 16.0 | ",
-        "appDescription": "Самый простой способ изучать, практиковать и осваивать в совершенстве любой нужный материал. Создавайте свои карточки или находите готовые из более чем 500 миллионов модулей, созданных учителями и учениками. \n\n▎Недоступен учебник от экспертов.",
-        "appUpdateTime": "2025-06-16T15:02:13+00:00"
     },
     {
         "appName": "V2App V2Ray VPN | Premium\n#Network",
@@ -618,9 +604,9 @@
     {
         "appName": "Chatbot AI | Premium\n#Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/f8/33/3af83390-81a5-73e0-3b80-8fdcf72e59c1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/246x0w.png",
-        "appVersion": "3.23 | 152 MB | iOS 17.0 | ",
+        "appVersion": "3.28 | 164.1 MB | iOS 17.0 | ",
         "appDescription": "Чат-бот AI Smart Search 4 поможет вам генерировать идеи, создавать тексты, создавать изображения, резюмировать документы и многое другое.",
-        "appUpdateTime": "2025-10-15T17:39:24+00:00"
+        "appUpdateTime": "2025-11-18T17:31:52+00:00"
     },
     {
         "appName": "DazzCam | Pro\n#Design",
@@ -1248,9 +1234,9 @@
     {
         "appName": "Flacbox Pro\n#Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/a4/c0/d6a4c0fb-7c3f-f322-b178-e1c006f29673/AppIcon_flacbox-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "6.5 | 158.2 MB | iOS 13.0 | ",
+        "appVersion": "7.1 | 167.5 MB | iOS 13.0 | ",
         "appDescription": "Аудиоплеер высокого разрешения с эквалайзером и усилителем басов",
-        "appUpdateTime": "2025-05-12T15:22:54+00:00"
+        "appUpdateTime": "2025-11-18T17:32:48+00:00"
     },
     {
         "appName": "A1 Office Word | Pro\n#Office",
@@ -1339,9 +1325,9 @@
     {
         "appName": "Lensa | Hack\n#Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/9c/f0/60/9cf060fb-2297-ed3d-9e19-3ecde70c36e5/AppIcon-0-0-1x-5-0-85-220.png/246x0w.png",
-        "appVersion": "7.1.1 | 203.3 MB | iOS 16.0 | ",
+        "appVersion": "7.3.1 | 202.8 MB | iOS 17.0 | ",
         "appDescription": "Универсальный редактор для фото и видео.\n\n▎Войдите в аккаунт для активации подписки",
-        "appUpdateTime": "2025-09-27T15:18:24+00:00"
+        "appUpdateTime": "2025-11-18T17:24:36+00:00"
     },
     {
         "appName": "Prisma | Hack\n#Design",
@@ -1360,9 +1346,9 @@
     {
         "appName": "Reface | Pro\n#Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/89/f9/93/89f99309-439c-ba84-7546-78ef3d1fb7ca/AppIcon-1x_U007emarketing-0-5-0-85-220.png/246x0w.png",
-        "appVersion": "5.6.0 | 179.5 MB | iOS 16.0 | ",
+        "appVersion": "5.26 | 164.5 MB | iOS 17.0 | ",
         "appDescription": "Безупречное приложение для замены лиц в считанные секунды.",
-        "appUpdateTime": "2025-01-19T17:25:02+00:00"
+        "appUpdateTime": "2025-11-18T17:23:03+00:00"
     },
     {
         "appName": "VPN Thunder | Premium\n#Network",
@@ -1458,9 +1444,9 @@
     {
         "appName": "Dogo | Deluxe\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/ef/73/c0ef7391-348b-55d3-64d0-4bb8ce997553/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/246x0w.png",
-        "appVersion": "10.28.1 | 417.1 MB | iOS 17.0 | ",
+        "appVersion": "10.35.1 | 447.3 MB | iOS 17.0 | ",
         "appDescription": "Собака - лучший друг человека. Приложение Дого - это личный дрессировщик вашей собаки в вашем кармане. Получите доступ к 70+ упражнениям от Дого, игр, более длительный программ тренировок.",
-        "appUpdateTime": "2025-07-31T15:53:39+00:00"
+        "appUpdateTime": "2025-11-18T17:36:53+00:00"
     },
     {
         "appName": "Lightleap | Pro\n#Design",
@@ -1570,9 +1556,9 @@
     {
         "appName": "CloneAI | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/21/19/9e21199c-d67c-c12c-0aa4-814d2630c577/AppIcon-1x_U007epad-0-85-220.png/246x0w.png",
-        "appVersion": "6.14.7 | 206.4 MB | iOS 15.0 | ",
+        "appVersion": "6.14.7-Fix | 206.4 MB | iOS 15.0 | ",
         "appDescription": "CloneAI - приложение, использующее искусственный интеллект для превращения ваших видео и фотографий в потрясающие шедевры.\n\n▎Активирована подписка \n▎Безлимитные кредиты ",
-        "appUpdateTime": "2025-05-03T17:33:39+00:00"
+        "appUpdateTime": "2025-11-18T17:24:07+00:00"
     },
     {
         "appName": "Widgy | Hack\n#Themes",
@@ -1591,9 +1577,9 @@
     {
         "appName": "Tonus | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4f/e1/76/4fe176fa-59fe-9f8a-1f58-a48ea7d0035a/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "4.4.5 | 174.2 MB | iOS 16.4 | ",
+        "appVersion": "4.5.5 | 131.6 MB | iOS 16.4 | ",
         "appDescription": "Тренируйтесь в зале и дома с помощью Tonus, мы предлагаем готовые планы тренировок, созданные нашими профессиональными тренерами. Которые подойдут новичкам и продвинутым атлетам.",
-        "appUpdateTime": "2025-10-15T16:26:19+00:00"
+        "appUpdateTime": "2025-11-18T17:33:36+00:00"
     },
     {
         "appName": "Muslim Pro | Premium\n#Life",
@@ -2509,7 +2495,7 @@
         "appName": "EasyAnatomy | Pro\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/64/2e/60642e95-e7d4-14e5-4c1d-545ca73d0d59/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         "appVersion": "5.24.2 | 1.3 GB | iOS 17.0 | ",
-        "appDescription": "С приложением Easy Anatomy вы гарантированно легче и быстрее будете запоминать анатомию, а также сможете создавать свои собственные тесты по любому предмету.\nВ приложении вы найдете анатомический атлас с удобными флэш-картами, видео и конспекты по анатомии, а так же тесты для эффективной самоподготовки.\n",
+        "appDescription": "Удалено по просьбе разработчика\n",
         "appUpdateTime": "2025-10-24T15:15:54+00:00"
     },
     {
@@ -2641,9 +2627,9 @@
     {
         "appName": "Flo | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/75/0f/3c/750f3c48-6d4c-258d-b901-a91b2e608abd/AppIcon-1x_U007emarketing-0-5-0-85-220.png/246x0w.png",
-        "appVersion": "9.88 | 225.7 MB | iOS 16.0 | ",
+        "appVersion": "9.91.2 | 229.6 MB | iOS 16.0 | ",
         "appDescription": "Одно из самых популярных приложений для женского здоровья.\n\n▎Войдите в аккаунт для активации подписки",
-        "appUpdateTime": "2025-10-09T11:54:33+00:00"
+        "appUpdateTime": "2025-11-18T17:37:51+00:00"
     },
     {
         "appName": "Thinkrolls: игры для детей\n#Kids",
@@ -2905,6 +2891,13 @@
         "appUpdateTime": "2025-08-22T16:18:50+00:00"
     },
     {
+        "appName": "Dizzout | Premium\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/c4/19/71c41934-4408-e95d-f6a8-29d6a3f8e41d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200ia-75.jpg",
+        "appVersion": "0.1.63 | 106.9 MB | iOS 13.0 | ",
+        "appDescription": "Вас часто тошнит, кружится голова или вы чувствуete дискомфорт в поездках? Укачивание (кинетоз) затрагивает миллионы людей каждый день, будь то в машине, самолете, поезде или на корабле. Dizzout создан, чтобы дать вам быстрое решение без лекарств и вернуть комфорт и уверенность в любом путешествии.",
+        "appUpdateTime": "2025-11-18T17:57:37+00:00"
+    },
+    {
         "appName": "Reports+ Gold\n#Social",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/5f/11/6b/5f116b34-d8cf-4a32-ad88-02123c88dd2f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         "appVersion": "5.9.0 | 23.4 MB | iOS 11.0 | ",
@@ -3117,9 +3110,9 @@
     {
         "appName": "Mockview | Premium\n#Design",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/b2/7b/1a/b27b1afe-7a28-be8a-30cf-56d7a2815345/AppIcon-0-85-220-4-2x.png/246x0w.png",
-        "appVersion": "4.0.1 | 83.7 MB | iOS 16.4 | ",
+        "appVersion": "4.0.5 | 99.6 MB | iOS 16.4 | ",
         "appDescription": "Простой и удобный способ создания обычных, 3D, видео и GIF макетов для различных устройств Apple.",
-        "appUpdateTime": "2025-06-02T15:28:57+00:00"
+        "appUpdateTime": "2025-11-18T17:22:33+00:00"
     },
     {
         "appName": "Procreate Dreams | iPad\n#Design",
@@ -3318,6 +3311,13 @@
         "appUpdateTime": "2025-07-09T13:07:11+00:00"
     },
     {
+        "appName": "Toksik | Pro\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/24/74/0d247403-2bb4-6841-86ba-6f46e47e3868/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "1.0.1 | 75.1 MB | iOS 15.1 | ",
+        "appDescription": "Toksik — это дневник негативных эмоций, который помогает записывать, анализировать и преобразовывать то, что вы чувствуете. Вместо того, чтобы держать стресс, гнев или печаль в себе, запишите их — и позвольте искусственному интеллекту помочь вам увидеть закономерности, которые за ними стоят.",
+        "appUpdateTime": "2025-11-18T18:05:39+00:00"
+    },
+    {
         "appName": "Calculator+ | VIP\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/c8/80/d2c8801d-48bc-d45a-9077-1b669e7adc11/AppIcon-1x_U007ephone-0-8-0-sRGB-85-220.png/246x0w.png",
         "appVersion": "6.9.1 | 11.9 MB | iOS 15.6 | ",
@@ -3467,9 +3467,9 @@
     {
         "appName": "GPS Camera | Pro\n#Design",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/1a/41/d6/1a41d62f-375b-dc11-b784-4ffc0b5d9c18/geocamera_AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "3.6 | 37.3 MB | iOS 12.3 | ",
+        "appVersion": "4.9 | 68.3 MB | iOS 15.6 | ",
         "appDescription": "Фото с гео, временем, штампами и другой информацией.",
-        "appUpdateTime": "2023-03-09T08:31:00+00:00"
+        "appUpdateTime": "2025-11-18T17:26:35+00:00"
     },
     {
         "appName": "Painter Eye | Premium\n#Design",
@@ -3787,6 +3787,13 @@
         "appUpdateTime": "2025-02-04T21:44:40+00:00"
     },
     {
+        "appName": "Draft | Premium\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/ef/d3/22efd3ec-99af-a3ab-2633-4b2d0808cc6d/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "1.1.4 | 29.8 MB | iOS 18.0 | ",
+        "appDescription": "Говорите один раз. Draft создаёт карусели и сторис за минуты, с постами, тредами и скриптами. Редактор и шаблоны встроены.\n\n▎Для входа в приложение требуется сертификат с поддержкой входа по AppleID",
+        "appUpdateTime": "2025-11-18T18:03:32+00:00"
+    },
+    {
         "appName": "ibisPaintX | Premium\n#Design",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/d1/61/0e/d1610e64-3177-85b3-c50a-ba8f35fd1782/AppIconX-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "13.1.13 | 105.7 MB | iOS 15.0 | ",
@@ -4008,7 +4015,7 @@
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/3e/96/733e96a8-f373-5b30-c23e-baa6c2dbc5cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200ia-75.jpg",
         "appVersion": "2.18 | 237.2 MB | iOS 15.0 | ",
         "appDescription": "Фото- и видеоредактор для Instagram на базе искусственного интеллекта. Генерируйте изображения через NanoBanana, улучшайте фото до 8K, и многое другое.\n\n▎Активирована подписка\n▎Накручены кредиты",
-        "appUpdateTime": "2025-11-07T17:02:17+00:00"
+        "appUpdateTime": "2025-11-18T17:23:34+00:00"
     },
     {
         "appName": "Stop Motion Studio | Premium\n#Design",
@@ -4181,9 +4188,9 @@
     {
         "appName": "Car Money | Premium\n#Travel #Money",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/e1/23/80e12335-c67d-6846-8999-baf5427e5b16/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/246x0w.png",
-        "appVersion": "5.5 | 17.1 MB | iOS 16.0 | ",
+        "appVersion": "8.9 | 28.2 MB | iOS 16.0 | ",
         "appDescription": "Отслеживайте расходы на топливо, техосмотр, парковку, техническое обслуживание и страховку - и все это в одном приложении. Это идеальный инструмент, позволяющий без труда управлять расходами на автомобиль и обеспечивающий как обычным водителям, так и автолюбителям полный контроль над своими расходами.",
-        "appUpdateTime": "2025-02-07T13:08:10+00:00"
+        "appUpdateTime": "2025-11-18T17:28:34+00:00"
     },
     {
         "appName": "nPlayer Plus\n#Video",
@@ -4212,6 +4219,13 @@
         "appVersion": "1.0.11 | 73.9 MB | iOS 15.0 | ",
         "appDescription": "MirageAI позволяет любому человеку создавать прекрасные произведения искусства искусственного интеллекта, написав всего несколько простых слов. С огромным количеством шаблонов на выбор Mirage использует высокотехнологичные модели искусственного интеллекта для создания экстравагантных детальных произведений искусства с вашим встроенным шаблоном. ",
         "appUpdateTime": "2025-02-08T11:09:53+00:00"
+    },
+    {
+        "appName": "Clipboard | Pro\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/84/92/0c8492d4-ee42-05f1-f9a0-0508ea0cb21c/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200ia-75.jpg",
+        "appVersion": "3.4.0 | 65.7 MB | iOS 15.0 | ",
+        "appDescription": "Буфер обмена.\n\n▎Для работы требуется сертификат с поддержкой AppGroup(плагинов)",
+        "appUpdateTime": "2025-11-18T17:55:04+00:00"
     },
     {
         "appName": "Night Sky | Premium\n#Other",
@@ -4370,9 +4384,9 @@
     {
         "appName": "GARMASH | Субтитры\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/c6/a9/7ec6a97f-1ba4-5158-3b76-113df91f5ac4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/246x0w.png",
-        "appVersion": "2.42 | 426.3 MB | iOS 17.5 | ",
+        "appVersion": "3.0 | 175.6 MB | iOS 17.5 | ",
         "appDescription": "Создавайте профессиональные видео с AI-субтитрами и более чем 40+ кинематографичными фильтрами — всё в одном приложении.\n\n▎Для активации подписки войдите в аккаунт через почту",
-        "appUpdateTime": "2025-10-09T13:10:26+00:00"
+        "appUpdateTime": "2025-11-18T17:27:04+00:00"
     },
     {
         "appName": "MyCalendars | Premium\n#Life",
@@ -5087,6 +5101,13 @@
         "appVersion": "1.17.0 | 143 MB | iOS 16.0 | ",
         "appDescription": "Pinkllama - это простое и забавное приложение, которое поможет вам отслеживать менструацию, предсказывать овуляцию, узнавать о симптомах, настроении и многом другом!\n\n▎При первом запуске, дважды откажитесь от предложения купить подписку и нажмите \"восстановить покупки\" для активации подписки",
         "appUpdateTime": "2025-05-24T16:54:07+00:00"
+    },
+    {
+        "appName": "Crsel | Pro\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/6c/22/666c22a2-584d-7de5-a722-38ece9b528d5/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "1.1.1 | 167.2 MB | iOS 17.0 | ",
+        "appDescription": "Crsel — это универсальное приложение для создания эстетичных каруселей, коллажей, сторис и обложек Reels в Instagram. Создано для креаторов, которые ценят сторителлинг и стиль.",
+        "appUpdateTime": "2025-11-18T17:59:40+00:00"
     },
     {
         "appName": "Darkroom | Premium\n#Design",
@@ -5987,9 +6008,9 @@
     {
         "appName": "Беременность | Pregnancy | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/9d/7e/ff9d7eb2-563e-cd32-ab8c-1ad9b3f17346/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/246x0w.png",
-        "appVersion": "4.4.1 | 223.3 MB | iOS 15.0 | ",
+        "appVersion": "5.2 | 224 MB | iOS 16.0 | ",
         "appDescription": "Приложение позволит вам оставаться спокойной на протяжении всей беременности. Оно расскажет, что происходит с вами и вашим будущим малышом - неделя за неделей. И подскажет, как быть в новой для вас ситуации. Новые полезные статьи на самые волнующие темы - КАЖДЫЙ ДЕНЬ!",
-        "appUpdateTime": "2025-03-11T05:51:03+00:00"
+        "appUpdateTime": "2025-11-18T17:37:21+00:00"
     },
     {
         "appName": "Car Scanner | Pro\n#Travel",
@@ -6008,9 +6029,9 @@
     {
         "appName": "Памятка ГИБДД\n#Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c9/c3/ef/c9c3ef36-ca60-008e-f213-3fff00331512/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/246x0w.png",
-        "appVersion": "2.5.1 | 40.9 MB | iOS 12.0 | ",
+        "appVersion": "2.5.8 | 37 MB | iOS 15.6 | ",
         "appDescription": "Памятка сотруднику ГИБДД - незаменимая для работы сотрудников Госавтоинспекции информация, включающая в себя нормы КоАП РФ, ПДД РФ и примерные фабулы административных правонарушений.",
-        "appUpdateTime": "2025-01-04T13:58:30+00:00"
+        "appUpdateTime": "2025-11-18T17:27:51+00:00"
     },
     {
         "appName": "Ace Attorney INVESTIGATIONS\n#Games",
@@ -6687,9 +6708,9 @@
     {
         "appName": "ПСБ Банк\n#Money",
         "appImage": "https://cdn.ruplay.market/data/images/62c7f132-8069-45c0-82e4-724e7098ef26?v=20220907",
-        "appVersion": "1.13 | 231.9 MB | iOS 15.0 | ",
-        "appDescription": "Приложение банка ПСБ (Наличность)",
-        "appUpdateTime": "2025-06-08T15:51:48+00:00"
+        "appVersion": "1.4 | 190.7 MB | iOS 15.0 | ",
+        "appDescription": "Приложение банка ПСБ (Наливаем кофе)",
+        "appUpdateTime": "2025-11-18T17:38:35+00:00"
     },
     {
         "appName": "РНКБ\n#Money",
@@ -7042,6 +7063,13 @@
         "appUpdateTime": "2025-10-23T10:56:16+00:00"
     },
     {
+        "appName": "FitWoody | Premium\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/96/ce/4396ce4f-5f34-9f22-0182-d324bfed10ad/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "2.0.7 | 90 MB | iOS 18.0 | ",
+        "appDescription": "Добро пожаловать в FitWoody, вашего адаптивного помощника по здоровью. Будьте последовательны, восстанавливайтесь лучше и познавайте своё тело. FitWoody превращает данные с Apple Watch в простые и понятные инсайты для движений и отдыха.",
+        "appUpdateTime": "2025-11-18T17:47:26+00:00"
+    },
+    {
         "appName": "1xBet\n#Other",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/be/b1/1d/beb11d50-5c4f-f168-6664-a0edf6091b20/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "14.44 | 283.9 MB | iOS 12.0 | ",
@@ -7292,6 +7320,13 @@
         "appVersion": "6.1.5 | 82.5 MB | iOS 13.0 | ",
         "appDescription": "Учите английские слова легко.",
         "appUpdateTime": "2025-10-15T18:05:04+00:00"
+    },
+    {
+        "appName": "Home AI | Premium\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/a7/7b/d6a77b1b-1735-3961-20b2-6cea46b9494e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200ia-75.jpg",
+        "appVersion": "1.5.8 | 115.2 MB | iOS 15.1 | ",
+        "appDescription": "Home AI — это опыт профессионального дизайнера интерьеров и экстерьеров прямо в вашем кармане!",
+        "appUpdateTime": "2025-11-18T17:53:10+00:00"
     },
     {
         "appName": "Plants vs Zombies 2 | Hack\n#Games",
@@ -7663,6 +7698,13 @@
         "appVersion": "1.1.10 | 435.3 MB | iOS 11.0 | ",
         "appDescription": "Откройте для себя увлекательный мир фермерства с Farming Simulator 20! Собирайте урожай различных культур и заботьтесь о свиньях, коровах и овцах. Теперь вы даже можете завести лошадей и исследовать на них земли вокруг своей фермы.\n▎Для взлома валюты в игре начните покупку контента, во время появления окна нажмите ʼОтменаʼ, покупка будет взломана.",
         "appUpdateTime": "2022-06-16T08:31:00+00:00"
+    },
+    {
+        "appName": "BitConverter | Premium\n#Money",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/3a/3a/4d3a3a09-0716-6c24-597c-5228a90ad772/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "2.0.4 | 34.9 MB | iOS 15.0 | ",
+        "appDescription": "Конвертер для тех, кто работает в криптовалюте.",
+        "appUpdateTime": "2025-11-18T17:40:40+00:00"
     },
     {
         "appName": "Crossy Castle | Arcade\n#Games",
