@@ -72,9 +72,9 @@
     {
         "appName": "Swiftgram | TGExtra\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/3f/8f/c13f8f03-5761-cd9c-cd4d-c11390460ad4/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/246x0w.png",
-        "appVersion": "12.2 | 1.7 | 162.8 MB | iOS 13.0 | ",
+        "appVersion": "12.2 | 1.7 | 159.4 MB | iOS 13.0 | ",
         "appDescription": "Модификация телеграм клиента Swiftgram - оффлайн, нечиталка, подмена локации, скрины секретных чатов и каналов.\n\n▎Настройки TGExtra: Откройте \"Настройки\" и зажмите кнопку \"Помощь\"\n▎Если не прогружаются сообщения - отключите опцию \"Разрешить сохранение защищенного контента\" в настройках TGExtra.\n▎Если не открываются сообщения разрешите доступ к контактам.",
-        "appUpdateTime": "2025-11-24T17:28:18+00:00"
+        "appUpdateTime": "2025-11-24T19:52:52+00:00"
     },
     {
         "appName": "TikTok | BH Plus \n#Video",
@@ -205,9 +205,9 @@
     {
         "appName": "Аудиокниги | Pro\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/e6/61/c7/e661c7f8-ba92-2ae0-534f-2233703e3500/AppIcon-0-2x-4-0-85-220.png/246x0w.png",
-        "appVersion": "1.1.4 | 69.1 MB | iOS 14.0 | ",
+        "appVersion": "1.1.5 | 68.5 MB | iOS 15.6 | ",
         "appDescription": "Тысячи аудиокниг разных жанров на русском с возможностью загрузки в кэш.\n\n▎Для полной активации подписки войдите в аккаунт через Google\n▎Если не удается загрузить некоторые книги, используйте VPN.",
-        "appUpdateTime": "2025-10-15T17:23:08+00:00"
+        "appUpdateTime": "2025-12-04T16:22:18+00:00"
     },
     {
         "appName": "VK Музыка | Premium\n#Music",
@@ -226,9 +226,9 @@
     {
         "appName": "Spotify | Eevee\n#Music",
         "appImage": "https://www.freeiconspng.com/uploads/spotify-icon-2.png",
-        "appVersion": "9.0.98 | 206.9 MB | iOS 16.1 | ",
+        "appVersion": "9.1.0 | 208.3 MB | iOS 16.1 | ",
         "appDescription": "Стриминговый сервис лицензионной музыки в высоком качестве с частично взломанной премиум подпиской.\n\n▎Чтобы активировать взлом войдите в аккаунт и переоткройте приложение 2-3 раза.",
-        "appUpdateTime": "2025-11-24T17:23:15+00:00"
+        "appUpdateTime": "2025-12-04T16:11:07+00:00"
     },
     {
         "appName": "Spotify | Stable\n#Music",
@@ -310,37 +310,37 @@
     {
         "appName": "Scanner Pro | Plus\n#Office",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/e1/6c/2de16cf9-7515-433f-7d94-91d4bc4dd510/ScannerPro-1x_U007emarketing-0-6-0-0-85-220.png/246x0w.png",
-        "appVersion": "8.13.3 | 176.9 MB | iOS 14.0 | ",
+        "appVersion": "8.32.1 | 380.7 MB | iOS 17.0 | ",
         "appDescription": "Сканируйте соглашения, чеки, паспорта, книги с помощью вашего iPhone или iPad и превращайте их в безупречные PDF-файлы.",
-        "appUpdateTime": "2023-05-17T08:31:00+00:00"
+        "appUpdateTime": "2025-12-04T16:08:59+00:00"
     },
     {
         "appName": "Documents | Plus\n#Office",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/77/8f/9a/778f9ad3-f76b-1820-810a-fbd462794bf7/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/246x0w.png",
-        "appVersion": "8.17.12 | 431.6 MB | iOS 16.0 | ",
+        "appVersion": "8.17.14 | 447.7 MB | iOS 16.0 | ",
         "appDescription": "Универсальный менеджер для работы с файлам и документами.\n\n▎Активирована подписка (кроме VPN)\n▎Работает выбор файлов",
-        "appUpdateTime": "2025-10-21T15:32:30+00:00"
+        "appUpdateTime": "2025-12-04T16:07:13+00:00"
     },
     {
         "appName": "Calendars | Premium\n#Office",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/a2/88/3aa2887b-373f-5942-d0ad-9b4221d6e4e8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "5.37.8 | 278.3 MB | iOS 17.5 | ",
+        "appVersion": "5.37.11 | 335.9 MB | iOS 17.5 | ",
         "appDescription": "Функциональный календарь от Readdle с лучшими возможностями.",
-        "appUpdateTime": "2025-10-21T15:31:28+00:00"
+        "appUpdateTime": "2025-12-04T16:08:15+00:00"
     },
     {
         "appName": "PDF Expert | Premium\n#Office",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/29/45/14/2945141b-e3d0-857c-16fb-0dd86bd778ad/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/246x0w.png",
-        "appVersion": "7.23.8 | 253.7 MB | iOS 16.0 | ",
+        "appVersion": "7.24.1 | 261.8 MB | iOS 16.0 | ",
         "appDescription": "Лучший PDF редактор для работы с PDF-файлами",
-        "appUpdateTime": "2025-10-21T15:31:57+00:00"
+        "appUpdateTime": "2025-12-04T16:07:41+00:00"
     },
     {
         "appName": "Spark | Pro\n#Office",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3d/dd/4c/3ddd4c05-77da-0df4-3938-03f9507a7704/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.png",
-        "appVersion": "3.15.3 | 325.5 MB | iOS 16.0 | ",
+        "appVersion": "3.18.6 | 577.3 MB | iOS 16.4 | ",
         "appDescription": "Лучший почтовый клиент Spark.\n\n▎Активирована подписка.",
-        "appUpdateTime": "2025-04-28T12:58:04+00:00"
+        "appUpdateTime": "2025-12-04T16:10:13+00:00"
     },
     {
         "appName": "iTorrent\n#Network",
@@ -415,9 +415,9 @@
     {
         "appName": "Busuu | Premium\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/73/c6/4973c6d2-2d6a-1271-17c5-e1c5b5509576/AppIcon-0-1x_U007emarketing-0-7-0-0-0-85-220.png/246x0w.png",
-        "appVersion": "29.20.1 | 247.4 MB | iOS 17.0 | ",
+        "appVersion": "29.26.1 | 247.6 MB | iOS 17.0 | ",
         "appDescription": "Приложение для узучения различных языков.\n\n▎Авторизация через почту или Facebook.",
-        "appUpdateTime": "2025-10-15T17:22:08+00:00"
+        "appUpdateTime": "2025-12-04T16:21:35+00:00"
     },
     {
         "appName": "Laoshi | Plus\n#Study",
@@ -639,9 +639,9 @@
     {
         "appName": "YAZIO | Pro\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/22/02/90/22029003-5189-ac51-3903-945a306e062a/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/246x0w.png",
-        "appVersion": "12.53.2 | 253.5 MB | iOS 16.0 | ",
+        "appVersion": "12.61 | 281.4 MB | iOS 16.0 | ",
         "appDescription": "С помощью приложения «Счетчик калорий» от YAZIO вы можете вести дневник питания, отслеживать физическую активность и успешно снижать вес. Теперь считать калории и терять лишние килограммы очень легко!\n\n▎Недоступны серверные функции(Интервальное голодание)\n▎Для работы виджетов требуется сертификат iApps от 07.12.24",
-        "appUpdateTime": "2025-10-21T15:33:12+00:00"
+        "appUpdateTime": "2025-12-04T16:03:08+00:00"
     },
     {
         "appName": "Adidas Training | Premium\n#Life",
@@ -814,9 +814,9 @@
     {
         "appName": "Splice | Pro\n#Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/9f/4c/b1/9f4cb11e-0334-4ef3-73cb-ff0770303ea2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "4.28.34 | 185.7 MB | iOS 14.0 | ",
+        "appVersion": "4.28.55 | 186.7 MB | iOS 14.0 | ",
         "appDescription": "Удобный и мощный видеоредактор.\n\n▎Откройте и перезапустите приложение для активации подписки",
-        "appUpdateTime": "2025-04-12T13:44:09+00:00"
+        "appUpdateTime": "2025-12-04T15:58:52+00:00"
     },
     {
         "appName": "Дед VPN Speed | Hack\n#Network",
@@ -1430,9 +1430,9 @@
     {
         "appName": "Motionleap | Pro\n#Design",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/c4/1c/a1c41c80-ffd6-9308-a851-279ab9829b1c/AppIcon-1x_U007emarketing-0-7-0-GLES2_U002c0-512MB-85-220.png/246x0w.png",
-        "appVersion": "1.9.20 | 216.1 MB | iOS 14.0 | ",
+        "appVersion": "1.9.32 | 221.7 MB | iOS 17.0 | ",
         "appDescription": "Добавьте анимацию к любой детали снимка — или к нескольким сразу — чтобы привлечь взгляд, заворожить ваших зрителей, рассказать историю и создать атмосферу волшебства.",
-        "appUpdateTime": "2023-02-20T08:31:00+00:00"
+        "appUpdateTime": "2025-12-04T16:00:16+00:00"
     },
     {
         "appName": "Photoleap | Pro\n#Design",
@@ -1591,9 +1591,9 @@
     {
         "appName": "Muslim Pro | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/c2/c0/5ec2c0e2-2ceb-ef7a-4d55-bedadeb7c0db/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.png",
-        "appVersion": "16.0 | 340.9 MB | iOS 14.0 | ",
+        "appVersion": "16.18.2 | 317.9 MB | iOS 15.0 | ",
         "appDescription": "Приложение для мусульман с различными возможностями и удобствами.\n\n▎Войдите в аккаунт для активации подписки",
-        "appUpdateTime": "2025-02-22T16:53:58+00:00"
+        "appUpdateTime": "2025-12-04T16:04:20+00:00"
     },
     {
         "appName": "Hello AI | Premium\n#Other",
@@ -2011,9 +2011,9 @@
     {
         "appName": "atvTools\n#Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e5/c5/71/e5c57150-d40e-8fa9-dad3-00264856eabc/AppIcon-0-0-1x_U007epad-0-85-220.png/246x0w.png",
-        "appVersion": "1.5.3 | 74.3 MB | iOS 14.0 | ",
+        "appVersion": "1.5.4 | 74.3 MB | iOS 14.0 | ",
         "appDescription": "Приложение для установки .apk и управлением Android TV устройствами с iPhone и iPad.\n\n▎В YouTube много обзоров приложения, если не понимаете как пользоваться.",
-        "appUpdateTime": "2025-09-19T15:56:34+00:00"
+        "appUpdateTime": "2025-12-04T16:11:42+00:00"
     },
     {
         "appName": "Concepts | Pro\n#Design",
@@ -2189,6 +2189,13 @@
         "appVersion": "10.3 | 76.4 MB | iOS 13.0 | ",
         "appDescription": "Приложение с огромными возможностями для владельцев электротранспорта!",
         "appUpdateTime": "2025-05-06T14:02:43+00:00"
+    },
+    {
+        "appName": "DiaMeter | Premium\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/f3/82/09f3826a-ddc6-3cc5-8ef5-c8081dab47a7/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/200x200ia-75.jpg",
+        "appVersion": "2.2.9 | 73 MB | iOS 11.0 | ",
+        "appDescription": "DiaMeter – это быстрый и полезный дневник самоконтроля для вашего iPhone. Благодаря нему вы можете забыть о сложном процессе записи данных о диабете и начать следить за ним просто и удобно с помощью быстрого ввода и понятной статистики. ",
+        "appUpdateTime": "2025-12-04T16:33:50+00:00"
     },
     {
         "appName": "Supershift | Pro\n#Office",
@@ -2550,9 +2557,9 @@
     {
         "appName": "hip | Plus\n#Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5c/1c/d3/5c1cd33c-6997-0878-bea7-f0aaa84b7d08/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/246x0w.png",
-        "appVersion": "9.0.1 | 74.2 MB | iOS 14.0 | ",
+        "appVersion": "9.22 | 80.5 MB | iOS 14.0 | ",
         "appDescription": "Не забывайте о важных датах. Hip напомнит вам о дне рождения и других событиях.",
-        "appUpdateTime": "2025-02-11T13:24:54+00:00"
+        "appUpdateTime": "2025-12-04T16:03:44+00:00"
     },
     {
         "appName": "Photify AI | Ultra+\n#Design",
@@ -2634,9 +2641,9 @@
     {
         "appName": "Flo | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/75/0f/3c/750f3c48-6d4c-258d-b901-a91b2e608abd/AppIcon-1x_U007emarketing-0-5-0-85-220.png/246x0w.png",
-        "appVersion": "9.91.2 | 229.6 MB | iOS 16.0 | ",
+        "appVersion": "9.92 | 232.7 MB | iOS 16.0 | ",
         "appDescription": "Одно из самых популярных приложений для женского здоровья.\n\n▎Войдите в аккаунт для активации подписки",
-        "appUpdateTime": "2025-11-18T17:37:51+00:00"
+        "appUpdateTime": "2025-12-04T16:05:33+00:00"
     },
     {
         "appName": "Thinkrolls: игры для детей\n#Kids",
@@ -3586,9 +3593,9 @@
     {
         "appName": "Sleep Tracker | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/34/59/b63459a0-cda4-7f72-f6b5-b6b094e97877/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "2.16.1 | 349.2 MB | iOS 12.0 | ",
+        "appVersion": "2.21 | 364.5 MB | iOS 12.0 | ",
         "appDescription": "ТРЕКЕР СНА — ваш интеллектуальный помощник для сна, совмещающий персональный регистратор сна, отслеживатель разговоров во сне и расслабляющие звуки, чтобы обеспечить спокойствие и отдых для лучшего сна. С его помощью вы можете отслеживать своё время сна, записывать храп и разговоры во сне, а также наслаждаться белым шумом для малышей, звуками природы, музыкой для сна и историями на ночь.",
-        "appUpdateTime": "2025-07-31T17:22:29+00:00"
+        "appUpdateTime": "2025-12-04T16:05:02+00:00"
     },
     {
         "appName": "Rave | Premium\n#Video",
@@ -3915,9 +3922,9 @@
     {
         "appName": "BoldVoice | Super\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/aa/26/dfaa265b-71fb-0bb7-f879-3e44cdb3a4c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
-        "appVersion": "3.3.8 | 161.8 MB | iOS 15.1 | ",
+        "appVersion": "3.4.8 | 165.1 MB | iOS 15.1 | ",
         "appDescription": "BoldVoice - это лучшее обучающее приложение помогающее приобрести английское произношение. Обучайтесь с помощью видеороликов сделанных Голливудскими экспертами по произношению, записывайте свой голоc и получайте мгновенную обратную связь. Вам понадобиться только 10 минут в день, чтобы говорить по-английски уверенно.\n\n▎Активирована подписка\n▎Разблокированы все уроки",
-        "appUpdateTime": "2025-09-19T15:57:05+00:00"
+        "appUpdateTime": "2025-12-04T16:21:04+00:00"
     },
     {
         "appName": "Smart Driver | Premium\n#Travel",
@@ -4776,9 +4783,9 @@
     {
         "appName": "Dzeny | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/8a/76/fd8a7618-76f1-fa2b-097d-590c7f48bd4c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/246x0w.png",
-        "appVersion": "1.6.1 | 76.8 MB | iOS 15.1 | ",
+        "appVersion": "1.7.2 | 79.4 MB | iOS 15.1 | ",
         "appDescription": "Dzeny — персонализированный AI для ментальной поддержки, доступный в любое время и в любом месте.",
-        "appUpdateTime": "2025-11-07T15:46:16+00:00"
+        "appUpdateTime": "2025-12-04T16:02:40+00:00"
     },
     {
         "appName": "Little Fox - Детские песни\n#Kids",
@@ -5775,6 +5782,13 @@
         "appUpdateTime": "2025-11-24T15:40:04+00:00"
     },
     {
+        "appName": "Check Marks | Галки\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/b5/d1/ebb5d164-d0ba-6c2a-0e76-e397879ae1bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200ia-75.jpg",
+        "appVersion": "4.7.14 | 92.4 MB | iOS 15.0 | ",
+        "appDescription": "Галки - это приложение, состоящее из готовых тысячей челленджей и списков желаний, которые нужно успеть сделать, пока живешь на свете.",
+        "appUpdateTime": "2025-12-04T16:31:34+00:00"
+    },
+    {
         "appName": "PrettyUp | VIP\n#Design",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/6e/8e/19/6e8e19ad-3c64-9384-faef-3f8b688ace4b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "8.2.13 | 386.1 MB | iOS 14.0 | ",
@@ -5878,6 +5892,13 @@
         "appVersion": "1.9.3 | 97.8 MB | iOS 14.0 | ",
         "appDescription": "Mi & Ju — это современный цифровой дневник отношений для пар. Он поможет вам запечатлеть важные вехи вашей уникальной истории любви.",
         "appUpdateTime": "2025-10-15T20:00:15+00:00"
+    },
+    {
+        "appName": "RadCam VHS | Pro\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/96/f3/6396f3ef-f73e-b871-cd5e-9273150629fe/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "6.4.0 | 243.7 MB | iOS 17.0 | ",
+        "appDescription": "Radcam объединяет самые популярные стили редактирования в одном приложении: оттенки, вдохновленные кино, винтажный вид, настроечные пресеты, ретро-зернистость, эффект одноразовой камеры и многое другое.",
+        "appUpdateTime": "2025-12-04T16:28:38+00:00"
     },
     {
         "appName": "Prequel | Hack\n#Design",
@@ -6473,6 +6494,13 @@
         "appVersion": "7.0 | 60.4 MB | iOS 16.0 | ",
         "appDescription": "Простой и чистый дизайн, разнообразие таймеров и функций, без рекламы, Siri, виджеты - идеальное приложение для ежедневного отслеживания времени.\n\n▎Для работы виджетов требуется сертификат iApps от 07.12.24",
         "appUpdateTime": "2024-12-10T18:34:05+00:00"
+    },
+    {
+        "appName": "Temporary Email Pro | Premium\n#Office",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/a6/c4/7da6c478-807a-098f-cf4b-188cc6e655bb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200ia-75.jpg",
+        "appVersion": "7.2.1 | 51.1 MB | iOS 15.1 | ",
+        "appDescription": "С помощью приложения Temporary Email Pro вы можете мгновенно создать одноразовый временный адрес электронной почты и сразу же получать письма, включая фотографии и любые другие вложения.",
+        "appUpdateTime": "2025-12-04T16:37:07+00:00"
     },
     {
         "appName": "ArtPose | Pro\n#Other",
@@ -7628,6 +7656,13 @@
         "appVersion": "30190 | 328.7 MB | iOS 13.0 | ",
         "appDescription": "Помогите королю Роберту восстановить былую славу замка! Разбивайте препятствия и используйте мощные усилители, чтобы проходить увлекательные напряжённые уровни!\n\n▎Заморозка монет, ходов, бустеров\n▎Создайте\\Войдите в аккаунт iOSGods для активации VIP",
         "appUpdateTime": "2025-07-26T11:06:12+00:00"
+    },
+    {
+        "appName": "No Fusion | Premium\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/33/9a/60339a39-cb79-6df0-e352-d9c4746b642f/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "2.5.46 | 123.5 MB | iOS 15.6 | ",
+        "appDescription": "Раскройте все возможности камеры вашего iPhone. Устраните чрезмерную резкость и получите естественные фотографии.",
+        "appUpdateTime": "2025-12-04T16:25:30+00:00"
     },
     {
         "appName": "Earn to Die 2 | Hack\n#Games",
