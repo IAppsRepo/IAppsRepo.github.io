@@ -33,16 +33,26 @@ const closeMenuBtn = document.getElementById('closeMenu');
 const mobileMenu = document.getElementById('mobileMenu');
 const overlay = document.getElementById('overlay');
 
+let menuScrollPosition = 0;
+
 function openMobileMenu() {
     mobileMenu.classList.add('active');
     overlay.classList.add('active');
+    menuScrollPosition = window.pageYOffset;
     document.body.style.overflow = 'hidden';
+    document.body.style.position = 'fixed';
+    document.body.style.top = `-${menuScrollPosition}px`;
+    document.body.style.width = '100%';
 }
 
 function closeMobileMenu() {
     mobileMenu.classList.remove('active');
     overlay.classList.remove('active');
     document.body.style.overflow = '';
+    document.body.style.position = '';
+    document.body.style.top = '';
+    document.body.style.width = '';
+    window.scrollTo(0, menuScrollPosition);
 }
 
 avatarBtn.addEventListener('click', openMobileMenu);
@@ -61,14 +71,32 @@ const settingsModal = document.getElementById('settingsModal');
 const closeSettingsBtn = document.getElementById('closeSettings');
 const modalBackdrop = document.getElementById('modalBackdrop');
 
+let scrollPosition = 0;
+
+function lockScroll() {
+    scrollPosition = window.pageYOffset;
+    document.body.style.overflow = 'hidden';
+    document.body.style.position = 'fixed';
+    document.body.style.top = `-${scrollPosition}px`;
+    document.body.style.width = '100%';
+}
+
+function unlockScroll() {
+    document.body.style.overflow = '';
+    document.body.style.position = '';
+    document.body.style.top = '';
+    document.body.style.width = '';
+    window.scrollTo(0, scrollPosition);
+}
+
 function openSettingsModal() {
     settingsModal.classList.add('active');
-    document.body.style.overflow = 'hidden';
+    lockScroll();
 }
 
 function closeSettingsModal() {
     settingsModal.classList.remove('active');
-    document.body.style.overflow = '';
+    unlockScroll();
 }
 
 settingsBtn.addEventListener('click', openSettingsModal);
