@@ -53,7 +53,9 @@
 }
 
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
-html { font-size: 16px; scroll-behavior: smooth; -webkit-text-size-adjust: 100%; height: -webkit-fill-available; background: var(--bg-primary); }
+html { font-size: 16px; scroll-behavior: smooth; -webkit-text-size-adjust: 100%; height: -webkit-fill-available; }
+html[data-theme="dark"] { background: #0a0a0f; }
+html[data-theme="light"] { background: #f8fafc; }
 body {
     font-family: var(--font);
     background: var(--bg-primary);
