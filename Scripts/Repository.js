@@ -168,6 +168,7 @@ function displayApps() {
         const appItem = document.createElement('div');
         appItem.className = 'app-item';
         appItem.style.animationDelay = `${delay}s`;
+        appItem.style.cursor = 'pointer';
         appItem.innerHTML = `
             <div class="app-header">
                 <img src="${app.appImage}" alt="${cleanedAppName}" loading="lazy" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect fill=%22%236366f1%22 width=%22100%22 height=%22100%22 rx=%2220%22/><text x=%2250%22 y=%2255%22 font-size=%2240%22 text-anchor=%22middle%22 fill=%22white%22>📱</text></svg>'">
@@ -179,6 +180,7 @@ function displayApps() {
             <hr>
             <p class="app-description">${formattedDescription}</p>
         `;
+        appItem.addEventListener('click', () => openAppModal(app));
         appList.appendChild(appItem);
     });
 
@@ -235,3 +237,101 @@ function createPaginationBtn(text, onClick) {
     pagination.appendChild(btn);
     return btn;
 }
+
+
+const appModal = document.getElementById('appModal');
+const appModalBackdrop = document.getElementById('appModalBackdrop');
+const closeAppModalBtn = document.getElementById('closeAppModal');
+const appModalBody = document.getElementById('appModalBody');
+const appModalTitle = document.getElementById('appModalTitle');
+
+function parseAppVersion(versionStr) {
+    const parts = versionStr.split('|').map(p => p.trim());
+    return {
+        version: parts[0] || 'N/A',
+        build: parts[1] || '',
+        size: parts[2] || 'N/A',
+        ios: parts[3] || 'N/A'
+    };
+}
+
+function formatDate(dateStr) {
+    const date = new Date(dateStr);
+    return date.toLocaleDateString('ru-RU', { day: 'numeric', month: 'long', year: 'numeric' });
+}
+
+function getCategoryEmoji(appName) {
+    const categories = {
+        'Social': '💬', 'Music': '🎵', 'Video': '🎬', 'Design': '🎨',
+        'Network': '🌍', 'Study': '📚', 'Office': '📋', 'Games': '🎮',
+        'Kids': '👶', 'Life': '💪', 'Other': '📦'
+    };
+    for (const [cat, emoji] of Object.entries(categories)) {
+        if (appName.toLowerCase().includes(`#${cat.toLowerCase()}`)) return { name: cat, emoji };
+    }
+    return { name: 'Other', emoji: '📦' };
+}
+
+function openAppModal(app) {
+    const cleanedAppName = app.appName.split('\n')[0];
+    const versionInfo = parseAppVersion(app.appVersion);
+    const category = getCategoryEmoji(app.appName);
+    
+    appModalTitle.textContent = cleanedAppName;
+    appModalBody.innerHTML = `
+        <div class="app-detail">
+            <div class="app-detail__header">
+                <img class="app-detail__icon" src="${app.appImage}" alt="${cleanedAppName}" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect fill=%22%236366f1%22 width=%22100%22 height=%22100%22 rx=%2220%22/><text x=%2250%22 y=%2255%22 font-size=%2240%22 text-anchor=%22middle%22 fill=%22white%22>📱</text></svg>'">
+                <div class="app-detail__info">
+                    <h2 class="app-detail__name">${cleanedAppName}</h2>
+                    <span class="app-detail__category">${category.emoji} ${category.name}</span>
+                </div>
+            </div>
+            <div class="app-detail__meta">
+                <div class="app-detail__meta-item">
+                    <span class="app-detail__meta-icon">📱</span>
+                    <span class="app-detail__meta-value">${versionInfo.ios}</span>
+                    <span class="app-detail__meta-label">iOS</span>
+                </div>
+                <div class="app-detail__meta-item">
+                    <span class="app-detail__meta-icon">📦</span>
+                    <span class="app-detail__meta-value">${versionInfo.size}</span>
+                    <span class="app-detail__meta-label">Размер</span>
+                </div>
+                <div class="app-detail__meta-item">
+                    <span class="app-detail__meta-icon">🏷️</span>
+                    <span class="app-detail__meta-value">${versionInfo.version}</span>
+                    <span class="app-detail__meta-label">Версия</span>
+                </div>
+            </div>
+            <div class="app-detail__section">
+                <h3 class="app-detail__section-title">Описание</h3>
+                <p class="app-detail__description">${app.appDescription}</p>
+            </div>
+            <div class="app-detail__updated">
+                <svg viewBox="0 0 24 24" width="16" height="16"><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm1-8h4v2h-6V7h2v5z"/></svg>
+                <span>Обновлено: ${formatDate(app.appUpdateTime)}</span>
+            </div>
+        </div>
+    `;
+    
+    appModal.classList.add('active');
+    document.body.classList.add('modal-open');
+    scrollPosition = window.pageYOffset;
+    document.body.style.top = `-${scrollPosition}px`;
+}
+
+function closeAppModal() {
+    appModal.classList.remove('active');
+    document.body.classList.remove('modal-open');
+    document.body.style.top = '';
+    window.scrollTo(0, scrollPosition);
+}
+
+closeAppModalBtn.addEventListener('click', closeAppModal);
+appModalBackdrop.addEventListener('click', closeAppModal);
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && appModal.classList.contains('active')) {
+        closeAppModal();
+    }
+});
