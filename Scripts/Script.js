@@ -67,28 +67,24 @@ const settingsModal = document.getElementById('settingsModal');
 const closeSettingsBtn = document.getElementById('closeSettings');
 const modalBackdrop = document.getElementById('modalBackdrop');
 
-let scrollPosition = 0;
-
-function lockScroll() {
-    scrollPosition = window.pageYOffset;
-    document.body.classList.add('modal-open');
-    document.body.style.top = `-${scrollPosition}px`;
-}
-
-function unlockScroll() {
-    document.body.classList.remove('modal-open');
-    document.body.style.top = '';
-    window.scrollTo(0, scrollPosition);
-}
+let settingsScrollPosition = 0;
 
 function openSettingsModal() {
+    if (!document.body.classList.contains('modal-open')) {
+        settingsScrollPosition = window.pageYOffset;
+        document.body.classList.add('modal-open');
+        document.body.style.top = `-${settingsScrollPosition}px`;
+    }
     settingsModal.classList.add('active');
-    lockScroll();
 }
 
 function closeSettingsModal() {
     settingsModal.classList.remove('active');
-    unlockScroll();
+    if (!document.querySelector('.modal.active')) {
+        document.body.classList.remove('modal-open');
+        document.body.style.top = '';
+        window.scrollTo(0, settingsScrollPosition);
+    }
 }
 
 settingsBtn.addEventListener('click', openSettingsModal);
