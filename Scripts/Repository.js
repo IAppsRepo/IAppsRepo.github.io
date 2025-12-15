@@ -69,26 +69,13 @@ function updateStatsCounters(appsCount) {
     }
 }
 
-const fullListBtn = document.getElementById('full-list-btn');
-const timeListBtn = document.getElementById('time-list-btn');
-
-if (fullListBtn && timeListBtn) {
-    fullListBtn.addEventListener('click', () => {
-        displayMode = 'full';
+document.querySelectorAll('input[name="sortMode"]').forEach(radio => {
+    radio.addEventListener('change', function() {
+        displayMode = this.value;
         currentPage = 1;
-        fullListBtn.classList.add('active');
-        timeListBtn.classList.remove('active');
         displayApps();
     });
-
-    timeListBtn.addEventListener('click', () => {
-        displayMode = 'time';
-        currentPage = 1;
-        timeListBtn.classList.add('active');
-        fullListBtn.classList.remove('active');
-        displayApps();
-    });
-}
+});
 
 document.querySelectorAll('input[name="itemsPerPage"]').forEach(radio => {
     radio.addEventListener('change', function() {
@@ -118,10 +105,8 @@ if (resetFiltersBtn) {
         if (defaultItemsRadio) defaultItemsRadio.checked = true;
         
         displayMode = 'full';
-        if (fullListBtn && timeListBtn) {
-            fullListBtn.classList.add('active');
-            timeListBtn.classList.remove('active');
-        }
+        const defaultSortRadio = document.querySelector('input[name="sortMode"][value="full"]');
+        if (defaultSortRadio) defaultSortRadio.checked = true;
         
         if (searchInput) searchInput.value = '';
         
