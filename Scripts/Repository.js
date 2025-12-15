@@ -247,12 +247,21 @@ const appModalTitle = document.getElementById('appModalTitle');
 
 function parseAppVersion(versionStr) {
     const parts = versionStr.split('|').map(p => p.trim());
-    return {
-        version: parts[0] || 'N/A',
-        build: parts[1] || '',
-        size: parts[2] || 'N/A',
-        ios: parts[3] || 'N/A'
-    };
+    let version = 'N/A';
+    let size = 'N/A';
+    let ios = 'N/A';
+    
+    for (const part of parts) {
+        if (/mb/i.test(part)) {
+            size = part;
+        } else if (/ios/i.test(part)) {
+            ios = part.replace(/ios\s*/i, '').trim();
+        } else if (part && version === 'N/A') {
+            version = part;
+        }
+    }
+    
+    return { version, size, ios };
 }
 
 function formatDate(dateStr) {
@@ -315,17 +324,23 @@ function openAppModal(app) {
         </div>
     `;
     
+    if (!document.body.classList.contains('modal-open')) {
+        appModalScrollPosition = window.pageYOffset;
+        document.body.classList.add('modal-open');
+        document.body.style.top = `-${appModalScrollPosition}px`;
+    }
     appModal.classList.add('active');
-    document.body.classList.add('modal-open');
-    scrollPosition = window.pageYOffset;
-    document.body.style.top = `-${scrollPosition}px`;
 }
+
+let appModalScrollPosition = 0;
 
 function closeAppModal() {
     appModal.classList.remove('active');
-    document.body.classList.remove('modal-open');
-    document.body.style.top = '';
-    window.scrollTo(0, scrollPosition);
+    if (!document.querySelector('.modal.active')) {
+        document.body.classList.remove('modal-open');
+        document.body.style.top = '';
+        window.scrollTo(0, appModalScrollPosition);
+    }
 }
 
 closeAppModalBtn.addEventListener('click', closeAppModal);
