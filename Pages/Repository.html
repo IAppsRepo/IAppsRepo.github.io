@@ -1,293 +1,163 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru" data-theme="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Парсер</title>
+    <title>JSON Парсер | IAppsRepo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
-
-body {
-    font-family: Arial, sans-serif;
-    background-color: #1e1e1e;
-    color: #f0f0f0;
-    padding: 20px;
-    transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-.container {
-    display: flex;
-    justify-content: space-between;
-    max-width: 1000px;
-    margin: 0 auto;
-}
-
-.form-container {
-    width: 48%;
-    background-color: #2a2a2a;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
-    margin-bottom: 20px;
-    overflow: auto;
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
-}
-
-.form-container:hover {
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
-}
-
-.form-container h2 {
-    margin-top: 0;
-    margin-bottom: 10px;
-    text-align: center;
-    color: #fff;
-}
-
-.form-container > * {
-    margin-bottom: 10px;
-}
-
-input[type="file"],
-input[type="text"],
-textarea,
-select {
-    width: calc(100% - 22px);
-    padding: 10px;
-    margin-bottom: 10px;
-    border: 1px solid #555;
-    border-radius: 5px;
-    background-color: #3a3a3a;
-    color: #f0f0f0;
-    box-sizing: border-box;
-    transition: background-color 0.3s ease, border-color 0.3s ease;
-}
-
-input[type="file"]:focus,
-input[type="text"]:focus,
-textarea:focus,
-select:focus {
-    border-color: #007bff;
-    background-color: #444;
-    outline: none;
-}
-
-select {
-    appearance: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    background-image: url('data:image/svg+xml;utf8,<svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 4"><path d="M4 4L0 0h8z"/></svg>');
-    background-repeat: no-repeat;
-    background-position: right 8px center;
-    background-size: 8px;
-}
-
-button {
-    width: calc(100% - 22px);
-    padding: 10px;
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    margin-top: 10px;
-    display: block;
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
-}
-
-button:hover {
-    background-color: #0056b3;
-    box-shadow: 0 0 10px rgba(0, 123, 255, 0.6);
-}
-
-.custom-file-upload {
-    display: inline-block;
-    position: relative;
-    overflow: hidden;
-    margin-top: 10px;
-}
-
-.custom-file-upload input[type="file"] {
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 100%;
-    height: 100%;
-    font-size: 100px;
-    cursor: pointer;
-    opacity: 0;
-}
-
-label {
-    display: block;
-    color: #f0f0f0;
-}
-
-#jsonDataDisplay {
-    white-space: pre;
-    background-color: #333;
-    padding: 10px;
-    border: 1px solid #555;
-    border-radius: 5px;
-    margin-top: 10px;
-    font-family: monospace;
-    color: #fff;
-    overflow-x: auto;
-    max-height: 600px;
-}
-
-.json-key {
-    color: #ff8c00;
-}
-
-.json-string {
-    color: #98c379;
-}
-
-.json-boolean {
-    color: #d19a66;
-}
-
-.autocomplete-items {
-    border: 1px solid #555;
-    border-top: none;
-    position: absolute;
-    background-color: #2a2a2a;
-    max-height: 100px;
-    overflow-y: auto;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-    z-index: 99;
-}
-
-.autocomplete-item {
-    padding: 10px;
-    cursor: pointer;
-    border-bottom: 1px solid #555;
-    color: #fff;
-}
-
-.autocomplete-item:last-child {
-    border-bottom: none;
-}
-
-.autocomplete-item:hover {
-    background-color: #3a3a3a;
-}
-
-@media screen and (min-width: 801px) {
-    .container {
-        gap: 20px;
-    }
-}
-
-@media screen and (max-width: 800px) {
-    .container {
-        flex-direction: column;
-        align-items: center;
-    }
-    .form-container {
-        width: 95%;
-        margin-bottom: 20px;
-    }
-    #jsonDataDisplay {
-        width: 95%;
-        margin: 0 auto;
-    }
-}
+        :root { --font: 'Inter', -apple-system, sans-serif; }
+        [data-theme="dark"] {
+            --bg: #0a0a0f; --bg-card: rgba(26,26,36,0.9); --border: rgba(255,255,255,0.08);
+            --text: #fff; --text-muted: rgba(255,255,255,0.5); --accent: #6366f1;
+        }
+        [data-theme="light"] {
+            --bg: #f8fafc; --bg-card: rgba(255,255,255,0.95); --border: rgba(0,0,0,0.08);
+            --text: #0f172a; --text-muted: #64748b; --accent: #6366f1;
+        }
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: var(--font);
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            padding: clamp(1rem, 5vw, 3rem);
+            transition: all 0.3s;
+        }
+        .header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem; }
+        .back { display: flex; align-items: center; gap: 0.5rem; color: var(--text-muted); font-weight: 500; transition: color 0.2s; }
+        .back:hover { color: var(--accent); }
+        .back svg { fill: currentColor; }
+        .theme-btn {
+            width: 44px; height: 44px; border-radius: 12px; background: var(--bg-card);
+            border: 1px solid var(--border); display: flex; align-items: center; justify-content: center;
+            font-size: 1.25rem; cursor: pointer; transition: all 0.2s;
+        }
+        .theme-btn:hover { border-color: var(--accent); }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr));
+            gap: 1.5rem;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        .card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 2rem;
+            backdrop-filter: blur(20px);
+        }
+        .card__title { font-size: 1.25rem; font-weight: 600; margin-bottom: 1.5rem; text-align: center; }
+        .btn {
+            display: flex; align-items: center; justify-content: center; width: 100%;
+            padding: 1rem; font-size: 1rem; font-weight: 600; border-radius: 12px;
+            background: linear-gradient(135deg, #6366f1, #a855f7); color: #fff;
+            cursor: pointer; transition: all 0.2s; margin-bottom: 1rem; position: relative; overflow: hidden;
+        }
+        .btn:hover { transform: translateY(-2px); box-shadow: 0 8px 30px rgba(99,102,241,0.4); }
+        .btn:last-child { margin-bottom: 0; }
+        .btn input[type="file"] { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+        .json-box {
+            display: none; background: var(--bg); border: 1px solid var(--border); border-radius: 12px;
+            padding: 1rem; max-height: 50vh; overflow: auto; font-family: 'SF Mono', monospace;
+            font-size: 0.8125rem; line-height: 1.7; white-space: pre-wrap; word-break: break-word;
+        }
+        .json-box.active { display: block; }
+        .json-key { color: #f472b6; }
+        .json-string { color: #a5d6ff; }
+        .json-boolean { color: #c4b5fd; }
+        .json-number { color: #86efac; }
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
     </style>
 </head>
 <body>
-    <div class="container">
-    <div class="form-container">
-        <h2>Форма</h2>
-        <button for="jsonFileInput" class="custom-file-upload">
-            Загрузить .JSON
-            <input type="file" id="jsonFileInput" accept=".json" onchange="loadJSON()">
-        </button>
-        <button onclick="parseJSON()">Парсить .JSON</button>
+    <div class="header">
+        <a href="../index.html" class="back">
+            <svg width="20" height="20" viewBox="0 0 24 24"><path d="M7.828 11H20v2H7.828l5.364 5.364-1.414 1.414L4 12l7.778-7.778 1.414 1.414z"/></svg>
+            Назад
+        </a>
+        <button class="theme-btn" id="themeBtn">🌙</button>
     </div>
 
-    <div class="form-container">
-        <h2>JSON данные</h2>
-        <pre id="jsonDataDisplay" style="display: none;"></pre>
+    <div class="container">
+        <div class="card">
+            <h2 class="card__title">📁 Загрузка JSON</h2>
+            <button class="btn">
+                Выбрать файл
+                <input type="file" id="fileInput" accept=".json">
+            </button>
+            <button class="btn" id="parseBtn">⬇️ Парсить и скачать</button>
+        </div>
+        <div class="card">
+            <h2 class="card__title">👁️ Предпросмотр</h2>
+            <pre class="json-box" id="jsonBox"></pre>
+        </div>
     </div>
-</div>
 
     <script>
-        var jsonData;
+        // Theme
+        const html = document.documentElement;
+        const themeBtn = document.getElementById('themeBtn');
+        const saved = localStorage.getItem('theme') || 'dark';
+        html.dataset.theme = saved;
+        themeBtn.textContent = saved === 'dark' ? '☀️' : '🌙';
         
-        function loadJSON() {
-            var input = document.getElementById('jsonFileInput');
-            var file = input.files[0];
-            var reader = new FileReader();
+        themeBtn.onclick = () => {
+            const next = html.dataset.theme === 'dark' ? 'light' : 'dark';
+            html.dataset.theme = next;
+            localStorage.setItem('theme', next);
+            themeBtn.textContent = next === 'dark' ? '☀️' : '🌙';
+        };
 
-            reader.onload = function() {
-                jsonData = JSON.parse(reader.result);
-                displayJSON();
+        // JSON Parser
+        let jsonData = null;
+        const fileInput = document.getElementById('fileInput');
+        const parseBtn = document.getElementById('parseBtn');
+        const jsonBox = document.getElementById('jsonBox');
+
+        fileInput.onchange = function() {
+            const file = this.files[0];
+            if (!file) return;
+            const reader = new FileReader();
+            reader.onload = () => {
+                try {
+                    jsonData = JSON.parse(reader.result);
+                    jsonBox.innerHTML = highlight(JSON.stringify(jsonData, null, 2));
+                    jsonBox.classList.add('active');
+                } catch { alert('Ошибка парсинга JSON'); }
             };
-
             reader.readAsText(file);
-        }
+        };
 
-        function displayJSON() {
-            if (jsonData) {
-                var jsonDataDisplay = document.getElementById('jsonDataDisplay');
-                jsonDataDisplay.innerHTML = '';
-
-                var formattedJSON = JSON.stringify(jsonData, null, 4);
-
-                var preElement = document.createElement('pre');
-                preElement.classList.add('json-display');
-
-                preElement.innerHTML = syntaxHighlight(formattedJSON);
-
-                jsonDataDisplay.appendChild(preElement);
-                jsonDataDisplay.style.display = "block";
-            }
-        }
-
-        function syntaxHighlight(json) {
-            return json.replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, function(match) {
-                var cls = 'json-key';
-                if (/^"/.test(match)) {
-                    if (/:$/.test(match)) {
-                        cls = 'json-key';
-                    } else {
-                        cls = 'json-string';
-                    }
-                } else if (/true|false/.test(match)) {
-                    cls = 'json-boolean';
-                } else if (/null/.test(match)) {
-                    cls = 'json-null';
+        function highlight(json) {
+            return json.replace(
+                /("(\\u[\da-fA-F]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+-]?\d+)?)/g,
+                m => {
+                    let c = 'json-number';
+                    if (/^"/.test(m)) c = /:$/.test(m) ? 'json-key' : 'json-string';
+                    else if (/true|false/.test(m)) c = 'json-boolean';
+                    return `<span class="${c}">${m}</span>`;
                 }
-                return '<span class="' + cls + '">' + match + '</span>';
-            });
+            );
         }
 
-        function parseJSON() {
-            if (!jsonData || !jsonData.appRepositories) {
-                alert('Сначала загрузите .JSON и примените изменения!');
-                return;
-            }
-        
-            const filteredData = jsonData.appRepositories.map(app => ({
-                appName: app.appName,
-                appImage: app.appImage,
-                appVersion: app.appVersion,
-                appDescription: app.appDescription,
-                appUpdateTime: app.appUpdateTime
+        parseBtn.onclick = () => {
+            if (!jsonData?.appRepositories) return alert('Загрузите JSON с полем appRepositories');
+            const data = jsonData.appRepositories.map(a => ({
+                appName: a.appName, appImage: a.appImage, appVersion: a.appVersion,
+                appDescription: a.appDescription, appUpdateTime: a.appUpdateTime
             }));
-        
-            const jsonString = JSON.stringify(filteredData, null, 4);
-        
-            const blob = new Blob([jsonString], { type: 'application/json' });
-            const url = URL.createObjectURL(blob);
-        
+            const blob = new Blob([JSON.stringify(data, null, 4)], { type: 'application/json' });
             const a = document.createElement('a');
-            a.href = url;
+            a.href = URL.createObjectURL(blob);
             a.download = 'Repo.json';
             a.click();
-        }
+        };
     </script>
 </body>
 </html>
