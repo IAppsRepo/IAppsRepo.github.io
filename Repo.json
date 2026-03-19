@@ -49,6 +49,13 @@
         "appUpdateTime": "2026-03-15T00:06:36+00:00"
     },
     {
+        "appName": "TikTok | r3tok\n#Video",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/twoms/r3tok.PNG",
+        "appVersion": "43.9.0 | 1.1 | 731.6 MB | iOS 12.0 | ",
+        "appDescription": "Модифицированный клиент TikTok\n\n▎Смена региона без VPN (по умолчанию - Германия)\n▎Удалена реклама\n▎Скачивание и отправка видео и слайд-шоу без водяных знаков\n▎Исправлена ошибка входа\n▎После входа в аккаунт необходимо перезапустить приложение для установки региона.",
+        "appUpdateTime": "2026-03-17T20:35:19+00:00"
+    },
+    {
         "appName": "VK | Orwell\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/dc/9e/26dc9e0a-46a6-543f-feff-ccd56a4a9f25/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/246x0w.png",
         "appVersion": "8.147 | 1.2 | 447.2 MB | iOS 16.6 | ",
@@ -201,6 +208,13 @@
         "appVersion": "1.10.96 | 119.8 MB | iOS 14.0 | ",
         "appDescription": "Альтернативный клиент Вконтакте с олдскульным дизайном.",
         "appUpdateTime": "2025-06-29T11:57:08+00:00"
+    },
+    {
+        "appName": "TVOЁ | ТВОЁ\n#Video",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/fc/0d/6dfc0def-08c9-6ec5-6689-eda692e8a868/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200ia-75.jpg",
+        "appVersion": "2.0.5 | 48.9 MB | iOS 14.0 | ",
+        "appDescription": "Приложение для просмотра\\скачивания фильмов и сериалов.\n\n▎При первом запуске нажмите \"обновить\" и дождитесь обновления приложения.\n▎Войдите в аккаунт для активации подписки.",
+        "appUpdateTime": "2026-03-19T19:00:16+00:00"
     },
     {
         "appName": "Facebook | Glow\n#Social",
@@ -4468,9 +4482,9 @@
     {
         "appName": "MD Clock | Premium\n#Themes",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/cc/57/35cc5708-93fe-29eb-df87-bbdb4a1b53ef/AppIcon-0-0-2x_U007euniversal-0-5-0-85-220-0.png/246x0w.png",
-        "appVersion": "2.65.1 | 378 MB | iOS 15.0 | ",
+        "appVersion": "2.65.1 | 377.8 MB | iOS 15.0 | ",
         "appDescription": "MD Clock - это созданное приложение для часов, которое будет сопровождать вас в учебе, работе и жизни.\n",
-        "appUpdateTime": "2026-03-14T22:43:55+00:00"
+        "appUpdateTime": "2026-03-18T01:17:33+00:00"
     },
     {
         "appName": "VN (Vlog Now) | Pro\n#Design",
@@ -6183,9 +6197,9 @@
     {
         "appName": "MD Widgets | Pro\n#Themes",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/ae/a6/6daea645-3b94-58d4-e08d-60773c637759/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "3.12 | 225.9 MB | iOS 16.0 | ",
+        "appVersion": "3.12 | 225.7 MB | iOS 16.0 | ",
         "appDescription": "Приложение для персонализации главного экрана iPhone с помощью стильных виджетов: часы, погода, фото, текст, музыка, таймеры и прозрачные виджеты.",
-        "appUpdateTime": "2026-03-14T22:46:13+00:00"
+        "appUpdateTime": "2026-03-18T01:17:11+00:00"
     },
     {
         "appName": "Prequel | Hack\n#Design",
@@ -6218,9 +6232,9 @@
     {
         "appName": "MD Vinyl | Pro\n#Themes",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/8a/04/c58a04d3-efee-5d7e-652c-954c452bd977/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "3.5.1 | 136.7 MB | iOS 16.4 | ",
+        "appVersion": "3.5.1 | 136.5 MB | iOS 16.4 | ",
         "appDescription": "Стильный музыкальный плеер, который превращает iPhone в виртуальный проигрыватель виниловых пластинок с анимированным диском и иглой. Поддерживает Apple Music и Spotify.",
-        "appUpdateTime": "2026-03-14T22:49:13+00:00"
+        "appUpdateTime": "2026-03-18T01:16:49+00:00"
     },
     {
         "appName": "1998 Vintage Cam Premium\n#Design",
