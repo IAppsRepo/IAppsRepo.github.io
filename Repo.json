@@ -23,9 +23,9 @@
     {
         "appName": "Instagram | DL | Hack\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/57/87/57578709-23d2-5fb2-487b-eff35e3aade4/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "407 | 2.5.0 | 477.7 MB | iOS 15.1 | ",
+        "appVersion": "417 | 2.5.1 | 505.2 MB | iOS 16.3 | ",
         "appDescription": "Модифицированный клиент Instagram\nВозможности: анонимный просмотр историй\\директ\\эфиров, загрузка медиа, удалена реклама и другое.\n\n▎Активирована лицензия DL\n▎Зажмите кнопку \"домика\" чтобы перейти в настройки мода.",
-        "appUpdateTime": "2025-11-24T17:25:54+00:00"
+        "appUpdateTime": "2026-03-21T18:25:38+00:00"
     },
     {
         "appName": "Instagram | Rocket | Pro\n#Social",
@@ -44,16 +44,16 @@
     {
         "appName": "TikTok BH++ | iOS 26\n#Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/83/f9/ed83f971-1141-1e7e-787a-c54ae179c385/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "44.2.0 | 734.6 MB | iOS 12.0 | ",
+        "appVersion": "44.3.0 | 858.3 MB | iOS 12.0 | ",
         "appDescription": "Модификация TikTok без рекламы и другими улучшениями с обходом региона.\n\n▎Для просмотра новых видео: Настройки TikTok -> BHTikTok++ -> Активируйте \"Enable Region Changing\" и измените ниже регион. Перезапустите приложение, чтобы применить настройки.\n▎Поддерживает iOS 26",
-        "appUpdateTime": "2026-03-15T00:06:36+00:00"
+        "appUpdateTime": "2026-03-21T18:26:16+00:00"
     },
     {
         "appName": "TikTok | r3tok\n#Video",
         "appImage": "https://github.com/polyatar/kikspaq/releases/download/twoms/r3tok.PNG",
-        "appVersion": "43.9.0 | 1.1 | 731.6 MB | iOS 12.0 | ",
+        "appVersion": "43.9.0 | 1.2 | 731.6 MB | iOS 12.0 | ",
         "appDescription": "Модифицированный клиент TikTok\n\n▎Смена региона без VPN (по умолчанию - Германия)\n▎Удалена реклама\n▎Скачивание и отправка видео и слайд-шоу без водяных знаков\n▎Исправлена ошибка входа\n▎После входа в аккаунт необходимо перезапустить приложение для установки региона.",
-        "appUpdateTime": "2026-03-17T20:35:19+00:00"
+        "appUpdateTime": "2026-03-20T20:13:04+00:00"
     },
     {
         "appName": "VK | Orwell\n#Social",
@@ -70,18 +70,18 @@
         "appUpdateTime": "2026-01-11T19:35:23+00:00"
     },
     {
-        "appName": "Telegram 2 | Teledark\n#Social",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/0b/e0/e50be0b0-ab9b-1cbd-4f36-76f0c59fe5eb/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "12.5 | 158.5 MB | iOS 13.0 | ",
-        "appDescription": "Модификация оригинального Telegram клиента с модом Teledark. \nДанная версия установиться как дубликат.\n\n▎Сохранение удаленных сообщений\n▎Запись звонков\n▎Скачивание и пересылка с закрытых каналов\\чатов\n▎Скачивание самоуничтожающихся фото\\видео\n▎Анонимное чтение смс и другое",
-        "appUpdateTime": "2026-03-09T18:52:52+00:00"
+        "appName": "Swiftgram | Ghostgram\n#Social",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/dertzx/ghostgram.png",
+        "appVersion": "12.2.3 | 167.9 MB | iOS 13.0 | ",
+        "appDescription": "Модификация Telegram клиента Swiftgram Pro с модом Ghostgram. \n\n▎Сохранение удаленных сообщений\n▎Скачивание и пересылка с закрытых каналов\\чатов\n▎Скачивание самоуничтожающихся фото\\видео\n▎Анонимное чтение смс и другое",
+        "appUpdateTime": "2026-03-21T18:35:51+00:00"
     },
     {
         "appName": "Telegram | Teledark\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/0b/e0/e50be0b0-ab9b-1cbd-4f36-76f0c59fe5eb/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "12.5 | 158.5 MB | iOS 13.0 | ",
-        "appDescription": "Модификация оригинального Telegram клиента с модом Teledark. \nДанную версию возможно установить только вместо оригинального телеграмм.\n\n▎Сохранение удаленных сообщений\n▎Запись звонков\n▎Скачивание и пересылка с закрытых каналов\\чатов\n▎Скачивание самоуничтожающихся фото\\видео\n▎Анонимное чтение смс и другое",
-        "appUpdateTime": "2026-03-09T18:52:29+00:00"
+        "appVersion": "12.5 | 156.3 MB | iOS 13.0 | ",
+        "appDescription": "Модификация Telegram клиента с модом Teledark. \n\n▎Сохранение удаленных сообщений\n▎Запись звонков\n▎Скачивание и пересылка с закрытых каналов\\чатов\n▎Скачивание самоуничтожающихся фото\\видео\n▎Анонимное чтение смс и другое",
+        "appUpdateTime": "2026-03-21T18:32:00+00:00"
     },
     {
         "appName": "TikTok | DL | Hack\n#Video",
@@ -240,9 +240,9 @@
     {
         "appName": "YouTube Music | Ultimate\n#Music",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/75/57/87/75578775-d18b-985f-0929-68de0bd8f233/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
-        "appVersion": "8.37 | 236.5 MB | iOS 16.0 | ",
+        "appVersion": "9.11.2 | 224.3 MB | iOS 16.0 | ",
         "appDescription": "Сервис лицензионной музыки от YouTube.\n\n▎Удалена реклама\n▎Прослушивание в фоне.\n▎Скачивание песен",
-        "appUpdateTime": "2025-09-19T16:02:09+00:00"
+        "appUpdateTime": "2026-03-20T20:13:48+00:00"
     },
     {
         "appName": "Аудиокниги | Pro\n#Study",
@@ -1157,9 +1157,9 @@
     {
         "appName": "MAX | Crash\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/d9/d3/1dd9d311-2c0d-7bb3-a70c-1b9480a9a26f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x0w.png",
-        "appVersion": "25.9.0 | 76.6 MB | iOS 15.4 | ",
-        "appDescription": "НЕРАБОЧЕЕ приложение MAX - вылетает при запуске.\n\nДля тех, кто не хочет его устанавливать, но нужно показать, что оно не работает.",
-        "appUpdateTime": "2025-08-22T16:10:13+00:00"
+        "appVersion": "26.9 | 108.1 MB | iOS 15.5 | ",
+        "appDescription": "НЕРАБОЧЕЕ приложение MAX - вылетает при запуске.\n\nДля смелых и свободных людей, тех кого не прогнула система.",
+        "appUpdateTime": "2026-03-20T20:52:15+00:00"
     },
     {
         "appName": "Steezy | Pro\n#Study",
@@ -2091,6 +2091,13 @@
         "appVersion": "5.5.0 | 33.9 MB | iOS 12.4 | ",
         "appDescription": "Приложение для изучения английского и корейского.",
         "appUpdateTime": "2023-08-23T11:39:17+00:00"
+    },
+    {
+        "appName": "MAX 2\n#Social",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/d9/d3/1dd9d311-2c0d-7bb3-a70c-1b9480a9a26f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x0w.png",
+        "appVersion": "26.9 | 108.7 MB | iOS 15.5 | ",
+        "appDescription": "Дубликат приложения МАХ\n\nДля самых отчаянных пользователей, кому недостаточно слежки одного агента =)",
+        "appUpdateTime": "2026-03-20T20:52:41+00:00"
     },
     {
         "appName": "Reverso | Premium\n#Study",
@@ -7869,10 +7876,10 @@
     },
     {
         "appName": "Plants vs Zombies 2 | Hack\n#Games",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/a2/f9/7da2f956-53e3-c3ca-6f20-1000b23bd1c4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/246x0w.png",
-        "appVersion": "12.3.1 | 204.8 MB | iOS 13.0 | ",
-        "appDescription": "Мод версия Plants vs Zombies от iOSGods. \nДля использования взлома нажмите на лицо человечка и активируйте нужные опции взлома.\n\n▎Удалена реклама iOSGods + автоавторизация (тест)\n▎Бесконечное количество монет; \n▎Бесконечное количество драгоценностей; ",
-        "appUpdateTime": "2025-07-03T17:54:41+00:00"
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/13/82/86138206-f0b3-c87f-d4fb-6841e4d0e29a/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "13.0.1 | 230.8 MB | iOS 13.0 | ",
+        "appDescription": "Мод версия Plants vs Zombies от iOSGods. \nДля использования взлома нажмите на лицо человечка и активируйте нужные опции взлома.\n\n▎Бесконечное количество монет; \n▎Бесконечное количество драгоценностей; ",
+        "appUpdateTime": "2026-03-20T20:11:22+00:00"
     },
     {
         "appName": "Navamsha | Premium\n#Life",
@@ -8801,9 +8808,9 @@
     {
         "appName": "Township | Mode\n#Games",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/76/70/e9767053-5537-41f1-ce46-0c323646cb50/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "18.0.2 | 212.8 MB | iOS 13.0 | ",
+        "appVersion": "34.1.0 | 289.5 MB | iOS 13.0 | ",
         "appDescription": "Станьте мэром городка Township! Стройте дома, фабрики и городские здания, выращивайте урожай и украшайте улицы \n\n▎Заморожена валюта",
-        "appUpdateTime": "2024-04-19T14:00:05+00:00"
+        "appUpdateTime": "2026-03-20T20:09:16+00:00"
     },
     {
         "appName": "Chess - Play & Learn+ | Arcade\n#Games",
@@ -9935,9 +9942,9 @@
     {
         "appName": "Homescapes | Mod\n#Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c9/d1/f3/c9d1f33d-564a-854f-0ae5-e2c9666b5229/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "8.6.600 | 299.3 MB | iOS 12.0 | ",
+        "appVersion": "8.7.100 | 297.2 MB | iOS 12.0 | ",
         "appDescription": "Мод версия Homescapes. \nДля использования взлома нажмите на лицо человечка и активируйте нужные опции взлома.\n\n▎Безлимитные жизни\n▎Безлимитные хода\n▎Безлимитные бустеры\n▎Создайте\\Войдите в аккаунт iOSGods для использования мода",
-        "appUpdateTime": "2026-03-10T07:47:07+00:00"
+        "appUpdateTime": "2026-03-20T20:12:16+00:00"
     },
     {
         "appName": "Red Ball 6 | Hack\n#Games",
