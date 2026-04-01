@@ -72,9 +72,9 @@
     {
         "appName": "Swiftgram | Ghostgram\n#Social",
         "appImage": "https://github.com/polyatar/kikspaq/releases/download/dertzx/ghostgram.png",
-        "appVersion": "12.2.3 | 167.9 MB | iOS 13.0 | ",
+        "appVersion": "12.5 | 1.3.6 | 168.8 MB | iOS 13.0 | ",
         "appDescription": "Модификация Telegram клиента Swiftgram Pro с модом Ghostgram. \n\n▎Сохранение удаленных сообщений\n▎Скачивание и пересылка с закрытых каналов\\чатов\n▎Скачивание самоуничтожающихся фото\\видео\n▎Анонимное чтение смс и другое",
-        "appUpdateTime": "2026-03-21T18:35:51+00:00"
+        "appUpdateTime": "2026-03-29T12:32:11+00:00"
     },
     {
         "appName": "Telegram | Teledark\n#Social",
@@ -516,6 +516,13 @@
         "appVersion": "3.8.4 | 129.9 MB | iOS 12.0 | ",
         "appDescription": "Учи английский, залипая в TikTok видео и мемы! Изучай актуальные слова и фразы, которые используют носители языка!",
         "appUpdateTime": "2023-07-25T08:31:00+00:00"
+    },
+    {
+        "appName": "Quizlet | Plus\n#Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/93/bf/7e/93bf7e65-1114-9c82-10ef-2c67c21714de/AppIcon-production-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        "appVersion": "10.29 | 209.8 MB | iOS 17.0 | ",
+        "appDescription": "Самый простой способ изучать, практиковать и осваивать в совершенстве любой нужный материал. Создавайте свои карточки или находите готовые из более чем 500 миллионов модулей, созданных учителями и учениками. \n\n▎Активирована подписка Plus\n▎Разблокирован AI режим",
+        "appUpdateTime": "2026-04-01T00:43:16+00:00"
     },
     {
         "appName": "V2App V2Ray VPN | Premium\n#Network",
@@ -1283,9 +1290,9 @@
     {
         "appName": "Flacbox Pro\n#Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/a4/c0/d6a4c0fb-7c3f-f322-b178-e1c006f29673/AppIcon_flacbox-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "7.1 | 167.5 MB | iOS 13.0 | ",
+        "appVersion": "7.3 | 170.1 MB | iOS 15.0 | ",
         "appDescription": "Аудиоплеер высокого разрешения с эквалайзером и усилителем басов",
-        "appUpdateTime": "2025-11-18T17:32:48+00:00"
+        "appUpdateTime": "2026-03-31T12:53:23+00:00"
     },
     {
         "appName": "A1 Office Word | Pro\n#Office",
@@ -1709,10 +1716,10 @@
     },
     {
         "appName": "Inpreview | Premium\n#Design #Social",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/36/91/99/3691994f-c691-a90c-0701-e20972ac67f0/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/246x0w.png",
-        "appVersion": "6.4.0 | 218.3 MB | iOS 16.0 | ",
-        "appDescription": "Надоело использовать кучу сложных приложений для управления Instagram профилем? Хочешь увидеть, как будет выглядеть твоя лента еще до публикации новых фотографий? Не хочешь пропустить самое популярное время для постинга? Тогда этот планер для тебя!\n",
-        "appUpdateTime": "2025-04-20T10:32:14+00:00"
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/a4/a9/3ea4a933-394a-e2f9-5a0d-3ca6f226fca0/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "6.10 | 225.7 MB | iOS 16.0 | ",
+        "appDescription": "Надоело использовать кучу сложных приложений для управления Instagram профилем? Хочешь увидеть, как будет выглядеть твоя лента еще до публикации новых фотографий? Не хочешь пропустить самое популярное время для постинга? Тогда этот планер для тебя!\n\n▎Восстановите покупку в приложении, чтобы активировать подписку",
+        "appUpdateTime": "2026-03-31T12:59:05+00:00"
     },
     {
         "appName": "LEDit | Pro\n#Other",
@@ -2063,6 +2070,13 @@
         "appVersion": "3.2.4 | 221.7 MB | iOS 17.0 | ",
         "appDescription": "Фитнес-приложение с ИИ для автоматического подсчета калорий и макронутриентов по фото еды или базе продуктов. Позволяет быстро вести дневник питания, анализировать рацион и отслеживать прогресс в достижении целей по похудению или здоровому образу жизни",
         "appUpdateTime": "2026-01-31T19:00:15+00:00"
+    },
+    {
+        "appName": "GuitarTuna | Pro\n#Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/47/92/814792e1-e1a3-959b-0d6b-bc44f3b6d92c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200ia-75.jpg",
+        "appVersion": "7.91 | 266.8 MB | iOS 13.0 | ",
+        "appDescription": "Тюнер, аккорды, песни — одно из самых популярных приложений для настройки гитары и других струнных инструментов.\n\n▎Разблокированы платные функции",
+        "appUpdateTime": "2026-04-01T00:41:03+00:00"
     },
     {
         "appName": "Photomath | Plus\n#Study",
@@ -3101,6 +3115,13 @@
         "appUpdateTime": "2024-07-26T15:49:35+00:00"
     },
     {
+        "appName": "mood.camera | Pro\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/48/a0/2348a021-7542-5b45-93c8-bf0d87d3b9bc/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "1.12 | 49.5 MB | iOS 16.0 | ",
+        "appDescription": "Необычное приложение-камера, которое снимает фото сразу с «плёночным» характером без редактирования: с зерном, мягким светом и кинематографическими цветами.",
+        "appUpdateTime": "2026-04-01T00:27:49+00:00"
+    },
+    {
         "appName": "ArtStudio Pro | Full\n#Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/da/7a/1b/da7a1b6d-8e91-dca4-1c90-e71149e2c0fb/AppIcon-1x_U007emarketing-0-4-0-sRGB-0-0-85-220.png/246x0w.png",
         "appVersion": "5.2.9 | 399.6 MB | iOS 15.0 | ",
@@ -3726,9 +3747,9 @@
     {
         "appName": "Rave | Premium\n#Video",
         "appImage": "https://github.com/IAppsRepo/IAppsRepo.github.io/releases/download/gimg/rave.png",
-        "appVersion": "8.0 | 333.4 MB | iOS 15.0 | ",
+        "appVersion": "8.1.2 | 387.8 MB | iOS 15.0 | ",
         "appDescription": "Смотрите видео и фильмы вместе с друзьями в режими реального времени.",
-        "appUpdateTime": "2026-02-26T21:01:18+00:00"
+        "appUpdateTime": "2026-03-31T12:52:47+00:00"
     },
     {
         "appName": "LittleQ | Hack\n#Other",
@@ -4009,6 +4030,13 @@
         "appVersion": "1.1 | 39.3 MB | iOS 18.0 | ",
         "appDescription": "Планировщик и органайзер, разработанный специально для людей с СДВГ: помогает планировать задачи, устанавливать напоминания, структурировать день и уменьшать прокрастинацию.\n\n▎Откажитесь от предложения купить подписку, она уже активирована",
         "appUpdateTime": "2026-03-26T17:20:31+00:00"
+    },
+    {
+        "appName": "Muse | Premium\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/d9/e3/b2d9e3f2-15e7-cb4a-02e6-05622234b725/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/200x200ia-75.jpg",
+        "appVersion": "9.6 | 95.5 MB | iOS 16.0 | ",
+        "appDescription": "Приложение для быстрого создания Reels, сторис и видео с помощью готовых трендовых шаблонов и эффектов.",
+        "appUpdateTime": "2026-04-01T00:21:50+00:00"
     },
     {
         "appName": "ContraCam | Premium\n#Travel",
@@ -4375,6 +4403,13 @@
         "appUpdateTime": "2025-11-18T17:55:04+00:00"
     },
     {
+        "appName": "AI Canvas | Pro\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/46/b1/7e46b12e-2597-082e-5e47-5bffe6cc9656/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "1.7.9 | 500.9 MB | iOS 17.0 | ",
+        "appDescription": "Мощное приложение для создания изображений и видео с помощью ИИ: генерирует картинки из текста, анимирует фото и применяет художественные стили.\n\n▎Активирована подписка\n▎Переустановите приложение, чтобы обнулить лимиты использования кредитов, если получите ошибку.",
+        "appUpdateTime": "2026-04-01T00:16:07+00:00"
+    },
+    {
         "appName": "Night Sky | Premium\n#Other",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/04/0f/b6/040fb616-e793-acfe-5621-20fe4ad3aec6/AppIcon5-2x_U007euniversal-0-4-0-0-85-220-0.png/246x0w.png",
         "appVersion": "26.1 | 1.2 GB | iOS 14.0 | ",
@@ -4620,11 +4655,18 @@
         "appUpdateTime": "2024-08-03T13:38:24+00:00"
     },
     {
+        "appName": "BoxBox | Ultra\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/17/bb/2817bb99-84c1-3bd5-42dc-1aeabbdc6c34/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "5.3.6 | 124.4 MB | iOS 16.0 | ",
+        "appDescription": "Приложение для фанатов Формулы-1 с виджетами: показывает расписание гонок, результаты, позиции пилотов и статистику в реальном времени.",
+        "appUpdateTime": "2026-04-01T00:03:24+00:00"
+    },
+    {
         "appName": "Papumba: Игры для детей | Hack\n#Kids",
-        "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/8c/dd/6c8cdd13-83c6-b283-ae3d-4f01e3b6b2d3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.800 | 1 GB | iOS 11.0 | ",
-        "appDescription": "Papumba — это универсальное приложение, в котором дети от 2 до 7 лет играют, учатся и растут каждый день.Более 500 увлекательных игр превратятся для вашего ребенка в часы игр и обучения.\n\n▎Разблокированы все игры",
-        "appUpdateTime": "2023-04-12T08:31:00+00:00"
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/31/91/7d319194-8bcf-684b-e895-5d0108079aa9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200ia-75.jpg",
+        "appVersion": "9.9 | 480.7 MB | iOS 13.0 | ",
+        "appDescription": "Papumba — это универсальное приложение, в котором дети от 2 до 7 лет играют, учатся и растут каждый день.Более 500 увлекательных игр превратятся для вашего ребенка в часы игр и обучения.\n\n▎Активирована подписка",
+        "appUpdateTime": "2026-03-31T12:56:24+00:00"
     },
     {
         "appName": "Logo Maker | Premium\n#Design",
@@ -4657,9 +4699,9 @@
     {
         "appName": "Buddy AI | Hack\n#Kids",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/30/01/2f3001ed-0d12-54ef-7878-e6bdc49bc310/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "5.11.4 | 289.3 MB | iOS 12.0 | ",
+        "appVersion": "6.25.1 | 538.4 MB | iOS 13.0 | ",
         "appDescription": "Это робот Buddy (Бадди), виртуальный репетитор английского для детей. Играя с ним, ребенок сможет выучить более 1000 важнейших английских слов и выражений, а также научиться их правильно произносить.\n\n▎Активирована подписка.",
-        "appUpdateTime": "2024-04-27T14:14:15+00:00"
+        "appUpdateTime": "2026-03-31T12:54:13+00:00"
     },
     {
         "appName": "Rap Fame | Premium\n#Music",
@@ -5320,6 +5362,13 @@
         "appUpdateTime": "2026-01-18T19:59:53+00:00"
     },
     {
+        "appName": "ChordButter | Pro\n#Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/d7/d5/f4d7d5af-a695-0848-62d6-4815d8f71758/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "1.5.1 | 84.7 MB | iOS 15.6 | ",
+        "appDescription": "Приложение для создания музыки и песен с упором на простоту: помогает легко строить аккордовые последовательности, мелодии и тексты без глубоких знаний теории. Включает генератор аккордов, подсказки, бэкинг-треки и экспорт в DAW, чтобы быстро превращать идеи в готовые демо",
+        "appUpdateTime": "2026-04-01T00:09:03+00:00"
+    },
+    {
         "appName": "XB Deals | Premium\n#Other",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/81/54/3a/81543a6c-1097-e3f6-018c-7302b465491b/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/246x0w.png",
         "appVersion": "2.6.2 | 60.5 MB | iOS 15.0 | ",
@@ -5388,6 +5437,13 @@
         "appVersion": "3.4 | 136.6 MB | iOS 15.1 | ",
         "appDescription": "Приложение для ежедневной мотивации с персонализированными цитатами, аффирмациями и историями успеха известных людей.\n\n▎Войдите в аккаунт и переоткройте приложение для активации подписки",
         "appUpdateTime": "2026-03-14T23:20:14+00:00"
+    },
+    {
+        "appName": "GO | Pro\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/9f/87/989f870f-f8e9-3870-27cb-ae48ed711cbf/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "1.3.1 | 173.3 MB | iOS 17.0 | ",
+        "appDescription": "Минималистичное фитнес-приложение для отслеживания шагов и воды, которое помогает формировать полезные привычки без лишнего перегруза.",
+        "appUpdateTime": "2026-04-01T00:05:44+00:00"
     },
     {
         "appName": "Darkroom | Premium\n#Design",
@@ -5831,6 +5887,13 @@
         "appUpdateTime": "2026-02-27T05:16:55+00:00"
     },
     {
+        "appName": "AI Guitar by Yousician | Premium\n#Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/a1/04/ada104d8-65db-bc85-df2e-fb6a8f76b106/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "1.6.0 | 313.2 MB | iOS 15.1 | ",
+        "appDescription": "Интерактивное приложение-тренер по гитаре с ИИ, которое обучает через чат: вы задаёте вопросы, играете, а приложение слушает и даёт обратную связь в реальном времени. Помогает учить песни, технику и аккорды с персональными подсказками и адаптивным обучением под ваш уровень.\n\n▎Войдите в аккаунт и восстановите покупку в приложении для активации подписки",
+        "appUpdateTime": "2026-04-01T00:35:26+00:00"
+    },
+    {
         "appName": "djay | Pro\n#Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/c2/12/d1c21207-44bb-7cd2-d4db-309065f6e46e/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-P3-0-0-0-0-0.png/246x0w.png",
         "appVersion": "5.5.1 | 592.7 MB | iOS 15.0 | ",
@@ -5941,6 +6004,13 @@
         "appVersion": "1.0.2 | 33.7 MB | iOS 26.0 | ",
         "appDescription": "Приложение для создания профессиональных mockup-изображений из скриншотов или видео за несколько секунд.",
         "appUpdateTime": "2026-03-14T22:22:06+00:00"
+    },
+    {
+        "appName": "WRD | Premium\n#Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ca/05/9dca0584-9532-be2d-2633-7f5b6f378950/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/200x200ia-75.jpg",
+        "appVersion": "3.0 | 352.7 MB | iOS 15.0 | ",
+        "appDescription": "Приложение для быстрого изучения иностранных языков через короткие упражнения",
+        "appUpdateTime": "2026-04-01T00:11:27+00:00"
     },
     {
         "appName": "AirBrush | Pro\n#Design",
@@ -6214,6 +6284,13 @@
         "appVersion": "3.12 | 225.7 MB | iOS 16.0 | ",
         "appDescription": "Приложение для персонализации главного экрана iPhone с помощью стильных виджетов: часы, погода, фото, текст, музыка, таймеры и прозрачные виджеты.",
         "appUpdateTime": "2026-03-18T01:17:11+00:00"
+    },
+    {
+        "appName": "Home Planner | Pro++\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/54/71/fb5471d4-81d0-2a28-9579-762ccf8ff2ca/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "2611 | 1.3 GB | iOS 13.0 | ",
+        "appDescription": "Приложение для создания 2D/3D планов квартиры и визуализации ремонта: можно расставлять мебель, менять отделку и проектировать комнаты с нуля. Поддерживает дополненную реальность и позволяет «примерять» интерьер и предметы в реальном пространстве перед покупкой.",
+        "appUpdateTime": "2026-04-01T00:19:14+00:00"
     },
     {
         "appName": "Prequel | Hack\n#Design",
@@ -7534,7 +7611,7 @@
     {
         "appName": "Три кота: Развивающее игры | Hack\n#Kids",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/91/43/15914313-57e6-92e3-3c5f-46f5ac27b12c/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "12.6 | 55.7 MB | iOS 11.0 | ",
+        "appVersion": "12.7 | 57.7 MB | iOS 11.0 | ",
         "appDescription": "Детская коллекция мини-игр по мотивам популярного мультсериала, где ребёнок учится в игровой форме вместе с любимыми персонажами. Развивает память, логику, внимание и творческие навыки через задания, головоломки и обучающие активности.",
         "appUpdateTime": "2026-03-26T17:27:50+00:00"
     },
@@ -8764,6 +8841,13 @@
         "appUpdateTime": "2022-10-14T08:31:00+00:00"
     },
     {
+        "appName": "PitWall | Pro\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/ff/3b/fdff3ba4-4a64-0e6c-254e-7a05d3bddf7d/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "1.2.2 | 25.8 MB | iOS 16.0 | ",
+        "appDescription": "Приложение для фанатов Формулы-1 с большой коллекцией качественных обоев",
+        "appUpdateTime": "2026-03-31T23:54:11+00:00"
+    },
+    {
         "appName": "Harry Potter | Mode\n#Games",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/00/42/bd/0042bd2f-b5f7-1873-0f50-bfbe0c15129c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "5.0 | 198.6 MB | iOS 10.0 | ",
@@ -8867,6 +8951,13 @@
         "appVersion": "1.2.7 | 905.7 MB | iOS 15.0 | ",
         "appDescription": "Ты легендарный вор, и твое следующее задание приведет тебя в гигантский роскошный особняк. В нем ты найдешь серию коробок с головоломками, предназначенными для неизвестной тебе цели.\n\n▎Разблокирована полная версия.",
         "appUpdateTime": "2024-04-12T12:30:19+00:00"
+    },
+    {
+        "appName": "Reflex Club | Pro\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/d9/81/26d9812a-237a-81ff-b434-a0d38444274f/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "1.0.3 | 20.6 MB | iOS 17.0 | ",
+        "appDescription": "Простая мини-игра на проверку скорости реакции: нажимайте как можно быстрее, улучшайте результаты и сравнивайте их с другими игроками",
+        "appUpdateTime": "2026-03-31T23:56:47+00:00"
     },
     {
         "appName": "Provenance | Plus\n#Games",
