@@ -220,7 +220,8 @@ img { max-width: 100%; height: auto; display: block; }
 
 .search-bar { display: flex; align-items: center; justify-content: center; gap: 0.75rem; margin-bottom: 2.5rem; max-width: 600px; margin-left: auto; margin-right: auto; padding: 0; }
 .search { position: relative; flex: 1; min-width: 0; }
-.search__icon { position: absolute; left: 1.25rem; top: 50%; transform: translateY(-50%); fill: var(--text-muted); pointer-events: none; transition: fill var(--transition); }
+.search__icon { position: absolute; left: 1.25rem; top: 50%; transform: translateY(-50%); fill: var(--text-secondary); pointer-events: none; z-index: 2; transition: fill var(--transition); }
+.search:focus-within .search__icon { fill: var(--accent); }
 .search__input { width: 100%; padding: 1rem 3.5rem; background: var(--bg-card); border: 1px solid var(--border); border-radius: 9999px; color: var(--text-primary); font-size: 1rem; transition: all var(--transition); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); }
 .search__input::placeholder { color: var(--text-muted); }
 .search__input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 4px var(--accent-glow), var(--shadow-lg); }

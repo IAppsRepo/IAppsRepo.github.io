@@ -5,7 +5,7 @@ const searchInput = document.getElementById('search');
 let apps = [];
 let currentPage = 1;
 let itemsPerPage = 20;
-let displayMode = 'full';
+let displayMode = 'time';
 let selectedCategory = '';
 const maxVisiblePages = 5;
 
@@ -108,8 +108,8 @@ if (resetFiltersBtn) {
         const defaultItemsRadio = document.querySelector('input[name="itemsPerPage"][value="20"]');
         if (defaultItemsRadio) defaultItemsRadio.checked = true;
         
-        displayMode = 'full';
-        const defaultSortRadio = document.querySelector('input[name="sortMode"][value="full"]');
+        displayMode = 'time';
+        const defaultSortRadio = document.querySelector('input[name="sortMode"][value="time"]');
         if (defaultSortRadio) defaultSortRadio.checked = true;
         
         if (searchInput) searchInput.value = '';
