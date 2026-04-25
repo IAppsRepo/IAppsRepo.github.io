@@ -18,12 +18,16 @@ fetch('Repo.json')
     })
     .catch(err => {
         console.error('Error loading apps:', err);
+        const isLocalFile = location.protocol === 'file:';
         appList.innerHTML = `
             <div style="grid-column: 1/-1; text-align: center; padding: 4rem 2rem; color: var(--text-muted);">
                 <p style="font-size: 1.25rem; margin-bottom: 0.5rem;">Не удалось загрузить приложения</p>
-                <p style="font-size: 0.875rem;">Проверьте подключение к интернету</p>
+                <p style="font-size: 0.875rem;">${isLocalFile
+                    ? 'Откройте сайт через локальный сервер (например, <code>python3 -m http.server</code>) — браузер блокирует fetch для file://'
+                    : 'Проверьте подключение к интернету'}</p>
             </div>
         `;
+        updateStatsCounters(150);
     });
 
 function animateCounter(element, target, duration = 2000, suffix = '') {
