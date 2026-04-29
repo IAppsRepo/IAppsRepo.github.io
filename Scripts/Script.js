@@ -156,6 +156,109 @@ if (searchClear && searchField) {
     });
 }
 
+const pricingItems = document.querySelectorAll('.pricing__item');
+const contactAdminBtn = document.getElementById('contactAdminBtn');
+let selectedTariff = { duration: '12 месяцев', price: '1200₽ / 20$' };
+
+pricingItems.forEach(item => {
+    if (item.classList.contains('pricing__item--selected')) {
+        selectedTariff = { duration: item.dataset.duration, price: item.dataset.price };
+    }
+    item.addEventListener('click', () => {
+        pricingItems.forEach(i => i.classList.remove('pricing__item--selected'));
+        item.classList.add('pricing__item--selected');
+        selectedTariff = { duration: item.dataset.duration, price: item.dataset.price };
+    });
+});
+
+function showToast(text) {
+    let toast = document.getElementById('iappsToast');
+    if (!toast) {
+        toast = document.createElement('div');
+        toast.id = 'iappsToast';
+        toast.className = 'toast';
+        document.body.appendChild(toast);
+    }
+    toast.textContent = text;
+    requestAnimationFrame(() => toast.classList.add('toast--visible'));
+    clearTimeout(showToast._t);
+    showToast._t = setTimeout(() => toast.classList.remove('toast--visible'), 3500);
+}
+
+function copyToClipboard(text) {
+    if (navigator.clipboard?.writeText) {
+        return navigator.clipboard.writeText(text).then(() => true).catch(() => fallbackCopy(text));
+    }
+    return Promise.resolve(fallbackCopy(text));
+}
+
+function fallbackCopy(text) {
+    try {
+        const ta = document.createElement('textarea');
+        ta.value = text;
+        ta.setAttribute('readonly', '');
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.select();
+        const ok = document.execCommand('copy');
+        document.body.removeChild(ta);
+        return ok;
+    } catch { return false; }
+}
+
+const contactModal = document.getElementById('contactModal');
+const contactModalBackdrop = document.getElementById('contactModalBackdrop');
+const closeContactModalBtn = document.getElementById('closeContactModal');
+const contactMessageText = document.getElementById('contactMessageText');
+const contactCopyAgain = document.getElementById('contactCopyAgain');
+const contactOpenTelegram = document.getElementById('contactOpenTelegram');
+let contactScrollPosition = 0;
+
+function openContactModal() {
+    if (!document.body.classList.contains('modal-open')) {
+        contactScrollPosition = window.pageYOffset;
+        document.body.classList.add('modal-open');
+        document.body.style.top = `-${contactScrollPosition}px`;
+    }
+    contactModal.classList.add('active');
+}
+
+function closeContactModal() {
+    contactModal.classList.remove('active');
+    if (!document.querySelector('.modal.active')) {
+        document.body.classList.remove('modal-open');
+        document.body.style.top = '';
+        window.scrollTo(0, contactScrollPosition);
+    }
+}
+
+if (contactAdminBtn) {
+    contactAdminBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        const message = `Здравствуйте! Хочу оформить тариф IAppsRepo: ${selectedTariff.duration} — ${selectedTariff.price}.`;
+        contactMessageText.textContent = message;
+        copyToClipboard(message).then(ok => {
+            if (ok) showToast('Сообщение скопировано в буфер обмена');
+        });
+        openContactModal();
+    });
+}
+
+if (contactCopyAgain) {
+    contactCopyAgain.addEventListener('click', () => {
+        copyToClipboard(contactMessageText.textContent).then(ok => {
+            if (ok) showToast('Скопировано');
+        });
+    });
+}
+
+if (closeContactModalBtn) closeContactModalBtn.addEventListener('click', closeContactModal);
+if (contactModalBackdrop) contactModalBackdrop.addEventListener('click', closeContactModal);
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && contactModal?.classList.contains('active')) closeContactModal();
+});
+
 const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
 const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
 

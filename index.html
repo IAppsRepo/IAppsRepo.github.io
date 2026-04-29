@@ -128,28 +128,63 @@
                     <p class="pricing__desc">Выберите подходящий тариф и получите доступ ко всем приложениям</p>
                 </div>
                 <div class="pricing__grid">
-                    <div class="pricing__item">
+                    <button type="button" class="pricing__item" data-duration="3 месяца" data-price="600₽ / 10$">
                         <span class="pricing__duration">3 мес</span>
                         <span class="pricing__price">600₽ | 10$</span>
-                    </div>
-                    <div class="pricing__item">
+                    </button>
+                    <button type="button" class="pricing__item" data-duration="6 месяцев" data-price="800₽ / 15$">
                         <span class="pricing__duration">6 мес</span>
                         <span class="pricing__price">800₽ | 15$</span>
-                    </div>
-                    <div class="pricing__item pricing__item--popular">
+                    </button>
+                    <button type="button" class="pricing__item pricing__item--popular pricing__item--selected" data-duration="12 месяцев" data-price="1200₽ / 20$">
                         <span class="pricing__badge">Популярный</span>
                         <span class="pricing__duration">12 мес</span>
                         <span class="pricing__price">1200₽ | 20$</span>
-                    </div>
-                    <div class="pricing__item">
+                    </button>
+                    <button type="button" class="pricing__item" data-duration="24 месяца" data-price="1800₽ / 30$">
                         <span class="pricing__duration">24 мес</span>
                         <span class="pricing__price">1800₽ | 30$</span>
-                    </div>
+                    </button>
                 </div>
-                <a href="https://t.me/mdfurman" class="btn btn--primary btn--full" target="_blank">
+                <a href="https://t.me/mdfurman" id="contactAdminBtn" class="btn btn--primary btn--full" target="_blank">
                     <svg viewBox="0 0 24 24" width="20" height="20"><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm-3.11-8.83l.013-.007.87 2.87c.112.311.266.367.453.341.188-.025.287-.126.41-.244l1.188-1.148 2.55 1.888c.466.257.801.124.917-.432l1.657-7.822c.183-.728-.137-1.02-.702-.788l-9.733 3.76c-.664.266-.66.638-.12.803l2.497.78z"/></svg>
                     <span>Связаться с администратором</span>
                 </a>
+            </div>
+        </div>
+    </section>
+
+    <section class="promo" id="promo">
+        <div class="promo__container">
+            <div class="promo__card animate-on-scroll">
+                <div class="promo__glow promo__glow--1"></div>
+                <div class="promo__glow promo__glow--2"></div>
+                <div class="promo__content">
+                    <div class="promo__badge">
+                        <span class="promo__badge-dot"></span>
+                        <span>Партнёрский сервис</span>
+                    </div>
+                    <h2 class="promo__title">
+                        <span class="promo__title-gradient">iVPN</span> — быстрый и безопасный
+                    </h2>
+                    <p class="promo__desc">
+                        Стабильный VPN без рекламы и ограничений по скорости. Работает на iOS, Android, Windows, macOS, а также на Apple&nbsp;TV и Android&nbsp;TV.
+                    </p>
+                    <div class="promo__actions">
+                        <a href="https://t.me/ivpn_channel" class="promo__btn promo__btn--primary" target="_blank" rel="noopener">
+                            <svg viewBox="0 0 24 24" width="18" height="18"><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm-3.11-8.83l.013-.007.87 2.87c.112.311.266.367.453.341.188-.025.287-.126.41-.244l1.188-1.148 2.55 1.888c.466.257.801.124.917-.432l1.657-7.822c.183-.728-.137-1.02-.702-.788l-9.733 3.76c-.664.266-.66.638-.12.803l2.497.78z"/></svg>
+                            <span>Канал @ivpn_channel</span>
+                        </a>
+                        <a href="https://t.me/ivpn_ibot" class="promo__btn promo__btn--glass" target="_blank" rel="noopener">
+                            <svg viewBox="0 0 24 24" width="18" height="18"><path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.39-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v1a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-1H2a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.34-1-.99-1-1.73a2 2 0 0 1 2-2zM7.5 13a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zm9 0a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5z"/></svg>
+                            <span>Бот @ivpn_ibot</span>
+                        </a>
+                        <a href="https://lk.iapps.sbs" class="promo__btn promo__btn--glass" target="_blank" rel="noopener">
+                            <svg viewBox="0 0 24 24" width="18" height="18"><path d="M10 6v2H5v11h11v-5h2v6a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h6zm11-3v8h-2V6.413l-7.793 7.794-1.414-1.414L17.585 5H13V3h8z"/></svg>
+                            <span>lk.iapps.sbs</span>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -225,6 +260,30 @@
                     <svg viewBox="0 0 24 24" width="18" height="18"><path d="M5.463 4.433A9.961 9.961 0 0 1 12 2c5.523 0 10 4.477 10 10 0 2.136-.67 4.116-1.81 5.74L17 12h3A8 8 0 0 0 6.46 6.228l-.997-1.795zm13.074 15.134A9.961 9.961 0 0 1 12 22C6.477 22 2 17.523 2 12c0-2.136.67-4.116 1.81-5.74L7 12H4a8 8 0 0 0 13.54 5.772l.997 1.795z"/></svg>
                     <span>Сбросить фильтры</span>
                 </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="contactModal">
+        <div class="modal__backdrop" id="contactModalBackdrop"></div>
+        <div class="modal__content modal__content--contact">
+            <div class="modal__header">
+                <h3 class="modal__title">✅ Сообщение готово</h3>
+                <button class="modal__close" id="closeContactModal" aria-label="Закрыть">
+                    <svg viewBox="0 0 24 24" width="24" height="24"><path d="M12 10.586l4.95-4.95 1.414 1.414-4.95 4.95 4.95 4.95-1.414 1.414-4.95-4.95-4.95 4.95-1.414-1.414 4.95-4.95-4.95-4.95L7.05 5.636z"/></svg>
+                </button>
+            </div>
+            <div class="modal__body">
+                <p class="contact__hint">Текст ниже уже скопирован в буфер обмена. Откройте Telegram и вставьте его в чат с администратором:</p>
+                <div class="contact__message" id="contactMessageText"></div>
+                <button type="button" class="btn btn--primary btn--full" id="contactCopyAgain">
+                    <svg viewBox="0 0 24 24" width="18" height="18"><path d="M7 6V3a1 1 0 0 1 1-1h13a1 1 0 0 1 1 1v15a1 1 0 0 1-1 1h-3v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h4zm2 0h8a1 1 0 0 1 1 1v10h2V4H9v2zM4 8v13h13V8H4z"/></svg>
+                    <span>Скопировать ещё раз</span>
+                </button>
+                <a href="https://t.me/mdfurman" class="btn btn--telegram btn--full" id="contactOpenTelegram" target="_blank" rel="noopener">
+                    <svg viewBox="0 0 24 24" width="20" height="20"><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm-3.11-8.83l.013-.007.87 2.87c.112.311.266.367.453.341.188-.025.287-.126.41-.244l1.188-1.148 2.55 1.888c.466.257.801.124.917-.432l1.657-7.822c.183-.728-.137-1.02-.702-.788l-9.733 3.76c-.664.266-.66.638-.12.803l2.497.78z"/></svg>
+                    <span>Открыть Telegram</span>
+                </a>
             </div>
         </div>
     </div>
