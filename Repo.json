@@ -1050,6 +1050,13 @@
         "appUpdateTime": "2023-09-28T22:05:56+00:00"
     },
     {
+        "appName": "ВТБ Онлайн | Сириус\n#Money",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/icons/vtb_sirius.png?raw=true",
+        "appVersion": "2.0.1 | 428.6 MB | iOS 16.0 | ",
+        "appDescription": "Приложение банка ВТБ\n\n▎Версия за июнь 2026 года",
+        "appUpdateTime": "2026-06-07T14:00:41+00:00"
+    },
+    {
         "appName": "Sleep Cycle | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/69/be/7c/69be7c51-c247-817a-300f-eb8866b1dad7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         "appVersion": "6.26.6 | 404.7 MB | iOS 15.0 | ",
@@ -1069,6 +1076,13 @@
         "appVersion": "4.1.18 | 103.5 MB | iOS 12.0 | ",
         "appDescription": "Приложение для тренировок и занятий фитнесом.",
         "appUpdateTime": "2023-06-27T08:31:00+00:00"
+    },
+    {
+        "appName": "MAX \n#Social",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/d9/d3/1dd9d311-2c0d-7bb3-a70c-1b9480a9a26f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x0w.png",
+        "appVersion": "26.17.3 | 101.5 MB | iOS 15.5 | ",
+        "appDescription": "MAX - мессенджер года по версии товарища майора, который знает о вас больше, чем ваши друзья, родственники и иногда даже вы сами. Рекомендовано ведущими специалистами по наблюдению и сбору данных.",
+        "appUpdateTime": "2026-06-07T14:06:42+00:00"
     },
     {
         "appName": "BetterSleep | Premium\n#Life",
@@ -1528,9 +1542,9 @@
     {
         "appName": "Kinopub | Cinepub\n#Video",
         "appImage": "https://github.com/IAppsRepo/IAppsRepo.github.io/releases/download/gimg/Cinepub.png",
-        "appVersion": "2.39 | 43.9 MB | iOS 17.6 | ",
+        "appVersion": "2.40 | 44 MB | iOS 17.6 | ",
         "appDescription": "Приложение для просмотра фильмов и сериалов. \nРаботает по подписке - kino.pub\n\n▎Для возможности скачивания в настройках выберите \"Формат загрузки - MP4\" и включите \"Загрузка только на переднем плане\"",
-        "appUpdateTime": "2026-05-16T23:39:35+00:00"
+        "appUpdateTime": "2026-06-02T20:55:12+00:00"
     },
     {
         "appName": "Lightleap | Pro\n#Design",
@@ -2137,9 +2151,9 @@
     {
         "appName": "MAX 2\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/d9/d3/1dd9d311-2c0d-7bb3-a70c-1b9480a9a26f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x0w.png",
-        "appVersion": "26.9 | 108.7 MB | iOS 15.5 | ",
+        "appVersion": "26.17.3 | 101.5 MB | iOS 15.5 | ",
         "appDescription": "Дубликат приложения МАХ\n\nДля самых отчаянных пользователей, кому недостаточно слежки одного агента =)",
-        "appUpdateTime": "2026-03-20T20:52:41+00:00"
+        "appUpdateTime": "2026-06-07T14:02:22+00:00"
     },
     {
         "appName": "Reverso | Premium\n#Study",
@@ -7203,11 +7217,11 @@
         "appUpdateTime": "2025-06-25T09:31:14+00:00"
     },
     {
-        "appName": "Альфа Банк | А-Ключ\n#Money",
-        "appImage": "https://github.com/polyatar/kikspaq/releases/download/n5/aklyuv_alfabank.png",
-        "appVersion": "2.0 | 375.4 MB | iOS 15.0 | ",
+        "appName": "Альфа Банк | Holder\n#Money",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/icons/alfa_holder.png?raw=true",
+        "appVersion": "2.0 | 291 MB | iOS 16.0 | ",
         "appDescription": "Приложение Альфа Банк",
-        "appUpdateTime": "2026-02-27T05:12:56+00:00"
+        "appUpdateTime": "2026-06-07T13:56:36+00:00"
     },
     {
         "appName": "Альфа Бизнес\n#Money",
@@ -7484,10 +7498,10 @@
     },
     {
         "appName": "СовкомБанк\n#Money",
-        "appImage": "https://github.com/IAppsRepo/IAppsRepo.github.io/releases/download/icon/sovkombank.png",
-        "appVersion": "1.0 | 94.5 MB | iOS 16.0 | ",
-        "appDescription": "Приложение банка СовкомБанк(Финграм)\n\n▎Версия за март 2026г.",
-        "appUpdateTime": "2026-03-14T22:32:56+00:00"
+        "appImage": "https://github.com/IAppsRepo/IAppsRepo.github.io/releases/download/icon/sovkombank.png?raw=true",
+        "appVersion": "1.0 | 93.2 MB | iOS 17.0 | ",
+        "appDescription": "Приложение банка СовкомБанк\n\n▎Версия за май 2026г.",
+        "appUpdateTime": "2026-06-07T13:53:59+00:00"
     },
     {
         "appName": "Газпром Банк\n#Money",
@@ -7623,11 +7637,11 @@
         "appUpdateTime": "2025-08-16T10:34:15+00:00"
     },
     {
-        "appName": "Россельхозбанк\n#Money",
-        "appImage": "https://github.com/polyatar/kikspaq/releases/download/dertzx/yagoda_rsxb.png",
-        "appVersion": "1.0.8 | 86.7 MB | iOS 10.0 | ",
-        "appDescription": "Приложение банка Россельхозбанк",
-        "appUpdateTime": "2026-02-26T16:49:06+00:00"
+        "appName": "Россельхозбанк | РСХБ\n#Money",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/dertzx/yagoda_rsxb.png?raw=true",
+        "appVersion": "1.4 | 171.5 MB | iOS 10.0 | ",
+        "appDescription": "Приложение банка Россельхозбанк(Бычок Каберне)",
+        "appUpdateTime": "2026-06-07T13:51:44+00:00"
     },
     {
         "appName": "Россельхозбанк Бизнес\n#Money",
