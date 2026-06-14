@@ -219,9 +219,9 @@
     {
         "appName": "VFeed | Pro\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5a/8c/b4/5a8cb4c3-48fb-a236-ab61-f8d974b5e9bc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.10.96 | 119.8 MB | iOS 14.0 | ",
+        "appVersion": "1.11.4 | 109.3 MB | iOS 14.0 | ",
         "appDescription": "Альтернативный клиент Вконтакте с олдскульным дизайном.",
-        "appUpdateTime": "2025-06-29T11:57:08+00:00"
+        "appUpdateTime": "2026-06-13T22:48:23+00:00"
     },
     {
         "appName": "TVOЁ | ТВОЕ\n#Video",
@@ -275,9 +275,9 @@
     {
         "appName": "Яндекс Музыка | Lossless\n#Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/84/d5/4b84d552-ef14-0e01-4b5e-91bed1a98e63/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/217x0w.png",
-        "appVersion": "7.85 | 220.7 MB | iOS 17.0 | ",
+        "appVersion": "7.91 | 223.6 MB | iOS 17.0 | ",
         "appDescription": "Яндекс Музыка с активированной подпиской. \n\n▎Может потребоваться VPN РФ, если вы находитесь не в России.",
-        "appUpdateTime": "2026-05-14T18:49:32+00:00"
+        "appUpdateTime": "2026-06-13T22:45:24+00:00"
     },
     {
         "appName": "Spotify | Eevee\n#Music",
@@ -464,9 +464,9 @@
     {
         "appName": "Duolingo | Max+\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6b/d3/b5/6bd3b571-bc11-ea11-6bb0-d020c9bca97d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "7.123.1 | 487.1 MB | iOS 17.0 | ",
+        "appVersion": "7.126.1 | 462.8 MB | iOS 17.0 | ",
         "appDescription": "Самое популярное приложение для изучения языков со взломом на подписку.\n\n▎Активирована подписка Max\n▎Всегда двойной опыт",
-        "appUpdateTime": "2026-05-24T14:40:28+00:00"
+        "appUpdateTime": "2026-06-13T19:51:53+00:00"
     },
     {
         "appName": "English Galaxy | Premium\n#Study",
@@ -546,11 +546,11 @@
         "appUpdateTime": "2024-12-31T04:54:12+00:00"
     },
     {
-        "appName": "SpeedTest | VPN Premium\n#Network",
+        "appName": "SpeedTest | Premium\n#Network",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/32/45/e3/3245e3df-1710-7887-0fca-2f9ab89e5797/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "6.5.1 | 170.3 MB | iOS 15.0 | ",
-        "appDescription": "Тестер скорости интернета + VPN со взломом на подписку.",
-        "appUpdateTime": "2025-12-23T18:07:27+00:00"
+        "appVersion": "7.0.3 | 151.4 MB | iOS 15.0 | ",
+        "appDescription": "Тестер скорости интернета",
+        "appUpdateTime": "2026-06-13T22:49:24+00:00"
     },
     {
         "appName": "Vpnify | Premium\n#Network",
@@ -814,16 +814,16 @@
     {
         "appName": "Adobe Photoshop | Premium\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/d9/69/65d9696a-1ff1-9c41-6f7c-a1a7cb4e3ca2/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.png",
-        "appVersion": "7.5.2 | 523.1 MB | iOS 18.0 | ",
+        "appVersion": "7.7.8 | 527.1 MB | iOS 18.0 | ",
         "appDescription": "Полноценный Adobe Photoshop - все основные инструменты адаптированы для Apple Pencil и сенсорного экрана. ",
-        "appUpdateTime": "2026-04-08T17:47:30+00:00"
+        "appUpdateTime": "2026-06-13T19:49:23+00:00"
     },
     {
         "appName": "Adobe Lightroom | Premium\n#Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/59/2b/2d592b9c-d28f-ad47-caf4-b4e55dc762f8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "11.2.2 | 319.2 MB | iOS 18.0 | ",
+        "appVersion": "11.3.3 | 332.7 MB | iOS 18.0 | ",
         "appDescription": "Профессиональный фоторедактор.\n\n▎Войдите в аккаунт и переоткройте приложение для активации подписки.\n▎Активирована подписка Premium\n▎Безлимитные генеративные балы",
-        "appUpdateTime": "2026-04-08T17:52:33+00:00"
+        "appUpdateTime": "2026-06-13T19:50:41+00:00"
     },
     {
         "appName": "Adobe Lightroom for iPad | Premium\n#Design",
@@ -1104,13 +1104,6 @@
         "appVersion": "1.11.61 | 151.6 MB | iOS 13.0 | ",
         "appDescription": "Как начать заботиться о своём здоровье и привести тело в форму, не прилагая много усилий? Verv — ваше универсальное решение в этом нелёгком вопросе.\n\nПриложение включает четыре компонента — физическую активность, питание, сон и практику осознанности, — отличающиеся простотой, эффективностью и индивидуальным подходом.",
         "appUpdateTime": "2025-01-18T16:54:25+00:00"
-    },
-    {
-        "appName": "AssppPro | AppStore++\n#Other",
-        "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/bbic/AssppPro.png",
-        "appVersion": "2.0.5 | 18.7 MB | iOS 15.0 | ",
-        "appDescription": "Приложение позволяет добавить любое количество аккаунтов AppStore и скачивать\\устанавливать приложения одновременно с разных регионов. Доступна возможность скачивания старых версий. Приложения устанавливаются не с сертификатом, а с выбранным Apple ID(как будто с AppStore).\n\n▎Не рекомендуем использовать основной Apple ID!!!\n▎Чтобы загрузить приложение оно должно быть хотя бы один раз загруженно с AppStore на выбранный аккаунт.",
-        "appUpdateTime": "2025-06-16T14:10:01+00:00"
     },
     {
         "appName": "Rootd | Premium\n#Life",
@@ -2424,9 +2417,9 @@
     {
         "appName": "!Camera (Not Boring) | Super\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/08/9f/46089f27-6509-b7f5-149c-32d8a8d7985c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "1.43 | 172.3 MB | iOS 18.0 | ",
+        "appVersion": "1.53 | 190 MB | iOS 18.0 | ",
         "appDescription": "Влюбитесь в фотографию - от ощущения хорошо сконструированной камеры до прекрасных несовершенств, придающих жизни текстуру.",
-        "appUpdateTime": "2026-02-26T20:46:08+00:00"
+        "appUpdateTime": "2026-06-13T19:45:24+00:00"
     },
     {
         "appName": "App Raven | Premium\n#Other",
@@ -2648,9 +2641,9 @@
     {
         "appName": "Kino - Pro Video Camera\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/5a/c1/2c5ac1e4-e0eb-fa2d-e522-c1e62bb81b95/AppIcon-1x_U007ephone-0-0-0-sRGB-85-220-0.jpeg/246x0w.jpg",
-        "appVersion": "1.3 | 52.8 MB | iOS 17.0 | ",
+        "appVersion": "1.4.2 | 53.6 MB | iOS 17.0 | ",
         "appDescription": "Делайте отличное видео легко! Kino позволяет просто нажать кнопку записи и создать кинематографическое видео с цветовыми предустановками, созданными экспертами-кинематографистами, без необходимости редактирования. Кроме того, благодаря функции \"Автодвижение\" приложение автоматически создает плавные движения, которые вы видите в кино. Снимайте отличное видео, не имея специального образования.",
-        "appUpdateTime": "2025-08-16T09:59:14+00:00"
+        "appUpdateTime": "2026-06-13T19:44:02+00:00"
     },
     {
         "appName": "Sonic | Premium\n#Other",
@@ -2928,9 +2921,9 @@
     {
         "appName": "Kwit | Premium\n#Life",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/76/47/c3/7647c308-5505-3fb9-b0d6-66a6188f358d/AppIcon-Kwit-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "4.26.2 | 380.4 MB | iOS 16.1 | ",
+        "appVersion": "4.34 | 122.3 MB | iOS 18.1 | ",
         "appDescription": "Kwit помогает вам бороться с побочными эффектами отказа от курения с помощью стратегий противостояния желанию закурить.",
-        "appUpdateTime": "2025-06-29T11:23:40+00:00"
+        "appUpdateTime": "2026-06-13T20:06:11+00:00"
     },
     {
         "appName": "Streaks\n#Life",
@@ -4153,9 +4146,9 @@
     {
         "appName": "BoldVoice | Super\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/aa/26/dfaa265b-71fb-0bb7-f879-3e44cdb3a4c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.png",
-        "appVersion": "3.8.4 | 181 MB | iOS 15.1 | ",
+        "appVersion": "4.0 | 192.5 MB | iOS 15.5 | ",
         "appDescription": "BoldVoice - это лучшее обучающее приложение помогающее приобрести английское произношение. Обучайтесь с помощью видеороликов сделанных Голливудскими экспертами по произношению, записывайте свой голоc и получайте мгновенную обратную связь. Вам понадобиться только 10 минут в день, чтобы говорить по-английски уверенно.\n\n▎Активирована подписка\n▎Разблокированы все уроки",
-        "appUpdateTime": "2026-05-03T15:06:00+00:00"
+        "appUpdateTime": "2026-06-13T19:51:17+00:00"
     },
     {
         "appName": "Smart Driver | Premium\n#Travel",
@@ -4496,9 +4489,9 @@
     {
         "appName": "AI Canvas | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/46/b1/7e46b12e-2597-082e-5e47-5bffe6cc9656/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "1.7.9 | 500.9 MB | iOS 17.0 | ",
+        "appVersion": "1.8.3 | 286.9 MB | iOS 17.0 | ",
         "appDescription": "Мощное приложение для создания изображений и видео с помощью ИИ: генерирует картинки из текста, анимирует фото и применяет художественные стили.\n\n▎Активирована подписка\n▎Переустановите приложение, чтобы обнулить лимиты использования кредитов, если получите ошибку.",
-        "appUpdateTime": "2026-04-01T00:16:07+00:00"
+        "appUpdateTime": "2026-06-13T19:44:47+00:00"
     },
     {
         "appName": "Night Sky | Premium\n#Other",
@@ -4786,6 +4779,13 @@
         "appVersion": "13.3.8 | 49.6 MB | iOS 15.0 | ",
         "appDescription": "Функциональное приложение для записи и редактирования звука: делает аудиозаписи, микширует фрагменты, планирует начало записи, поддерживает Bluetooth-наушники и инструменты обработки (обрезка, объединение, изменение скорости и др.)",
         "appUpdateTime": "2026-02-14T21:55:07+00:00"
+    },
+    {
+        "appName": "Couple Joy | Pro\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/05/c4/3105c493-a01f-0d83-e17e-599afdeaa502/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "4.27 | 83.2 MB | iOS 16.0 | ",
+        "appDescription": "Приложение для пар — помогает поддерживать отношения, особенно на расстоянии. В приложении есть совместные виджеты, счётчик дней вместе, отслеживание расстояния между партнёрами, общие воспоминания, фотоальбом, чат, ежедневные вопросы и игры для лучшего знакомства друг с другом. ",
+        "appUpdateTime": "2026-06-13T20:12:39+00:00"
     },
     {
         "appName": "Buddy AI | Hack\n#Kids",
@@ -6260,9 +6260,9 @@
     {
         "appName": "Picnic | Premium\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/2f/74/6f2f747c-a90a-6b2b-ca15-d3775821d8a4/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "4.0.13 | 86.5 MB | iOS 17.0 | ",
+        "appVersion": "4.1.4 | 87.3 MB | iOS 17.0 | ",
         "appDescription": "Picnic — приложение для быстрого и удобного упорядочивания вашей фотогалереи: свайпайте снимки влево/вправо, чтобы удалить или сохранить, избавляясь от дубликатов, скриншотов и лишних фото",
-        "appUpdateTime": "2026-02-27T05:18:23+00:00"
+        "appUpdateTime": "2026-06-13T19:43:32+00:00"
     },
     {
         "appName": "Scarlet AI | Pro\n#Other",
@@ -6421,9 +6421,9 @@
     {
         "appName": "Home Planner | Pro++\n#Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/54/71/fb5471d4-81d0-2a28-9579-762ccf8ff2ca/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "2611 | 1.3 GB | iOS 13.0 | ",
+        "appVersion": "2629 | 1.4 GB | iOS 15.0 | ",
         "appDescription": "Приложение для создания 2D/3D планов квартиры и визуализации ремонта: можно расставлять мебель, менять отделку и проектировать комнаты с нуля. Поддерживает дополненную реальность и позволяет «примерять» интерьер и предметы в реальном пространстве перед покупкой.",
-        "appUpdateTime": "2026-04-01T00:19:14+00:00"
+        "appUpdateTime": "2026-06-14T15:13:44+00:00"
     },
     {
         "appName": "Альфа Банк Беларусь\n#Money",
@@ -6452,6 +6452,13 @@
         "appVersion": "3.0.7 | 255.7 MB | iOS 15.0 | ",
         "appDescription": "Приложение для выбора фильмов или сериалов\n\n▎Откажитесь от предложений купить подписку",
         "appUpdateTime": "2026-06-02T20:27:14+00:00"
+    },
+    {
+        "appName": "LiDAR Scanner | Pro\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/2d/e9/532de9b9-1f47-f4d0-c171-f7854b747d15/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "2.2.0 | 47.8 MB | iOS 17.0 | ",
+        "appDescription": "Приложение для iPhone Pro и iPad Pro с LiDAR-сенсором, которое позволяет сканировать реальные объекты и помещения, превращая их в точные 3D-модели",
+        "appUpdateTime": "2026-06-13T22:56:20+00:00"
     },
     {
         "appName": "Prequel | Gold\n#Design",
@@ -6622,6 +6629,13 @@
         "appUpdateTime": "2026-01-18T17:44:34+00:00"
     },
     {
+        "appName": "edjing Mix | Pro\n#Music",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/a9/f0/31a9f02a-032e-3952-b657-3eff97b37e7c/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "9.0.2 | 394.3 MB | iOS 18.6 | ",
+        "appDescription": "Одно из самых популярных DJ-приложений для iPhone и iPad, превращающее устройство в полноценный DJ-пульт с двумя виртуальными вертушками. Позволяет микшировать треки, создавать mashup’ы, делать плавные переходы и использовать профессиональные DJ-эффекты прямо на смартфоне.\n\n▎Откажитесь от предложений покупки, подписка уже активирована",
+        "appUpdateTime": "2026-06-13T22:47:40+00:00"
+    },
+    {
         "appName": "OBD Fusion\n#Travel",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/fb/9f/8bfb9fcd-9c43-8cbe-d7e1-ca337fb10c4c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         "appVersion": "5.32.1 | 73.1 MB | iOS 12.0 | ",
@@ -6659,9 +6673,9 @@
     {
         "appName": "Car Scanner | Pro\n#Travel",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/38/b5/ba/38b5bab7-bdf9-0bae-aebd-7b39e07e9e22/AppIcon-1-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "2.1.9 | 172 MB | iOS 12.2 | ",
+        "appVersion": "2.1.25 | 173.8 MB | iOS 12.2 | ",
         "appDescription": "Лучшее приложение для диагностики и контроля автомобилей.\n\n▎Пройдите первоначальную настройку и переоткройте приложение. Pro-версия активируется автоматически при втором открытии приложения.",
-        "appUpdateTime": "2026-03-14T22:39:47+00:00"
+        "appUpdateTime": "2026-06-13T19:56:48+00:00"
     },
     {
         "appName": "ЕГЭ Русский язык | Pro\n#Study",
@@ -7348,6 +7362,13 @@
         "appVersion": "2.7 | 68.6 MB | iOS 15.0 | ",
         "appDescription": "Универсальное приложение для чтения электронных книг и документов с поддержкой EPUB, PDF, CHM, TXT, RTF и других популярных форматов",
         "appUpdateTime": "2026-05-14T18:41:25+00:00"
+    },
+    {
+        "appName": "Flight Tracker | Premium\n#Travel",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/72/60/a6726042-1c32-b92a-cdff-543d9a452df8/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "8.7.13 | 158.5 MB | iOS 16.0 | ",
+        "appDescription": "Одно из самых популярных приложений для отслеживания авиарейсов в реальном времени. Позволяет искать рейсы по номеру, маршруту, аэропорту или авиакомпании и показывает время вылета/прилёта, терминалы, выходы на посадку, задержки и статус рейса.\n\n▎Если приложение вылетает, включите VPN",
+        "appUpdateTime": "2026-06-13T20:05:05+00:00"
     },
     {
         "appName": "T-Профит | Т-Банк Инвестиции\n#Money",
@@ -8169,6 +8190,13 @@
         "appUpdateTime": "2023-05-16T08:31:00+00:00"
     },
     {
+        "appName": "Oki | Premium\n#Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/3f/b1/e03fb115-cef3-ebd9-6b08-b17efbfa14c1/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "1.5.0 | 67.3 MB | iOS 17.0 | ",
+        "appDescription": "Приложение для изучения языков",
+        "appUpdateTime": "2026-06-13T19:55:53+00:00"
+    },
+    {
         "appName": "Bully\n#Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/29/b5/31/29b5314a-428e-725e-e24b-10322370dc0c/AppIcon-0-1x_U007emarketing-0-85-220-0-6.png/246x0w.png",
         "appVersion": "1.1 | 2.4 GB | iOS 9.0 | ",
@@ -8426,6 +8454,13 @@
         "appVersion": "2026.2.1 | 110.9 MB | iOS 14.5 | ",
         "appDescription": "Одно из самых мощных дополнений для приложения Apple Shortcuts, добавляющее более 130 новых действий для автоматизации",
         "appUpdateTime": "2026-06-02T20:24:30+00:00"
+    },
+    {
+        "appName": "LM Mini | Premium\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/9b/c6/029bc616-b1a2-6cb7-c03a-a87cd64b8451/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "1.6.12 | 161.8 MB | iOS 16.0 | ",
+        "appDescription": "Мобильный клиент для локальных ИИ-моделей, который работает вместе с LM Studio. Приложение позволяет общаться с моделями вроде Llama, DeepSeek, Qwen и других прямо с iPhone, используя ваш домашний компьютер или сервер.",
+        "appUpdateTime": "2026-06-13T22:53:54+00:00"
     },
     {
         "appName": "Правда или Действие | Pro\n#Games",
