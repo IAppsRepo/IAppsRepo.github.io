@@ -93,9 +93,9 @@
     {
         "appName": "Telegram | Teledark\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/0b/e0/e50be0b0-ab9b-1cbd-4f36-76f0c59fe5eb/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "12.7 | 175 MB | iOS 13.0 | ",
+        "appVersion": "12.8 | 173.7 MB | iOS 13.0 | ",
         "appDescription": "Модификация Telegram клиента с модом Teledark. \n\n▎Сохранение удаленных сообщений\n▎Запись звонков\n▎Скачивание и пересылка с закрытых каналов\\чатов\n▎Скачивание самоуничтожающихся фото\\видео\n▎Анонимное чтение смс и другое",
-        "appUpdateTime": "2026-05-15T15:32:23+00:00"
+        "appUpdateTime": "2026-06-17T15:59:31+00:00"
     },
     {
         "appName": "TikTok | DL | Hack\n#Video",
@@ -281,10 +281,10 @@
     },
     {
         "appName": "Spotify | Eevee\n#Music",
-        "appImage": "https://www.freeiconspng.com/uploads/spotify-icon-2.png",
-        "appVersion": "9.1.12 | 214.7 MB | iOS 16.1 | ",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/4a/88/b44a88e4-fa6c-4923-4ccf-5996de65fd39/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "9.1.56 | 262.1 MB | iOS 16.1 | ",
         "appDescription": "Стриминговый сервис лицензионной музыки в высоком качестве с частично взломанной премиум подпиской.\n\n▎При первом входе приложение может вылететь, это нормально.\n▎Для использования в РФ может потребоваться VPN",
-        "appUpdateTime": "2026-03-25T13:32:23+00:00"
+        "appUpdateTime": "2026-06-17T15:58:14+00:00"
     },
     {
         "appName": "Spotify | Stable\n#Music",
@@ -1106,6 +1106,13 @@
         "appUpdateTime": "2025-01-18T16:54:25+00:00"
     },
     {
+        "appName": "Asspp | AppStore++\n#Other",
+        "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/bbic/AssppPro.png",
+        "appVersion": "4.2.1 | 47.1 MB | iOS 17.0 | ",
+        "appDescription": "Приложение позволяет добавить любое количество аккаунтов AppStore и скачивать\\устанавливать приложения одновременно с разных регионов. Доступна возможность скачивания старых версий. Приложения устанавливаются не с сертификатом, а с выбранным Apple ID(как будто с AppStore).\n\n▎Не рекомендуем использовать основной Apple ID!!!\n▎Чтобы загрузить приложение оно должно быть хотя бы один раз загруженно с AppStore на выбранный аккаунт.",
+        "appUpdateTime": "2026-06-17T15:42:17+00:00"
+    },
+    {
         "appName": "Rootd | Premium\n#Life",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/57/83/54/57835436-d721-7929-5c9b-39ab62149c04/AppIcon-1x_U007emarketing-0-10-0-85-220.png/246x0w.png",
         "appVersion": "3.1.16 | 198.4 MB | iOS 15.6 | ",
@@ -1381,9 +1388,9 @@
     {
         "appName": "Учи мед | Learn Anatomy\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/ca/81/92ca81df-3bf6-f5cf-d764-939244b4fff0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/246x0w.png",
-        "appVersion": "1.10.36 | 171.7 MB | iOS 15.0 | ",
-        "appDescription": "Приложение «Учи Мед» позволяет всесторонне подготовиться к занятиям по анатомии, гистологии, биохимии и физиологии или освежить старые знания. Краткие конспекты без воды содержат выжимку теории.\n\n▎Разблокирован платный контент\n▎Некоторые функции в 3D моделей могут быть недоступны!",
-        "appUpdateTime": "2025-10-01T16:00:38+00:00"
+        "appVersion": "1.11.1 | 171.7 MB | iOS 15.0 | ",
+        "appDescription": "Приложение «Учи Мед» позволяет всесторонне подготовиться к занятиям по анатомии, гистологии, биохимии и физиологии или освежить старые знания. Краткие конспекты без воды содержат выжимку теории.\n\n▎Активирована подписка\n▎Разблокированы все предметы\n▎Доступны все 3D модели",
+        "appUpdateTime": "2026-06-17T15:55:08+00:00"
     },
     {
         "appName": "Sandbox | Unlimited\n#Life",
@@ -1507,16 +1514,16 @@
     {
         "appName": "Motionleap | Pro\n#Design",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/c4/1c/a1c41c80-ffd6-9308-a851-279ab9829b1c/AppIcon-1x_U007emarketing-0-7-0-GLES2_U002c0-512MB-85-220.png/246x0w.png",
-        "appVersion": "1.9.34 | 221.9 MB | iOS 17.0 | ",
+        "appVersion": "1.9.37 | 243 MB | iOS 17.0 | ",
         "appDescription": "Добавьте анимацию к любой детали снимка — или к нескольким сразу — чтобы привлечь взгляд, заворожить ваших зрителей, рассказать историю и создать атмосферу волшебства.",
-        "appUpdateTime": "2026-03-09T16:48:19+00:00"
+        "appUpdateTime": "2026-06-17T14:54:31+00:00"
     },
     {
         "appName": "Photoleap | Pro\n#Design",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/db/dc/b3dbdc80-3122-c431-25e0-e69497ad11a6/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "2.115 | 521.4 MB | iOS 16.0 | ",
+        "appVersion": "2.121 | 466.5 MB | iOS 17.0 | ",
         "appDescription": "Фоторедактор Photoleap открывает для мобильных фотографов любого уровня невиданные доселе возможности творчества – от продвинутых инструментов работы со слоями до десятков спецэффектов, кистей, фильтров, шрифтов, пленочных текстур, градиентов и средств цветокоррекции.",
-        "appUpdateTime": "2025-08-05T16:26:54+00:00"
+        "appUpdateTime": "2026-06-17T14:52:59+00:00"
     },
     {
         "appName": "ReWord | Premium\n#Study",
@@ -1542,9 +1549,9 @@
     {
         "appName": "Lightleap | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e5/a8/5a/e5a85a5d-a176-59aa-eeb4-f233344248b7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "1.9.25 | 290.6 MB | iOS 17.0 | ",
+        "appVersion": "1.21.2 | 297.2 MB | iOS 17.0 | ",
         "appDescription": "Получите именно такую фотографию, которую вы задумали. Lightleap - это фоторедактор, доказывающий, что больше не нужно быть профессиональным фотографом, чтобы делать потрясающие фотографии. Вы можете положиться на искусственный интеллект новых инструментов Lightleap, которые помогут быстро сделать снимок идеальным.",
-        "appUpdateTime": "2026-01-31T18:36:24+00:00"
+        "appUpdateTime": "2026-06-17T14:53:52+00:00"
     },
     {
         "appName": "Artleap | Pro\n#Design",
@@ -1584,9 +1591,9 @@
     {
         "appName": "FaceTune | VIP\n#Design",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/5e/71/b05e7145-cf99-520f-32f0-16462811b317/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "26.0 | 504.4 MB | iOS 17.0 | ",
+        "appVersion": "26.16 | 553.9 MB | iOS 17.0 | ",
         "appDescription": "Это больше чем редактор для селфи. В Facetune 2 есть все, что вам понадобится для потрясающих портретов!",
-        "appUpdateTime": "2026-03-14T22:17:04+00:00"
+        "appUpdateTime": "2026-06-17T14:55:06+00:00"
     },
     {
         "appName": "FaceTune Video | VIP\n#Design",
@@ -1598,9 +1605,9 @@
     {
         "appName": "Alight Motion | Premium\n#Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/2d/90/75/2d90751c-e3ea-bf7f-e76b-5cc1760cd1d1/AppIcon-0-0-1x_U007emarketing-0-4-0-0-0-0-85-220-0.png/246x0w.png",
-        "appVersion": "6.2.40 | 180.3 MB | iOS 14.4 | ",
+        "appVersion": "6.2.53 | 182.7 MB | iOS 14.4 | ",
         "appDescription": "Профессиональное приложение для редактирования видео\n\n▎Войдите в аккаунт для активации подписки.",
-        "appUpdateTime": "2025-10-01T15:46:35+00:00"
+        "appUpdateTime": "2026-06-17T14:52:11+00:00"
     },
     {
         "appName": "Captions | Business\n#Design",
@@ -2004,9 +2011,9 @@
     {
         "appName": "Shapr3D | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/54/5b/57545bd3-2fbe-3798-bdbb-90e41831be70/AppIcon-0-0-2x_U007euniversal-0-4-0-85-220.png/246x0w.png",
-        "appVersion": "5.961 | 1.6 GB | iOS 16.0 | ",
+        "appVersion": "26.100 | 1.6 GB | iOS 17.0 | ",
         "appDescription": "Оцените невероятную гибкость проектов в Shapr3D, реалистичные средства просмотра и единый рабочий процесс с момента создания эскизов до получения готовых к производству 3D-моделей.",
-        "appUpdateTime": "2025-10-09T11:48:15+00:00"
+        "appUpdateTime": "2026-06-17T15:00:15+00:00"
     },
     {
         "appName": "FlipaClip | Plus\n#Design",
@@ -2025,9 +2032,9 @@
     {
         "appName": "HDRezka\n#Video",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/bbic/hdrezka.png",
-        "appVersion": "1.5.4 | 16.9 MB | iOS 16.0 | ",
+        "appVersion": "1.6 | 19.9 MB | iOS 16.0 | ",
         "appDescription": "Приложение для просмотра фильмов и сериалов. Требуется iOS 16 и выше.\n\n▎Войдите в аккаунт HDRezka для просмотра контента.\n▎Доступно скачивание фильмов\\сериалов\n▎Скачивание в фоне недоступно ",
-        "appUpdateTime": "2025-10-16T07:59:26+00:00"
+        "appUpdateTime": "2026-06-17T15:49:22+00:00"
     },
     {
         "appName": "Coach Guitar | Гитара с нуля\n#Study",
@@ -2865,9 +2872,9 @@
     {
         "appName": "Funimate | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/3c/f1/4b3cf1c9-a4ae-22d0-bb1a-a2dcf696c4b9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "17.1 | 379.9 MB | iOS 15.0 | ",
+        "appVersion": "18.4.0 | 414.8 MB | iOS 15.0 | ",
         "appDescription": "Funimate — лучшее мобильное приложение для редактирования видео!\nСоздавай топовые видео и улучшай их с помощью уникальных переходов, анимаций, фильтров и функций AI.\n\n▎Активирована подписка \n▎Накручены кредиты\n",
-        "appUpdateTime": "2026-01-18T17:52:32+00:00"
+        "appUpdateTime": "2026-06-17T14:56:46+00:00"
     },
     {
         "appName": "DMV Genie | Premium\n#Study",
@@ -3614,9 +3621,9 @@
     {
         "appName": "BeautyPlus | Premium\n#Design",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/94/87/5b/94875bae-1314-be7f-8c9e-ca0b30f80531/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "7.21.1 | 562.3 MB | iOS 13.0 | ",
+        "appVersion": "7.39 | 630.6 MB | iOS 13.0 | ",
         "appDescription": "BeautyPlus поможет вам делать классные селфи, чтобы динамически фиксировать моменты вашей жизни и делиться ими с использованием сотен фильтров, стикеров, спецэффектов и многого другого!",
-        "appUpdateTime": "2025-10-31T16:44:00+00:00"
+        "appUpdateTime": "2026-06-17T14:51:33+00:00"
     },
     {
         "appName": "Rise | Premium\n#Life",
@@ -4125,9 +4132,9 @@
     {
         "appName": "Fitsession | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ef/1a/04/ef1a0454-2e7d-a91a-4823-90c8138e6542/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-85-220.jpeg/246x0w.jpg",
-        "appVersion": "7.3.1 | 40.1 MB | iOS 16.0 | ",
+        "appVersion": "7.4.4 | 42.2 MB | iOS 16.0 | ",
         "appDescription": "Fitsession незаменим и в процессе тренировки: удобно проведет вас шаг за шагом по всем упражнениям, автоматически запустит таймеры и подсчитает результаты. Вам остаётся лишь отмечать выполненные подходы.",
-        "appUpdateTime": "2025-09-19T16:06:44+00:00"
+        "appUpdateTime": "2026-06-17T15:39:22+00:00"
     },
     {
         "appName": "IDAGIO | Premium*\n#Music",
@@ -4936,10 +4943,10 @@
     },
     {
         "appName": "GoDaddy Studio | Pro\n#Design",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/9e/ab/ff9eab85-d2ba-4934-9be0-af839ebc37d6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.png",
-        "appVersion": "8.19.0 | 125.6 MB | iOS 15.0 | ",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/7a/6e/2b7a6e6b-8bdd-7b8d-6d68-8c311e8d81dd/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "9.6.1 | 154.7 MB | iOS 18.0 | ",
         "appDescription": "Графический дизайн, социальные посты и мгновенные видеоролики - все в одном.",
-        "appUpdateTime": "2023-10-12T13:09:25+00:00"
+        "appUpdateTime": "2026-06-17T14:57:58+00:00"
     },
     {
         "appName": "Drawing | Hack\n#Kids",
@@ -6188,11 +6195,25 @@
         "appUpdateTime": "2025-07-31T17:11:48+00:00"
     },
     {
+        "appName": "Everlook | VIP\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/e3/64/f5e3642c-ea38-7c2f-ffed-9158e967af3a/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "5.0.70 | 258.8 MB | iOS 16.0 | ",
+        "appDescription": "Фоторедактор с ИИ для быстрого улучшения селфи и портретов. Позволяет ретушировать кожу, удалять прыщи и морщины, менять причёску, наносить виртуальный макияж, корректировать фигуру, рост, мышцы и даже автоматически добавлять эффект пресса или бороды.",
+        "appUpdateTime": "2026-06-17T15:03:16+00:00"
+    },
+    {
         "appName": "365Scores | Premium\n#Life",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/17/20/f7/1720f7f1-55d3-436a-b354-4fb265bfa230/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "5.9.10 | 97.4 MB | iOS 14.0 | ",
         "appDescription": "Спортивные результаты и новости.",
         "appUpdateTime": "2024-01-25T11:11:27+00:00"
+    },
+    {
+        "appName": "Manly | VIP\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/fb/3f/dbfb3f2f-4129-c058-ef3e-e54f3e2dbd5c/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "3.17.25 | 244.9 MB | iOS 16.0 | ",
+        "appDescription": "Фоторедактор с ИИ, ориентированный на мужские портреты и селфи. Позволяет изменять телосложение, добавлять мышцы и пресс, примерять причёски, бороду, татуировки, менять цвет волос, ретушировать лицо и создавать различные образы с помощью AI-инструментов.",
+        "appUpdateTime": "2026-06-17T15:13:27+00:00"
     },
     {
         "appName": "Photomyne | Premium\n#Design",
@@ -6293,6 +6314,13 @@
         "appUpdateTime": "2026-06-02T20:30:30+00:00"
     },
     {
+        "appName": "BodyApp | VIP\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/77/b5/3077b5e8-8fde-1b91-dcf9-ba2c1369d19d/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "2.2.47 | 200.4 MB | iOS 16.0 | ",
+        "appDescription": "AI-редактор фотографий, который позволяет изменять фигуру и внешность прямо на снимках: сделать талию уже, добавить мышцы или пресс, увеличить рост, скорректировать пропорции тела, изменить причёску и ретушировать лицо.",
+        "appUpdateTime": "2026-06-17T15:35:10+00:00"
+    },
+    {
         "appName": "PrettyUp | VIP\n#Design",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/6e/8e/19/6e8e19ad-3c64-9384-faef-3f8b688ace4b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "9.1 | 451.4 MB | iOS 15.0 | ",
@@ -6305,6 +6333,13 @@
         "appVersion": "5.62 | 240.5 MB | iOS 13.4 | ",
         "appDescription": "Tarteel - первое в мире приложение для изучения Корана с искусственным интеллектом, и это именно то, что вам нужно для дальнейшего изучения Корана. В одно касание вы можете приобщиться к словам Аллаха, как никогда раньше, и все, что вам нужно, - это ваш голос. \n\n▎Для активации подписки: войдите в аккаунт, нажмите иконку профиля и \"восстановите покупку\"",
         "appUpdateTime": "2025-06-11T15:45:00+00:00"
+    },
+    {
+        "appName": "ZBrush for iPad | Premium\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/d5/3a/d7d53a56-e365-0558-948b-6f61d187c8d5/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "2026.2.0 | 1.2 GB | iOS 17.0 | ",
+        "appDescription": "Профессиональное приложение для цифровой скульптуры и 3D-моделирования от Maxon, перенесённое на iPad. Оно позволяет создавать детализированные персонажи, фигурки, концепт-арт, ювелирные изделия и 3D-модели с использованием тех же инструментов, что и настольная версия ZBrush\n\n▎Разблокированы платные функции",
+        "appUpdateTime": "2026-06-17T15:38:24+00:00"
     },
     {
         "appName": "MagicEraser | Hack\n#Design",
@@ -7142,9 +7177,9 @@
     {
         "appName": "DL IPA\n#Other",
         "appImage": "https://raw.githubusercontent.com/AhmedBafkir/DLiPA/main/images/icon.png",
-        "appVersion": "1.2 | 1.3 MB | iOS 13.0 | ",
+        "appVersion": "1.3 | 8.3 MB | iOS 13.0 | ",
         "appDescription": "Приложение позволяет пользователям загружать, устанавливать и делиться приложениями из App Store, используя свой Apple ID, с поддержкой загрузки старых версий.\n\n▎Личный Apple ID использовать на свой страх и риск!!!",
-        "appUpdateTime": "2026-02-27T05:53:17+00:00"
+        "appUpdateTime": "2026-06-17T15:45:14+00:00"
     },
     {
         "appName": "iStoria | Premium\n#Study",
@@ -7194,6 +7229,13 @@
         "appVersion": "1.1.9 | 30 MB | iOS 18.0 | ",
         "appDescription": "Профессиональное приложение-камера, которое превращает iPhone в полноценный инструмент для фото и видеосъёмки с ручным управлением.",
         "appUpdateTime": "2026-04-26T22:50:34+00:00"
+    },
+    {
+        "appName": "CoinSnap | Premium\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/ee/d9/23eed9d8-0099-f1a8-a1f9-2ea093b80d3f/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "2.20.3 | 181.7 MB | iOS 15.0 | ",
+        "appDescription": "Приложение, которое позволяет сфотографировать монету и за несколько секунд получить её название, страну, год выпуска, характеристики, предполагаемую редкость и ориентировочную стоимость",
+        "appUpdateTime": "2026-06-17T15:48:42+00:00"
     },
     {
         "appName": "ArtPose | Pro\n#Other",
