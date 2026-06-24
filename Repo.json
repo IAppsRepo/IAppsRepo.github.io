@@ -105,11 +105,11 @@
         "appUpdateTime": "2026-05-03T15:27:19+00:00"
     },
     {
-        "appName": "Swiftgram | TGExtra\n#Social",
+        "appName": "Swiftgram | Lead\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/3f/8f/c13f8f03-5761-cd9c-cd4d-c11390460ad4/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/246x0w.png",
-        "appVersion": "12.7 | 1.7.5 | 169.4 MB | iOS 13.0 | ",
+        "appVersion": "12.8 | 1.4.3 | 182.9 MB | iOS 13.0 | ",
         "appDescription": "Модификация телеграм клиента Swiftgram - оффлайн, нечиталка, подмена локации, скрины секретных чатов и каналов.\n\n▎Настройки TGExtra: Откройте \"Настройки\" и зажмите кнопку \"Помощь\"\n▎Если не прогружаются сообщения - отключите опцию \"Разрешить сохранение защищенного контента\" в настройках TGExtra.\n▎Если не открываются сообщения разрешите доступ к контактам.",
-        "appUpdateTime": "2026-05-15T15:31:48+00:00"
+        "appUpdateTime": "2026-06-24T17:12:37+00:00"
     },
     {
         "appName": "Turrit | TGExtra\n#Social",
@@ -145,6 +145,13 @@
         "appVersion": "2.4 | 41.6 MB | iOS 16.0 | ",
         "appDescription": "VPN для РФ с различным выбором локаций.\nКак заявляет разработчик имеются локации настроенные для обхода ограничений белых списков.\n\n▎Для работы требуется сертификат с поддержкой AppGroup(плагинов)\n▎VPN может не работать в других странах кроме РФ",
         "appUpdateTime": "2026-01-11T20:00:27+00:00"
+    },
+    {
+        "appName": "WhatsApp | Gold\n#Social",
+        "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/00/9e/2a/009e2ab6-54fa-b317-447d-1b61e0c07cbc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        "appVersion": "26.22.76 | 321.6 MB | iOS 15.1 | ",
+        "appDescription": "Модификация мессенджера WhatsApp\n\n▎Запись звонков\n▎Режим призрака\n▎Сохранение удаленных смс \n▎Сохранение статусов и многое другое",
+        "appUpdateTime": "2026-06-24T17:08:42+00:00"
     },
     {
         "appName": "WhatsApp | Watusi Hack\n#Social",
@@ -245,11 +252,11 @@
         "appUpdateTime": "2025-06-16T14:59:26+00:00"
     },
     {
-        "appName": "VK Музыка | Premium*\n#Music",
+        "appName": "VK Music | ВК Музыка\n#Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/7c/9c/fe7c9cbc-8f2d-887b-26a3-137e1bd4e753/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "8.24 | 271.3 MB | iOS 16.6 | ",
+        "appVersion": "8.30 | 290.4 MB | iOS 16.6 | ",
         "appDescription": "В VK Музыке можно слушать и скачивать треки из ВКонтакте и ОК.\n\n▎Активирована Premium подписка.\n▎НЕдоступно скачивание в кэш.\n",
-        "appUpdateTime": "2026-05-14T18:48:51+00:00"
+        "appUpdateTime": "2026-06-21T19:22:14+00:00"
     },
     {
         "appName": "YouTube Music | Ultimate\n#Music",
@@ -644,11 +651,11 @@
         "appUpdateTime": "2025-04-25T21:17:23+00:00"
     },
     {
-        "appName": "Aloha Browser | VPN | Premium\n#Network",
+        "appName": "Aloha Browser | VPN | Chat GPT | Grok\n#Network",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/00/b6/c300b6ec-5656-c038-8d1d-2d8533064aa0/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "8.5 | 243.8 MB | iOS 16.0 | ",
-        "appDescription": "Веб браузер с VPN.\n\n▎Для активации подписки войдите в аккаунт в настройках.",
-        "appUpdateTime": "2026-06-02T19:00:07+00:00"
+        "appVersion": "8.6 | 232.4 MB | iOS 16.0 | ",
+        "appDescription": "Веб браузер с VPN и ИИ.\n\n▎Активирована подписка Premium Plus",
+        "appUpdateTime": "2026-06-24T16:41:39+00:00"
     },
     {
         "appName": "InstaSize | Premium+\n#Design",
@@ -709,9 +716,9 @@
     {
         "appName": "YAZIO | Pro\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/d3/b1/16d3b1e8-94ff-a683-b80c-7e321c89d7a1/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "12.82 | 324.6 MB | iOS 16.0 | ",
+        "appVersion": "12.89.1 | 343.3 MB | iOS 16.0 | ",
         "appDescription": "С помощью приложения «Счетчик калорий» от YAZIO вы можете вести дневник питания, отслеживать физическую активность и успешно снижать вес. Теперь считать калории и терять лишние килограммы очень легко!\n\n▎Недоступны серверные функции(Интервальное голодание)\n",
-        "appUpdateTime": "2026-05-03T14:50:18+00:00"
+        "appUpdateTime": "2026-06-21T19:24:03+00:00"
     },
     {
         "appName": "Adidas Running | Premium\n#Life",
@@ -1023,10 +1030,10 @@
     },
     {
         "appName": "Сбербанк\n#Money",
-        "appImage": "https://github.com/IAppsRepo/IAppsRepo.github.io/releases/download/gimg/sbernewbt.png",
-        "appVersion": "17.0.0 | 529.4 MB | iOS 15.0 | ",
-        "appDescription": "Приложение банка Сбербанк (Онлайн). \n\n▎Версия за декабрь 2025 года",
-        "appUpdateTime": "2025-12-23T17:27:24+00:00"
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/icons/sberOnlineNew.png?raw=true",
+        "appVersion": "17.6.1 | 553.5 MB | iOS 15.0 | ",
+        "appDescription": "Приложение банка Сбербанк (Онлайн). \n\n▎Версия за июнь 2026 года",
+        "appUpdateTime": "2026-06-24T16:57:16+00:00"
     },
     {
         "appName": "AI Chat | Pro\n#Other",
@@ -1241,9 +1248,9 @@
     {
         "appName": "EWA | Max\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/05/f8/ea05f891-fd97-c634-b433-eb62b6af6a2c/AppIcon-0-0-1x_U007epad-0-10-0-sRGB-0-0-85-220.png/246x0w.png",
-        "appVersion": "7.121 | 430.9 MB | iOS 17.0 | ",
+        "appVersion": "7.130 | 435.8 MB | iOS 17.0 | ",
         "appDescription": "Это EWA, веселый и эффективный самоучитель английского, испанского и французского языков. Со мной ты сможешь читать книги с переводом в одно касание, практиковать разговорный английский со знаменитостями, проходить курсы с отрывками из фильмов и сериалов и запоминать слова с помощью игр и тренажеров.\n\n▎Войдите в аккаунт для активации Max подписки",
-        "appUpdateTime": "2026-04-26T20:30:19+00:00"
+        "appUpdateTime": "2026-06-24T16:15:15+00:00"
     },
     {
         "appName": "Chinese Skill | Premium\n#Study",
@@ -1626,9 +1633,9 @@
     {
         "appName": "Musixmatch | Preimum\n#Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/44/5e/e3445e74-1f6c-3664-e1ca-fd24212a5659/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "7.12 | 138.9 MB | iOS 14.0 | ",
+        "appVersion": "8.3.3 | 198.7 MB | iOS 15.1 | ",
         "appDescription": "Крупнейшая в мире библиотека текстов песен, с помощью которой Вы можете получить синхронизированные тексты песен с многоязычными переводами для всей Вашей музыки.",
-        "appUpdateTime": "2025-03-28T11:05:21+00:00"
+        "appUpdateTime": "2026-06-24T16:16:40+00:00"
     },
     {
         "appName": "iScreen | Premium\n#Themes",
@@ -1787,9 +1794,9 @@
     {
         "appName": "Радио Arzamas | Premium\n#Music #Other",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/04/db/8d04db87-e484-1ac8-9716-4f7dd62a2fd5/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "3.11 | 32.8 MB | iOS 15.1 | ",
+        "appVersion": "3.13.3 | 40.3 MB | iOS 15.1 | ",
         "appDescription": "В приложении «Радио Arzamas» лучшие русскоязычные ученые рассказывают обо всем самом интересном на свете: от японского искусства до Октябрьской революции, от музыки Бетховена до раскопок Помпей, от романов Набокова до мифологии индейцев.\n\n▎❗️При первом открытии приложение может не прогрузиться. Переоткройте приложение, чтобы все заработало.",
-        "appUpdateTime": "2025-09-27T15:25:10+00:00"
+        "appUpdateTime": "2026-06-24T16:20:33+00:00"
     },
     {
         "appName": "GTA III – Definitive\n#Games",
@@ -1801,9 +1808,9 @@
     {
         "appName": "Гусьгусь | Premium\n#Music #Other #Kids",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/77/86/f6/7786f632-1db0-b44b-beab-5e4916cf2a08/KidsAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "3.10 | 32.7 MB | iOS 15.1 | ",
+        "appVersion": "3.13.3 | 40.2 MB | iOS 15.1 | ",
         "appDescription": "Аудиоприложение с курсами, лекциями, подкастами и сказками. Здесь лучшие ученые и эксперты рассказывают об истории и астрономии, музыке и искусстве, динозаврах и мемах, викингах и дизайне. А еще у нас есть сказки, рассказы и колыбельные для самых маленьких.\n\n▎❗️При первом открытии приложение может не прогрузиться. Переоткройте приложение, чтобы все заработало.",
-        "appUpdateTime": "2025-09-27T15:24:10+00:00"
+        "appUpdateTime": "2026-06-24T16:20:02+00:00"
     },
     {
         "appName": "GTA: Vice City – Definitive\n#Games",
@@ -3199,6 +3206,13 @@
         "appUpdateTime": "2025-10-21T16:07:31+00:00"
     },
     {
+        "appName": "Pingo AI | Pro\n#Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/b3/f0/48b3f0fd-4074-f257-61b8-5f3b6af5fba0/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "4.4.2 | 91.5 MB | iOS 15.1 | ",
+        "appDescription": "AI-репетитор для изучения языков через живые разговоры. Вместо классических карточек и уроков приложение позволяет общаться с ИИ голосом, получать мгновенную обратную связь по произношению и грамматике и практиковать реальные жизненные ситуации.\n\n▎Разблокирован платный функционал ",
+        "appUpdateTime": "2026-06-24T17:02:56+00:00"
+    },
+    {
         "appName": "PicSee | Pro\n#Design",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/d2/0c/38/d20c382c-fbf6-f991-95bb-159553f0ddfe/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "7.2.3 | 168.3 MB | iOS 11.0 | ",
@@ -3292,9 +3306,9 @@
     {
         "appName": "WallPics | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/02/0a/5c020acf-9251-1bbc-0591-9d36635463e6/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "3.0.99 | 179.5 MB | iOS 15.0 | ",
+        "appVersion": "4.0.2 | 217.3 MB | iOS 15.0 | ",
         "appDescription": "Преобразите ваш iPhone с помощью Wallpics — универсального приложения для потрясающих живых обоев, создания DIY-фонов, стильных анимаций зарядки, индивидуальных PFP-иконок, подходящих комплектов обоев и настоящих фонов в 4K-качестве.\n\n▎Разблокирован платный функционал\n▎Откажитесь от предложения покупки при первом запуске",
-        "appUpdateTime": "2026-05-03T14:21:50+00:00"
+        "appUpdateTime": "2026-06-24T16:16:06+00:00"
     },
     {
         "appName": "Procreate Pocket\n#Design",
@@ -3712,9 +3726,9 @@
     {
         "appName": "Persona | Pro\n#Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/51/70/ef51705b-449c-dc20-4fba-8beea111c1eb/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/246x0w.png",
-        "appVersion": "1.14.16 | 223.1 MB | iOS 15.0 | ",
-        "appDescription": "Фото и видео фильтры на каждый день.\n❗️Некоторые маски и другие объекты не будут доступны из-за того что хранятся на сервере.",
-        "appUpdateTime": "2025-09-13T17:43:18+00:00"
+        "appVersion": "1.15.40 | 257.8 MB | iOS 15.0 | ",
+        "appDescription": "Фото и видео фильтры на каждый день.\n\n❗️Некоторые маски и другие объекты могут быть недоступны из-за серверной проверки.",
+        "appUpdateTime": "2026-06-21T19:23:23+00:00"
     },
     {
         "appName": "Gradient | Pro\n#Design",
@@ -4284,6 +4298,13 @@
         "appUpdateTime": "2026-05-14T18:24:14+00:00"
     },
     {
+        "appName": "Clover | Premium\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/e1/48/cce1484a-a347-703c-4fb4-f65eb5b72321/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "6.17 | 234.5 MB | iOS 16.0 | ",
+        "appDescription": "Приложение для отслеживания менструального цикла, овуляции и фертильности с простым календарём и персональными прогнозами.",
+        "appUpdateTime": "2026-06-24T16:19:04+00:00"
+    },
+    {
         "appName": "Stop Motion Studio | Premium\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c6/56/b7/c656b782-63a2-d80b-a630-66a11e8c7499/contsched.cepmjhwe.jpeg/246x0w.jpg",
         "appVersion": "24.12.8842 | 153.1 MB | iOS 14.0 | ",
@@ -4753,6 +4774,13 @@
         "appUpdateTime": "2026-04-01T00:03:24+00:00"
     },
     {
+        "appName": "Moleskine Notebooks | Premium\n#Office",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/e2/8c/93e28ca7-a665-255c-f1b6-3acb0230afb5/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "3.0.29 | 180 MB | iOS 17.0 | ",
+        "appDescription": "Цифровой блокнот от Moleskine, который объединяет рукописные заметки и современные AI-инструменты. Приложение позволяет писать и рисовать от руки, преобразовывать записи в редактируемый текст, оцифровывать наброски и синхронизировать всё между устройствами.\n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2026-06-24T16:45:58+00:00"
+    },
+    {
         "appName": "Papumba: Игры для детей | Hack\n#Kids",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/31/91/7d319194-8bcf-684b-e895-5d0108079aa9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200ia-75.jpg",
         "appVersion": "9.9 | 480.7 MB | iOS 13.0 | ",
@@ -5005,6 +5033,13 @@
         "appUpdateTime": "2023-03-22T08:31:00+00:00"
     },
     {
+        "appName": "Moleskine Planner | Premium\n#Office",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/19/f4/1c19f47c-6a44-b995-b3c3-1c63064c73b4/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "3.1.714 | 153.4 MB | iOS 16.0 | ",
+        "appDescription": "Стильный цифровой планировщик от Moleskine для управления задачами, календарём и распорядком дня в одном месте. \n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2026-06-24T16:49:26+00:00"
+    },
+    {
         "appName": "Пазлы для детей | Hack\n#Kids",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/cc/fc/db/ccfcdb60-5713-d0b2-317a-c91c0d2aa5e9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         "appVersion": "1.0 | 438.4 MB | iOS 13.0 | ",
@@ -5017,6 +5052,13 @@
         "appVersion": "2.5.3 | 430.7 MB | iOS 13.0 | ",
         "appDescription": "BLURRR - видеоредактор нового поколения, профессиональный редактор эффектов и анимации.",
         "appUpdateTime": "2025-02-27T10:12:54+00:00"
+    },
+    {
+        "appName": "Moleskine Journal | Premium\n#Office",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/00/71/ef007126-a37e-29c7-7a13-09333638e875/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "3.1.593 | 219.2 MB | iOS 16.0 | ",
+        "appDescription": "Цифровой дневник для записи мыслей, воспоминаний, целей и отслеживания личного роста.\n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2026-06-24T16:52:50+00:00"
     },
     {
         "appName": "Toca World | Hack\n#Kids",
@@ -6319,6 +6361,13 @@
         "appVersion": "2.2.47 | 200.4 MB | iOS 16.0 | ",
         "appDescription": "AI-редактор фотографий, который позволяет изменять фигуру и внешность прямо на снимках: сделать талию уже, добавить мышцы или пресс, увеличить рост, скорректировать пропорции тела, изменить причёску и ретушировать лицо.",
         "appUpdateTime": "2026-06-17T15:35:10+00:00"
+    },
+    {
+        "appName": "Teboil | АЗС\n#Travel",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/icons/teboil.png?raw=true",
+        "appVersion": "1.6.4 | 103.6 MB | iOS 13.0 | ",
+        "appDescription": "Приложение АЗС - Teboil",
+        "appUpdateTime": "2026-06-24T16:32:22+00:00"
     },
     {
         "appName": "PrettyUp | VIP\n#Design",
@@ -7672,6 +7721,13 @@
         "appUpdateTime": "2026-05-03T15:16:21+00:00"
     },
     {
+        "appName": "Точка Банк\n#Money",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/icons/tochkaBank.png?raw=true",
+        "appVersion": "1.9 | 30.3 MB | iOS 17.0 | ",
+        "appDescription": "Приложение Точка Банк",
+        "appUpdateTime": "2026-06-24T16:27:57+00:00"
+    },
+    {
         "appName": "РОСБАНК Бизнес\n#Money",
         "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/Rosbuisnes.png",
         "appVersion": "1.8 | 165.1 MB | iOS 11.0 | ",
@@ -7922,6 +7978,13 @@
         "appVersion": "12.7 | 57.7 MB | iOS 11.0 | ",
         "appDescription": "Детская коллекция мини-игр по мотивам популярного мультсериала, где ребёнок учится в игровой форме вместе с любимыми персонажами. Развивает память, логику, внимание и творческие навыки через задания, головоломки и обучающие активности.",
         "appUpdateTime": "2026-03-26T17:27:50+00:00"
+    },
+    {
+        "appName": "Sticker.ly | Pro\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/9e/90/eb9e9031-e3b3-80ed-8e44-1fc2a1fb14e5/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "3.34.0 | 225.2 MB | iOS 15.6 | ",
+        "appDescription": "Одно из самых популярных приложений для создания и скачивания стикеров для WhatsApp и Telegram.",
+        "appUpdateTime": "2026-06-24T16:39:30+00:00"
     },
     {
         "appName": "BL Бизнес(Банк Левобережный)\n#Money",
