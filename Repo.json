@@ -16,9 +16,9 @@
     {
         "appName": "Instagram | Regram | Hack\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/e5/17/97e51755-e71d-b5b1-ed67-0975a7558abc/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "431 | 4.1.0 | 594.3 MB | iOS 16.3 | ",
+        "appVersion": "435 | 5.1.0 | 611.2 MB | iOS 16.3 | ",
         "appDescription": "Лучшая модификация Instagram с огромными возможностями.\n\n▎Зажмите кнопку домика, чтобы открыть настройки мода.",
-        "appUpdateTime": "2026-05-30T16:40:03+00:00"
+        "appUpdateTime": "2026-07-10T15:26:44+00:00"
     },
     {
         "appName": "Instagram | DL | Hack\n#Social",
@@ -30,9 +30,9 @@
     {
         "appName": "Instagram | RyukGram\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/7f/64/797f64a4-6522-2ed6-1ac7-969fc3fa6afb/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "430 | 1.3.0 | 593.9 MB | iOS 16.3 | ",
+        "appVersion": "434 | 1.3.2 | 495.3 MB | iOS 16.3 | ",
         "appDescription": "Лучшая модификация Instagram с сотнями функций и возможностей.\n\n▎Зажмите кнопку домика, чтобы открыть настройки мода.",
-        "appUpdateTime": "2026-05-30T16:40:57+00:00"
+        "appUpdateTime": "2026-07-10T15:33:58+00:00"
     },
     {
         "appName": "Instagram | Rocket | Pro\n#Social",
@@ -49,6 +49,13 @@
         "appUpdateTime": "2026-05-03T15:28:51+00:00"
     },
     {
+        "appName": "TikTok | r3tok\n#Video",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/05/51/c10551d2-6bea-23b4-77f2-2947b1b03840/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "45.9.0 | 1.6 | 915.7 MB | iOS 14.0 | ",
+        "appDescription": "Модифицированный клиент TikTok\n\n▎Смена региона без VPN (по умолчанию - Германия)\n▎Удалена реклама\n▎Скачивание и отправка видео и слайд-шоу без водяных знаков\n▎Исправлена ошибка входа\n▎После входа в аккаунт необходимо перезапустить приложение для установки региона.",
+        "appUpdateTime": "2026-07-10T15:24:31+00:00"
+    },
+    {
         "appName": "TikTok | RXTikTok | Hack\n#Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/41/23/f9412319-0bca-1dae-b8b3-d55743ed1c22/Placeholder.mill/200x200bb-75.jpg",
         "appVersion": "43.9.0  | 673.7 MB | iOS 12.0 | ",
@@ -61,13 +68,6 @@
         "appVersion": "44.3.0 | 858.3 MB | iOS 12.0 | ",
         "appDescription": "Модификация TikTok без рекламы и другими улучшениями с обходом региона.\n\n▎Для просмотра новых видео: Настройки TikTok -> BHTikTok++ -> Активируйте \"Enable Region Changing\" и измените ниже регион. Перезапустите приложение, чтобы применить настройки.\n▎Поддерживает iOS 26",
         "appUpdateTime": "2026-03-21T18:26:16+00:00"
-    },
-    {
-        "appName": "TikTok | r3tok\n#Video",
-        "appImage": "https://github.com/polyatar/kikspaq/releases/download/twoms/r3tok.PNG",
-        "appVersion": "43.9.0 | 1.3.1 | 731.9 MB | iOS 12.0 | ",
-        "appDescription": "Модифицированный клиент TikTok\n\n▎Смена региона без VPN (по умолчанию - Германия)\n▎Удалена реклама\n▎Скачивание и отправка видео и слайд-шоу без водяных знаков\n▎Исправлена ошибка входа\n▎После входа в аккаунт необходимо перезапустить приложение для установки региона.",
-        "appUpdateTime": "2026-05-15T13:44:26+00:00"
     },
     {
         "appName": "VK | Orwell\n#Social",
@@ -212,9 +212,9 @@
     {
         "appName": "X (Twitter) | DL | Hack\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/69/5b/1e695b76-1a71-aee2-a019-800d55041df7/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/246x0w.png",
-        "appVersion": "11.48 | 2.1.6 | 360.1 MB | iOS 15.0 | ",
-        "appDescription": "Модифицированный клиент Twitter без рекламы и дополнительным функционалом.\n\n▎Активирована лицензия DL",
-        "appUpdateTime": "2025-12-23T18:14:42+00:00"
+        "appVersion": "11.99 | 2.1.7 | 481.2 MB | iOS 15.0 | ",
+        "appDescription": "Модифицированный клиент Twitter без рекламы и дополнительным функционалом.\n\n▎Активирована лицензия DL\n▎Для успешного входа в аккаунт может понадобится несколько попыток из-за ограничений X",
+        "appUpdateTime": "2026-07-10T15:26:03+00:00"
     },
     {
         "appName": "VK \n#Social #Russia",
@@ -492,9 +492,9 @@
     {
         "appName": "Duolingo | Max+\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6b/d3/b5/6bd3b571-bc11-ea11-6bb0-d020c9bca97d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "7.126.1 | 462.8 MB | iOS 17.0 | ",
+        "appVersion": "7.130 | 470.4 MB | iOS 17.0 | ",
         "appDescription": "Самое популярное приложение для изучения языков со взломом на подписку.\n\n▎Активирована подписка Max\n▎Всегда двойной опыт",
-        "appUpdateTime": "2026-06-13T19:51:53+00:00"
+        "appUpdateTime": "2026-07-10T15:22:14+00:00"
     },
     {
         "appName": "English Galaxy | Premium\n#Study",
@@ -737,9 +737,9 @@
     {
         "appName": "YAZIO | Pro\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/d3/b1/16d3b1e8-94ff-a683-b80c-7e321c89d7a1/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "12.89.1 | 343.3 MB | iOS 16.0 | ",
+        "appVersion": "26.26.5 | 338.1 MB | iOS 16.0 | ",
         "appDescription": "С помощью приложения «Счетчик калорий» от YAZIO вы можете вести дневник питания, отслеживать физическую активность и успешно снижать вес. Теперь считать калории и терять лишние килограммы очень легко!\n\n▎Недоступны серверные функции(Интервальное голодание)\n",
-        "appUpdateTime": "2026-06-21T19:24:03+00:00"
+        "appUpdateTime": "2026-07-10T14:57:41+00:00"
     },
     {
         "appName": "Adidas Running | Premium\n#Life",
@@ -793,16 +793,16 @@
     {
         "appName": "Fitness Online | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/a4/5b/aca45b94-fea8-d312-16f7-f20a3cba55e3/AppIcon-0-0-1x_U007emarketing-0-4-0-0-sRGB-0-85-220.png/246x0w.png",
-        "appVersion": "1.15 | 199.1 MB | iOS 15.0 | ",
+        "appVersion": "1.16.0 | 195.9 MB | iOS 15.0 | ",
         "appDescription": "Fitness Online - спортивное приложение, с помощью которого вы сможете вести личный дневник тренировок, выполнять упражнения и поддерживать правильное питание.",
-        "appUpdateTime": "2026-04-26T22:27:06+00:00"
+        "appUpdateTime": "2026-07-10T15:01:28+00:00"
     },
     {
         "appName": "FatSecret | Premium\n#Life",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/3d/d1/d23dd1a5-dbc6-687b-a145-f423de4ce326/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "10.1 | 129.5 MB | iOS 15.0 | ",
-        "appDescription": "Счетчик Калорий от FatSecret является неотъемлемым приложением, чтобы просто найти информацию о питательной ценности пищевых продуктов, которые Вы едите, а также легко отслеживать ваши блюда, физические упражнения и вес.\n\n▎Недоступно создание планов питания.",
-        "appUpdateTime": "2025-10-01T15:50:20+00:00"
+        "appVersion": "11.6.1 | 138.3 MB | iOS 16.0 | ",
+        "appDescription": "Счетчик Калорий от FatSecret является неотъемлемым приложением, чтобы просто найти информацию о питательной ценности пищевых продуктов, которые Вы едите, а также легко отслеживать ваши блюда, физические упражнения и вес.\n\n▎Недоступны AI функции",
+        "appUpdateTime": "2026-07-10T14:58:41+00:00"
     },
     {
         "appName": "Fasting | Premium\n#Life",
@@ -1969,9 +1969,9 @@
     {
         "appName": "CHAI | Ultra\n#Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/19/ac/cd19acc5-7838-a218-3424-e3ca74a561bc/AppIcon-dark-0-0-1x_U007emarketing-0-11-0-85-220.png/246x0w.png",
-        "appVersion": "2.175 | 172.8 MB | iOS 14.0 | ",
+        "appVersion": "2.181 | 178.5 MB | iOS 14.0 | ",
         "appDescription": "Общайтесь с чат-ботом как со своим другом, создавайте персонажей на свой вкус для увлекательного общения.",
-        "appUpdateTime": "2026-06-02T20:22:06+00:00"
+        "appUpdateTime": "2026-07-10T15:13:57+00:00"
     },
     {
         "appName": "Unfold | Pro\n#Design",
@@ -2032,9 +2032,9 @@
     {
         "appName": "PureStatus | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/8e/d7/658ed733-5a94-3f5b-73a4-c5669ff4168e/AppIcon-0-1x_U007epad-85-220.png/246x0w.png",
-        "appVersion": "2024.08 | 48.5 MB | iOS 15.0 | ",
+        "appVersion": "2026.03 | 99.4 MB | iOS 17.0 | ",
         "appDescription": "PureStatus очень точно уменьшит размер вашего видео, так что будет максимально возможное качество HD-видео в вашем статусе WhatsApp.",
-        "appUpdateTime": "2025-01-18T16:36:57+00:00"
+        "appUpdateTime": "2026-07-10T14:55:36+00:00"
     },
     {
         "appName": "Shapr3D | Pro\n#Design",
@@ -2298,9 +2298,9 @@
     {
         "appName": "Ornament | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/98/3d/78/983d78df-b73a-8f4c-bc8a-9039f6902c70/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "4.0.4 | 86.6 MB | iOS 14.0 | ",
+        "appVersion": "4.17.1 | 105.3 MB | iOS 15.1 | ",
         "appDescription": "Орнамент — ваш персональный ассистент для контроля здоровья. Хранит и обрабатывает результаты анализов. Орнамент дает советы, как можно улучшить их показатели.\n",
-        "appUpdateTime": "2025-10-01T15:51:03+00:00"
+        "appUpdateTime": "2026-07-10T14:59:31+00:00"
     },
     {
         "appName": "Lite HD TV | Premium\n#Video",
@@ -2893,9 +2893,16 @@
     {
         "appName": "Leica Lux | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/8d/26/2d8d26d6-a400-8e13-dc24-b8c039015fef/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/246x0w.png",
-        "appVersion": "1.12.2 | 331.9 MB | iOS 18.0 | ",
+        "appVersion": "1.14 | 340 MB | iOS 18.0 | ",
         "appDescription": "Камера Leica LUX - продолжение легендарного мастерства оптической инженерии Leica, где передовые технологии сочетаются с непревзойденными возможностями съемки.",
-        "appUpdateTime": "2026-06-02T18:55:04+00:00"
+        "appUpdateTime": "2026-07-10T14:56:08+00:00"
+    },
+    {
+        "appName": "B612 | VIP\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/ca/d7/e3cad79e-c997-388c-78f1-f6d52b636438/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "15.2.8 | 280.6 MB | iOS 15.0 | ",
+        "appDescription": "Один из самых популярных фоторедакторов и приложений для селфи, объединяющий камеру, обработку фото и видеомонтаж в одном месте",
+        "appUpdateTime": "2026-07-10T15:19:52+00:00"
     },
     {
         "appName": "Funimate | Pro\n#Design",
@@ -3089,9 +3096,9 @@
     {
         "appName": "Infuse | Plus\n#Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fa/cb/63/facb63d3-8799-940b-d9cc-f9d2c2f6d934/AppIconMac-0-2x_U007euniversal-0-4-0-0-0-85-220-0.png/230x0w.png",
-        "appVersion": "8.3.9 | 146 MB | iOS 18.0 | ",
+        "appVersion": "8.4.8 | 197.8 MB | iOS 18.0 | ",
         "appDescription": "Самый лучший медиаплеер в App Store.\n\n▎Актвирована подписка\n▎Работает выбор файлов",
-        "appUpdateTime": "2026-02-27T05:13:47+00:00"
+        "appUpdateTime": "2026-07-10T14:56:52+00:00"
     },
     {
         "appName": "Zeta | Premium\n#Design",
@@ -3988,6 +3995,13 @@
         "appVersion": "5.0.7 | 176.5 MB | iOS 15.0 | ",
         "appDescription": "Приложение для отслеживания пробежек и тренировок с персональными планами, статистикой и мотивацией.",
         "appUpdateTime": "2026-04-26T22:38:21+00:00"
+    },
+    {
+        "appName": "Hervee | Pro\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/11/a5/f611a532-0194-3de1-0cf8-8461f3d0695f/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "4.2 | 68 MB | iOS 18.0 | ",
+        "appDescription": "Монитор стресса — приложение которое помогает лучше понимать уровень стресса и восстановления на основе данных о вариабельности сердечного ритма (ВСР/HRV), сне, активности и других показателях",
+        "appUpdateTime": "2026-07-10T15:13:07+00:00"
     },
     {
         "appName": "PhotoGrid | Pro\n#Design",
@@ -5623,9 +5637,9 @@
     {
         "appName": "Crsel | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/6c/22/666c22a2-584d-7de5-a722-38ece9b528d5/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "1.3.707 | 169.6 MB | iOS 17.0 | ",
+        "appVersion": "1.4.1 | 150.9 MB | iOS 17.0 | ",
         "appDescription": "Crsel — это универсальное приложение для создания эстетичных каруселей, коллажей, сторис и обложек Reels в Instagram. Создано для креаторов, которые ценят сторителлинг и стиль.",
-        "appUpdateTime": "2026-05-14T16:43:36+00:00"
+        "appUpdateTime": "2026-07-10T14:54:59+00:00"
     },
     {
         "appName": "Olimp Цитаты | Pro\n#Life",
@@ -5924,9 +5938,9 @@
     {
         "appName": "Flightradar24 | Gold\n#Other",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/13/74/42/13744260-721a-c279-324e-ea14a59a5ada/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "10.12.0 | 287.7 MB | iOS 15.0 | ",
+        "appVersion": "11.7.1 | 350.7 MB | iOS 16.0 | ",
         "appDescription": "Следите за самолетами в реальном времени.\n\n▎Для активации подписки войдите в аккаунт через почту\n▎Некоторые функции серверные и доступны не будут!",
-        "appUpdateTime": "2025-06-25T09:06:03+00:00"
+        "appUpdateTime": "2026-07-10T15:16:12+00:00"
     },
     {
         "appName": "AR Drawing | Pro\n#Design",
@@ -6050,9 +6064,9 @@
     {
         "appName": "AutoCAD | Premium\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/f7/f1/44f7f13d-70b9-8248-e096-ec1c2b71b4b1/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "6.21.1 | 506.5 MB | iOS 16.0 | ",
+        "appVersion": "6.23.0 | 512.7 MB | iOS 17.0 | ",
         "appDescription": "Просмотр, редактирование + измерение чертежей всегда и везде.\nОсновные возможности черчения и проектирования для выполнения типовых задач.\n\n▎Активирована подписка\n▎Работает выбор файлов",
-        "appUpdateTime": "2026-03-14T22:55:29+00:00"
+        "appUpdateTime": "2026-07-10T15:14:33+00:00"
     },
     {
         "appName": "Famey | Pro\n#Design",
@@ -6435,9 +6449,9 @@
     {
         "appName": "Tarteel | Premium\n#Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/40/f6/6240f644-3065-a485-aa92-b94d546816fe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "5.62 | 240.5 MB | iOS 13.4 | ",
-        "appDescription": "Tarteel - первое в мире приложение для изучения Корана с искусственным интеллектом, и это именно то, что вам нужно для дальнейшего изучения Корана. В одно касание вы можете приобщиться к словам Аллаха, как никогда раньше, и все, что вам нужно, - это ваш голос. \n\n▎Для активации подписки: войдите в аккаунт, нажмите иконку профиля и \"восстановите покупку\"",
-        "appUpdateTime": "2025-06-11T15:45:00+00:00"
+        "appVersion": "5.79.1 | 315.7 MB | iOS 15.1 | ",
+        "appDescription": "Tarteel - первое в мире приложение для изучения Корана с искусственным интеллектом, и это именно то, что вам нужно для дальнейшего изучения Корана. В одно касание вы можете приобщиться к словам Аллаха, как никогда раньше, и все, что вам нужно, - это ваш голос. \n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2026-07-10T15:00:25+00:00"
     },
     {
         "appName": "ZBrush for iPad | Premium\n#Design",
@@ -7525,6 +7539,13 @@
         "appUpdateTime": "2026-06-13T20:05:05+00:00"
     },
     {
+        "appName": "Dine4Fit | Premium\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/b0/b1/fdb0b194-e08d-52d7-04bb-7f74a57b626f/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "12.2.9 | 140.1 MB | iOS 17.0 | ",
+        "appDescription": "Один из самых популярных счетчиков калорий и КБЖУ, который помогает похудеть, набрать мышечную массу или просто наладить здоровое питание",
+        "appUpdateTime": "2026-07-10T15:03:50+00:00"
+    },
+    {
         "appName": "T-Профит | Т-Банк Инвестиции\n#Money",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/sign/TBankInvest.png",
         "appVersion": "6.30.1 | 210.5 MB | iOS 15.0 | ",
@@ -7796,6 +7817,13 @@
         "appVersion": "1.8 | 165.1 MB | iOS 11.0 | ",
         "appDescription": "Приложение банка РОСБАНК Бизнес",
         "appUpdateTime": "2022-12-25T08:31:00+00:00"
+    },
+    {
+        "appName": "Her 75 | Pro\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/b8/9f/06b89f61-2f01-e17d-c259-dde3affb7dc5/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "1.0.29 | 132.9 MB | iOS 15.1 | ",
+        "appDescription": "Приложение для прохождения популярного 75-дневного челленджа по развитию полезных привычек и дисциплины.",
+        "appUpdateTime": "2026-07-10T15:07:31+00:00"
     },
     {
         "appName": "РОСБАНК Инвестор\n#Money #Russia",
