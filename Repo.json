@@ -35,6 +35,13 @@
         "appUpdateTime": "2026-07-25T11:55:52+00:00"
     },
     {
+        "appName": "YouTube | KillerPlus Hack\n#Video",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/c4/ba/b5c4ba21-0ca5-0f00-2d10-b5749c606d10/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "21.29.3 | 329.1 MB | iOS 16.0 | ",
+        "appDescription": "Модификация клиента YouTube\n\n▎Без рекламы\n▎Скачивание видео \n▎Фоновый режим и PiP \n▎Десятки других возможностей ",
+        "appUpdateTime": "2026-07-26T13:29:40+00:00"
+    },
+    {
         "appName": "Instagram | Rocket | Pro\n#Social",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/76/1f/c6/761fc680-afac-c5f4-6dd9-78cd6b4639ab/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "410.1 | 3.8.37 | 461.8 MB | iOS 15.1 | ",
@@ -387,9 +394,9 @@
     {
         "appName": "SpotiFlac\n#Music",
         "appImage": "https://github.com/polyatar/kikspaq/releases/download/dertzx/SpotiFlac.png",
-        "appVersion": "4.0.1 | 79.7 MB | iOS 13.0 | ",
+        "appVersion": "4.8 | 89.4 MB | iOS 14.0 | ",
         "appDescription": "Загружайте музыку в FLAC без потерь с Tidal, Qobuz и Amazon Music — учетная запись не требуется.\n\n▎В РФ может потребоваться VPN",
-        "appUpdateTime": "2026-03-15T00:07:03+00:00"
+        "appUpdateTime": "2026-07-26T13:23:04+00:00"
     },
     {
         "appName": "Chat Smith | Pro\n#Other",
@@ -2471,11 +2478,11 @@
         "appUpdateTime": "2023-12-25T15:59:03+00:00"
     },
     {
-        "appName": "RuTube\n#Video",
-        "appImage": "https://cs3b2e.4pda.ws/25982886.png",
-        "appVersion": "46.6 | 33 MB | iOS 14.0 | ",
+        "appName": "RuTube | SlicingDices\n#Video #Russia",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/RutubeScilingDcies.png",
+        "appVersion": "1.1.0 | 63.8 MB | iOS 16.0 | ",
         "appDescription": "Видеохостинг, который недостоин твоего внимания. Но зачем-то он тебе нужен.",
-        "appUpdateTime": "2024-10-11T11:58:31+00:00"
+        "appUpdateTime": "2026-07-26T12:40:58+00:00"
     },
     {
         "appName": "MinimaList | Pro\n#Office",
@@ -3144,10 +3151,10 @@
     },
     {
         "appName": "ТНТ PREMIER\n#Video",
-        "appImage": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/D8F0EBB6-1A3E-463F-8066-C0D670067D4D.png",
-        "appVersion": "2.34.0 | 80.7 MB | iOS 11.0 | ",
-        "appDescription": "Приложение PREMIER. Удалено из App Store.",
-        "appUpdateTime": "2022-10-13T08:31:00+00:00"
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/TNTPremierePianoWave.png",
+        "appVersion": "1.1.0 | 75.3 MB | iOS 16.0 | ",
+        "appDescription": "Приложение PREMIER. (Piano Wave)",
+        "appUpdateTime": "2026-07-26T13:08:41+00:00"
     },
     {
         "appName": "MyFamilyTree | Семейная история\n#Study #Other",
@@ -7427,11 +7434,11 @@
         "appUpdateTime": "2025-06-25T09:31:14+00:00"
     },
     {
-        "appName": "Альфа Банк | Holder\n#Money #Russia",
-        "appImage": "https://github.com/polyatar/kikspaq/releases/download/icons/alfa_holder.png?raw=true",
-        "appVersion": "2.0 | 291 MB | iOS 16.0 | ",
+        "appName": "Альфа Банк | Advanced\n#Money #Russia",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/alfabankAdvanced.png",
+        "appVersion": "2.0 | 273.4 MB | iOS 16.0 | ",
         "appDescription": "Приложение Альфа Банк",
-        "appUpdateTime": "2026-06-07T13:56:36+00:00"
+        "appUpdateTime": "2026-07-26T13:20:52+00:00"
     },
     {
         "appName": "Альфа Бизнес\n#Money #Russia",
@@ -7441,14 +7448,14 @@
         "appUpdateTime": "2026-03-14T22:31:29+00:00"
     },
     {
-        "appName": "Альфа Банк(Деньги Всем)\n#Money",
+        "appName": "Альфа Банк(Деньги Всем)\n#Money #Russia",
         "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/alfabank.png",
         "appVersion": "1.1 | 324.8 MB | iOS 12.3 | ",
         "appDescription": "Приложение банка Альфа Банк. Было добавлено в AppStore под видом другого приложения - Деньги Всем. Удалено с AppStore.",
         "appUpdateTime": "2023-03-02T08:31:00+00:00"
     },
     {
-        "appName": "Тинькофф Банк | TGuard\n#Money",
+        "appName": "Тинькофф Банк | TGuard\n#Money #Russia",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/bbic/tinkbank.png",
         "appVersion": "6.25 | 470.4 MB | iOS 14.0 | ",
         "appDescription": "Приложение Тинькофф Банка(T-Guard) устанавливаемое сотрудниками банка. Для удобства имя и иконка приложения изменены на оригинальные.\n\n▎Версия за февраль 2024 года.\n▎В приложении работают уведомления(На момент добавления).",
@@ -7532,11 +7539,11 @@
         "appUpdateTime": "2026-04-26T20:23:36+00:00"
     },
     {
-        "appName": "Лента\n#Other",
-        "appImage": "https://github.com/polyatar/kikspaq/releases/download/icons/lentaM.png",
-        "appVersion": "6.81 | 352.8 MB | iOS 14.4 | ",
+        "appName": "Лента | Утконос\n#Other",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/LentaUtkonos.png",
+        "appVersion": "6.86 | 359.5 MB | iOS 15.0 | ",
         "appDescription": "Приложение Лента. Удалено с App Store.",
-        "appUpdateTime": "2026-05-03T15:01:53+00:00"
+        "appUpdateTime": "2026-07-26T12:50:09+00:00"
     },
     {
         "appName": "Т-Банк Инвестиции | Тинькофф\n#Money #Russia",
@@ -7574,7 +7581,7 @@
         "appUpdateTime": "2026-07-10T15:03:50+00:00"
     },
     {
-        "appName": "T-Профит | Т-Банк Инвестиции\n#Money",
+        "appName": "T-Профит | Т-Банк Инвестиции\n#Money #Russia",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/sign/TBankInvest.png",
         "appVersion": "6.30.1 | 210.5 MB | iOS 15.0 | ",
         "appDescription": "Приложение банка Тинькофф Инвестиции устанавливаемое сотрудниками банка при личной встрече.",
@@ -7602,11 +7609,11 @@
         "appUpdateTime": "2023-06-10T08:31:00+00:00"
     },
     {
-        "appName": "Сбер Kids | СберБанк\n#Money #Russia",
-        "appImage": "https://github.com/IAppsRepo/IAppsRepo.github.io/releases/download/fsas/sberkids.png",
-        "appVersion": "5.5.5 | 214 MB | iOS 15.0 | ",
+        "appName": "Сбер Kids | Book Tracker\n#Money #Russia",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/SberKidsBookTracker.png",
+        "appVersion": "5.12 | 181.5 MB | iOS 15.0 | ",
         "appDescription": "Приложение банка СберБанк - Сбер Kids\n",
-        "appUpdateTime": "2025-10-31T17:34:42+00:00"
+        "appUpdateTime": "2026-07-26T13:16:17+00:00"
     },
     {
         "appName": "СберБанк | Online\n#Money #Russia",
@@ -7623,11 +7630,11 @@
         "appUpdateTime": "2026-02-14T21:59:56+00:00"
     },
     {
-        "appName": "Сбер Бизнес | Firma\n#Money #Russia",
-        "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/vka/sber_bs.png",
-        "appVersion": "3.73 | 225.9 MB | iOS 15.0 | ",
+        "appName": "Сбер Бизнес | AI Dente\n#Money #Russia",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/SberBizAIDente.png",
+        "appVersion": "4.0 | 267.5 MB | iOS 15.0 | ",
         "appDescription": "Приложение СберБизнес",
-        "appUpdateTime": "2025-12-23T16:51:29+00:00"
+        "appUpdateTime": "2026-07-26T12:45:16+00:00"
     },
     {
         "appName": "Fantasy Hike | Full\n#Travel",
@@ -7673,10 +7680,10 @@
     },
     {
         "appName": "Сбер Инвестиции\n#Money #Russia",
-        "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/NewInvestor.png",
-        "appVersion": "3.30 | 184.7 MB | iOS 16.0 | ",
-        "appDescription": "Приложение Сбер Инвестиции было добавлено в Аpp Store под видом другого приложения - Petfolio",
-        "appUpdateTime": "2025-12-23T16:50:39+00:00"
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/SberInvestAktiv.png",
+        "appVersion": "4.0 | 185.7 MB | iOS 16.0 | ",
+        "appDescription": "Приложение Сбер Инвестиции было добавлено в Аpp Store под видом другого приложения - Актив",
+        "appUpdateTime": "2026-07-26T12:55:09+00:00"
     },
     {
         "appName": "СберСпасибо\n#Money",
@@ -7686,11 +7693,11 @@
         "appUpdateTime": "2022-06-18T08:31:00+00:00"
     },
     {
-        "appName": "СберМобайл\n#Money",
-        "appImage": "https://sbermobile.ru/favicons/ICON_sbermobile.jpg?v=2",
-        "appVersion": "1.3.1 | 79.9 MB | iOS 13.0 | ",
-        "appDescription": "Приложение СберМобайл",
-        "appUpdateTime": "2024-10-21T12:58:07+00:00"
+        "appName": "СберМобайл\n#Money #Russia",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/DigitalDetox_SberMobile.png",
+        "appVersion": "1.0.1 | 144 MB | iOS 16.0 | ",
+        "appDescription": "Приложение СберМобайл - Digital Detox",
+        "appUpdateTime": "2026-07-26T13:13:23+00:00"
     },
     {
         "appName": "Сбермаркет\n#Other",
@@ -7722,10 +7729,10 @@
     },
     {
         "appName": "СовкомБанк\n#Money #Russia",
-        "appImage": "https://github.com/IAppsRepo/IAppsRepo.github.io/releases/download/icon/sovkombank.png?raw=true",
-        "appVersion": "1.0 | 93.2 MB | iOS 17.0 | ",
-        "appDescription": "Приложение банка СовкомБанк\n\n▎Версия за май 2026г.",
-        "appUpdateTime": "2026-06-07T13:53:59+00:00"
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/SovkomBankPromocodes.png",
+        "appVersion": "1.0.1 | 93.3 MB | iOS 17.0 | ",
+        "appDescription": "Приложение банка СовкомБанк - СКБ\n",
+        "appUpdateTime": "2026-07-26T12:59:51+00:00"
     },
     {
         "appName": "Газпром Банк\n#Money #Russia",
@@ -7735,11 +7742,11 @@
         "appUpdateTime": "2026-02-26T15:54:57+00:00"
     },
     {
-        "appName": "ПСБ Банк\n#Money",
-        "appImage": "https://cdn.ruplay.market/data/images/62c7f132-8069-45c0-82e4-724e7098ef26?v=20220907",
-        "appVersion": "1.4 | 190.7 MB | iOS 15.0 | ",
-        "appDescription": "Приложение банка ПСБ (Наливаем кофе)",
-        "appUpdateTime": "2025-11-18T17:38:35+00:00"
+        "appName": "ПСБ Банк\n#Money #Russia",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/PSBBankChaynaya.png",
+        "appVersion": "1.6.3 | 253.9 MB | iOS 15.0 | ",
+        "appDescription": "Приложение банка ПСБ (Чайная)",
+        "appUpdateTime": "2026-07-26T12:46:40+00:00"
     },
     {
         "appName": "РНКБ\n#Money #Russia",
@@ -7924,7 +7931,7 @@
         "appUpdateTime": "2023-12-19T15:30:35+00:00"
     },
     {
-        "appName": "МТС Pay\n#Money",
+        "appName": "МТС Pay\n#Money #Russia",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/sign/mtspay2.png",
         "appVersion": "1.2.0 | 38 MB | iOS 15.0 | ",
         "appDescription": "Приложение МТС Pay, устанавливаемое сотрудниками банка.",
@@ -7945,14 +7952,14 @@
         "appUpdateTime": "2025-10-24T15:20:19+00:00"
     },
     {
-        "appName": "БСПБ Банк\n#Money",
+        "appName": "БСПБ Банк\n#Money #Russia",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/sign/bspb.png",
         "appVersion": "6.1.6 | 75.3 MB | iOS 14.0 | ",
         "appDescription": "Приложение банка БСПБ, удалено с AppStore.",
         "appUpdateTime": "2023-05-13T08:31:00+00:00"
     },
     {
-        "appName": "Хоум Банк\n#Money",
+        "appName": "Хоум Банк\n#Money #Russia",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/sign/homebank.png",
         "appVersion": "8.13 | 219.5 MB | iOS 14.0 | ",
         "appDescription": "Приложение банкa Хоум Банк. Удалено из App Store.",
@@ -7980,11 +7987,11 @@
         "appUpdateTime": "2023-05-13T08:31:00+00:00"
     },
     {
-        "appName": "Зенит Онлайн\n#Money",
-        "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/zenitbank.png",
-        "appVersion": "1.32.1 | 131.9 MB | iOS 12.0 | ",
-        "appDescription": "Приложение банка Зенит",
-        "appUpdateTime": "2023-03-02T08:31:00+00:00"
+        "appName": "Зенит Банк\n#Money #Russia",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/ZenitBankSaveSpot.png",
+        "appVersion": "3.0.4 | 85.3 MB | iOS 15.0 | ",
+        "appDescription": "Приложение банка Зенит (Save Spot)",
+        "appUpdateTime": "2026-07-26T12:53:52+00:00"
     },
     {
         "appName": "Зенит Бизнес\n#Money",
@@ -8022,7 +8029,7 @@
         "appUpdateTime": "2023-03-02T08:31:00+00:00"
     },
     {
-        "appName": "Банк Приморье\n#Money",
+        "appName": "Банк Приморье\n#Money #Russia",
         "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/premorie.png",
         "appVersion": "2.15 | 39.3 MB | iOS 12.0 | ",
         "appDescription": "Приложение банка Приморье",
@@ -8050,7 +8057,7 @@
         "appUpdateTime": "2024-02-28T15:59:25+00:00"
     },
     {
-        "appName": "BL Онлайн(Банк Левобережный)\n#Money",
+        "appName": "BL Онлайн(Банк Левобережный)\n#Money #Russia",
         "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/blonline.png",
         "appVersion": "4.6.10 | 77 MB | iOS 11.0 | ",
         "appDescription": "Приложение банка Левобережный",
@@ -8106,7 +8113,7 @@
         "appUpdateTime": "2026-06-24T16:39:30+00:00"
     },
     {
-        "appName": "BL Бизнес(Банк Левобережный)\n#Money",
+        "appName": "BL Бизнес(Банк Левобережный)\n#Money #Russia",
         "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/blbuisness.png",
         "appVersion": "2.18.0 | 29.3 MB | iOS 13.0 | ",
         "appDescription": "Приложение банка Левобережный Бизнес",
@@ -8134,7 +8141,7 @@
         "appUpdateTime": "2023-11-16T13:35:39+00:00"
     },
     {
-        "appName": "Абсолют Банк\n#Money",
+        "appName": "Абсолют Банк\n#Money #Russia",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/sign/absbank.png",
         "appVersion": "4.13.20 | 90.1 MB | iOS 11.0 | ",
         "appDescription": "Приложение банка Абсолют - Абсолют Банк. Удалено из App Store.",
@@ -8225,21 +8232,21 @@
         "appUpdateTime": "2024-02-28T14:08:25+00:00"
     },
     {
-        "appName": "Ланта Банк\n",
+        "appName": "Ланта Банк\n#Russia",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/bbic/lantabank.png",
         "appVersion": "4.13.0 | 88.3 MB | iOS 11.0 | ",
         "appDescription": "Удаленное приложение Ланта Банк",
         "appUpdateTime": "2024-02-28T14:09:37+00:00"
     },
     {
-        "appName": "Дата Банк Бизнес\n#Money",
+        "appName": "Дата Банк Бизнес\n#Money #Russia",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/bbic/databankbusiness.png",
         "appVersion": "42.1.34 | 76.2 MB | iOS 15.0 | ",
         "appDescription": "Удаленное приложение Дата Банк Бизнес.",
         "appUpdateTime": "2024-02-28T14:11:09+00:00"
     },
     {
-        "appName": "Дата Банк\n#Money",
+        "appName": "Дата Банк\n#Money #Russia",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/bbic/databank.png",
         "appVersion": "2.48 | 14.4 MB | iOS 14.0 | ",
         "appDescription": "Удаленное приложение Дата Банк",
@@ -8260,7 +8267,7 @@
         "appUpdateTime": "2024-02-28T14:16:25+00:00"
     },
     {
-        "appName": "Авангард Банк\n#Money",
+        "appName": "Авангард Банк\n#Money #Russia",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/bbic/avangardbank.png",
         "appVersion": "3.10.15 | 141.2 MB | iOS 13.0 | ",
         "appDescription": "Удаленное приложение Авангард Банк",
@@ -8274,21 +8281,21 @@
         "appUpdateTime": "2024-02-28T14:19:31+00:00"
     },
     {
-        "appName": "Челинд Банк\n#Money",
+        "appName": "Челинд Банк\n#Money #Russia",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/bbic/chelindbank.png",
         "appVersion": "3.12 | 5.9 MB | iOS 12.0 | ",
         "appDescription": "Удаленное приложение Челинд Банк",
         "appUpdateTime": "2024-02-28T14:22:56+00:00"
     },
     {
-        "appName": "Морской Банк\n#Money",
+        "appName": "Морской Банк\n#Money #Russia",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/bbic/morskoibusiness.png",
         "appVersion": "4.16.0 | 100.4 MB | iOS 11.0 | ",
         "appDescription": "Удаленное приложение Морской Банк",
         "appUpdateTime": "2024-02-28T14:24:20+00:00"
     },
     {
-        "appName": "Морской Банк Бизнес\n#Money",
+        "appName": "Морской Банк Бизнес\n#Money #Russia",
         "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/bbic/morskoibank.png",
         "appVersion": "2.28.0 | 30.7 MB | iOS 13.0 | ",
         "appDescription": "Удаленное приложение Морской Банк для Бизнеса",
@@ -8359,10 +8366,10 @@
     },
     {
         "appName": "Дом.РУ\n#Other",
-        "appImage": "https://4pda.to/s/HEBh5QDrHE58HS0NXLF1XtBBT2sY2BPhr22.png",
-        "appVersion": "4.28 | 92.5 MB | iOS 14.0 | ",
-        "appDescription": "Приложение Дом.Ру",
-        "appUpdateTime": "2025-07-17T15:10:13+00:00"
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/MyDomProSkorost.png",
+        "appVersion": "1.2.2 | 139.3 MB | iOS 18.0 | ",
+        "appDescription": "Приложение Дом.Ру (ПроСкорость)",
+        "appUpdateTime": "2026-07-26T12:49:14+00:00"
     },
     {
         "appName": "Custom Notch\n#Design",
@@ -9198,11 +9205,11 @@
         "appUpdateTime": "2022-07-23T08:31:00+00:00"
     },
     {
-        "appName": "АЗС Газпромнефть\n#Other",
-        "appImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPO3_bvT7KFFAiT0vdWfbZ4yL_hX7Gw4e6LQ&s",
-        "appVersion": "1.0 | 67.9 MB | iOS 14.0 | ",
-        "appDescription": "Приложение АЗС Газпромнефть (Нам по пути)",
-        "appUpdateTime": "2025-10-21T16:35:15+00:00"
+        "appName": "АЗС Газпромнефть\n#Other #Russia",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/AzsGazBakBonus.png",
+        "appVersion": "1.1.1 | 126.4 MB | iOS 15.0 | ",
+        "appDescription": "Приложение АЗС Газпромнефть (Бак Бонус)",
+        "appUpdateTime": "2026-07-26T12:47:56+00:00"
     },
     {
         "appName": "Lifeslide | Arcade\n#Games",
@@ -9338,7 +9345,7 @@
         "appUpdateTime": "2022-09-15T08:31:00+00:00"
     },
     {
-        "appName": "Банк Дом.РФ\n#Money",
+        "appName": "Банк Дом.РФ\n#Money #Russia",
         "appImage": "https://4pda.to/s/HEBh5QTLB6hRR7z1qI51RwCXgkyLq5dtW7Vt.png",
         "appVersion": "1.2.2 | 89.9 MB | iOS 16.0 | ",
         "appDescription": "Приложение банка Дом.РФ(Генератор слов)",
@@ -10066,11 +10073,11 @@
         "appUpdateTime": "2023-04-01T08:31:00+00:00"
     },
     {
-        "appName": "Банк Хлынов\n#Money",
-        "appImage": "https://4pda.to/s/HEBh1sHXn7UYJq2oz1EXoSJn2A6yJvXOeJz0Y.jpg",
-        "appVersion": "1.0 | 44 MB | iOS 15.8 | ",
-        "appDescription": "Приложение банка Хлынов (Вятский вестник)\n\nАктивация банка:\n▎Откройте любую новость\n▎Тапните 5-10 раз в любом пустом месте\n▎Получив уведомление нажмите \"Да\" и перезапустите приложение",
-        "appUpdateTime": "2025-07-17T14:13:01+00:00"
+        "appName": "Банк Хлынов\n#Money #Russia",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/HlynovFinance.png",
+        "appVersion": "1.0 | 56 MB | iOS 15.8 | ",
+        "appDescription": "Приложение банка Хлынов ",
+        "appUpdateTime": "2026-07-26T12:39:00+00:00"
     },
     {
         "appName": "Silt | Full Game\n#Games",
@@ -10311,11 +10318,25 @@
         "appUpdateTime": "2025-05-03T17:27:18+00:00"
     },
     {
+        "appName": "Финуслуги\n#Russia",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/FiinUslugi.png?raw=true",
+        "appVersion": "4.11 | 201.7 MB | iOS 16.0 | ",
+        "appDescription": "Приложение Финуслуги",
+        "appUpdateTime": "2026-07-25T20:11:44+00:00"
+    },
+    {
         "appName": "Haak |\n#Games",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/36/49/1f/36491fde-0679-6076-52b5-cfe6e103eaf2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "1.3.3 | 482.6 MB | iOS 10.0 | ",
         "appDescription": "Приветствуем в мире «HAAK», здесь вас ждут множество испытаний, голодные мутанты и таинственные группировки... \nВставай! Гордый, храбрый путешественник Хаак! Стань светом этого темного мира!\n\n▎Игра предоставлена IPA Library",
         "appUpdateTime": "2023-05-06T08:31:00+00:00"
+    },
+    {
+        "appName": "Новиком банк\n#Russia",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/NovikmBankLunarCode.png",
+        "appVersion": "1.10.3 | 38.1 MB | iOS 12.0 | ",
+        "appDescription": "Приложение банка Новиком",
+        "appUpdateTime": "2026-07-26T12:43:06+00:00"
     },
     {
         "appName": "Gardenscapes  | Mod\n#Games",
@@ -10325,11 +10346,25 @@
         "appUpdateTime": "2026-05-14T14:41:54+00:00"
     },
     {
+        "appName": "ВТБ Инвестиции\n#Russia",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/VTBInvestKronum.png",
+        "appVersion": "5.4.2 | 205.3 MB | iOS 15.6 | ",
+        "appDescription": "Приложение ВТБ Инвестиции - Kronum",
+        "appUpdateTime": "2026-07-26T12:57:22+00:00"
+    },
+    {
         "appName": "Sort Em All | Hack\n#Games",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/0f/ef/06/0fef06e1-8c2e-e65f-f475-be0bf071b5da/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         "appVersion": "0.0.6 | 189.1 MB | iOS 9.0 | ",
         "appDescription": "классическая и захватывающая игра-головоломка для сортировки воды в пробирках.\n\n▎Безлимитные монеты\n▎Удалена реклама",
         "appUpdateTime": "2023-05-22T08:31:00+00:00"
+    },
+    {
+        "appName": "ВКС Страхование\n#Russia",
+        "appImage": "https://github.com/polyatar/kikspaq/releases/download/iconbank/VSKStrah.png",
+        "appVersion": "16.6.6 | 133.4 MB | iOS 15.0 | ",
+        "appDescription": "Приложение ВКС Страхование",
+        "appUpdateTime": "2026-07-26T13:06:07+00:00"
     },
     {
         "appName": "Farming Simulator 23 | Hack\n#Games",
