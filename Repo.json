@@ -37,9 +37,9 @@
     {
         "appName": "YouTube | YTKACE (Killer)\n#Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/c4/ba/b5c4ba21-0ca5-0f00-2d10-b5749c606d10/Placeholder.mill/400x400bb-75.jpg",
-        "appVersion": "21.31.3 | 318.3 MB | iOS 16.0 | ",
+        "appVersion": "21.33.6 | 323.4 MB | iOS 16.0 | ",
         "appDescription": "Модификация клиента YouTube\n\n▎Без рекламы\n▎Скачивание видео \n▎Фоновый режим и PiP \n▎Десятки других возможностей ",
-        "appUpdateTime": "2026-08-08T12:43:03+00:00"
+        "appUpdateTime": "2026-08-27T22:09:27+00:00"
     },
     {
         "appName": "Instagram | Rocket | Pro\n#Social",
@@ -513,9 +513,9 @@
     {
         "appName": "Busuu | Premium\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/73/c6/4973c6d2-2d6a-1271-17c5-e1c5b5509576/AppIcon-0-1x_U007emarketing-0-7-0-0-0-85-220.png/246x0w.png",
-        "appVersion": "30.14.0 | 241.6 MB | iOS 18.0 | ",
+        "appVersion": "30.25 | 240.3 MB | iOS 18.0 | ",
         "appDescription": "Приложение для узучения различных языков.\n",
-        "appUpdateTime": "2026-05-24T14:39:55+00:00"
+        "appUpdateTime": "2026-08-27T19:44:55+00:00"
     },
     {
         "appName": "Laoshi | Plus\n#Study",
@@ -1344,6 +1344,13 @@
         "appUpdateTime": "2025-04-20T10:56:57+00:00"
     },
     {
+        "appName": "ChatOne | Pro\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/d2/71/d9d271ea-3857-279c-ec18-26a3b8f6aa00/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "5.1 | 57.5 MB | iOS 18.0 | ",
+        "appDescription": "Универсальный AI-ассистент для общения с нейросетями и большим выбором моделей. ",
+        "appUpdateTime": "2026-08-27T22:08:30+00:00"
+    },
+    {
         "appName": "MyTuner Radio | Pro\n#Music",
         "appImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/nfguapdy2buz.png",
         "appVersion": "10.0.5 | 205.8 MB | iOS 15.0 | ",
@@ -1360,9 +1367,9 @@
     {
         "appName": "Flacbox Pro\n#Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/a4/c0/d6a4c0fb-7c3f-f322-b178-e1c006f29673/AppIcon_flacbox-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "7.3 | 170.1 MB | iOS 15.0 | ",
+        "appVersion": "7.6 | 246 MB | iOS 15.0 | ",
         "appDescription": "Аудиоплеер высокого разрешения с эквалайзером и усилителем басов",
-        "appUpdateTime": "2026-03-31T12:53:23+00:00"
+        "appUpdateTime": "2026-08-27T19:28:42+00:00"
     },
     {
         "appName": "A1 Office Word | Pro\n#Office",
@@ -1583,10 +1590,10 @@
     },
     {
         "appName": "Kinopub | Cinepub\n#Video",
-        "appImage": "https://github.com/IAppsRepo/IAppsRepo.github.io/releases/download/gimg/Cinepub.png",
-        "appVersion": "2.40 | 44 MB | iOS 17.6 | ",
+        "appImage": "https://imgbox.click/uploads/0d2e8a0e-35e5-453c-943a-68fa32ff9b67/Cinepub.png",
+        "appVersion": "2.48 | 48.4 MB | iOS 17.5 | ",
         "appDescription": "Приложение для просмотра фильмов и сериалов. \nРаботает по подписке - kino.pub\n\n▎Для возможности скачивания в настройках выберите \"Формат загрузки - MP4\" и включите \"Загрузка только на переднем плане\"",
-        "appUpdateTime": "2026-06-02T20:55:12+00:00"
+        "appUpdateTime": "2026-08-27T20:06:04+00:00"
     },
     {
         "appName": "Lightleap | Pro\n#Design",
@@ -2254,11 +2261,11 @@
         "appUpdateTime": "2026-02-26T20:54:57+00:00"
     },
     {
-        "appName": "ПДР Тести Україна\n#Study",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d7/c6/d9/d7c6d954-3798-6ce6-7030-edf8f6203435/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.9.3 | 194.3 MB | iOS 11.0 | ",
-        "appDescription": "Єдині офіційні державні тести з ПДР для підготовки до теоретичного іспиту в Україні\n\n▎Активована підписка\n",
-        "appUpdateTime": "2023-08-03T14:52:30+00:00"
+        "appName": "ПДР Тести Green Way | Pro\n#Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/a7/98/5ca7985a-14d9-b02b-a192-7af5b2626bd3/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "2.5.5 | 226.4 MB | iOS 14.0 | ",
+        "appDescription": "ПДР Тесты Украина\n\n▎Активирована подписка\n",
+        "appUpdateTime": "2026-08-27T19:43:19+00:00"
     },
     {
         "appName": "ПДД Казахстан | Pro\n#Study",
@@ -3061,9 +3068,9 @@
     {
         "appName": "Simpler | Premium\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/e2/c1/6ce2c10e-0076-269b-b943-5fb84d04b15a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.png",
-        "appVersion": "6.3.1 | 149.6 MB | iOS 12.0 | ",
-        "appDescription": "Приложение для изучения английского языка.\n\nАктивация подписки:\n▎Запустите приложение и войдите в аккаунт\n▎Перезапустите приложение когда после входа увидите кнопку \"Повторить\" ",
-        "appUpdateTime": "2025-04-30T15:36:17+00:00"
+        "appVersion": "6.5.30 | 188.4 MB | iOS 15.6 | ",
+        "appDescription": "Приложение для изучения английского языка.\n\nАктивация подписки:\n▎Запустите приложение и войдите в аккаунт\n▎Перезапустите приложение два раза ",
+        "appUpdateTime": "2026-08-27T19:46:14+00:00"
     },
     {
         "appName": "Vodiy UA | Тести ПДР | Premium\n#Study",
@@ -3164,11 +3171,11 @@
         "appUpdateTime": "2026-07-26T13:08:41+00:00"
     },
     {
-        "appName": "MyFamilyTree | Семейная история\n#Study #Other",
+        "appName": "MyFamilyTree | GensTree | Семейная история\n#Study #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/31/8f/be318f36-3f39-01ff-5f40-c52053f79b9d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/246x0w.png",
-        "appVersion": "6.6.3 | 96.9 MB | iOS 14.0 | ",
+        "appVersion": "9.1.0 | 123 MB | iOS 14.0 | ",
         "appDescription": "MyFamilyTree — это приложение, которое помогает пользователям легко и удобно находить информацию о своей родословной и семейных отношениях. С помощью этого приложения пользователи могут создавать генеалогическое древо, записывать информацию о своих предках, потомках и другую важную информацию, связанную с семьей.\n\n▎Активирована подписка",
-        "appUpdateTime": "2025-08-05T16:30:26+00:00"
+        "appUpdateTime": "2026-08-27T20:14:37+00:00"
     },
     {
         "appName": "Money Flow | Premium\n#Money",
@@ -3502,9 +3509,9 @@
     {
         "appName": "Tweety AI | Premium\n#Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/63/9d/86/639d8681-0c99-9fb9-7873-c967bd02fbe1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.png",
-        "appVersion": "1.3.10 | 244.7 MB | iOS 13.0 | ",
+        "appVersion": "1.5.2 | 242.8 MB | iOS 16.0 | ",
         "appDescription": "Tweety – ваше инновационное решение для создания текстового контента высокого качества!\n\nРаботая на основе революционной модели AI GPT-3.5, Tweety без усилий создает статьи, эссе, рассказы, сценарии и многое другое, адаптируясь под ваши потребности.",
-        "appUpdateTime": "2025-09-19T15:54:57+00:00"
+        "appUpdateTime": "2026-08-27T20:13:39+00:00"
     },
     {
         "appName": "Video Star | Hack\n#Design",
@@ -4146,16 +4153,16 @@
     {
         "appName": "Simply Piano | Premium\n#Study #Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/40/e7/3a40e7cd-5113-3bd9-bcf4-39c51a32a7f1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.png",
-        "appVersion": "9.10.35 | 273.6 MB | iOS 15.0 | ",
+        "appVersion": "9.10.88 | 294.8 MB | iOS 15.0 | ",
         "appDescription": "Быстрый и неформальный путь изучения игры на фортепьяно, от новичка до профессионала. Приложение использует любое пианино или клавиатуру и было выбрано в качестве одного из лучших приложений для iPhone.\n\n▎Войдите в аккаунт и перезапустите приложение для активации подписки.",
-        "appUpdateTime": "2025-09-27T15:23:28+00:00"
+        "appUpdateTime": "2026-08-27T19:40:39+00:00"
     },
     {
         "appName": "Simply Guitar | Premium\n#Study #Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/86/a3/a186a3c7-ae0a-2af7-de2a-940652a23918/AppIcon-Brand2-0-0-1x_U007epad-0-10-0-85-220.png/246x0w.png",
-        "appVersion": "10.7.1 | 293.2 MB | iOS 14.0 | ",
+        "appVersion": "10.27 | 251.4 MB | iOS 15.0 | ",
         "appDescription": "Учитесь гитаре своим темпом с пошаговыми учебниками топ-преподователей и получайте от приложения отклик по мере практики и заучивания песен!\n\n▎Войдите в аккаунт и перезапустите приложение для активации подписки.",
-        "appUpdateTime": "2025-09-27T15:23:04+00:00"
+        "appUpdateTime": "2026-08-27T19:31:49+00:00"
     },
     {
         "appName": "i-Boating | Морские карты\n#Travel",
@@ -5439,6 +5446,13 @@
         "appUpdateTime": "2023-09-23T18:05:45+00:00"
     },
     {
+        "appName": "Sky | Premium\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/eb/4c/68eb4c4e-4ae1-4457-8acf-8ea3f053b9bd/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "1.0.1 | 113.7 MB | iOS 16.0 | ",
+        "appDescription": "Универсальный AI-ассистент, объединяющий чат с ИИ и генерацию изображений.",
+        "appUpdateTime": "2026-08-27T22:01:30+00:00"
+    },
+    {
         "appName": "Фиксики Город | Premium\n#Kids",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/a8/4f/f8a84f93-2e75-ac01-88b0-95b95bdadef4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "2.8 | 255.5 MB | iOS 12.0 | ",
@@ -5539,9 +5553,9 @@
     {
         "appName": "SimplySing | Premium\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/e5/e6/bde5e6c6-b11b-470f-9d7f-8af7a91fd9ac/AppIcon-new-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "2.5.20 | 232.1 MB | iOS 16.0 | ",
+        "appVersion": "3.0.8 | 234.3 MB | iOS 16.0 | ",
         "appDescription": "С Simply Sing вы будете чувствовать себя уверенно, исполняя любимые песни.\n\nЕсли вы когда-либо считали, что хорошо петь вам не по силам, теперь все изменится. Вера в свои силы начинается здесь.",
-        "appUpdateTime": "2025-10-01T16:51:48+00:00"
+        "appUpdateTime": "2026-08-27T19:34:51+00:00"
     },
     {
         "appName": "Subee | Трекер подписок\n#Other",
@@ -5712,6 +5726,13 @@
         "appUpdateTime": "2026-04-01T00:05:44+00:00"
     },
     {
+        "appName": "Яндекс Пэй\n#Russia",
+        "appImage": "https://imgbox.click/uploads/5dfb9f92-9d05-400b-a0dd-322507512022/YandexPay.png",
+        "appVersion": "0.230.2 | 110.8 MB | iOS 15.0 | ",
+        "appDescription": "Приложение Яндекс Пэй",
+        "appUpdateTime": "2026-08-27T20:16:36+00:00"
+    },
+    {
         "appName": "Darkroom | Premium\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/07/99/13079909-d56f-b6cf-66dd-80876460dfae/Placeholder.mill/200x200bb-75.webp",
         "appVersion": "7.0.24 | 251.8 MB | iOS 18.4 | ",
@@ -5819,16 +5840,16 @@
     {
         "appName": "Оратор | Premium\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e8/a2/f3/e8a2f30f-71d5-4e2b-6fda-d9be317b3750/AppIcon-1-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.3 | 25.2 MB | iOS 11.4 | ",
+        "appVersion": "1.6 | 20.9 MB | iOS 16.0 | ",
         "appDescription": "Оратор – это увлекательная игра для развития ораторских навыков. Обретите уверенность в себе и научитесь лучше преподносить свои мысли, пройдя все уровни. ",
-        "appUpdateTime": "2025-09-27T15:50:16+00:00"
+        "appUpdateTime": "2026-08-27T19:44:20+00:00"
     },
     {
         "appName": "SimplyDraw | Premium\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/9a/60/519a6079-1587-09e9-6564-a35c1245f5a4/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "1.5.39 | 180.6 MB | iOS 15.2 | ",
+        "appVersion": "1.7.3 | 192.6 MB | iOS 15.2 | ",
         "appDescription": "Изучите и попрактикуйтесь в рисовании красивых карандашных рисунков на бумаге.",
-        "appUpdateTime": "2025-10-01T16:43:41+00:00"
+        "appUpdateTime": "2026-08-27T19:33:03+00:00"
     },
     {
         "appName": "ArtStage | Premium\n#Design",
@@ -6046,6 +6067,13 @@
         "appVersion": "1.10.0 | 146.3 MB | iOS 15.0 | ",
         "appDescription": "Приложение, которое превращает iPhone в диагностический сканер для автомобилей BMW. Оно позволяет подключиться к автомобилю через совместимый OBD-адаптер и выполнять диагностику без ноутбука",
         "appUpdateTime": "2026-08-19T14:39:30+00:00"
+    },
+    {
+        "appName": "CV Roast Resume | Анализ Резюме\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/2b/43/552b43f9-250c-6f62-43d6-644f9ee5364e/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "1.0.3 | 102.5 MB | iOS 13.0 | ",
+        "appDescription": "Приложение для оценки резюме с помощью ИИ",
+        "appUpdateTime": "2026-08-27T21:52:09+00:00"
     },
     {
         "appName": "QRBot | Hack\n#Other",
@@ -6890,9 +6918,9 @@
     {
         "appName": "Car Scanner | Pro\n#Travel",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/38/b5/ba/38b5bab7-bdf9-0bae-aebd-7b39e07e9e22/AppIcon-1-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "2.1.25 | 173.8 MB | iOS 12.2 | ",
+        "appVersion": "2.1.46 | 175 MB | iOS 13.0 | ",
         "appDescription": "Лучшее приложение для диагностики и контроля автомобилей.\n\n▎Пройдите первоначальную настройку и переоткройте приложение. Pro-версия активируется автоматически при втором открытии приложения.",
-        "appUpdateTime": "2026-06-13T19:56:48+00:00"
+        "appUpdateTime": "2026-08-27T19:30:14+00:00"
     },
     {
         "appName": "ЕГЭ Русский язык | Pro\n#Study",
@@ -7203,6 +7231,13 @@
         "appUpdateTime": "2026-06-02T19:17:40+00:00"
     },
     {
+        "appName": "Luna AI | Pro\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/19/83/df198309-8798-0002-363f-863aef8ebcae/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "2.21 | 122.2 MB | iOS 16.0 | ",
+        "appDescription": "Приложение для толкования снов и астрологических прогнозов. Оно объединяет несколько сонников, AI-анализ сновидений, дневник снов, лунный календарь и гороскопы.",
+        "appUpdateTime": "2026-08-27T21:56:42+00:00"
+    },
+    {
         "appName": "Things 3\n#Office",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/95/d8/6e/95d86ebd-fa5f-022e-cfac-38ead4bf6042/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         "appVersion": "3.21.12 | 56 MB | iOS 15.0 | ",
@@ -7401,9 +7436,9 @@
     {
         "appName": "Temporary Email Pro | Premium\n#Office",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/a6/c4/7da6c478-807a-098f-cf4b-188cc6e655bb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200ia-75.jpg",
-        "appVersion": "7.2.1 | 51.1 MB | iOS 15.1 | ",
+        "appVersion": "8.0 | 69.4 MB | iOS 15.1 | ",
         "appDescription": "С помощью приложения Temporary Email Pro вы можете мгновенно создать одноразовый временный адрес электронной почты и сразу же получать письма, включая фотографии и любые другие вложения.",
-        "appUpdateTime": "2025-12-04T16:37:07+00:00"
+        "appUpdateTime": "2026-08-27T19:29:23+00:00"
     },
     {
         "appName": "AI Retouch | Pro\n#Design",
