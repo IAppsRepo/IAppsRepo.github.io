@@ -1940,10 +1940,10 @@
     },
     {
         "appName": "РЖД Пассажирам\n#Travel",
-        "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/sign/rzd.png",
-        "appVersion": "1.55.1 | 82.9 MB | iOS 15.0 | ",
-        "appDescription": "Приложение РЖД Пассажирам\n\n▎Удалено из App Store",
-        "appUpdateTime": "2025-11-07T15:37:16+00:00"
+        "appImage": "https://imgbox.click/uploads/64acb037-e139-450e-88b3-461812ebdcea/rzd.png",
+        "appVersion": "1.55.1 | 90.5 MB | iOS 15.0 | ",
+        "appDescription": "Приложение РЖД Пассажирам (Train GO)\n\n▎Удалено из App Store",
+        "appUpdateTime": "2026-08-29T16:28:05+00:00"
     },
     {
         "appName": "Flowingtext LED | VIP\n#Other #Design",
@@ -2784,6 +2784,13 @@
         "appVersion": "3.3 | 8.6 MB | iOS 13.0 | ",
         "appDescription": "Ведение учёта показаний счётчиков по нескольким местам учёта, напоминания и расчет расходов.",
         "appUpdateTime": "2025-06-02T15:44:10+00:00"
+    },
+    {
+        "appName": "ЛУКОЙЛ\n#Russia",
+        "appImage": "https://imgbox.click/uploads/b9de1e41-3821-4eb4-b0bb-4823935e939c/lukoil.png",
+        "appVersion": "4.10.3 | 138.4 MB | iOS 14.0 | ",
+        "appDescription": "Приложение АЗС Лукойл",
+        "appUpdateTime": "2026-08-29T16:31:02+00:00"
     },
     {
         "appName": "Знающий | Premium\n#Study",
