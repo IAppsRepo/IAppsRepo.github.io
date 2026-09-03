@@ -149,16 +149,16 @@
     {
         "appName": "VPN Mir | Обход белых списков\n#Network",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/84/7c/17847c79-c2e4-f749-0b8e-0f1bc1d88fad/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "2.4 | 41.6 MB | iOS 16.0 | ",
+        "appVersion": "2.5.2 | 43.1 MB | iOS 17.7 | ",
         "appDescription": "VPN для РФ с различным выбором локаций.\nКак заявляет разработчик имеются локации настроенные для обхода ограничений белых списков.\n\n▎Для работы требуется сертификат с поддержкой AppGroup(плагинов)\n▎VPN может не работать в других странах кроме РФ",
-        "appUpdateTime": "2026-01-11T20:00:27+00:00"
+        "appUpdateTime": "2026-09-01T10:16:34+00:00"
     },
     {
         "appName": "WhatsApp | Gold\n#Social",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/00/9e/2a/009e2ab6-54fa-b317-447d-1b61e0c07cbc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "26.33.73 | 346.5 MB | iOS 15.1 | ",
+        "appVersion": "26.33.73 | 2.7 | 342.2 MB | iOS 15.1 | ",
         "appDescription": "Модификация мессенджера WhatsApp\n\n▎Запись звонков\n▎Режим призрака\n▎Сохранение удаленных смс \n▎Сохранение статусов и многое другое",
-        "appUpdateTime": "2026-08-26T09:15:31+00:00"
+        "appUpdateTime": "2026-09-01T10:17:17+00:00"
     },
     {
         "appName": "VK Video | ВК Видео\n#Video #Russia",
@@ -498,10 +498,10 @@
     },
     {
         "appName": "Duolingo | Max\n#Study",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6b/d3/b5/6bd3b571-bc11-ea11-6bb0-d020c9bca97d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "7.134 | 458 MB | iOS 17.0 | ",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/5c/3d/4c5c3dcc-7894-a8be-0290-d39722b3bffa/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "7.138 | 475.7 MB | iOS 17.0 | ",
         "appDescription": "Самое популярное приложение для изучения языков со взломом на подписку.\n\n▎Активирована подписка Max",
-        "appUpdateTime": "2026-08-08T12:32:26+00:00"
+        "appUpdateTime": "2026-09-03T16:28:55+00:00"
     },
     {
         "appName": "English Galaxy | Premium\n#Study",
@@ -1351,6 +1351,13 @@
         "appUpdateTime": "2026-08-27T22:08:30+00:00"
     },
     {
+        "appName": "Аудиокниги | Premium\n#Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/c8/25/95c8259e-6ebc-5763-3d6e-db3a3da707e8/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "1.1.5 | 98.7 MB | iOS 17.0 | ",
+        "appDescription": "Приложение для прослушивания тысяч аудиокниг онлайн и без интернета. Основной акцент — большая библиотека, простой плеер и возможность скачать книги для офлайн-прослушивания.",
+        "appUpdateTime": "2026-09-03T16:32:10+00:00"
+    },
+    {
         "appName": "MyTuner Radio | Pro\n#Music",
         "appImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/nfguapdy2buz.png",
         "appVersion": "10.0.5 | 205.8 MB | iOS 15.0 | ",
@@ -1507,9 +1514,9 @@
     {
         "appName": "Instories Pro\n#Design",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/e9/9c/8b/e99c8b61-2e23-1045-6d90-a3a87315bfb1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "5.102.1 | 462.5 MB | iOS 16.0 | ",
+        "appVersion": "5.122 | 483.2 MB | iOS 16.0 | ",
         "appDescription": "Instories с активированной Pro подпиской.",
-        "appUpdateTime": "2026-03-14T22:17:35+00:00"
+        "appUpdateTime": "2026-09-03T15:59:52+00:00"
     },
     {
         "appName": "Bazaart | Pro\n#Design",
@@ -1766,9 +1773,9 @@
     {
         "appName": "Leto Fonts | Leto Шрифты | Pro\n#Design",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/47/36/d4/4736d439-cef0-2de8-4861-0adb87924ab7/AppIcon-0-1x_U007ephone-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "8.7 | 294.5 MB | iOS 15.0 | ",
+        "appVersion": "8.7.4 | 153.9 MB | iOS 15.0 | ",
         "appDescription": "Красивые и уникальные шрифты для Инстаграм.\n\n▎Активирована подписка Premium Pro+\n▎Активирован доступ к проф. субтитрам \n▎При первом запуске откажитесь от предложений покупки, подписка уже активирована",
-        "appUpdateTime": "2026-08-08T12:22:38+00:00"
+        "appUpdateTime": "2026-09-03T15:54:33+00:00"
     },
     {
         "appName": "Adobe Illustrator | Premium\n#Design",
@@ -1808,9 +1815,9 @@
     {
         "appName": "RNI Films | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6d/39/64/6d3964ac-6829-9224-4b89-3b6a6a4a5cc7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "5.0.10 | 71.5 MB | iOS 13.0 | ",
+        "appVersion": "5.10.2 | 69.3 MB | iOS 15.0 | ",
         "appDescription": "RNI Films - это отличный мобильный компаньон для тех, кто ценит красоту аналоговой фотографии. Это небольшое приложение позволяет творцам привнести художественное чутье пленки в свой мобильный рабочий процесс.\n\n▎Активирована подписка",
-        "appUpdateTime": "2025-10-01T15:47:38+00:00"
+        "appUpdateTime": "2026-09-03T15:53:56+00:00"
     },
     {
         "appName": "RNI Aero | Pro\n#Design",
@@ -2179,9 +2186,9 @@
     {
         "appName": "Concepts | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/6f/c7/b06fc709-2952-c545-4cfc-874cf706d38b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
-        "appVersion": "6.29.2 | 209.9 MB | iOS 15.0 | ",
+        "appVersion": "6.35 | 264.5 MB | iOS 15.0 | ",
         "appDescription": "Думайте, планируйте и создавайте - Concepts - это гибкий векторный скетчбук, в котором вы можете воплотить свои идеи от концепции до реальности.\n\n▎Войдите в аккаунт для активации подписки",
-        "appUpdateTime": "2025-11-24T15:13:33+00:00"
+        "appUpdateTime": "2026-09-03T16:20:55+00:00"
     },
     {
         "appName": "SwiftScan | VIP\n#Office",
@@ -2206,10 +2213,10 @@
     },
     {
         "appName": "Reverso | Premium\n#Study",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/ad/9c/61ad9c07-7639-bb8f-1e1c-a13fdcadffb6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.png",
-        "appVersion": "16.4 | 250.6 MB | iOS 15.0 | ",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/5b/bf/755bbfb0-b57e-6af8-c307-e9b587a66e7e/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "17.2 | 169 MB | iOS 15.0 | ",
         "appDescription": "Переводите и изучайте миллионы фраз и выражений, изъясняйтесь как носитель языка.\n\n▎Для активации подписки войдите в аккаунт.",
-        "appUpdateTime": "2025-12-23T18:08:34+00:00"
+        "appUpdateTime": "2026-09-03T16:09:52+00:00"
     },
     {
         "appName": "ARTranslator | Pro\n#Study",
@@ -2284,9 +2291,9 @@
     {
         "appName": "Airmail | Pro\n#Office",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/71/52/44/715244f8-bc1b-a878-4ca5-d74655ee69a2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "26.0.12 | 170 MB | iOS 18.6 | ",
+        "appVersion": "26.0.23 | 173 MB | iOS 18.6 | ",
         "appDescription": "Почтовый клиент.",
-        "appUpdateTime": "2026-01-11T17:55:50+00:00"
+        "appUpdateTime": "2026-09-03T16:18:43+00:00"
     },
     {
         "appName": "Медик Тест | Hack\n#Study",
@@ -2844,9 +2851,9 @@
     {
         "appName": "izi.Travel | Путеводитель\n#Travel",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/40/41/dc404127-5a38-9501-663f-97778e6381bf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "11.0.2 | 170.7 MB | iOS 13.0 | ",
-        "appDescription": "Превратите свой телефон в персонального гида и станьте настоящим путешественником!\nОткройте для себя новые города, живописные маршруты, необычные музеи и колоритные достопримечательности. Аудиогид поможет вам лучше проникнуться местной атмосферой.\n\n▎Взлом всех покупок",
-        "appUpdateTime": "2026-05-14T18:11:12+00:00"
+        "appVersion": "11.7.1 | 131.7 MB | iOS 16.6 | ",
+        "appDescription": "Превратите свой телефон в персонального гида и станьте настоящим путешественником!\nОткройте для себя новые города, живописные маршруты, необычные музеи и колоритные достопримечательности. Аудиогид поможет вам лучше проникнуться местной атмосферой.\n\n▎Разблокирована подписка и все платные локации",
+        "appUpdateTime": "2026-09-03T16:17:41+00:00"
     },
     {
         "appName": "VivaVideo VIP\n#Design",
@@ -3704,10 +3711,10 @@
     },
     {
         "appName": "BeautyPlus | Premium\n#Design",
-        "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/94/87/5b/94875bae-1314-be7f-8c9e-ca0b30f80531/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "7.39 | 630.6 MB | iOS 13.0 | ",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/ba/00/b8ba008e-5b1a-5e94-433a-c18bc75fd421/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "7.44 | 756.9 MB | iOS 13.0 | ",
         "appDescription": "BeautyPlus поможет вам делать классные селфи, чтобы динамически фиксировать моменты вашей жизни и делиться ими с использованием сотен фильтров, стикеров, спецэффектов и многого другого!",
-        "appUpdateTime": "2026-06-17T14:51:33+00:00"
+        "appUpdateTime": "2026-09-03T15:56:01+00:00"
     },
     {
         "appName": "Rise | Premium\n#Life",
@@ -4599,13 +4606,6 @@
         "appUpdateTime": "2025-11-18T17:55:04+00:00"
     },
     {
-        "appName": "AI Canvas | Pro\n#Design",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/46/b1/7e46b12e-2597-082e-5e47-5bffe6cc9656/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "1.8.3 | 286.9 MB | iOS 17.0 | ",
-        "appDescription": "Мощное приложение для создания изображений и видео с помощью ИИ: генерирует картинки из текста, анимирует фото и применяет художественные стили.\n\n▎Активирована подписка\n▎Переустановите приложение, чтобы обнулить лимиты использования кредитов, если получите ошибку.",
-        "appUpdateTime": "2026-06-13T19:44:47+00:00"
-    },
-    {
         "appName": "Night Sky | Premium\n#Other",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/04/0f/b6/040fb616-e793-acfe-5621-20fe4ad3aec6/AppIcon5-2x_U007euniversal-0-4-0-0-85-220-0.png/246x0w.png",
         "appVersion": "26.1 | 1.2 GB | iOS 14.0 | ",
@@ -4699,9 +4699,9 @@
     {
         "appName": "Vids | Premium\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/7a/37/ff7a37be-978d-c1f0-c011-ac7f95cb6f00/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/246x0w.png",
-        "appVersion": "1.137 | 336 MB | iOS 15.0 | ",
+        "appVersion": "1.138 | 336.4 MB | iOS 15.0 | ",
         "appDescription": "Соедини свои видео и фотографии в одно видео в ритм трендовой музыки всего за пару минут. Используй крутые эффекты, фильтры и переходы в одном приложении!\n\n▎Откажитесь от предложений купить подписку, доступ уже активирован.",
-        "appUpdateTime": "2026-07-20T18:04:45+00:00"
+        "appUpdateTime": "2026-09-03T15:53:13+00:00"
     },
     {
         "appName": "NeuralCam - NightMode\n#Design",
@@ -4853,9 +4853,9 @@
     {
         "appName": "Thera AI | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/f0/34/0ff034b8-2c43-3e1c-9e7b-78aff9b849e6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/246x0w.png",
-        "appVersion": "2.121 | 62.7 MB | iOS 15.6 | ",
+        "appVersion": "2.136 | 76.8 MB | iOS 16.0 | ",
         "appDescription": "Thera - инструмент для письменных практик и самопомощи. Цель дневника - вдохновить на использование потенциала путём осознания мыслей и анализа действий и как результат - стать счастливее.\n\n▎Откажитесь от предложений купить подписку - все уже активировано.",
-        "appUpdateTime": "2026-01-18T17:39:31+00:00"
+        "appUpdateTime": "2026-09-03T16:21:33+00:00"
     },
     {
         "appName": "Flight Tracker Radar | Pro\n#Other",
@@ -5511,9 +5511,9 @@
     {
         "appName": "Vocal Remover AI | Pro\n#Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/06/3d/37/063d37f6-034f-f49e-e78d-45a7060b8b0d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.1.4 | 110.6 MB | iOS 12.1 | ",
+        "appVersion": "2.2.2 | 152.7 MB | iOS 15.0 | ",
         "appDescription": "Представляем Vocal Remover - приложение, работающее на основе искусственного интеллекта, которое позволяет легко удалять вокал из ваших любимых песен. Просто загрузите трек, и наш продвинутый алгоритм выделит вокал, оставив инструментальную версию, которую можно использовать для караоке или создания собственных уникальных ремиксов.",
-        "appUpdateTime": "2023-08-03T18:28:26+00:00"
+        "appUpdateTime": "2026-09-03T16:19:13+00:00"
     },
     {
         "appName": "tiReader | Pro\n#Other",
@@ -5714,9 +5714,9 @@
     {
         "appName": "Crsel | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/6c/22/666c22a2-584d-7de5-a722-38ece9b528d5/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "1.4.1 | 150.9 MB | iOS 17.0 | ",
+        "appVersion": "1.4.8 | 128.7 MB | iOS 17.0 | ",
         "appDescription": "Crsel — это универсальное приложение для создания эстетичных каруселей, коллажей, сторис и обложек Reels в Instagram. Создано для креаторов, которые ценят сторителлинг и стиль.",
-        "appUpdateTime": "2026-07-10T14:54:59+00:00"
+        "appUpdateTime": "2026-09-03T15:59:13+00:00"
     },
     {
         "appName": "Olimp Цитаты | Pro\n#Life",
@@ -6713,6 +6713,13 @@
         "appUpdateTime": "2026-06-13T22:56:20+00:00"
     },
     {
+        "appName": "Bevel | Pro\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/ef/76/57ef7601-4b9a-e70b-42fe-33d14796966a/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "3.1.8 | 536.9 MB | iOS 18.0 | ",
+        "appDescription": "приложение, которое собирает данные о здоровье и активности с разных источников и превращает их в персональные рекомендации по сну, восстановлению, тренировкам, питанию и стрессу.",
+        "appUpdateTime": "2026-09-03T16:24:09+00:00"
+    },
+    {
         "appName": "Prequel | Gold\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/c7/31/02c7311a-2a79-222c-c94a-a25c19a01716/Placeholder.mill/200x200bb-75.jpg",
         "appVersion": "2.97 | 361.3 MB | iOS 16.0 | ",
@@ -7023,9 +7030,9 @@
     {
         "appName": "Windy.app | Pro\n#Travel",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/20/11/d42011b0-b9be-b5c4-0d52-a700a27000f2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "15.2.4 | 381.8 MB | iOS 15.0 | ",
+        "appVersion": "15.7.9 | 300.6 MB | iOS 16.0 | ",
         "appDescription": "Точный прогноз погоды для любой точки мира.",
-        "appUpdateTime": "2025-08-16T10:05:58+00:00"
+        "appUpdateTime": "2026-09-03T16:16:41+00:00"
     },
     {
         "appName": "Mercury | Premium\n#Travel",
@@ -7210,11 +7217,11 @@
         "appUpdateTime": "2026-01-31T18:39:22+00:00"
     },
     {
-        "appName": "Авито\n#Other",
+        "appName": "Авито | Anero\n#Other",
         "appImage": "https://github.com/IAppsRepo/IAppsRepo.github.io/releases/download/icon/au_avito.png",
-        "appVersion": "217.0 | 666.1 MB | iOS 15.2 | ",
+        "appVersion": "230.1 | 661.4 MB | iOS 16.0 | ",
         "appDescription": "Новое приложение Авито. Было добавлено в AppStore под видом другого приложения.",
-        "appUpdateTime": "2026-03-14T22:25:39+00:00"
+        "appUpdateTime": "2026-09-02T02:59:43+00:00"
     },
     {
         "appName": "Lett | Premium\n#Design",
@@ -7243,6 +7250,13 @@
         "appVersion": "2.21 | 122.2 MB | iOS 16.0 | ",
         "appDescription": "Приложение для толкования снов и астрологических прогнозов. Оно объединяет несколько сонников, AI-анализ сновидений, дневник снов, лунный календарь и гороскопы.",
         "appUpdateTime": "2026-08-27T21:56:42+00:00"
+    },
+    {
+        "appName": "Plivka | Premium\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/b3/70/1cb37042-dc2f-00eb-3076-cf729bbb179d/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "1.7.1 | 119.4 MB | iOS 18.0 | ",
+        "appDescription": "Плёночная камера для iPhone и iPad, которая в реальном времени добавляет кинематографичный плёночный вид к фото и видео.",
+        "appUpdateTime": "2026-09-03T16:05:03+00:00"
     },
     {
         "appName": "Things 3\n#Office",
@@ -7616,6 +7630,13 @@
         "appUpdateTime": "2026-07-26T12:50:09+00:00"
     },
     {
+        "appName": "Просте ЗНО\\НМТ | Premium\n#Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/99/d6/fa99d6ad-6c73-779d-28ca-a1bf5e876049/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "5.7.1 | 40.9 MB | iOS 14.0 | ",
+        "appDescription": "Приложение для подготовки к украинскому ЗНО и НМТ",
+        "appUpdateTime": "2026-09-03T16:08:37+00:00"
+    },
+    {
         "appName": "Т-Банк Инвестиции | Тинькофф\n#Money #Russia",
         "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/tinkinvest.png",
         "appVersion": "1.8 | 224.2 MB | iOS 15.0 | ",
@@ -7670,6 +7691,13 @@
         "appVersion": "2.15.1 | 220.1 MB | iOS 13.0 | ",
         "appDescription": "Приложение банка Тинькофф Бухгалтерия.",
         "appUpdateTime": "2023-06-10T08:31:00+00:00"
+    },
+    {
+        "appName": "MARU | Pro\n#Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/2f/27/c82f278b-6421-e7c6-8daa-920a14ef9538/AppIcon-0-0-1x_U007epad-0-0-85-220.png/400x400ia-75.jpg",
+        "appVersion": "2.15 | 37.6 MB | iOS 16.0 | ",
+        "appDescription": "Приложение для быстрого изучения японских азбук хираганы и катаканы, в первую очередь для новичков.",
+        "appUpdateTime": "2026-09-03T16:15:59+00:00"
     },
     {
         "appName": "Тинькофф Подпись | T-Sign\n#Money",
@@ -7922,6 +7950,13 @@
         "appVersion": "1.9 | 30.3 MB | iOS 17.0 | ",
         "appDescription": "Приложение Точка Банк",
         "appUpdateTime": "2026-06-24T16:27:57+00:00"
+    },
+    {
+        "appName": "Savor (Рецепты) | Premium\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/4b/b7/794bb732-c763-e71a-bbb0-c17a713923cd/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "1.1.0 | 44.3 MB | iOS 17.0 | ",
+        "appDescription": "Приложение для создания собственной коллекции рецептов. Главная фишка — можно сохранять рецепты по ссылке практически откуда угодно(соц. сети, сайты и тд.), не переписывая их вручную.",
+        "appUpdateTime": "2026-09-03T16:27:22+00:00"
     },
     {
         "appName": "РОСБАНК Бизнес\n#Money #Russia",
