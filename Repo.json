@@ -1445,8 +1445,8 @@
         "appName": "Учи мед | Learn Anatomy\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/ca/81/92ca81df-3bf6-f5cf-d764-939244b4fff0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/246x0w.png",
         "appVersion": "1.11.5 | 253.9 MB | iOS 15.0 | ",
-        "appDescription": "Приложение «Учи Мед» позволяет всесторонне подготовиться к занятиям по анатомии, гистологии, биохимии и физиологии или освежить старые знания. Краткие конспекты без воды содержат выжимку теории.\n\n▎Активирована подписка\n▎Разблокированы все предметы\n▎Доступны все 3D модели",
-        "appUpdateTime": "2026-09-13T12:27:02+00:00"
+        "appDescription": "Приложение «Учи Мед» позволяет всесторонне подготовиться к занятиям по анатомии, гистологии, биохимии и физиологии или освежить старые знания. Краткие конспекты без воды содержат выжимку теории.\n\n▎Войдите в аккаунт для активации подписки\n▎Разблокированы все предметы\n▎Доступны все 3D модели",
+        "appUpdateTime": "2026-09-19T21:43:35+00:00"
     },
     {
         "appName": "Sandbox | Unlimited\n#Life",
@@ -9359,6 +9359,13 @@
         "appUpdateTime": "2022-07-16T08:31:00+00:00"
     },
     {
+        "appName": "DAVE THE DIVER\n#Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/05/fd/6e05fd2c-de99-c56c-3f1f-e67ba40ccb9c/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "1.0.37 | 3.7 GB | iOS 15.0 | ",
+        "appDescription": "DAVE THE DIVER — необычная смесь приключения, RPG и управления рестораном. Днём Дэйв ныряет в загадочную Голубую дыру, ловит рыбу и исследует океан, а вечером управляет суши-рестораном. Это полноценный порт оригинальной PC-версии.\n\n▎Разблокирована полная версия \n▎Разблокированы все DLC",
+        "appUpdateTime": "2026-09-20T13:19:49+00:00"
+    },
+    {
         "appName": "Godus | Hack\n#Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/aa/8d/1daa8df2-75f2-4e88-ddaa-c58c365b689a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/400x400ia-75.jpg",
         "appVersion": "1.47 | 328 MB | iOS 12.1 | ",
@@ -9602,6 +9609,13 @@
         "appVersion": "1.2.2 | 25.8 MB | iOS 16.0 | ",
         "appDescription": "Приложение для фанатов Формулы-1 с большой коллекцией качественных обоев",
         "appUpdateTime": "2026-03-31T23:54:11+00:00"
+    },
+    {
+        "appName": "Songs Of Conquest \n#Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/a9/5d/bda95d3f-afb7-6e27-77db-4e3e2591133a/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "1.12.10 | 2 GB | iOS 16.0 | ",
+        "appDescription": "Songs of Conquest Mobile — масштабная пошаговая фэнтези-стратегия в духе классических Heroes of Might & Magic. Вы управляете героями-магистрами, собираете армии, развиваете города и ведёте войны за территории.\n\n▎Разблокирована полная версия \n▎Разблокированы все DLC",
+        "appUpdateTime": "2026-09-20T13:15:40+00:00"
     },
     {
         "appName": "Harry Potter | Hogwarts Mystery\n#Games",
