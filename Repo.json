@@ -37,9 +37,9 @@
     {
         "appName": "YouTube | YTKACE (Killer)\n#Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/c4/ba/b5c4ba21-0ca5-0f00-2d10-b5749c606d10/Placeholder.mill/400x400bb-75.jpg",
-        "appVersion": "21.36.6 | 0.9.3 | 329.6 MB | iOS 17.0 | ",
+        "appVersion": "21.38.2 | 1.0.1 | 334.9 MB | iOS 17.0 | ",
         "appDescription": "Модификация клиента YouTube\n\n▎Без рекламы\n▎Скачивание видео \n▎Фоновый режим и PiP \n▎Десятки других возможностей ",
-        "appUpdateTime": "2026-09-15T15:14:17+00:00"
+        "appUpdateTime": "2026-09-23T15:36:31+00:00"
     },
     {
         "appName": "Instagram | Rocket | Pro\n#Social",
@@ -350,11 +350,11 @@
         "appUpdateTime": "2023-02-07T08:31:00+00:00"
     },
     {
-        "appName": "Mimo | Max\n#Study",
+        "appName": "Mimo Ru | Max\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/c5/51/81c551db-d904-7a57-2c14-74df4926ea17/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/246x0w.png",
-        "appVersion": "12.9.1 | 236.6 MB | iOS 17.0 | ",
-        "appDescription": "Эксклюзив iApps Store!\nУчиться программированию теперь легко и просто! Освой HTML, CSS, JavaScript, SQL, Python и другие языки программирования с нуля!\n\n▎Активирована Max-подписка!\n▎Разблокированы безлим жизни\n▎Доступны все платные уроки\n▎Недоступен русский язык для обучения",
-        "appUpdateTime": "2026-04-26T20:29:33+00:00"
+        "appVersion": "12.27 | 347.2 MB | iOS 17.0 | ",
+        "appDescription": "Учиться программированию теперь легко и просто! Освой HTML, CSS, JavaScript, SQL, Python и другие языки программирования с нуля!\n\n▎Активирована Max-подписка!\n▎Разблокированы безлим жизни\n▎Доступны все платные уроки\n▎Все уроки на русском языке",
+        "appUpdateTime": "2026-09-23T15:34:40+00:00"
     },
     {
         "appName": "KinoHome\n#Video",
@@ -667,9 +667,9 @@
     {
         "appName": "Aloha VPN | Hack\n#Network",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/25/a9/59/25a9591a-d31c-63ac-c6e5-c1a04459495e/AppIcon-0-85-220-0-0-4-0-0-2x-0-0.png/460x0w.png",
-        "appVersion": "2.1.1 | 172.9 MB | iOS 15.0 | ",
+        "appVersion": "2.8 | 172.3 MB | iOS 16.0 | ",
         "appDescription": "Приложение VPN.",
-        "appUpdateTime": "2024-01-25T11:16:48+00:00"
+        "appUpdateTime": "2026-09-23T13:49:04+00:00"
     },
     {
         "appName": "Vanish VPN | V2Ray\n#Network",
@@ -681,9 +681,9 @@
     {
         "appName": "Aloha Browser | VPN | Chat GPT | Grok\n#Network",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/00/b6/c300b6ec-5656-c038-8d1d-2d8533064aa0/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "8.6 | 232.4 MB | iOS 16.0 | ",
+        "appVersion": "8.10 | 396.2 MB | iOS 16.0 | ",
         "appDescription": "Веб браузер с VPN и ИИ.\n\n▎Активирована подписка Premium Plus",
-        "appUpdateTime": "2026-06-24T16:41:39+00:00"
+        "appUpdateTime": "2026-09-23T13:50:00+00:00"
     },
     {
         "appName": "InstaSize | Premium+\n#Design",
@@ -833,6 +833,13 @@
         "appUpdateTime": "2026-08-08T12:24:28+00:00"
     },
     {
+        "appName": "Google Photo | Unlimited\n#Other",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/4d/19/6c4d19e8-a6a7-3cff-2036-9d0997981035/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "7.93.0 | 423.4 MB | iOS 18.0 | ",
+        "appDescription": "Сервис для хранения фото и видео.\n\n▎Безлимитное хранилище ",
+        "appUpdateTime": "2026-09-23T15:41:47+00:00"
+    },
+    {
         "appName": "VSCO | Pro\n#Design",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/a2/c8/8fa2c888-8e1d-3440-82fa-19eacfb3dfac/app-icon-production-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         "appVersion": "461 | 404.2 MB | iOS 15.0 | ",
@@ -912,9 +919,9 @@
     {
         "appName": "Zenmoney | Pro\n#Money",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/30/67/f93067cd-2d3a-0e4f-a6a2-feb0c3179a7e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "26.2.1 | 206.4 MB | iOS 11.0 | ",
-        "appDescription": "Автоматическая аналитка и учет с ваших банков.\n- Активация взлома:\n▎Войдите/Создайте аккаунт\n▎Перейдите: \"Еще\" - \"Совместный доступ\"\n▎Пригласите любую выдуманную почту\n▎Перезапустите приложение",
-        "appUpdateTime": "2026-06-02T19:03:59+00:00"
+        "appVersion": "26.7 | 244.2 MB | iOS 15.0 | ",
+        "appDescription": "Автоматическая аналитка и учет с ваших банков.\n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2026-09-23T15:24:51+00:00"
     },
     {
         "appName": "Focos Live | Pro\n#Design",
@@ -1507,9 +1514,9 @@
     {
         "appName": "Cleanup | Pro\n#Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/11/4a/fa114a6a-f3d9-92ca-9d35-b612d5dcaecb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.png",
-        "appVersion": "6.8 | 231.4 MB | iOS 15.0 | ",
+        "appVersion": "6.21 | 139.1 MB | iOS 15.0 | ",
         "appDescription": "Оптимизируйте ваше хранилище удалив ненужные фото на своем iPhone",
-        "appUpdateTime": "2025-12-23T17:29:14+00:00"
+        "appUpdateTime": "2026-09-23T13:46:07+00:00"
     },
     {
         "appName": "Instories Pro\n#Design",
@@ -3166,9 +3173,9 @@
     {
         "appName": "MAPS.ME | Premium\n#Travel",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/24/cf/2624cf84-effb-9fff-91e0-0163399c2cf9/AppIcon-0-0-1x_U007epad-0-0-85-220.png/246x0w.png",
-        "appVersion": "16.5.0 | 194.1 MB | iOS 15.0 | ",
+        "appVersion": "18.0.2 | 322.3 MB | iOS 15.0 | ",
         "appDescription": "Быстрые и подробные офлайн-карты с пошаговой навигацией — нам доверяют более 140 млн путешественников со всего мира. Maps.me - твой зарубежный помощник в любой точке мира всегда под рукой!",
-        "appUpdateTime": "2025-03-30T11:52:36+00:00"
+        "appUpdateTime": "2026-09-23T15:08:22+00:00"
     },
     {
         "appName": "Chat Pen | Pro\n#Other",
@@ -3215,9 +3222,9 @@
     {
         "appName": "Money Flow | Premium\n#Money",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/39/bc/b139bc8d-acea-ed2b-1371-9d4b32ccf88c/AppIcon-5-10-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.42.3 | 56.4 MB | iOS 15.0 | ",
+        "appVersion": "1.44 | 59.4 MB | iOS 15.0 | ",
         "appDescription": "Приложение для быстрого планирования, учёта и контроля расходов и доходов.",
-        "appUpdateTime": "2026-05-03T14:29:51+00:00"
+        "appUpdateTime": "2026-09-23T15:22:32+00:00"
     },
     {
         "appName": "Pythonista 3\n#Other",
@@ -4244,9 +4251,9 @@
     {
         "appName": "ContraCam | Premium\n#Travel",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/da/b0/da/dab0daa6-ea85-0aff-5694-dec183996d4e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "3.9.9978 | 26.3 MB | iOS 14.0 | ",
+        "appVersion": "3.9.9985 | 25.3 MB | iOS 17.6 | ",
         "appDescription": "Приложение Антирадар.",
-        "appUpdateTime": "2025-11-24T15:19:37+00:00"
+        "appUpdateTime": "2026-09-23T15:07:43+00:00"
     },
     {
         "appName": "Invenva | Premium\n#Office #Other",
@@ -6015,9 +6022,9 @@
     {
         "appName": "Lake | Pro\n#Life #Kids",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/89/1a/b9/891ab9a4-0a5e-c2f0-706f-f0e9a4a3754a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "4.24.1 | 226.6 MB | iOS 17.0 | ",
+        "appVersion": "4.32 | 247.4 MB | iOS 18.0 | ",
         "appDescription": "Лучшее приложение раскраска с замечательным дизайном.",
-        "appUpdateTime": "2026-04-26T20:13:35+00:00"
+        "appUpdateTime": "2026-09-23T13:46:56+00:00"
     },
     {
         "appName": "Habits | Super\n#Life",
@@ -6379,9 +6386,9 @@
     {
         "appName": "AirBrush | Pro\n#Design",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/43/41/d5/4341d583-3af3-87bc-f628-597f0c9d9f64/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        "appVersion": "8.8.1 | 595 MB | iOS 13.0 | ",
-        "appDescription": "Простой инструмент для редактирования фото.\n\n▎Перезапустите приложение для активации подписки",
-        "appUpdateTime": "2026-05-14T16:29:42+00:00"
+        "appVersion": "8.16 | 506 MB | iOS 13.0 | ",
+        "appDescription": "Простой инструмент для редактирования фото.\n\n",
+        "appUpdateTime": "2026-09-23T13:45:32+00:00"
     },
     {
         "appName": "VCUS | Pro\n#Design",
@@ -6757,9 +6764,9 @@
     {
         "appName": "Prequel | Gold\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/c7/31/02c7311a-2a79-222c-c94a-a25c19a01716/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "2.97 | 361.3 MB | iOS 16.0 | ",
+        "appVersion": "2.100.2 | 336.3 MB | iOS 16.0 | ",
         "appDescription": "Популярное приложение для создания стильных фото и видео с сотнями эффектов, фильтров и шаблонов в один тап.",
-        "appUpdateTime": "2026-08-08T12:23:53+00:00"
+        "appUpdateTime": "2026-09-23T13:47:30+00:00"
     },
     {
         "appName": "Carrion | Full Game\n#Games",
@@ -7301,6 +7308,13 @@
         "appUpdateTime": "2026-09-03T16:05:03+00:00"
     },
     {
+        "appName": "Little Nightmares\n#Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/f1/61/21f161ff-a193-01c0-f1b4-51cb4bf117b6/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "1.0.13 | 2.5 GB | iOS 11.0 | ",
+        "appDescription": "Little Nightmares — атмосферный хоррор-платформер, где вы играете за девочку по имени Шесть и пытаетесь выбраться из загадочного судна The Maw, населённого жуткими существами. Игра сочетает исследование, скрытность, головоломки и платформинг.\n\n▎Платная игра в AppStore\n▎Исправлена работа с сертификатом",
+        "appUpdateTime": "2026-09-22T18:23:52+00:00"
+    },
+    {
         "appName": "Things 3\n#Office",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/95/d8/6e/95d86ebd-fa5f-022e-cfac-38ead4bf6042/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         "appVersion": "3.21.12 | 56 MB | iOS 15.0 | ",
@@ -7471,9 +7485,9 @@
     {
         "appName": "Konsensus | Patron\n#Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/f9/e4/a7f9e4d1-774f-4fc7-3eea-25dc39c6d7f1/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "1.5 | 63 MB | iOS 17.0 | ",
+        "appVersion": "1.16 | 91.2 MB | iOS 17.0 | ",
         "appDescription": "Приложение для любителей фильмов и сериалов, позволяющее отслеживать просмотренные и будущие фильмы/шоу, синхронизировать их с Letterboxd и Trakt, смотреть рейтинги и трейлеры, а также создавать собственные списки и получать уведомления о новинках",
-        "appUpdateTime": "2026-01-18T20:24:44+00:00"
+        "appUpdateTime": "2026-09-23T15:20:54+00:00"
     },
     {
         "appName": "DL IPA\n#Other",
@@ -8022,6 +8036,13 @@
         "appUpdateTime": "2026-09-03T16:27:22+00:00"
     },
     {
+        "appName": "byAir | Premium\n#Travel",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/ac/97/09ac9765-4a84-e8aa-e493-dc50b5f076ea/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "2.39.2 | 283.9 MB | iOS 18.0 | ",
+        "appDescription": "Отслеживание самолетов — современный трекер рейсов и помощник для путешествий. Показывает полёты в реальном времени, задержки, терминалы и выходы, а также хранит историю ваших путешествий.\n\n▎Некоторые функции серверные и могут быть недоустпны",
+        "appUpdateTime": "2026-09-23T15:20:01+00:00"
+    },
+    {
         "appName": "РОСБАНК Бизнес\n#Money #Russia",
         "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/Rosbuisnes.png",
         "appVersion": "1.8 | 165.1 MB | iOS 11.0 | ",
@@ -8519,6 +8540,13 @@
         "appUpdateTime": "2024-02-28T15:57:01+00:00"
     },
     {
+        "appName": "Down Dog Pilates | Pro\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/13/a1/c613a174-1a42-8451-3059-4d55baee2577/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "8.3.1 | 90.4 MB | iOS 15.0 | ",
+        "appDescription": "Приложение для домашних тренировок, которое каждый раз генерирует новое занятие по пилатесу. Можно настроить упражнения, темп, музыку, голос и интенсивность под себя.\n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2026-09-23T14:42:59+00:00"
+    },
+    {
         "appName": "Geometry Dash\n#Games",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/b6/5d/7b/b65d7be5-e14a-433f-bb53-8cc2407e6199/AppIcon-1x_U007emarketing-85-220-9.png/230x0w.png",
         "appVersion": "2.208 | 170.7 MB | iOS 12.0 | ",
@@ -8561,11 +8589,32 @@
         "appUpdateTime": "2026-05-03T15:21:00+00:00"
     },
     {
+        "appName": "Down Dog Meditation | Pro\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/6a/79/436a791e-8029-5335-b4df-ca021f17767d/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "8.3.1 | 90.4 MB | iOS 15.0 | ",
+        "appDescription": "Приложение для персонализированных медитаций, которое каждый раз создаёт новый сеанс под ваше настроение, цель и доступное время. Есть отдельные режимы для расслабления, сна и осознанных прогулок. \n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2026-09-23T14:46:46+00:00"
+    },
+    {
         "appName": "Terraria\n#Games",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/77/7a/f1/777af111-25d6-f91f-966a-6d7ad58ca491/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         "appVersion": "1.4.5 | 273.7 MB | iOS 13.0 | ",
         "appDescription": "КОПАЙТЕ! СРАЖАЙТЕСЬ! ИССЛЕДУЙТЕ! СТРОЙТЕ! Присоединяйтесь к миллионам игроков в Terraria!",
         "appUpdateTime": "2026-01-31T18:10:25+00:00"
+    },
+    {
+        "appName": "Down Dog Barre | Pro\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/71/43/b771436f-8245-243f-4cb4-b35201038a3f/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "8.3.1 | 90.5 MB | iOS 15.0 | ",
+        "appDescription": "Приложение для домашних barre-тренировок, которое генерирует новую тренировку каждый раз, а не предлагает один и тот же набор видео. Подходит даже новичкам — из оборудования нужен только стул.  \n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2026-09-23T14:50:13+00:00"
+    },
+    {
+        "appName": "Down Dog Prenatal | Pro\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/b8/fc/89b8fc13-6af1-4d36-ade3-04b6818f03e0/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "8.3.1 | 90.5 MB | iOS 15.0 | ",
+        "appDescription": "Приложение с персонализированными занятиями йогой, адаптированными под 1-й, 2-й или 3-й триместр беременности. Каждая тренировка формируется заново, поэтому занятия не повторяются один в один.\n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2026-09-23T15:00:08+00:00"
     },
     {
         "appName": "Playdead's INSIDE | Полная версия\n#Games",
@@ -8575,11 +8624,25 @@
         "appUpdateTime": "2023-04-07T08:10:00+00:00"
     },
     {
+        "appName": "Down Dog Hiit | Pro\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/87/2b/70872b39-1291-974d-39af-afbeef638056/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "8.3.1 | 90.3 MB | iOS 15.0 | ",
+        "appDescription": "Приложение для высокоинтенсивных интервальных тренировок (HIIT), которое каждый раз создаёт новую тренировку из более чем 1000 упражнений. Можно заниматься только с весом собственного тела, без оборудования.\n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2026-09-23T15:03:08+00:00"
+    },
+    {
         "appName": "GTA 3 | RU\n#Games",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/c3/a1/b8c3a11d-c7cc-d9a6-7120-880c3ad4412f/AppIcon-0-1x_U007emarketing-85-220-4.png/230x0w.png",
         "appVersion": "1.5 | 535.4 MB | iOS 8.0 | ",
         "appDescription": "GTA 3 с русской озвучкой, улучшенной графикой и переводом от 1С.",
         "appUpdateTime": "2022-02-09T08:31:00+00:00"
+    },
+    {
+        "appName": "Down Dog Yoga | Pro\n#Life",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/12/cf/4412cff0-17b7-02b3-5fe9-e569f40fc16e/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "8.3.1 | 90.4 MB | iOS 15.0 | ",
+        "appDescription": "Персонализированное приложение для занятий йогой, которое создаёт новую практику при каждом запуске. Можно выбрать уровень, цель, темп, длительность и направление йоги. \n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2026-09-23T15:06:31+00:00"
     },
     {
         "appName": "GTA Vice City | RU\n#Games",
@@ -8895,6 +8958,13 @@
         "appVersion": "3.0.4 | 42.4 MB | iOS 15.1 | ",
         "appDescription": "Калькулятор для фокусников",
         "appUpdateTime": "2026-07-20T18:26:13+00:00"
+    },
+    {
+        "appName": "StudyGe | Premium\n#Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/d4/34/ded43415-1079-a6bc-7c0c-07204563c371/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "2.6.5 | 241.8 MB | iOS 15.0 | ",
+        "appDescription": "География мира — интерактивный атлас и викторина, где можно изучать страны, столицы, флаги и географию мира в игровом формате. Есть подробная статистика по странам и соревнования с другими игроками.\n\n",
+        "appUpdateTime": "2026-09-23T15:30:25+00:00"
     },
     {
         "appName": "Правда или Действие | Pro\n#Games",
