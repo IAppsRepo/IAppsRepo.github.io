@@ -1,19 +1,5 @@
 [
     {
-        "appName": "iApps Test\n#Other",
-        "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/sign/iapps_logo.jpeg?raw=true",
-        "appVersion": "1.0 | 4.1 MB | iOS 13.0 | ",
-        "appDescription": "Приложение пустышка для прохождения авторизации iApps, если в другом приложении вы испытываете проблемы. После успешного прохождения приложение можно удалить.\n\nAn app to pass iApps authorization if you are having problems in another app. You can uninstall the app after successful authorization.",
-        "appUpdateTime": "2025-10-09T09:54:24+00:00"
-    },
-    {
-        "appName": "YouTube | Plus\n#Video",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/35/ab/1435ab95-5b63-4acd-6c43-4cc62ab1eb95/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "21.16.2 | 5.2.1 | 300.5 MB | iOS 16.0 | ",
-        "appDescription": "Модификация YouTube \n\n▎Быстрая загрузка медиа(включая 2К\\4К)\n▎Настройки интерфейса, управление жестами\n▎Без рекламы, пропуск рекламы внутри видео\n▎Огромное количество других настроек",
-        "appUpdateTime": "2026-04-26T23:17:16+00:00"
-    },
-    {
         "appName": "Instagram | Regram | Hack\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/e5/17/97e51755-e71d-b5b1-ed67-0975a7558abc/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         "appVersion": "435 | 5.1.0 | 611.2 MB | iOS 16.3 | ",
@@ -6902,6 +6888,13 @@
         "appUpdateTime": "2026-04-26T20:39:17+00:00"
     },
     {
+        "appName": "The Binding of Isaac: Rebirth\n#Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/1c/95/a71c95f3-76f7-aed9-e873-29eff9ec7fbc/AppIcon-iOS-0-0-1x_U007emarketing-0-10-0-85-220.png/400x400ia-75.jpg",
+        "appVersion": "1.4 | 2.7 GB | iOS 16.0 | ",
+        "appDescription": "The Binding of Isaac: Rebirth — культовый action-roguelike с видом сверху, где Айзек исследует постоянно меняющиеся подземелья, сражается с монстрами и собирает предметы, которые полностью меняют его способности.\n\n▎Платная игра из AppStore\n▎Разблокированы все DLC\n▎Исправлена работа на сертификате",
+        "appUpdateTime": "2026-09-25T11:56:02+00:00"
+    },
+    {
         "appName": "Story Chic | VIP\n#Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/db/c4/77/dbc47783-f7e1-1fdf-158a-f9be8fff7691/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         "appVersion": "5.4.2 | 140.7 MB | iOS 12.0 | ",
@@ -9261,6 +9254,13 @@
         "appUpdateTime": "2022-07-04T08:31:00+00:00"
     },
     {
+        "appName": "Creaks | Arcade\n#Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/32/13/24/321324f8-6b6c-ec7a-be2d-5525af39d6ad/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400ia-75.jpg",
+        "appVersion": "1.0.6 | 3.7 GB | iOS 13.0 | ",
+        "appDescription": "Creaks — атмосферная приключенческая игра-головоломка от создателей Machinarium и Samorost. Вы исследуете загадочный подземный мир под своим домом, решаете головоломки и сталкиваетесь с необычными существами и «мебельными монстрами». \n\n▎Каталог Apple Arcade\n▎Исправлена работа на сертификате",
+        "appUpdateTime": "2026-09-27T18:55:10+00:00"
+    },
+    {
         "appName": "Score! Hero | Mod\n#Games",
         "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/00/a9/0e/00a90e03-00fe-0f42-4ba6-b821b8a7b198/AppIcon-1x_U007emarketing-0-10-0-85-220.png/246x0w.png",
         "appVersion": "3.920 | 221.8 MB | iOS 14.0 | ",
@@ -9433,7 +9433,7 @@
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/05/fd/6e05fd2c-de99-c56c-3f1f-e67ba40ccb9c/Placeholder.mill/400x400bb-75.jpg",
         "appVersion": "1.0.37 | 3.7 GB | iOS 15.0 | ",
         "appDescription": "DAVE THE DIVER — необычная смесь приключения, RPG и управления рестораном. Днём Дэйв ныряет в загадочную Голубую дыру, ловит рыбу и исследует океан, а вечером управляет суши-рестораном. Это полноценный порт оригинальной PC-версии.\n\n▎Разблокирована полная версия \n▎Разблокированы все DLC",
-        "appUpdateTime": "2026-09-20T13:19:49+00:00"
+        "appUpdateTime": "2026-09-23T21:29:58+00:00"
     },
     {
         "appName": "Godus | Hack\n#Games",
