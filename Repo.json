@@ -1,5 +1,19 @@
 [
     {
+        "appName": "iApps Test\n#Other",
+        "appImage": "https://github.com/MdFurman/iappsrepo/releases/download/sign/iapps_logo.jpeg?raw=true",
+        "appVersion": "1.0 | 4.1 MB | iOS 13.0 | ",
+        "appDescription": "Приложение пустышка для прохождения авторизации iApps, если в другом приложении вы испытываете проблемы. После успешного прохождения приложение можно удалить.\n\nAn app to pass iApps authorization if you are having problems in another app. You can uninstall the app after successful authorization.",
+        "appUpdateTime": "2025-10-09T09:54:24+00:00"
+    },
+    {
+        "appName": "YouTube | Plus\n#Video",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/35/ab/1435ab95-5b63-4acd-6c43-4cc62ab1eb95/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "21.16.2 | 5.2.1 | 300.5 MB | iOS 16.0 | ",
+        "appDescription": "Модификация YouTube \n\n▎Быстрая загрузка медиа(включая 2К\\4К)\n▎Настройки интерфейса, управление жестами\n▎Без рекламы, пропуск рекламы внутри видео\n▎Огромное количество других настроек",
+        "appUpdateTime": "2026-04-26T23:17:16+00:00"
+    },
+    {
         "appName": "Instagram | Regram | Hack\n#Social",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/e5/17/97e51755-e71d-b5b1-ed67-0975a7558abc/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         "appVersion": "435 | 5.1.0 | 611.2 MB | iOS 16.3 | ",
@@ -8300,6 +8314,13 @@
         "appVersion": "3.34.0 | 225.2 MB | iOS 15.6 | ",
         "appDescription": "Одно из самых популярных приложений для создания и скачивания стикеров для WhatsApp и Telegram.",
         "appUpdateTime": "2026-06-24T16:39:30+00:00"
+    },
+    {
+        "appName": "Gothic Classic\n#Games",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/25/78/4a2578b0-4faf-71ea-87b6-c258e124f69f/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "1.3 | 4.1 GB | iOS 17.6 | ",
+        "appDescription": "Gothic Classic — полноценный порт легендарной RPG Gothic. Вы попадаете в каторжную колонию Хориниса, где нужно выживать, прокачивать героя, выполнять задания и выбрать одну из трёх фракций. Мир живёт по собственному распорядку: NPC работают, едят, спят и реагируют на ваши действия.\n\n▎Платная игра из AppStore\n▎Русский текст и озвучка\n▎Исправлена работа на сертификате",
+        "appUpdateTime": "2026-09-29T13:21:10+00:00"
     },
     {
         "appName": "BL Бизнес(Банк Левобережный)\n#Money #Russia",
