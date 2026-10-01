@@ -15,10 +15,10 @@
     },
     {
         "appName": "Instagram | Regram | Hack\n#Social",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/e5/17/97e51755-e71d-b5b1-ed67-0975a7558abc/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "435 | 5.1.0 | 611.2 MB | iOS 16.3 | ",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/57/87/57578709-23d2-5fb2-487b-eff35e3aade4/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/246x0w.png",
+        "appVersion": "448 | 6.1.0 | 532.5 MB | iOS 16.3 | ",
         "appDescription": "Лучшая модификация Instagram с огромными возможностями.\n\n▎Зажмите кнопку домика, чтобы открыть настройки мода.",
-        "appUpdateTime": "2026-07-10T15:26:44+00:00"
+        "appUpdateTime": "2026-10-01T21:01:59+00:00"
     },
     {
         "appName": "Instagram | DL | Hack\n#Social",
@@ -42,6 +42,13 @@
         "appUpdateTime": "2026-09-23T15:36:31+00:00"
     },
     {
+        "appName": "Instagram | Sparkle\n#Social",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/57/87/57578709-23d2-5fb2-487b-eff35e3aade4/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/246x0w.png",
+        "appVersion": "448 | 1.4 | 516.6 MB | iOS 16.3 | ",
+        "appDescription": "Модификация Instagram с огромными возможностями.\n\n▎Зажмите кнопку домика, чтобы открыть настройки мода.",
+        "appUpdateTime": "2026-10-01T21:23:27+00:00"
+    },
+    {
         "appName": "Instagram | Rocket | Pro\n#Social",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/76/1f/c6/761fc680-afac-c5f4-6dd9-78cd6b4639ab/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "410.1 | 3.8.37 | 461.8 MB | iOS 15.1 | ",
@@ -56,11 +63,18 @@
         "appUpdateTime": "2026-05-03T15:28:51+00:00"
     },
     {
+        "appName": "YouTube | R3Tube\n#Video",
+        "appImage": "https://imgbox.click/uploads/bc744242-1953-4dd1-bef0-b55637493179/r3yt.jpg",
+        "appVersion": "21.39.4 | 1.1 | 333.6 MB | iOS 17.0 | ",
+        "appDescription": "Модификация YouTube\n\n▎Исправлена ошибка с просмотром\n▎ИИ перевод голоса в видео(через яндекс)\n▎Удалена реклама\n▎Фоновый просмотр и прочее\n",
+        "appUpdateTime": "2026-10-01T21:34:27+00:00"
+    },
+    {
         "appName": "TikTok | r3tok\n#Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/05/51/c10551d2-6bea-23b4-77f2-2947b1b03840/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "46.4.0 | 2.1 | 943.4 MB | iOS 14.0 | ",
+        "appVersion": "47.0 | 2.2 | 1000 MB | iOS 14.0 | ",
         "appDescription": "Модифицированный клиент TikTok\n\n▎Смена региона без VPN (по умолчанию - Германия)\n▎Удалена реклама\n▎Скачивание и отправка видео и слайд-шоу без водяных знаков\n▎Исправлена ошибка входа\n▎После входа в аккаунт необходимо перезапустить приложение для установки региона.",
-        "appUpdateTime": "2026-08-19T14:43:50+00:00"
+        "appUpdateTime": "2026-10-01T21:25:22+00:00"
     },
     {
         "appName": "TikTok | RXTikTok | Hack\n#Video",
@@ -113,17 +127,24 @@
     },
     {
         "appName": "Swiftgram | Lead\n#Social",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/3f/8f/c13f8f03-5761-cd9c-cd4d-c11390460ad4/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/246x0w.png",
-        "appVersion": "12.9.2 | 1.4.4 | 185.3 MB | iOS 13.0 | ",
+        "appImage": "https://imgbox.click/uploads/8708e3fc-cb0e-49f3-a67d-a49d9f32f424/SwiftGramLead.jpg",
+        "appVersion": "12.9.3 | 1.4.4 | 196.7 MB | iOS 13.0 | ",
         "appDescription": "Модификация телеграм клиента Swiftgram - оффлайн, нечиталка, подмена локации, скрины секретных чатов и каналов.\n\n▎Настройки TGExtra: Откройте \"Настройки\" и зажмите кнопку \"Помощь\"\n▎Если не прогружаются сообщения - отключите опцию \"Разрешить сохранение защищенного контента\" в настройках TGExtra.\n▎Если не открываются сообщения разрешите доступ к контактам.",
-        "appUpdateTime": "2026-07-25T11:54:37+00:00"
+        "appUpdateTime": "2026-10-01T20:47:28+00:00"
     },
     {
-        "appName": "Turrit | TGExtra\n#Social",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/63/a2/ed63a2b0-3c1a-6741-b5da-eb37fced23ac/AppIconLLC-0-0-1x_U007emarketing-0-8-0-0-P3-85-220.png/200x200ia-75.jpg",
-        "appVersion": "1.4.5 | 1.7.1 | 193.8 MB | iOS 13.0 | ",
+        "appName": "Turrit | Lead\n#Social",
+        "appImage": "https://imgbox.click/uploads/c592b3ac-bae3-42c9-a1d2-7222534d23d3/TurritLead.jpg",
+        "appVersion": "1.5.5 | 1.4.4 | 206.4 MB | iOS 13.0 | ",
         "appDescription": "Модификация телеграм клиента Turrit - оффлайн, нечиталка, подмена локации, скрины секретных чатов и каналов.\n\n▎Настройки TGExtra: Откройте \"Настройки\" и зажмите кнопку \"О Turrit\"\n▎Если не прогружаются сообщения - отключите опцию \"Разрешить сохранение защищенного контента\" в настройках TGExtra.\n▎Если не открываются сообщения разрешите доступ к контактам.",
-        "appUpdateTime": "2026-02-14T22:08:06+00:00"
+        "appUpdateTime": "2026-10-01T20:27:24+00:00"
+    },
+    {
+        "appName": "Swiftgram | iQTele\n#Social",
+        "appImage": "https://imgbox.click/uploads/7b140805-e0ee-4692-a61f-69b9aa0a7ed5/SwiftGramTele.jpg",
+        "appVersion": "12.9.3 | 174.2 MB | iOS 13.0 | ",
+        "appDescription": "Модификация Telegram - Swiftgram с твиком iQTele.\n\nСохранение удаленных сообщений, запись звонков, оффлайн, анонимный просмотр и прочее.",
+        "appUpdateTime": "2026-10-01T20:44:37+00:00"
     },
     {
         "appName": "TikTok RU | BH Plus | iOS 26\n#Video",
@@ -138,6 +159,13 @@
         "appVersion": "42.6.0 | 2.1.4 | 687.1 MB | iOS 12.0 | ",
         "appDescription": "Модификация TikTok с огромным количеством функций и возможностей.\n\n▎Загрузка видео\n▎Автопрокрутка видео\n▎Другие возможности\n▎Активирована лицензия DL\n▎Изменение региона в данной версии не работает! Используйте VPN!",
         "appUpdateTime": "2025-11-24T17:20:35+00:00"
+    },
+    {
+        "appName": "Turrit | iQTele\n#Social",
+        "appImage": "https://imgbox.click/uploads/3356be74-03bb-4a54-966b-38b5668d8ca5/TurritIQTele.jpg",
+        "appVersion": "1.5.5 | 1.4 | 183.9 MB | iOS 13.0 | ",
+        "appDescription": "Модификация Telegram - Turrit с твиком iQTele.\n\nСохранение удаленных сообщений, запись звонков, оффлайн, анонимный просмотр и прочее.",
+        "appUpdateTime": "2026-10-01T20:40:20+00:00"
     },
     {
         "appName": "LineGet | Premium\n#Video",
@@ -289,9 +317,9 @@
     {
         "appName": "YouTube Music | Ultimate\n#Music",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/75/57/87/75578775-d18b-985f-0929-68de0bd8f233/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
-        "appVersion": "9.29.3 | 245.9 MB | iOS 16.0 | ",
+        "appVersion": "9.39.2 | 265.4 MB | iOS 16.0 | ",
         "appDescription": "Сервис лицензионной музыки от YouTube.\n\n▎Удалена реклама\n▎Прослушивание в фоне.\n▎Скачивание песен",
-        "appUpdateTime": "2026-08-08T12:26:25+00:00"
+        "appUpdateTime": "2026-10-01T19:01:49+00:00"
     },
     {
         "appName": "Аудиокниги | Pro\n#Study",
@@ -331,9 +359,9 @@
     {
         "appName": "FreeYourMusic | Premium\n#Music",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/98/43/96984390-bd38-bb25-e46f-cf183469abce/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "9.28 | 66.3 MB | iOS 15.5 | ",
+        "appVersion": "10.1 | 74.4 MB | iOS 15.5 | ",
         "appDescription": "Одно из лучших приложений в мире по переносу песен между музыкальными сервисами. Поддерживаются все популярные сервисы, в том числе российские.\n\n▎Активирована подписка.\n▎Сняты лимиты на перенос музыки.",
-        "appUpdateTime": "2026-06-02T19:00:46+00:00"
+        "appUpdateTime": "2026-10-01T19:00:59+00:00"
     },
     {
         "appName": "Melodius\n#Music",
@@ -502,6 +530,13 @@
         "appVersion": "7.138 | 475.7 MB | iOS 17.0 | ",
         "appDescription": "Самое популярное приложение для изучения языков со взломом на подписку.\n\n▎Активирована подписка Max",
         "appUpdateTime": "2026-09-03T16:28:55+00:00"
+    },
+    {
+        "appName": "Threads Plus\n#Social",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/31/9e/48319e1d-f2e5-2e5d-8b34-0448daa323bd/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "449 | 228.5 MB | iOS 16.3 | ",
+        "appDescription": "▎Удалена реклама\n▎Скачивание медиа",
+        "appUpdateTime": "2026-10-01T20:14:55+00:00"
     },
     {
         "appName": "English Galaxy | Premium\n#Study",
@@ -693,6 +728,13 @@
         "appUpdateTime": "2026-05-14T16:45:54+00:00"
     },
     {
+        "appName": "ТБанк | Тинькофф Банк\n#Money #Russia",
+        "appImage": "https://imgbox.click/uploads/597ee46c-4244-4392-adc9-b542e15a10c9/tbankluna.png",
+        "appVersion": "2.8.2 | 517 MB | iOS 16.0 | ",
+        "appDescription": "Приложение банка Тинькофф последней версии, которое было добавлено в App Store под видом другого приложения - SpotLuma.\n\n▎Версия за сентябрь 2026 года.",
+        "appUpdateTime": "2026-10-01T19:13:26+00:00"
+    },
+    {
         "appName": "Free VPN | Bost\n#Network",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/89/6b/28896b20-e1d2-b267-f742-b623fe8f04d7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         "appVersion": "9.0 | 39.3 MB | iOS 12.0 | ",
@@ -737,9 +779,9 @@
     {
         "appName": "Seven | Premium\n#Life",
         "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/4c/bb/ae/4cbbaec8-31d3-2dfa-c17b-20584104a68a/AppIcon-0-1x_U007emarketing-0-7-0-0-P3-GLES2_U002c0-85-220.png/246x0w.png",
-        "appVersion": "10.17.3 | 263 MB | iOS 18.0 | ",
+        "appVersion": "10.19.1 | 323.3 MB | iOS 18.0 | ",
         "appDescription": "Быть в форме никогда еще не было настолько легко или весело. Тренировки Seven основаны на научных исследованиях с целью обеспечения максимальной пользы в кратчайшие сроки.\n\n▎Войдите в аккаунт для активации подписки.",
-        "appUpdateTime": "2026-02-26T20:50:21+00:00"
+        "appUpdateTime": "2026-10-01T18:46:28+00:00"
     },
     {
         "appName": "YAZIO | Pro\n#Life",
@@ -835,9 +877,9 @@
     {
         "appName": "Google Photo | Unlimited\n#Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/4d/19/6c4d19e8-a6a7-3cff-2036-9d0997981035/Placeholder.mill/400x400bb-75.jpg",
-        "appVersion": "7.93.0 | 423.4 MB | iOS 18.0 | ",
+        "appVersion": "7.94 | 422.6 MB | iOS 18.0 | ",
         "appDescription": "Сервис для хранения фото и видео.\n\n▎Безлимитное хранилище ",
-        "appUpdateTime": "2026-09-23T15:41:47+00:00"
+        "appUpdateTime": "2026-10-01T18:30:49+00:00"
     },
     {
         "appName": "VSCO | Pro\n#Design",
@@ -863,9 +905,9 @@
     {
         "appName": "Adobe Lightroom | Premium\n#Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/59/2b/2d592b9c-d28f-ad47-caf4-b4e55dc762f8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
-        "appVersion": "11.5.1 | 342.4 MB | iOS 18.0 | ",
+        "appVersion": "11.6.1 | 351.5 MB | iOS 18.0 | ",
         "appDescription": "Профессиональный фоторедактор.\n\n▎Войдите в аккаунт и переоткройте приложение для активации подписки.\n▎Активирована подписка Premium\n▎Безлимитные генеративные балы",
-        "appUpdateTime": "2026-08-08T12:21:41+00:00"
+        "appUpdateTime": "2026-10-01T18:36:45+00:00"
     },
     {
         "appName": "Adobe Lightroom for iPad | Premium\n#Design",
@@ -933,9 +975,9 @@
     {
         "appName": "Splice | Pro\n#Design",
         "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/9f/4c/b1/9f4cb11e-0334-4ef3-73cb-ff0770303ea2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "4.28.55 | 186.7 MB | iOS 14.0 | ",
+        "appVersion": "4.28.70 | 167.3 MB | iOS 14.0 | ",
         "appDescription": "Удобный и мощный видеоредактор.\n\n▎Откройте и перезапустите приложение для активации подписки",
-        "appUpdateTime": "2025-12-04T15:58:52+00:00"
+        "appUpdateTime": "2026-10-01T18:35:07+00:00"
     },
     {
         "appName": "Varlens | Pro\n#Design",
@@ -968,9 +1010,9 @@
     {
         "appName": "InShot Pro\n#Design",
         "appImage": "https://play-lh.googleusercontent.com/mjmbWruxfo8oYHsBNI7b76KLj1AEJQo7hXwlmi05EvfFwubOjo8nQJrVEHRe4Vbgpo8",
-        "appVersion": "1.96 | 237 MB | iOS 15.0 | ",
+        "appVersion": "2.01 | 252.3 MB | iOS 15.0 | ",
         "appDescription": "Фото и видео редактор и с большим количеством функций.",
-        "appUpdateTime": "2026-05-14T16:31:08+00:00"
+        "appUpdateTime": "2026-10-01T18:31:34+00:00"
     },
     {
         "appName": "inMelo | Pro\n#Design",
@@ -1934,9 +1976,9 @@
     {
         "appName": "Weather Live° | Premium\n#Travel",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0b/45/56/0b4556a1-8fa9-523d-f138-60768e5ce4f1/AppIcon-free-1x_U007emarketing-0-10-0-85-220.png/246x0w.png",
-        "appVersion": "7.24.37 | 250.4 MB | iOS 15.0 | ",
+        "appVersion": "7.24.44 | 253.7 MB | iOS 15.0 | ",
         "appDescription": "Самое красивое приложение о погоде c точными и информативными прогнозами!\n\n▎Подписка активируется после второго запуска приложения",
-        "appUpdateTime": "2025-09-27T15:29:43+00:00"
+        "appUpdateTime": "2026-10-01T18:41:20+00:00"
     },
     {
         "appName": "Moises | Premium\n#Music",
@@ -2494,9 +2536,9 @@
     {
         "appName": "!Camera (Not Boring) | Super\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/08/9f/46089f27-6509-b7f5-149c-32d8a8d7985c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/246x0w.png",
-        "appVersion": "1.53 | 190 MB | iOS 18.0 | ",
+        "appVersion": "1.59 | 200.4 MB | iOS 18.2 | ",
         "appDescription": "Влюбитесь в фотографию - от ощущения хорошо сконструированной камеры до прекрасных несовершенств, придающих жизни текстуру.",
-        "appUpdateTime": "2026-06-13T19:45:24+00:00"
+        "appUpdateTime": "2026-10-01T18:33:35+00:00"
     },
     {
         "appName": "App Raven | Premium\n#Other",
@@ -2697,9 +2739,9 @@
     {
         "appName": "FilmicPro | Hack\n#Design",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/38/35/0a3835ca-7402-2a93-d49c-cc268c6e18e6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
-        "appVersion": "7.5.26 | 230.1 MB | iOS 14.1 | ",
+        "appVersion": "7.5.35 | 231.3 MB | iOS 14.1 | ",
         "appDescription": "Самая продвинутая кинематографическая видеокамера для мобильных устройств.\n\nАктивация подписки:\n▎Запустите приложение и пройдите к главному экрану;\n▎Перезапускайте приложение до тех пор, пока не активируется подписка.",
-        "appUpdateTime": "2025-07-09T12:11:18+00:00"
+        "appUpdateTime": "2026-10-01T18:32:50+00:00"
     },
     {
         "appName": "Wonderfix | Hack\n#Design",
@@ -2949,9 +2991,9 @@
     {
         "appName": "Leica Lux | Pro\n#Design",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/8d/26/2d8d26d6-a400-8e13-dc24-b8c039015fef/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/246x0w.png",
-        "appVersion": "1.14 | 340 MB | iOS 18.0 | ",
+        "appVersion": "1.15 | 405.9 MB | iOS 18.0 | ",
         "appDescription": "Камера Leica LUX - продолжение легендарного мастерства оптической инженерии Leica, где передовые технологии сочетаются с непревзойденными возможностями съемки.",
-        "appUpdateTime": "2026-07-10T14:56:08+00:00"
+        "appUpdateTime": "2026-10-01T18:35:57+00:00"
     },
     {
         "appName": "B612 | VIP\n#Design",
@@ -3159,9 +3201,9 @@
     {
         "appName": "Infuse | Plus\n#Video",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fa/cb/63/facb63d3-8799-940b-d9cc-f9d2c2f6d934/AppIconMac-0-2x_U007euniversal-0-4-0-0-0-85-220-0.png/230x0w.png",
-        "appVersion": "8.4.8 | 197.8 MB | iOS 18.0 | ",
+        "appVersion": "8.5.6 | 198.1 MB | iOS 18.0 | ",
         "appDescription": "Самый лучший медиаплеер в App Store.\n\n▎Актвирована подписка\n▎Работает выбор файлов",
-        "appUpdateTime": "2026-07-10T14:56:52+00:00"
+        "appUpdateTime": "2026-10-01T18:51:34+00:00"
     },
     {
         "appName": "Zeta | Premium\n#Design",
@@ -3194,9 +3236,9 @@
     {
         "appName": "Cycles | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/45/db/a845db1b-0d86-1586-5306-6a9690d2c1d0/AppIcon-0-0-1x_U007epad-0-1-0-0-P3-GLES2_U002c0-85-220.png/246x0w.png",
-        "appVersion": "6.3.24 | 78.9 MB | iOS 16.0 | ",
-        "appDescription": "Контролируйте менструальный цикл и упростите свою жизнь.",
-        "appUpdateTime": "2026-02-26T20:49:32+00:00"
+        "appVersion": "6.5.2 | 93.6 MB | iOS 16.0 | ",
+        "appDescription": "Контролируйте менструальный цикл и упростите свою жизнь.\n\n▎Войдите в аккаунт для активации подписки",
+        "appUpdateTime": "2026-10-01T18:44:15+00:00"
     },
     {
         "appName": "Cast for Chromecast | Pro\n#Other",
@@ -4907,6 +4949,13 @@
         "appUpdateTime": "2026-07-20T18:33:23+00:00"
     },
     {
+        "appName": "Speak Fox | Premium\n#Study",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/b4/1f/65b41f0f-c064-6115-b64b-583492db93db/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "1.4.29 | 54.3 MB | iOS 18.0 | ",
+        "appDescription": "Приложение для изучения английского через реальные видео с YouTube и фильмы. Главный метод — shadowing: слушаете фразу носителя, повторяете её вслух и сразу получаете оценку произношения. ",
+        "appUpdateTime": "2026-10-01T19:00:08+00:00"
+    },
+    {
         "appName": "Mondly | Premium\n#Study",
         "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/ce/49/4ace4933-38f2-f57e-7568-e5739fd9080a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         "appVersion": "10.29.0 | 239.7 MB | iOS 14.0 | ",
@@ -4958,9 +5007,9 @@
     {
         "appName": "Voice Recorder | Диктофон Pro\n#Office #Other",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/38/22/fa382204-112c-da2b-3b77-b54907dadb9f/Placeholder.mill/200x200bb-75.jpg",
-        "appVersion": "13.3.8 | 49.6 MB | iOS 15.0 | ",
+        "appVersion": "13.5 | 49.1 MB | iOS 15.0 | ",
         "appDescription": "Функциональное приложение для записи и редактирования звука: делает аудиозаписи, микширует фрагменты, планирует начало записи, поддерживает Bluetooth-наушники и инструменты обработки (обрезка, объединение, изменение скорости и др.)",
-        "appUpdateTime": "2026-02-14T21:55:07+00:00"
+        "appUpdateTime": "2026-10-01T19:04:10+00:00"
     },
     {
         "appName": "Couple Joy | Pro\n#Life",
@@ -5147,9 +5196,9 @@
     {
         "appName": "Posture Pal | Premium\n#Life",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/45/3d/d4/453dd411-6311-b600-005d-5a586e59dd21/AppIcon-0-0-85-220-0-0-4-0-2x-P3.png/246x0w.png",
-        "appVersion": "2.1 | 90.8 MB | iOS 17.0 | ",
+        "appVersion": "2.2 | 91.4 MB | iOS 17.0 | ",
         "appDescription": "Posture Pal - это веселый, игривый, но главное - эффективный способ улучшить осанку.\n\nНикаких графиков, никаких оповещений, никаких уведомлений или сложных экранов, напоминающих о необходимости сидеть прямо. Просто запустите приложение, а потом забудьте о нем, потому что жираф Рафи просто позволит ему делать свое дело.\n\nЭто отличный способ показать людям, на что еще способны их AirPods. Простое, но эффективное приложение, которое, надеюсь, вызовет улыбку на вашем лице, пока вы работаете над улучшением осанки!",
-        "appUpdateTime": "2026-05-14T17:56:47+00:00"
+        "appUpdateTime": "2026-10-01T18:43:11+00:00"
     },
     {
         "appName": "Tachimanga | Premium\n#Study",
@@ -6490,10 +6539,10 @@
     },
     {
         "appName": "Promova | Premium\n#Study",
-        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/d5/93/05d59345-e40b-3134-86bf-ea53cd6b0df1/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/350x350.jpg",
-        "appVersion": "7.3.0 | 119.7 MB | iOS 16.0 | ",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/54/36/77543686-0bed-c957-2cd9-3ffcb2fdd5a0/Placeholder.mill/400x400bb-75.jpg",
+        "appVersion": "8.1 | 216.5 MB | iOS 18.0 | ",
         "appDescription": "Приложение для изучения языков",
-        "appUpdateTime": "2024-12-03T21:51:13+00:00"
+        "appUpdateTime": "2026-10-01T18:56:24+00:00"
     },
     {
         "appName": "WiFi Analyzer | Pro\n#Network",
@@ -6505,9 +6554,9 @@
     {
         "appName": "Guitar Wiz | Premium\n#Study",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/8b/dc/898bdc02-2339-473e-8978-ea3fc1b60ed8/AppIcon-0-0-1x_U007euniversal-0-1-0-85-220.png/246x0w.png",
-        "appVersion": "1.2.5 | 39.1 MB | iOS 18.0 | ",
+        "appVersion": "2.1 | 71.2 MB | iOS 18.0 | ",
         "appDescription": "Исследуй аккорды, прогрессии и теорию. Идеально для новичков и профи. Освой гитару легко!",
-        "appUpdateTime": "2025-10-15T20:07:16+00:00"
+        "appUpdateTime": "2026-10-01T18:54:31+00:00"
     },
     {
         "appName": "Day One | Premium\n#Life",
@@ -7621,13 +7670,6 @@
         "appVersion": "6.25 | 470.4 MB | iOS 14.0 | ",
         "appDescription": "Приложение Тинькофф Банка(T-Guard) устанавливаемое сотрудниками банка. Для удобства имя и иконка приложения изменены на оригинальные.\n\n▎Версия за февраль 2024 года.\n▎В приложении работают уведомления(На момент добавления).",
         "appUpdateTime": "2024-02-28T16:04:14+00:00"
-    },
-    {
-        "appName": "Тинькофф Банк\n#Money",
-        "appImage": "https://github.com/pls01/hfkdn/releases/download/ico/tinkoff.png",
-        "appVersion": "6.22 | 466.4 MB | iOS 14.0 | ",
-        "appDescription": "Приложение банка Тинькофф последней версии, которое было добавлено в App Store под видом другого приложения - DocStorage.\n\n▎Версия за октябрь 2023 года.",
-        "appUpdateTime": "2023-10-21T12:16:18+00:00"
     },
     {
         "appName": "Тинькофф Мобайл\n#Money",
@@ -8773,9 +8815,9 @@
     {
         "appName": "Minecraft | XBOX\n#Games",
         "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/77/ed/d277ed41-16e4-ba0b-5ad6-2a06261647d3/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        "appVersion": "1.26.33 | 1.2 GB | iOS 13.0 | ",
+        "appVersion": "1.26.51 | 1.3 GB | iOS 13.0 | ",
         "appDescription": "Симулятор №1 в AppStore. \n\n▎Работает вход в аккаунт XBOX",
-        "appUpdateTime": "2026-07-20T18:10:43+00:00"
+        "appUpdateTime": "2026-10-01T18:47:17+00:00"
     },
     {
         "appName": "Dead Cells+ | Arcade\n#Games",
@@ -9070,6 +9112,13 @@
         "appVersion": "1.4.17 | 81.8 MB | iOS 8.0 | ",
         "appDescription": "Модернизируйте автомобили и проведите их через орды зомби в самой большой и лучшей игре Earn to Die!\n\n▎Бесконечные деньги",
         "appUpdateTime": "2023-04-04T08:31:00+00:00"
+    },
+    {
+        "appName": "Radiance Wallpapers | Premium\n#Design",
+        "appImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/a6/c7/61a6c74e-6463-d8e0-5a64-c30a5000aac5/Placeholder.mill/200x200bb-75.jpg",
+        "appVersion": "2.2.10 | 47.8 MB | iOS 18.0 | ",
+        "appDescription": "Приложение с большой коллекцией обоев для iPhone и iPad, где можно не только выбирать готовые изображения, но и создавать собственные обои. ",
+        "appUpdateTime": "2026-10-01T18:40:19+00:00"
     },
     {
         "appName": "Earn to Die 3 | Mode\n#Games",
